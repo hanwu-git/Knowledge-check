@@ -176,11 +176,11 @@ const indexHtml = `<!DOCTYPE html>
                     初二
                 </h2>
                 <div class="space-y-3">
-                    ${Object.entries(subjects).map(([key, subject]) => `
+                    ${Object.entries(grades.grade2.subjects).map(([key, subject]) => `
                     <div class="border border-gray-200 rounded-lg p-3" data-subject="${key}">
                         <div class="flex items-center justify-between mb-2">
                             <span class="font-medium text-gray-700">${subject.icon || '📖'} ${subject.name}</span>
-                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/${subject.count}</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/${allSubjects['grade2_'+key].count}</span>
                         </div>
                         <div class="progress-bar mb-2">
                             <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
@@ -283,7 +283,7 @@ const indexHtml = `<!DOCTYPE html>
         };
 
         const SUBJECT_COUNTS = {
-            ${Object.entries(subjects).map(([key, subject]) => `'${key}': ${subject.count}`).join(',\n            ')}
+            ${Object.entries(grades.grade2.subjects).map(([key, subject]) => `'${key}': ${allSubjects['grade2_'+key].count}`).join(',\n            ')}
         };
 
         function formatTimeAgo(timestamp) {
@@ -345,7 +345,8 @@ fs.writeFileSync('index.html', indexHtml, 'utf-8');
 console.log('已生成 index.html');
 
 // ==================== 生成各科目 knowledge_xxx.html ====================
-Object.entries(subjects).forEach(([key, subject]) => {
+Object.entries(grades.grade2.subjects).forEach(([key, subject]) => {
+    const subjectData = allSubjects['grade2_'+key];
     const knowledgeHtml = `<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
@@ -463,10 +464,10 @@ Object.entries(subjects).forEach(([key, subject]) => {
 
     <script>
         // ==================== 内嵌知识点数据 ====================
-        const DATA_KNOWLEDGE = ${JSON.stringify(subject.knowledge)};
+        const DATA_KNOWLEDGE = ${JSON.stringify(subjectData.knowledge)};
 
         // ==================== 内嵌例题数据 ====================
-        const DATA_EXAMPLES = ${JSON.stringify(subject.examples)};
+        const DATA_EXAMPLES = ${JSON.stringify(subjectData.examples)};
         const HAS_EXAMPLES = ${subject.noExamples ? 'false' : 'true'};
 
         // 错题本管理器
@@ -828,7 +829,7 @@ Object.entries(subjects).forEach(([key, subject]) => {
 </html>`;
 
     fs.writeFileSync(`knowledge_${key}.html`, knowledgeHtml, 'utf-8');
-    console.log(`已生成 knowledge_${key}.html (${subject.count}知识点, ${subject.examples.length}例题)`);
+    console.log(`已生成 knowledge_${key}.html (${subjectData.count}知识点, ${subjectData.examples.length}例题)`);
 });
 
 console.log('wrongbook.html 已存在，无需修改');

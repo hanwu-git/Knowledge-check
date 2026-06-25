@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "g2_physics_001_ex01",
+    "knowledge_id": "g2_physics_001",
+    "question": "选择题：下列长度单位换算正确的是（  ）\nA. 1 km = 100 m\nB. 1 m = 100 cm\nC. 1 cm = 100 mm\nD. 1 mm = 100 μm",
+    "answer": "答案：B\n解析：\nA. 错误，1 km = 1000 m\nB. 正确，1 m = 10 dm = 100 cm\nC. 错误，1 cm = 10 mm\nD. 错误，1 mm = 1000 μm"
+  },
+  {
+    "id": "g2_physics_001_ex02",
+    "knowledge_id": "g2_physics_001",
+    "question": "填空题：国际单位制中，长度的基本单位是______。",
+    "answer": "答案：米（m）\n解析：国际单位制中长度的基本单位是米，符号为m。"
+  },
+  {
+    "id": "g2_physics_001_ex03",
+    "knowledge_id": "g2_physics_001",
+    "question": "选择题：用刻度尺测量物体长度时，下列做法正确的是（  ）\nA. 刻度尺要斜放\nB. 视线要与刻度线垂直\nC. 可以将刻度尺从物体上移开读数\nD. 不需要估读",
+    "answer": "答案：B\n解析：\nA. 错误，刻度尺要放正\nB. 正确，视线与刻度线垂直才能读数准确\nC. 错误，读数时刻度尺不能移开\nD. 错误，需要估读到分度值的下一位"
+  },
+  {
+    "id": "g2_physics_001_ex04",
+    "knowledge_id": "g2_physics_001",
+    "question": "判断题：测量结果必须包括准确值、估计值和单位。",
+    "answer": "答案：正确\n解析：测量值 = 准确值 + 估计值 + 单位，三者缺一不可。"
+  },
+  {
+    "id": "g2_physics_001_ex05",
+    "knowledge_id": "g2_physics_001",
+    "question": "解答题：某同学用刻度尺测量书本长度，结果为25.12 cm，请说明这个测量结果中各部分的含义。",
+    "answer": "答案：25.1 cm是准确值，0.02 cm是估计值，cm是单位。\n解析：准确值是刻度尺能精确读出的部分，估计值是根据分度值估读的部分。"
+  },
+  {
+    "id": "g2_physics_001_ex06",
+    "knowledge_id": "g2_physics_001",
+    "question": "选择题：下列物体的长度最接近1 m的是（  ）\nA. 一支铅笔\nB. 一张课桌\nC. 一根筷子\nD. 一个篮球",
+    "answer": "答案：B\n解析：课桌的高度大约是1 m左右。"
+  },
+  {
+    "id": "g2_physics_001_ex07",
+    "knowledge_id": "g2_physics_001",
+    "question": "填空题：1 μm = ______ nm。",
+    "answer": "答案：1000\n解析：1 mm = 1000 μm = 1000000 nm，所以1 μm = 1000 nm。"
+  },
+  {
+    "id": "g2_physics_001_ex08",
+    "knowledge_id": "g2_physics_001",
+    "question": "判断题：误差是可以避免的。",
+    "answer": "答案：错误\n解析：误差是测量值与真实值之间的差异，只能减小，不能避免。"
+  },
+  {
+    "id": "g2_physics_001_ex09",
+    "knowledge_id": "g2_physics_001",
+    "question": "解答题：如何减小测量误差？",
+    "answer": "答案：1. 多次测量取平均值；2. 使用更精密的测量工具；3. 改进测量方法。\n解析：误差不可避免，但可以通过这些方法减小。"
+  },
+  {
+    "id": "g2_physics_001_ex10",
+    "knowledge_id": "g2_physics_001",
+    "question": "选择题：刻度尺的分度值是1 mm，测量结果为12.34 cm，则准确值和估计值分别是（  ）\nA. 12 cm和0.34 cm\nB. 12.3 cm和0.04 cm\nC. 12.34 cm和0 cm\nD. 12.3 cm和0.04 mm",
+    "answer": "答案：B\n解析：分度值是1 mm，所以准确值到毫米位，即12.3 cm，估计值是0.04 cm。"
+  },
+  {
+    "id": "g2_physics_002_ex01",
+    "knowledge_id": "g2_physics_002",
+    "question": "选择题：下列时间单位换算正确的是（  ）\nA. 1 h = 60 s\nB. 1 min = 600 s\nC. 1 h = 3600 s\nD. 1 s = 100 ms",
+    "answer": "答案：C\n解析：\nA. 错误，1 h = 60 min = 3600 s\nB. 错误，1 min = 60 s\nC. 正确，1 h = 60 min = 3600 s\nD. 错误，1 s = 1000 ms"
+  },
+  {
+    "id": "g2_physics_002_ex02",
+    "knowledge_id": "g2_physics_002",
+    "question": "填空题：国际单位制中，时间的基本单位是______。",
+    "answer": "答案：秒（s）\n解析：国际单位制中时间的基本单位是秒，符号为s。"
+  },
+  {
+    "id": "g2_physics_002_ex03",
+    "knowledge_id": "g2_physics_002",
+    "question": "选择题：测量时间的工具是（  ）\nA. 刻度尺\nB. 停表\nC. 温度计\nD. 天平",
+    "answer": "答案：B\n解析：停表（秒表）是测量时间的工具。"
+  },
+  {
+    "id": "g2_physics_002_ex04",
+    "knowledge_id": "g2_physics_002",
+    "question": "判断题：误差只能减小，不能避免。",
+    "answer": "答案：正确\n解析：误差是不可避免的，只能通过多次测量取平均值等方法减小。"
+  },
+  {
+    "id": "g2_physics_002_ex05",
+    "knowledge_id": "g2_physics_002",
+    "question": "解答题：测量某物体运动时间，三次测量结果分别为2.1 s、2.2 s、2.3 s，求平均值。",
+    "answer": "答案：2.2 s\n解析：平均值 = (2.1 + 2.2 + 2.3) ÷ 3 = 6.6 ÷ 3 = 2.2 s"
+  },
+  {
+    "id": "g2_physics_002_ex06",
+    "knowledge_id": "g2_physics_002",
+    "question": "选择题：下列关于时间的说法，正确的是（  ）\nA. 时间没有单位\nB. 秒是时间的唯一单位\nC. 时间可以用停表测量\nD. 时间不能测量",
+    "answer": "答案：C\n解析：时间可以用停表测量，秒是基本单位但不是唯一单位。"
+  },
+  {
+    "id": "g2_physics_002_ex07",
+    "knowledge_id": "g2_physics_002",
+    "question": "填空题：1 min = ______ s。",
+    "answer": "答案：60\n解析：1分钟等于60秒。"
+  },
+  {
+    "id": "g2_physics_002_ex08",
+    "knowledge_id": "g2_physics_002",
+    "question": "判断题：测量时间时，不需要估读。",
+    "answer": "答案：错误\n解析：测量时间也需要估读到分度值的下一位。"
+  },
+  {
+    "id": "g2_physics_002_ex09",
+    "knowledge_id": "g2_physics_002",
+    "question": "解答题：为什么要进行多次测量取平均值？",
+    "answer": "答案：减小误差，提高测量的准确性。\n解析：单次测量可能存在较大误差，多次测量取平均值可以减小偶然误差。"
+  },
+  {
+    "id": "g2_physics_002_ex10",
+    "knowledge_id": "g2_physics_002",
+    "question": "选择题：停表的分度值是0.1 s，测量结果为15.25 s，则准确值和估计值分别是（  ）\nA. 15 s和0.25 s\nB. 15.2 s和0.05 s\nC. 15.25 s和0 s\nD. 15.2 s和0.05 min",
+    "answer": "答案：B\n解析：分度值是0.1 s，准确值到0.1 s位，即15.2 s，估计值是0.05 s。"
+  },
+  {
+    "id": "g2_physics_003_ex01",
+    "knowledge_id": "g2_physics_003",
+    "question": "选择题：下列现象中，属于机械运动的是（  ）\nA. 苹果腐烂\nB. 花香四溢\nC. 汽车行驶\nD. 铁钉生锈",
+    "answer": "答案：C\n解析：机械运动是物体位置的变化。汽车行驶时位置在变化，属于机械运动。"
+  },
+  {
+    "id": "g2_physics_003_ex02",
+    "knowledge_id": "g2_physics_003",
+    "question": "填空题：研究机械运动时，被选作标准的物体叫做______。",
+    "answer": "答案：参照物\n解析：参照物是研究机械运动时选作标准的物体。"
+  },
+  {
+    "id": "g2_physics_003_ex03",
+    "knowledge_id": "g2_physics_003",
+    "question": "选择题：坐在行驶的汽车里的乘客，以地面为参照物时是（  ）\nA. 静止的\nB. 运动的\nC. 可能静止也可能运动\nD. 无法确定",
+    "answer": "答案：B\n解析：乘客相对于地面的位置在变化，所以是运动的。"
+  },
+  {
+    "id": "g2_physics_003_ex04",
+    "knowledge_id": "g2_physics_003",
+    "question": "判断题：参照物可以任意选择。",
+    "answer": "答案：正确\n解析：参照物可以任意选择，但一旦选定，就认为它是静止的。"
+  },
+  {
+    "id": "g2_physics_003_ex05",
+    "knowledge_id": "g2_physics_003",
+    "question": "解答题：小明坐在行驶的火车上，看到窗外的树木向后退，这是以什么为参照物？",
+    "answer": "答案：以火车（或小明自己）为参照物。\n解析：树木相对于火车的位置在向后变化，所以看到树木向后退。"
+  },
+  {
+    "id": "g2_physics_003_ex06",
+    "knowledge_id": "g2_physics_003",
+    "question": "选择题：下列关于运动和静止的说法，正确的是（  ）\nA. 运动是绝对的，静止是相对的\nB. 运动是相对的，静止是绝对的\nC. 运动和静止都是绝对的\nD. 运动和静止都是相对的",
+    "answer": "答案：A\n解析：运动是绝对的，宇宙中一切物体都在运动；静止是相对的，取决于所选参照物。"
+  },
+  {
+    "id": "g2_physics_003_ex07",
+    "knowledge_id": "g2_physics_003",
+    "question": "填空题：同一物体是运动还是静止，取决于所选的______，这叫运动和静止的相对性。",
+    "answer": "答案：参照物\n解析：运动和静止的相对性。"
+  },
+  {
+    "id": "g2_physics_003_ex08",
+    "knowledge_id": "g2_physics_003",
+    "question": "判断题：选择不同的参照物，物体的运动状态一定不同。",
+    "answer": "答案：错误\n解析：可能相同也可能不同，取决于参照物的选择。"
+  },
+  {
+    "id": "g2_physics_003_ex09",
+    "knowledge_id": "g2_physics_003",
+    "question": "解答题：两位同学并肩而行，以地面为参照物，他们是运动的还是静止的？以其中一位同学为参照物呢？",
+    "answer": "答案：以地面为参照物，他们是运动的；以其中一位同学为参照物，另一位是静止的。\n解析：考察参照物对运动状态的影响。"
+  },
+  {
+    "id": "g2_physics_003_ex10",
+    "knowledge_id": "g2_physics_003",
+    "question": "选择题：\"小小竹排江中游，巍巍青山两岸走\"，前一句和后一句分别以什么为参照物（  ）\nA. 青山，竹排\nB. 竹排，青山\nC. 江水，青山\nD. 青山，江水",
+    "answer": "答案：A\n解析：竹排相对于青山在运动；青山相对于竹排在运动。"
+  },
+  {
+    "id": "g2_physics_004_ex01",
+    "knowledge_id": "g2_physics_004",
+    "question": "选择题：速度的公式是（  ）\nA. v = s × t\nB. v = s / t\nC. v = t / s\nD. s = v × t",
+    "answer": "答案：B\n解析：速度 = 路程 ÷ 时间，即v = s/t。"
+  },
+  {
+    "id": "g2_physics_004_ex02",
+    "knowledge_id": "g2_physics_004",
+    "question": "填空题：速度的国际单位是______。",
+    "answer": "答案：米/秒（m/s）\n解析：速度的国际单位是米/秒，符号为m/s。"
+  },
+  {
+    "id": "g2_physics_004_ex03",
+    "knowledge_id": "g2_physics_004",
+    "question": "选择题：下列速度单位换算正确的是（  ）\nA. 1 m/s = 3.6 km/h\nB. 1 km/h = 3.6 m/s\nC. 1 m/s = 1 km/h\nD. 1 m/s = 0.36 km/h",
+    "answer": "答案：A\n解析：1 m/s = 3.6 km/h。"
+  },
+  {
+    "id": "g2_physics_004_ex04",
+    "knowledge_id": "g2_physics_004",
+    "question": "判断题：速度是表示物体运动快慢的物理量。",
+    "answer": "答案：正确\n解析：速度的物理意义就是表示物体运动的快慢。"
+  },
+  {
+    "id": "g2_physics_004_ex05",
+    "knowledge_id": "g2_physics_004",
+    "question": "解答题：一辆汽车在2小时内行驶了120 km，求这辆汽车的速度。",
+    "answer": "答案：60 km/h（或约16.7 m/s）\n解析：v = s/t = 120 km ÷ 2 h = 60 km/h。"
+  },
+  {
+    "id": "g2_physics_004_ex06",
+    "knowledge_id": "g2_physics_004",
+    "question": "选择题：关于匀速直线运动，下列说法正确的是（  ）\nA. 速度越来越大\nB. 速度越来越小\nC. 速度保持不变\nD. 速度先变大后变小",
+    "answer": "答案：C\n解析：匀速直线运动的速度保持不变。"
+  },
+  {
+    "id": "g2_physics_004_ex07",
+    "knowledge_id": "g2_physics_004",
+    "question": "填空题：1 m/s = ______ km/h。",
+    "answer": "答案：3.6\n解析：1 m/s = 3.6 km/h。"
+  },
+  {
+    "id": "g2_physics_004_ex08",
+    "knowledge_id": "g2_physics_004",
+    "question": "判断题：速度越大，物体通过的路程一定越长。",
+    "answer": "答案：错误\n解析：路程 = 速度 × 时间，还与时间有关。"
+  },
+  {
+    "id": "g2_physics_004_ex09",
+    "knowledge_id": "g2_physics_004",
+    "question": "解答题：一列火车以72 km/h的速度行驶，通过一座长1000 m的桥用了60 s，求火车的长度。",
+    "answer": "答案：200 m\n解析：v = 72 km/h = 20 m/s\n总路程 = v × t = 20 × 60 = 1200 m\n火车长度 = 总路程 - 桥长 = 1200 - 1000 = 200 m"
+  },
+  {
+    "id": "g2_physics_004_ex10",
+    "knowledge_id": "g2_physics_004",
+    "question": "选择题：甲、乙两车都做匀速直线运动，甲车速度是20 m/s，乙车速度是72 km/h，则（  ）\nA. 甲车快\nB. 乙车快\nC. 一样快\nD. 无法比较",
+    "answer": "答案：C\n解析：72 km/h = 20 m/s，两车速度相同。"
+  },
+  {
+    "id": "g2_physics_005_ex01",
+    "knowledge_id": "g2_physics_005",
+    "question": "选择题：平均速度的公式是（  ）\nA. v̄ = s总 × t总\nB. v̄ = s总 / t总\nC. v̄ = (v1 + v2) / 2\nD. v̄ = t总 / s总",
+    "answer": "答案：B\n解析：平均速度 = 总路程 ÷ 总时间。"
+  },
+  {
+    "id": "g2_physics_005_ex02",
+    "knowledge_id": "g2_physics_005",
+    "question": "填空题：平均速度表示物体在某一段路程（或某一段时间）内的______快慢程度。",
+    "answer": "答案：平均\n解析：平均速度反映的是平均快慢。"
+  },
+  {
+    "id": "g2_physics_005_ex03",
+    "knowledge_id": "g2_physics_005",
+    "question": "选择题：关于平均速度，下列说法正确的是（  ）\nA. 平均速度就是速度的平均值\nB. 平均速度与所选路程无关\nC. 平均速度与所选时间无关\nD. 平均速度 = 总路程 ÷ 总时间",
+    "answer": "答案：D\n解析：平均速度等于总路程除以总时间，不是速度的平均值。"
+  },
+  {
+    "id": "g2_physics_005_ex04",
+    "knowledge_id": "g2_physics_005",
+    "question": "判断题：平均速度的数值与所选的路程或时间有关。",
+    "answer": "答案：正确\n解析：选择不同的路程或时间，平均速度可能不同。"
+  },
+  {
+    "id": "g2_physics_005_ex05",
+    "knowledge_id": "g2_physics_005",
+    "question": "解答题：小明从家到学校，前一半路程以1 m/s的速度步行，后一半路程以3 m/s的速度跑步，求全程的平均速度。",
+    "answer": "答案：1.5 m/s\n解析：设总路程为2s，则前一半时间t1 = s/1 = s，后一半时间t2 = s/3。\n总时间 = s + s/3 = 4s/3\n平均速度 = 2s ÷ (4s/3) = 1.5 m/s"
+  },
+  {
+    "id": "g2_physics_005_ex06",
+    "knowledge_id": "g2_physics_005",
+    "question": "选择题：一辆汽车行驶了100 km，用了2小时，则平均速度是（  ）\nA. 50 km/h\nB. 100 km/h\nC. 200 km/h\nD. 50 m/s",
+    "answer": "答案：A\n解析：平均速度 = 100 km ÷ 2 h = 50 km/h。"
+  },
+  {
+    "id": "g2_physics_005_ex07",
+    "knowledge_id": "g2_physics_005",
+    "question": "填空题：平均速度不是______的平均值。",
+    "answer": "答案：速度\n解析：平均速度是总路程除以总时间，不是速度的算术平均。"
+  },
+  {
+    "id": "g2_physics_005_ex08",
+    "knowledge_id": "g2_physics_005",
+    "question": "判断题：平均速度一定等于某一时刻的瞬时速度。",
+    "answer": "答案：错误\n解析：平均速度是一段时间内的平均，不一定等于瞬时速度。"
+  },
+  {
+    "id": "g2_physics_005_ex09",
+    "knowledge_id": "g2_physics_005",
+    "question": "解答题：一辆汽车在平直公路上行驶，前2小时行驶了80 km，后3小时行驶了180 km，求全程的平均速度。",
+    "answer": "答案：52 km/h\n解析：总路程 = 80 + 180 = 260 km\n总时间 = 2 + 3 = 5 h\n平均速度 = 260 ÷ 5 = 52 km/h"
+  },
+  {
+    "id": "g2_physics_005_ex10",
+    "knowledge_id": "g2_physics_005",
+    "question": "选择题：关于平均速度，下列说法错误的是（  ）\nA. 平均速度可以粗略描述物体运动的快慢\nB. 平均速度与路程和时间有关\nC. 匀速直线运动的平均速度等于瞬时速度\nD. 平均速度一定大于瞬时速度",
+    "answer": "答案：D\n解析：平均速度可能大于、小于或等于瞬时速度。"
+  },
+  {
+    "id": "g2_physics_006_ex01",
+    "knowledge_id": "g2_physics_006",
+    "question": "选择题：下列关于\"声音的产生与传播\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据声音的产生与传播的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_006_ex02",
+    "knowledge_id": "g2_physics_006",
+    "question": "填空题：声音的产生与传播的主要公式（或特征）是______。",
+    "answer": "答案：v声（空气，15°C）= 340 m/s\nv声（空气，25°C）= 346 m/s\n解析：声音的产生与传播的核心内容。"
+  },
+  {
+    "id": "g2_physics_006_ex03",
+    "knowledge_id": "g2_physics_006",
+    "question": "选择题：声音的产生与传播的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_006_ex04",
+    "knowledge_id": "g2_physics_006",
+    "question": "判断题：声音的产生与传播的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_006_ex05",
+    "knowledge_id": "g2_physics_006",
+    "question": "判断题：声音的产生与传播的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_006_ex06",
+    "knowledge_id": "g2_physics_006",
+    "question": "解答题：请简述声音的产生与传播的主要内容。",
+    "answer": "答案：声音的产生：\n- 声音是由物体振动产生的\n- 振动停止，发声也停止（注意：此时仍可能有余音）\n\n声音的传播：\n- 声音需要介质（固体、液体、气体）才能传播，真空不能传声\n- 声音在不同介质中传播速度不...\n解析：本题考察对声音的产生与传播的理解。"
+  },
+  {
+    "id": "g2_physics_006_ex07",
+    "knowledge_id": "g2_physics_006",
+    "question": "解答题：声音的产生与传播在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_006_ex08",
+    "knowledge_id": "g2_physics_006",
+    "question": "选择题：声音的产生与传播的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_006_ex09",
+    "knowledge_id": "g2_physics_006",
+    "question": "填空题：声音的产生与传播的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：声音的产生与传播的核心特征。"
+  },
+  {
+    "id": "g2_physics_006_ex10",
+    "knowledge_id": "g2_physics_006",
+    "question": "综合题：结合声音的产生与传播和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_007_ex01",
+    "knowledge_id": "g2_physics_007",
+    "question": "选择题：下列关于\"声音的三要素\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据声音的三要素的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_007_ex02",
+    "knowledge_id": "g2_physics_007",
+    "question": "填空题：声音的三要素的主要公式（或特征）是______。",
+    "answer": "答案：f = 1 / T（频率与周期互为倒数）\n解析：声音的三要素的核心内容。"
+  },
+  {
+    "id": "g2_physics_007_ex03",
+    "knowledge_id": "g2_physics_007",
+    "question": "选择题：声音的三要素的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_007_ex04",
+    "knowledge_id": "g2_physics_007",
+    "question": "判断题：声音的三要素的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_007_ex05",
+    "knowledge_id": "g2_physics_007",
+    "question": "判断题：声音的三要素的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_007_ex06",
+    "knowledge_id": "g2_physics_007",
+    "question": "解答题：请简述声音的三要素的主要内容。",
+    "answer": "答案：声音的三要素：音调、响度、音色\n\n1. 音调：\n   - 声音的高低，由频率决定\n   - 频率：每秒内振动的次数，单位 Hz\n   - 频率越高，音调越高\n\n2. 响度：\n   - 声音的强弱（大小...\n解析：本题考察对声音的三要素的理解。"
+  },
+  {
+    "id": "g2_physics_007_ex07",
+    "knowledge_id": "g2_physics_007",
+    "question": "解答题：声音的三要素在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_007_ex08",
+    "knowledge_id": "g2_physics_007",
+    "question": "选择题：声音的三要素的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_007_ex09",
+    "knowledge_id": "g2_physics_007",
+    "question": "填空题：声音的三要素的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：声音的三要素的核心特征。"
+  },
+  {
+    "id": "g2_physics_007_ex10",
+    "knowledge_id": "g2_physics_007",
+    "question": "综合题：结合声音的三要素和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_008_ex01",
+    "knowledge_id": "g2_physics_008",
+    "question": "选择题：下列关于\"超声波与次声波\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据超声波与次声波的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_008_ex02",
+    "knowledge_id": "g2_physics_008",
+    "question": "填空题：超声波与次声波的主要公式（或特征）是______。",
+    "answer": "答案：人耳听觉范围：20 Hz ~ 20 000 Hz\n解析：超声波与次声波的核心内容。"
+  },
+  {
+    "id": "g2_physics_008_ex03",
+    "knowledge_id": "g2_physics_008",
+    "question": "选择题：超声波与次声波的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_008_ex04",
+    "knowledge_id": "g2_physics_008",
+    "question": "判断题：超声波与次声波的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_008_ex05",
+    "knowledge_id": "g2_physics_008",
+    "question": "判断题：超声波与次声波的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_008_ex06",
+    "knowledge_id": "g2_physics_008",
+    "question": "解答题：请简述超声波与次声波的主要内容。",
+    "answer": "答案：人耳能听到的声音频率范围：20 Hz ~ 20 000 Hz\n\n超声波：频率高于 20 000 Hz 的声音\n- 应用：B超、潜艇声呐、金属内部缺陷检测、灭鼠驱虫\n\n次声波：频率低于 20 Hz 的声...\n解析：本题考察对超声波与次声波的理解。"
+  },
+  {
+    "id": "g2_physics_008_ex07",
+    "knowledge_id": "g2_physics_008",
+    "question": "解答题：超声波与次声波在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_008_ex08",
+    "knowledge_id": "g2_physics_008",
+    "question": "选择题：超声波与次声波的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_008_ex09",
+    "knowledge_id": "g2_physics_008",
+    "question": "填空题：超声波与次声波的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：超声波与次声波的核心特征。"
+  },
+  {
+    "id": "g2_physics_008_ex10",
+    "knowledge_id": "g2_physics_008",
+    "question": "综合题：结合超声波与次声波和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_009_ex01",
+    "knowledge_id": "g2_physics_009",
+    "question": "选择题：下列关于\"噪声的危害与控制\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据噪声的危害与控制的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_009_ex02",
+    "knowledge_id": "g2_physics_009",
+    "question": "填空题：噪声的危害与控制的主要公式（或特征）是______。",
+    "answer": "答案：0 dB 是人耳听觉下限\n> 90 dB 影响听力\n解析：噪声的危害与控制的核心内容。"
+  },
+  {
+    "id": "g2_physics_009_ex03",
+    "knowledge_id": "g2_physics_009",
+    "question": "选择题：噪声的危害与控制的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_009_ex04",
+    "knowledge_id": "g2_physics_009",
+    "question": "判断题：噪声的危害与控制的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_009_ex05",
+    "knowledge_id": "g2_physics_009",
+    "question": "判断题：噪声的危害与控制的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_009_ex06",
+    "knowledge_id": "g2_physics_009",
+    "question": "解答题：请简述噪声的危害与控制的主要内容。",
+    "answer": "答案：噪声：\n- 从物理学角度：发声体做无规则振动时发出的声音\n- 从环境保护角度：凡是妨碍人们正常休息、学习和工作的声音，以及对人们要听的声音起干扰作用的声音\n\n控制途径：\n1. 在声源处减弱（消声）\n2...\n解析：本题考察对噪声的危害与控制的理解。"
+  },
+  {
+    "id": "g2_physics_009_ex07",
+    "knowledge_id": "g2_physics_009",
+    "question": "解答题：噪声的危害与控制在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_009_ex08",
+    "knowledge_id": "g2_physics_009",
+    "question": "选择题：噪声的危害与控制的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_009_ex09",
+    "knowledge_id": "g2_physics_009",
+    "question": "填空题：噪声的危害与控制的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：噪声的危害与控制的核心特征。"
+  },
+  {
+    "id": "g2_physics_009_ex10",
+    "knowledge_id": "g2_physics_009",
+    "question": "综合题：结合噪声的危害与控制和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_010_ex01",
+    "knowledge_id": "g2_physics_010",
+    "question": "选择题：下列关于\"温度与温度计\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据温度与温度计的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_010_ex02",
+    "knowledge_id": "g2_physics_010",
+    "question": "填空题：温度与温度计的主要公式（或特征）是______。",
+    "answer": "答案：T(K) = t(°C) + 273.15\n解析：温度与温度计的核心内容。"
+  },
+  {
+    "id": "g2_physics_010_ex03",
+    "knowledge_id": "g2_physics_010",
+    "question": "选择题：温度与温度计的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_010_ex04",
+    "knowledge_id": "g2_physics_010",
+    "question": "判断题：温度与温度计的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_010_ex05",
+    "knowledge_id": "g2_physics_010",
+    "question": "判断题：温度与温度计的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_010_ex06",
+    "knowledge_id": "g2_physics_010",
+    "question": "解答题：请简述温度与温度计的主要内容。",
+    "answer": "答案：温度：表示物体冷热程度的物理量。\n\n单位：\n- 摄氏温度（°C）：冰水混合物为 0°C，沸水为 100°C\n- 热力学温度（K）：以 -273.15°C 为绝对零度\n- 换算：T = t + 273....\n解析：本题考察对温度与温度计的理解。"
+  },
+  {
+    "id": "g2_physics_010_ex07",
+    "knowledge_id": "g2_physics_010",
+    "question": "解答题：温度与温度计在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_010_ex08",
+    "knowledge_id": "g2_physics_010",
+    "question": "选择题：温度与温度计的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_010_ex09",
+    "knowledge_id": "g2_physics_010",
+    "question": "填空题：温度与温度计的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：温度与温度计的核心特征。"
+  },
+  {
+    "id": "g2_physics_010_ex10",
+    "knowledge_id": "g2_physics_010",
+    "question": "综合题：结合温度与温度计和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_011_ex01",
+    "knowledge_id": "g2_physics_011",
+    "question": "选择题：下列关于\"熔化和凝固\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据熔化和凝固的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_011_ex02",
+    "knowledge_id": "g2_physics_011",
+    "question": "填空题：熔化和凝固的主要公式（或特征）是______。",
+    "answer": "答案：晶体熔化条件：达到熔点 + 继续吸热\n解析：熔化和凝固的核心内容。"
+  },
+  {
+    "id": "g2_physics_011_ex03",
+    "knowledge_id": "g2_physics_011",
+    "question": "选择题：熔化和凝固的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_011_ex04",
+    "knowledge_id": "g2_physics_011",
+    "question": "判断题：熔化和凝固的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_011_ex05",
+    "knowledge_id": "g2_physics_011",
+    "question": "判断题：熔化和凝固的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_011_ex06",
+    "knowledge_id": "g2_physics_011",
+    "question": "解答题：请简述熔化和凝固的主要内容。",
+    "answer": "答案：物质从固态变成液态的过程叫熔化。\n物质从液态变成固态的过程叫凝固。\n\n固体分类：\n- 晶体：海波、冰、各种金属等，有固定熔点\n- 非晶体：松香、玻璃、蜡、沥青等，没有固定熔点\n\n晶体熔化特点：\n- 吸...\n解析：本题考察对熔化和凝固的理解。"
+  },
+  {
+    "id": "g2_physics_011_ex07",
+    "knowledge_id": "g2_physics_011",
+    "question": "解答题：熔化和凝固在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_011_ex08",
+    "knowledge_id": "g2_physics_011",
+    "question": "选择题：熔化和凝固的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_011_ex09",
+    "knowledge_id": "g2_physics_011",
+    "question": "填空题：熔化和凝固的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：熔化和凝固的核心特征。"
+  },
+  {
+    "id": "g2_physics_011_ex10",
+    "knowledge_id": "g2_physics_011",
+    "question": "综合题：结合熔化和凝固和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_012_ex01",
+    "knowledge_id": "g2_physics_012",
+    "question": "选择题：下列关于\"汽化和液化\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据汽化和液化的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_012_ex02",
+    "knowledge_id": "g2_physics_012",
+    "question": "填空题：汽化和液化的主要公式（或特征）是______。",
+    "answer": "答案：影响蒸发快慢：温度、表面积、空气流动\n解析：汽化和液化的核心内容。"
+  },
+  {
+    "id": "g2_physics_012_ex03",
+    "knowledge_id": "g2_physics_012",
+    "question": "选择题：汽化和液化的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_012_ex04",
+    "knowledge_id": "g2_physics_012",
+    "question": "判断题：汽化和液化的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_012_ex05",
+    "knowledge_id": "g2_physics_012",
+    "question": "判断题：汽化和液化的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_012_ex06",
+    "knowledge_id": "g2_physics_012",
+    "question": "解答题：请简述汽化和液化的主要内容。",
+    "answer": "答案：汽化：物质从液态变为气态的过程（吸热）。\n液化：物质从气态变为液态的过程（放热）。\n\n汽化两种方式：\n1. 蒸发：\n   - 在任何温度下都能发生，只在液体表面进行\n   - 影响因素：液体温度、表面...\n解析：本题考察对汽化和液化的理解。"
+  },
+  {
+    "id": "g2_physics_012_ex07",
+    "knowledge_id": "g2_physics_012",
+    "question": "解答题：汽化和液化在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_012_ex08",
+    "knowledge_id": "g2_physics_012",
+    "question": "选择题：汽化和液化的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_012_ex09",
+    "knowledge_id": "g2_physics_012",
+    "question": "填空题：汽化和液化的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：汽化和液化的核心特征。"
+  },
+  {
+    "id": "g2_physics_012_ex10",
+    "knowledge_id": "g2_physics_012",
+    "question": "综合题：结合汽化和液化和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_013_ex01",
+    "knowledge_id": "g2_physics_013",
+    "question": "选择题：下列关于\"升华和凝华\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据升华和凝华的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_013_ex02",
+    "knowledge_id": "g2_physics_013",
+    "question": "填空题：升华和凝华的主要公式（或特征）是______。",
+    "answer": "答案：升华吸热；凝华放热\n解析：升华和凝华的核心内容。"
+  },
+  {
+    "id": "g2_physics_013_ex03",
+    "knowledge_id": "g2_physics_013",
+    "question": "选择题：升华和凝华的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_013_ex04",
+    "knowledge_id": "g2_physics_013",
+    "question": "判断题：升华和凝华的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_013_ex05",
+    "knowledge_id": "g2_physics_013",
+    "question": "判断题：升华和凝华的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_013_ex06",
+    "knowledge_id": "g2_physics_013",
+    "question": "解答题：请简述升华和凝华的主要内容。",
+    "answer": "答案：升华：物质从固态直接变成气态的过程（吸热）。\n凝华：物质从气态直接变成固态的过程（放热）。\n\n常见现象：\n- 升华：樟脑丸变小、冬天冰冻的衣服变干、灯丝变细\n- 凝华：霜、雪、雾凇、冰花、碘蒸气遇冷凝...\n解析：本题考察对升华和凝华的理解。"
+  },
+  {
+    "id": "g2_physics_013_ex07",
+    "knowledge_id": "g2_physics_013",
+    "question": "解答题：升华和凝华在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_013_ex08",
+    "knowledge_id": "g2_physics_013",
+    "question": "选择题：升华和凝华的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_013_ex09",
+    "knowledge_id": "g2_physics_013",
+    "question": "填空题：升华和凝华的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：升华和凝华的核心特征。"
+  },
+  {
+    "id": "g2_physics_013_ex10",
+    "knowledge_id": "g2_physics_013",
+    "question": "综合题：结合升华和凝华和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_014_ex01",
+    "knowledge_id": "g2_physics_014",
+    "question": "选择题：下列关于\"光的直线传播\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据光的直线传播的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_014_ex02",
+    "knowledge_id": "g2_physics_014",
+    "question": "填空题：光的直线传播的主要公式（或特征）是______。",
+    "answer": "答案：光速 c ≈ 3 × 10⁸ m/s\n解析：光的直线传播的核心内容。"
+  },
+  {
+    "id": "g2_physics_014_ex03",
+    "knowledge_id": "g2_physics_014",
+    "question": "选择题：光的直线传播的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_014_ex04",
+    "knowledge_id": "g2_physics_014",
+    "question": "判断题：光的直线传播的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_014_ex05",
+    "knowledge_id": "g2_physics_014",
+    "question": "判断题：光的直线传播的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_014_ex06",
+    "knowledge_id": "g2_physics_014",
+    "question": "解答题：请简述光的直线传播的主要内容。",
+    "answer": "答案：光在同种均匀介质中沿直线传播。\n\n光速：\n- 真空中的光速 c = 3 × 10⁸ m/s（自然界中最大的速度）\n- 空气中的光速略小于真空\n- 光在水中的速度约为真空的 3/4\n- 光在玻璃中的速度...\n解析：本题考察对光的直线传播的理解。"
+  },
+  {
+    "id": "g2_physics_014_ex07",
+    "knowledge_id": "g2_physics_014",
+    "question": "解答题：光的直线传播在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_014_ex08",
+    "knowledge_id": "g2_physics_014",
+    "question": "选择题：光的直线传播的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_014_ex09",
+    "knowledge_id": "g2_physics_014",
+    "question": "填空题：光的直线传播的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：光的直线传播的核心特征。"
+  },
+  {
+    "id": "g2_physics_014_ex10",
+    "knowledge_id": "g2_physics_014",
+    "question": "综合题：结合光的直线传播和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_015_ex01",
+    "knowledge_id": "g2_physics_015",
+    "question": "选择题：下列关于\"光的反射定律\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据光的反射定律的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_015_ex02",
+    "knowledge_id": "g2_physics_015",
+    "question": "填空题：光的反射定律的主要公式（或特征）是______。",
+    "answer": "答案：∠r = ∠i\n（反射角等于入射角）\n解析：光的反射定律的核心内容。"
+  },
+  {
+    "id": "g2_physics_015_ex03",
+    "knowledge_id": "g2_physics_015",
+    "question": "选择题：光的反射定律的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_015_ex04",
+    "knowledge_id": "g2_physics_015",
+    "question": "判断题：光的反射定律的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_015_ex05",
+    "knowledge_id": "g2_physics_015",
+    "question": "判断题：光的反射定律的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_015_ex06",
+    "knowledge_id": "g2_physics_015",
+    "question": "解答题：请简述光的反射定律的主要内容。",
+    "answer": "答案：光射到物体表面时，被物体表面反射回去的现象叫光的反射。\n\n反射定律：\n1. 反射光线、入射光线与法线在同一平面内\n2. 反射光线和入射光线分居法线两侧\n3. 反射角等于入射角（∠r = ∠i）\n\n两种...\n解析：本题考察对光的反射定律的理解。"
+  },
+  {
+    "id": "g2_physics_015_ex07",
+    "knowledge_id": "g2_physics_015",
+    "question": "解答题：光的反射定律在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_015_ex08",
+    "knowledge_id": "g2_physics_015",
+    "question": "选择题：光的反射定律的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_015_ex09",
+    "knowledge_id": "g2_physics_015",
+    "question": "填空题：光的反射定律的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：光的反射定律的核心特征。"
+  },
+  {
+    "id": "g2_physics_015_ex10",
+    "knowledge_id": "g2_physics_015",
+    "question": "综合题：结合光的反射定律和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_016_ex01",
+    "knowledge_id": "g2_physics_016",
+    "question": "选择题：下列关于\"平面镜成像\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据平面镜成像的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_016_ex02",
+    "knowledge_id": "g2_physics_016",
+    "question": "填空题：平面镜成像的主要公式（或特征）是______。",
+    "answer": "答案：像距 = 物距\n像与物大小相等\n解析：平面镜成像的核心内容。"
+  },
+  {
+    "id": "g2_physics_016_ex03",
+    "knowledge_id": "g2_physics_016",
+    "question": "选择题：平面镜成像的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_016_ex04",
+    "knowledge_id": "g2_physics_016",
+    "question": "判断题：平面镜成像的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_016_ex05",
+    "knowledge_id": "g2_physics_016",
+    "question": "判断题：平面镜成像的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_016_ex06",
+    "knowledge_id": "g2_physics_016",
+    "question": "解答题：请简述平面镜成像的主要内容。",
+    "answer": "答案：平面镜成像特点：\n1. 像与物大小相等\n2. 像与物到平面镜的距离相等（像距 = 物距）\n3. 像与物左右相反\n4. 像是正立的虚像（不是实际光线会聚而成）\n\n原理：光的反射。\n\n应用：\n- 日常生活...\n解析：本题考察对平面镜成像的理解。"
+  },
+  {
+    "id": "g2_physics_016_ex07",
+    "knowledge_id": "g2_physics_016",
+    "question": "解答题：平面镜成像在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_016_ex08",
+    "knowledge_id": "g2_physics_016",
+    "question": "选择题：平面镜成像的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_016_ex09",
+    "knowledge_id": "g2_physics_016",
+    "question": "填空题：平面镜成像的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：平面镜成像的核心特征。"
+  },
+  {
+    "id": "g2_physics_016_ex10",
+    "knowledge_id": "g2_physics_016",
+    "question": "综合题：结合平面镜成像和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_017_ex01",
+    "knowledge_id": "g2_physics_017",
+    "question": "选择题：下列关于\"光的折射\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据光的折射的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_017_ex02",
+    "knowledge_id": "g2_physics_017",
+    "question": "填空题：光的折射的主要公式（或特征）是______。",
+    "answer": "答案：光从空气斜射入水/玻璃：折射角 < 入射角\n解析：光的折射的核心内容。"
+  },
+  {
+    "id": "g2_physics_017_ex03",
+    "knowledge_id": "g2_physics_017",
+    "question": "选择题：光的折射的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_017_ex04",
+    "knowledge_id": "g2_physics_017",
+    "question": "判断题：光的折射的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_017_ex05",
+    "knowledge_id": "g2_physics_017",
+    "question": "判断题：光的折射的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_017_ex06",
+    "knowledge_id": "g2_physics_017",
+    "question": "解答题：请简述光的折射的主要内容。",
+    "answer": "答案：光从一种介质斜射入另一种介质时，传播方向发生偏折的现象叫光的折射。\n\n折射定律：\n1. 折射光线、入射光线、法线在同一平面内\n2. 折射光线和入射光线分居法线两侧\n3. 光从空气斜射入水或其他介质时，...\n解析：本题考察对光的折射的理解。"
+  },
+  {
+    "id": "g2_physics_017_ex07",
+    "knowledge_id": "g2_physics_017",
+    "question": "解答题：光的折射在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_017_ex08",
+    "knowledge_id": "g2_physics_017",
+    "question": "选择题：光的折射的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_017_ex09",
+    "knowledge_id": "g2_physics_017",
+    "question": "填空题：光的折射的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：光的折射的核心特征。"
+  },
+  {
+    "id": "g2_physics_017_ex10",
+    "knowledge_id": "g2_physics_017",
+    "question": "综合题：结合光的折射和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_018_ex01",
+    "knowledge_id": "g2_physics_018",
+    "question": "选择题：下列关于\"光的色散\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据光的色散的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_018_ex02",
+    "knowledge_id": "g2_physics_018",
+    "question": "填空题：光的色散的主要公式（或特征）是______。",
+    "answer": "答案：红光偏折最小，紫光偏折最大\n解析：光的色散的核心内容。"
+  },
+  {
+    "id": "g2_physics_018_ex03",
+    "knowledge_id": "g2_physics_018",
+    "question": "选择题：光的色散的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_018_ex04",
+    "knowledge_id": "g2_physics_018",
+    "question": "判断题：光的色散的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_018_ex05",
+    "knowledge_id": "g2_physics_018",
+    "question": "判断题：光的色散的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_018_ex06",
+    "knowledge_id": "g2_physics_018",
+    "question": "解答题：请简述光的色散的主要内容。",
+    "answer": "答案：太阳光（白光）通过三棱镜后，被分解成红、橙、黄、绿、蓝、靛、紫七种色光的现象叫光的色散。\n\n色光三原色：红、绿、蓝\n颜料三原色：品红、黄、青\n\n透明物体的颜色由它透过的色光决定；\n不透明物体的颜色由它...\n解析：本题考察对光的色散的理解。"
+  },
+  {
+    "id": "g2_physics_018_ex07",
+    "knowledge_id": "g2_physics_018",
+    "question": "解答题：光的色散在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_018_ex08",
+    "knowledge_id": "g2_physics_018",
+    "question": "选择题：光的色散的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_018_ex09",
+    "knowledge_id": "g2_physics_018",
+    "question": "填空题：光的色散的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：光的色散的核心特征。"
+  },
+  {
+    "id": "g2_physics_018_ex10",
+    "knowledge_id": "g2_physics_018",
+    "question": "综合题：结合光的色散和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_019_ex01",
+    "knowledge_id": "g2_physics_019",
+    "question": "选择题：下列关于\"凸透镜与凹透镜\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据凸透镜与凹透镜的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_019_ex02",
+    "knowledge_id": "g2_physics_019",
+    "question": "填空题：凸透镜与凹透镜的主要公式（或特征）是______。",
+    "answer": "答案：凸透镜：对光有会聚作用\n凹透镜：对光有发散作用\n解析：凸透镜与凹透镜的核心内容。"
+  },
+  {
+    "id": "g2_physics_019_ex03",
+    "knowledge_id": "g2_physics_019",
+    "question": "选择题：凸透镜与凹透镜的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_019_ex04",
+    "knowledge_id": "g2_physics_019",
+    "question": "判断题：凸透镜与凹透镜的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_019_ex05",
+    "knowledge_id": "g2_physics_019",
+    "question": "判断题：凸透镜与凹透镜的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_019_ex06",
+    "knowledge_id": "g2_physics_019",
+    "question": "解答题：请简述凸透镜与凹透镜的主要内容。",
+    "answer": "答案：透镜：\n- 凸透镜：中间厚、边缘薄，对光有会聚作用\n- 凹透镜：中间薄、边缘厚，对光有发散作用\n\n基本概念：\n- 主光轴：通过透镜两个球面球心的直线\n- 光心（O）：主光轴上的特殊点，光线通过光心方向...\n解析：本题考察对凸透镜与凹透镜的理解。"
+  },
+  {
+    "id": "g2_physics_019_ex07",
+    "knowledge_id": "g2_physics_019",
+    "question": "解答题：凸透镜与凹透镜在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_019_ex08",
+    "knowledge_id": "g2_physics_019",
+    "question": "选择题：凸透镜与凹透镜的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_019_ex09",
+    "knowledge_id": "g2_physics_019",
+    "question": "填空题：凸透镜与凹透镜的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：凸透镜与凹透镜的核心特征。"
+  },
+  {
+    "id": "g2_physics_019_ex10",
+    "knowledge_id": "g2_physics_019",
+    "question": "综合题：结合凸透镜与凹透镜和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_020_ex01",
+    "knowledge_id": "g2_physics_020",
+    "question": "选择题：下列关于\"凸透镜成像规律\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据凸透镜成像规律的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_020_ex02",
+    "knowledge_id": "g2_physics_020",
+    "question": "填空题：凸透镜成像规律的主要公式（或特征）是______。",
+    "answer": "答案：1/u + 1/v = 1/f\n解析：凸透镜成像规律的核心内容。"
+  },
+  {
+    "id": "g2_physics_020_ex03",
+    "knowledge_id": "g2_physics_020",
+    "question": "选择题：凸透镜成像规律的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_020_ex04",
+    "knowledge_id": "g2_physics_020",
+    "question": "判断题：凸透镜成像规律的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_020_ex05",
+    "knowledge_id": "g2_physics_020",
+    "question": "判断题：凸透镜成像规律的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_020_ex06",
+    "knowledge_id": "g2_physics_020",
+    "question": "解答题：请简述凸透镜成像规律的主要内容。",
+    "answer": "答案：凸透镜成像规律（u 为物距，f 为焦距）：\n\n1. u > 2f：倒立、缩小的实像（应用：照相机）\n2. u = 2f：倒立、等大的实像（应用：测焦距）\n3. f < u < 2f：倒立、放大的实像（...\n解析：本题考察对凸透镜成像规律的理解。"
+  },
+  {
+    "id": "g2_physics_020_ex07",
+    "knowledge_id": "g2_physics_020",
+    "question": "解答题：凸透镜成像规律在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_020_ex08",
+    "knowledge_id": "g2_physics_020",
+    "question": "选择题：凸透镜成像规律的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_020_ex09",
+    "knowledge_id": "g2_physics_020",
+    "question": "填空题：凸透镜成像规律的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：凸透镜成像规律的核心特征。"
+  },
+  {
+    "id": "g2_physics_020_ex10",
+    "knowledge_id": "g2_physics_020",
+    "question": "综合题：结合凸透镜成像规律和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_021_ex01",
+    "knowledge_id": "g2_physics_021",
+    "question": "选择题：下列关于\"眼睛与眼镜\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据眼睛与眼镜的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_021_ex02",
+    "knowledge_id": "g2_physics_021",
+    "question": "填空题：眼睛与眼镜的主要公式（或特征）是______。",
+    "answer": "答案：近视眼戴凹透镜\n远视眼戴凸透镜\n解析：眼睛与眼镜的核心内容。"
+  },
+  {
+    "id": "g2_physics_021_ex03",
+    "knowledge_id": "g2_physics_021",
+    "question": "选择题：眼睛与眼镜的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_021_ex04",
+    "knowledge_id": "g2_physics_021",
+    "question": "判断题：眼睛与眼镜的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_021_ex05",
+    "knowledge_id": "g2_physics_021",
+    "question": "判断题：眼睛与眼镜的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_021_ex06",
+    "knowledge_id": "g2_physics_021",
+    "question": "解答题：请简述眼睛与眼镜的主要内容。",
+    "answer": "答案：眼睛：\n- 晶状体和角膜的共同作用相当于凸透镜\n- 视网膜相当于光屏\n- 成像：在视网膜上成倒立、缩小的实像\n\n近视眼：\n- 原因：晶状体太厚、折光能力太强或眼球前后径过长\n- 像成在视网膜前方\n- ...\n解析：本题考察对眼睛与眼镜的理解。"
+  },
+  {
+    "id": "g2_physics_021_ex07",
+    "knowledge_id": "g2_physics_021",
+    "question": "解答题：眼睛与眼镜在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_021_ex08",
+    "knowledge_id": "g2_physics_021",
+    "question": "选择题：眼睛与眼镜的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_021_ex09",
+    "knowledge_id": "g2_physics_021",
+    "question": "填空题：眼睛与眼镜的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：眼睛与眼镜的核心特征。"
+  },
+  {
+    "id": "g2_physics_021_ex10",
+    "knowledge_id": "g2_physics_021",
+    "question": "综合题：结合眼睛与眼镜和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_022_ex01",
+    "knowledge_id": "g2_physics_022",
+    "question": "选择题：下列关于\"显微镜与望远镜\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据显微镜与望远镜的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_022_ex02",
+    "knowledge_id": "g2_physics_022",
+    "question": "填空题：显微镜与望远镜的主要公式（或特征）是______。",
+    "answer": "答案：显微镜：物镜 + 目镜（都是凸透镜）\n解析：显微镜与望远镜的核心内容。"
+  },
+  {
+    "id": "g2_physics_022_ex03",
+    "knowledge_id": "g2_physics_022",
+    "question": "选择题：显微镜与望远镜的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_022_ex04",
+    "knowledge_id": "g2_physics_022",
+    "question": "判断题：显微镜与望远镜的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_022_ex05",
+    "knowledge_id": "g2_physics_022",
+    "question": "判断题：显微镜与望远镜的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_022_ex06",
+    "knowledge_id": "g2_physics_022",
+    "question": "解答题：请简述显微镜与望远镜的主要内容。",
+    "answer": "答案：显微镜：\n- 物镜：相当于投影仪，成倒立、放大的实像\n- 目镜：相当于放大镜，把物镜成的实像再次放大成虚像\n- 物体最终成倒立、放大的虚像\n\n望远镜：\n- 开普勒望远镜：物镜（使远处物体成缩小的实像）...\n解析：本题考察对显微镜与望远镜的理解。"
+  },
+  {
+    "id": "g2_physics_022_ex07",
+    "knowledge_id": "g2_physics_022",
+    "question": "解答题：显微镜与望远镜在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_022_ex08",
+    "knowledge_id": "g2_physics_022",
+    "question": "选择题：显微镜与望远镜的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_022_ex09",
+    "knowledge_id": "g2_physics_022",
+    "question": "填空题：显微镜与望远镜的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：显微镜与望远镜的核心特征。"
+  },
+  {
+    "id": "g2_physics_022_ex10",
+    "knowledge_id": "g2_physics_022",
+    "question": "综合题：结合显微镜与望远镜和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_023_ex01",
+    "knowledge_id": "g2_physics_023",
+    "question": "选择题：下列关于\"测量平均速度\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据测量平均速度的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_023_ex02",
+    "knowledge_id": "g2_physics_023",
+    "question": "填空题：测量平均速度的主要公式（或特征）是______。",
+    "answer": "答案：v̄ = s / t\n解析：测量平均速度的核心内容。"
+  },
+  {
+    "id": "g2_physics_023_ex03",
+    "knowledge_id": "g2_physics_023",
+    "question": "选择题：测量平均速度的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_023_ex04",
+    "knowledge_id": "g2_physics_023",
+    "question": "判断题：测量平均速度的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_023_ex05",
+    "knowledge_id": "g2_physics_023",
+    "question": "判断题：测量平均速度的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_023_ex06",
+    "knowledge_id": "g2_physics_023",
+    "question": "解答题：请简述测量平均速度的主要内容。",
+    "answer": "答案：测量平均速度实验：\n\n实验原理：v̄ = s / t\n\n实验器材：斜面、小车、刻度尺、停表、金属片\n\n实验步骤：\n1. 使斜面保持一定坡度\n2. 用刻度尺测出小车通过的路程 s\n3. 用停表测出小车通...\n解析：本题考察对测量平均速度的理解。"
+  },
+  {
+    "id": "g2_physics_023_ex07",
+    "knowledge_id": "g2_physics_023",
+    "question": "解答题：测量平均速度在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_023_ex08",
+    "knowledge_id": "g2_physics_023",
+    "question": "选择题：测量平均速度的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_023_ex09",
+    "knowledge_id": "g2_physics_023",
+    "question": "填空题：测量平均速度的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：测量平均速度的核心特征。"
+  },
+  {
+    "id": "g2_physics_023_ex10",
+    "knowledge_id": "g2_physics_023",
+    "question": "综合题：结合测量平均速度和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_024_ex01",
+    "knowledge_id": "g2_physics_024",
+    "question": "选择题：下列关于\"声音在不同介质中的传播\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据声音在不同介质中的传播的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_024_ex02",
+    "knowledge_id": "g2_physics_024",
+    "question": "填空题：声音在不同介质中的传播的主要公式（或特征）是______。",
+    "answer": "答案：v（固体）> v（液体）> v（气体）\n解析：声音在不同介质中的传播的核心内容。"
+  },
+  {
+    "id": "g2_physics_024_ex03",
+    "knowledge_id": "g2_physics_024",
+    "question": "选择题：声音在不同介质中的传播的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_024_ex04",
+    "knowledge_id": "g2_physics_024",
+    "question": "判断题：声音在不同介质中的传播的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_024_ex05",
+    "knowledge_id": "g2_physics_024",
+    "question": "判断题：声音在不同介质中的传播的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_024_ex06",
+    "knowledge_id": "g2_physics_024",
+    "question": "解答题：请简述声音在不同介质中的传播的主要内容。",
+    "answer": "答案：声音传播速度：\n- 在不同介质中传播速度不同\n- 一般情况下：v（固体）> v（液体）> v（气体）\n- 同种介质中，温度越高，传播速度越快\n\n应用：\n- 古代行军：士兵枕着牛皮箭筒睡觉，能及早听到敌...\n解析：本题考察对声音在不同介质中的传播的理解。"
+  },
+  {
+    "id": "g2_physics_024_ex07",
+    "knowledge_id": "g2_physics_024",
+    "question": "解答题：声音在不同介质中的传播在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_024_ex08",
+    "knowledge_id": "g2_physics_024",
+    "question": "选择题：声音在不同介质中的传播的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_024_ex09",
+    "knowledge_id": "g2_physics_024",
+    "question": "填空题：声音在不同介质中的传播的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：声音在不同介质中的传播的核心特征。"
+  },
+  {
+    "id": "g2_physics_024_ex10",
+    "knowledge_id": "g2_physics_024",
+    "question": "综合题：结合声音在不同介质中的传播和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_025_ex01",
+    "knowledge_id": "g2_physics_025",
+    "question": "选择题：下列关于\"红外线与紫外线\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据红外线与紫外线的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_025_ex02",
+    "knowledge_id": "g2_physics_025",
+    "question": "填空题：红外线与紫外线的主要公式（或特征）是______。",
+    "answer": "答案：红外线：热作用强\n紫外线：化学作用强\n解析：红外线与紫外线的核心内容。"
+  },
+  {
+    "id": "g2_physics_025_ex03",
+    "knowledge_id": "g2_physics_025",
+    "question": "选择题：红外线与紫外线的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_025_ex04",
+    "knowledge_id": "g2_physics_025",
+    "question": "判断题：红外线与紫外线的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_025_ex05",
+    "knowledge_id": "g2_physics_025",
+    "question": "判断题：红外线与紫外线的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_025_ex06",
+    "knowledge_id": "g2_physics_025",
+    "question": "解答题：请简述红外线与紫外线的主要内容。",
+    "answer": "答案：红外线：\n- 位于红光外侧，人眼看不见\n- 特性：热作用强\n- 应用：红外线遥感、红外线加热、红外线测温仪、夜视仪、遥控器\n\n紫外线：\n- 位于紫光外侧，人眼看不见\n- 特性：化学作用强，能使荧光物质...\n解析：本题考察对红外线与紫外线的理解。"
+  },
+  {
+    "id": "g2_physics_025_ex07",
+    "knowledge_id": "g2_physics_025",
+    "question": "解答题：红外线与紫外线在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_025_ex08",
+    "knowledge_id": "g2_physics_025",
+    "question": "选择题：红外线与紫外线的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_025_ex09",
+    "knowledge_id": "g2_physics_025",
+    "question": "填空题：红外线与紫外线的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：红外线与紫外线的核心特征。"
+  },
+  {
+    "id": "g2_physics_025_ex10",
+    "knowledge_id": "g2_physics_025",
+    "question": "综合题：结合红外线与紫外线和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_026_ex01",
+    "knowledge_id": "g2_physics_026",
+    "question": "选择题：下列关于\"熔化与凝固图象\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据熔化与凝固图象的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_026_ex02",
+    "knowledge_id": "g2_physics_026",
+    "question": "填空题：熔化与凝固图象的主要公式（或特征）是______。",
+    "answer": "答案：晶体有固定熔点；非晶体没有\n解析：熔化与凝固图象的核心内容。"
+  },
+  {
+    "id": "g2_physics_026_ex03",
+    "knowledge_id": "g2_physics_026",
+    "question": "选择题：熔化与凝固图象的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_026_ex04",
+    "knowledge_id": "g2_physics_026",
+    "question": "判断题：熔化与凝固图象的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_026_ex05",
+    "knowledge_id": "g2_physics_026",
+    "question": "判断题：熔化与凝固图象的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_026_ex06",
+    "knowledge_id": "g2_physics_026",
+    "question": "解答题：请简述熔化与凝固图象的主要内容。",
+    "answer": "答案：晶体熔化图象（以海波为例）：\n- 横轴：加热时间（t）\n- 纵轴：温度（T）\n- AB段：固态，吸热升温\n- BC段：固液共存，吸热但温度不变（熔点）\n- CD段：液态，吸热升温\n\n非晶体熔化图象（以...\n解析：本题考察对熔化与凝固图象的理解。"
+  },
+  {
+    "id": "g2_physics_026_ex07",
+    "knowledge_id": "g2_physics_026",
+    "question": "解答题：熔化与凝固图象在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_026_ex08",
+    "knowledge_id": "g2_physics_026",
+    "question": "选择题：熔化与凝固图象的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_026_ex09",
+    "knowledge_id": "g2_physics_026",
+    "question": "填空题：熔化与凝固图象的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：熔化与凝固图象的核心特征。"
+  },
+  {
+    "id": "g2_physics_026_ex10",
+    "knowledge_id": "g2_physics_026",
+    "question": "综合题：结合熔化与凝固图象和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_027_ex01",
+    "knowledge_id": "g2_physics_027",
+    "question": "选择题：下列关于\"生活中的透镜\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据生活中的透镜的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_027_ex02",
+    "knowledge_id": "g2_physics_027",
+    "question": "填空题：生活中的透镜的主要公式（或特征）是______。",
+    "answer": "答案：照相机 u>2f\n投影仪 f<u<2f\n放大镜 u<f\n解析：生活中的透镜的核心内容。"
+  },
+  {
+    "id": "g2_physics_027_ex03",
+    "knowledge_id": "g2_physics_027",
+    "question": "选择题：生活中的透镜的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_027_ex04",
+    "knowledge_id": "g2_physics_027",
+    "question": "判断题：生活中的透镜的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_027_ex05",
+    "knowledge_id": "g2_physics_027",
+    "question": "判断题：生活中的透镜的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_027_ex06",
+    "knowledge_id": "g2_physics_027",
+    "question": "解答题：请简述生活中的透镜的主要内容。",
+    "answer": "答案：生活中的透镜应用：\n\n1. 照相机：\n   - 镜头相当于凸透镜\n   - u > 2f，成倒立、缩小的实像\n   - 像是光屏（底片）上的实际光线会聚而成\n\n2. 投影仪（幻灯机）：\n   - 镜头...\n解析：本题考察对生活中的透镜的理解。"
+  },
+  {
+    "id": "g2_physics_027_ex07",
+    "knowledge_id": "g2_physics_027",
+    "question": "解答题：生活中的透镜在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_027_ex08",
+    "knowledge_id": "g2_physics_027",
+    "question": "选择题：生活中的透镜的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_027_ex09",
+    "knowledge_id": "g2_physics_027",
+    "question": "填空题：生活中的透镜的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：生活中的透镜的核心特征。"
+  },
+  {
+    "id": "g2_physics_027_ex10",
+    "knowledge_id": "g2_physics_027",
+    "question": "综合题：结合生活中的透镜和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_physics_028_ex01",
+    "knowledge_id": "g2_physics_028",
+    "question": "选择题：下列关于\"光现象的辨析与应用\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据光现象的辨析与应用的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_physics_028_ex02",
+    "knowledge_id": "g2_physics_028",
+    "question": "填空题：光现象的辨析与应用的主要公式（或特征）是______。",
+    "answer": "答案：光直线传播、反射、折射的区别\n解析：光现象的辨析与应用的核心内容。"
+  },
+  {
+    "id": "g2_physics_028_ex03",
+    "knowledge_id": "g2_physics_028",
+    "question": "选择题：光现象的辨析与应用的应用（或相关概念）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_028_ex04",
+    "knowledge_id": "g2_physics_028",
+    "question": "判断题：光现象的辨析与应用的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_physics_028_ex05",
+    "knowledge_id": "g2_physics_028",
+    "question": "判断题：光现象的辨析与应用的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_physics_028_ex06",
+    "knowledge_id": "g2_physics_028",
+    "question": "解答题：请简述光现象的辨析与应用的主要内容。",
+    "answer": "答案：三种光现象辨析：\n\n1. 光的直线传播：\n   - 同种均匀介质中光沿直线传播\n   - 现象：影子、日食、月食、小孔成像\n\n2. 光的反射：\n   - 光射到物体表面被反射回去\n   - 反射角 =...\n解析：本题考察对光现象的辨析与应用的理解。"
+  },
+  {
+    "id": "g2_physics_028_ex07",
+    "knowledge_id": "g2_physics_028",
+    "question": "解答题：光现象的辨析与应用在实际生活中有哪些应用？",
+    "answer": "答案：根据知识点举例说明\n解析：考察知识的实际应用。"
+  },
+  {
+    "id": "g2_physics_028_ex08",
+    "knowledge_id": "g2_physics_028",
+    "question": "选择题：光现象的辨析与应用的单位（或相关物理量）是（  ）\nA. 单位A\nB. 单位B\nC. 单位C\nD. 单位D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_physics_028_ex09",
+    "knowledge_id": "g2_physics_028",
+    "question": "填空题：光现象的辨析与应用的关键特征是______。",
+    "answer": "答案：根据知识点填写\n解析：光现象的辨析与应用的核心特征。"
+  },
+  {
+    "id": "g2_physics_028_ex10",
+    "knowledge_id": "g2_physics_028",
+    "question": "综合题：结合光现象的辨析与应用和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  }
+]

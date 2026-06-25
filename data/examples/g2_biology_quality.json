@@ -1,0 +1,3962 @@
+[
+  {
+    "id": "g2_biology_u001_ex01",
+    "knowledge_id": "g2_biology_u001",
+    "question": "选择题：下列动物类群中，按照进化顺序从简单到复杂排列正确的是（  ）\nA. 软体动物→环节动物→节肢动物\nB. 腔肠动物→扁形动物→线形动物\nC. 节肢动物→软体动物→环节动物\nD. 线形动物→腔肠动物→扁形动物",
+    "answer": "答案：B\n解析：无脊椎动物进化顺序：原生动物→腔肠动物→扁形动物→线形动物→环节动物→软体动物→节肢动物。"
+  },
+  {
+    "id": "g2_biology_u001_ex02",
+    "knowledge_id": "g2_biology_u001",
+    "question": "填空题：无脊椎动物中种类最多、数量最大、分布最广的类群是______。",
+    "answer": "答案：节肢动物\n解析：节肢动物是动物界中最大的类群，包括昆虫、蜘蛛、蜈蚣、虾、蟹等。"
+  },
+  {
+    "id": "g2_biology_u001_ex03",
+    "knowledge_id": "g2_biology_u001",
+    "question": "选择题：下列动物中，属于环节动物的是（  ）\nA. 蛔虫\nB. 蚯蚓\nC. 蜗牛\nD. 蝗虫",
+    "answer": "答案：B\n解析：蚯蚓身体分节，有刚毛，属于环节动物。蛔虫是线形动物，蜗牛是软体动物，蝗虫是节肢动物。"
+  },
+  {
+    "id": "g2_biology_u001_ex04",
+    "knowledge_id": "g2_biology_u001",
+    "question": "判断题：原生动物是由单细胞构成的动物。",
+    "answer": "答案：正确\n解析：原生动物是最原始、最简单的动物，整个身体由一个细胞构成。"
+  },
+  {
+    "id": "g2_biology_u001_ex05",
+    "knowledge_id": "g2_biology_u001",
+    "question": "解答题：请简述无脊椎动物各类群的主要特征及其代表动物。",
+    "answer": "答案：原生动物（单细胞，如草履虫）；腔肠动物（辐射对称，有口无肛门，如水螅）；扁形动物（两侧对称，三胚层，如涡虫）；线形动物（细长如线，假体腔，如蛔虫）；环节动物（分节，真体腔，如蚯蚓）；软体动物（身体柔软，外套膜，如蜗牛）；节肢动物（身体分节，外骨骼，如蝗虫）。\n解析：考察对无脊椎动物各类群的理解。"
+  },
+  {
+    "id": "g2_biology_u001_ex06",
+    "knowledge_id": "g2_biology_u001",
+    "question": "选择题：下列动物中，有口无肛门的是（  ）\nA. 水螅\nB. 蚯蚓\nC. 蜗牛\nD. 蛔虫",
+    "answer": "答案：A\n解析：腔肠动物（如水螅）有口无肛门，食物从口进入，残渣也从口排出。"
+  },
+  {
+    "id": "g2_biology_u001_ex07",
+    "knowledge_id": "g2_biology_u001",
+    "question": "填空题：身体分节是______动物和______动物的重要特征。",
+    "answer": "答案：环节，节肢\n解析：环节动物和节肢动物的身体都具有分节现象。"
+  },
+  {
+    "id": "g2_biology_u001_ex08",
+    "knowledge_id": "g2_biology_u001",
+    "question": "判断题：软体动物都有贝壳。",
+    "answer": "答案：错误\n解析：大多数软体动物有贝壳，但乌贼、章鱼等头足类动物的贝壳退化。"
+  },
+  {
+    "id": "g2_biology_u001_ex09",
+    "knowledge_id": "g2_biology_u001",
+    "question": "解答题：为什么说节肢动物是动物界中最高等的无脊椎动物？",
+    "answer": "答案：节肢动物身体分节，有外骨骼保护，有分节的附肢，感觉器官发达，适应能力强，种类最多、分布最广。\n解析：考察对节肢动物特征的理解。"
+  },
+  {
+    "id": "g2_biology_u001_ex10",
+    "knowledge_id": "g2_biology_u001",
+    "question": "选择题：下列关于无脊椎动物进化的说法，正确的是（  ）\nA. 越高等的动物身体越简单\nB. 进化顺序是从复杂到简单\nC. 节肢动物是最高等的无脊椎动物\nD. 原生动物是最高等的无脊椎动物",
+    "answer": "答案：C\n解析：生物进化总体趋势是从简单到复杂、从低等到高等。节肢动物是最高等的无脊椎动物。"
+  },
+  {
+    "id": "g2_biology_u002_ex01",
+    "knowledge_id": "g2_biology_u002",
+    "question": "选择题：下列生物中，属于原生动物的是（  ）\nA. 细菌\nB. 草履虫\nC. 酵母菌\nD. 衣藻",
+    "answer": "答案：B\n解析：草履虫是单细胞动物，属于原生动物。细菌是原核生物，酵母菌是真菌，衣藻是植物。"
+  },
+  {
+    "id": "g2_biology_u002_ex02",
+    "knowledge_id": "g2_biology_u002",
+    "question": "填空题：原生动物的整个身体由______个细胞构成。",
+    "answer": "答案：一\n解析：原生动物是单细胞动物，整个身体只有一个细胞。"
+  },
+  {
+    "id": "g2_biology_u002_ex03",
+    "knowledge_id": "g2_biology_u002",
+    "question": "选择题：草履虫的运动器官是（  ）\nA. 伪足\nB. 纤毛\nC. 鞭毛\nD. 刚毛",
+    "answer": "答案：B\n解析：草履虫全身布满纤毛，依靠纤毛摆动进行运动。"
+  },
+  {
+    "id": "g2_biology_u002_ex04",
+    "knowledge_id": "g2_biology_u002",
+    "question": "判断题：变形虫依靠伪足进行运动和摄食。",
+    "answer": "答案：正确\n解析：变形虫通过伸出伪足来移动和捕捉食物。"
+  },
+  {
+    "id": "g2_biology_u002_ex05",
+    "knowledge_id": "g2_biology_u002",
+    "question": "解答题：原生动物的一个细胞是如何完成全部生命活动的？",
+    "answer": "答案：原生动物的单个细胞内有各种细胞器，如纤毛用于运动，食物泡用于消化，伸缩泡用于排泄，细胞核控制生命活动等。\n解析：考察对单细胞生物结构和功能的理解。"
+  },
+  {
+    "id": "g2_biology_u002_ex06",
+    "knowledge_id": "g2_biology_u002",
+    "question": "选择题：下列关于原生动物的说法，错误的是（  ）\nA. 都是单细胞生物\nB. 都是寄生生活\nC. 能完成全部生命活动\nD. 是最原始的动物",
+    "answer": "答案：B\n解析：原生动物有的自由生活（如草履虫），有的寄生生活（如疟原虫）。"
+  },
+  {
+    "id": "g2_biology_u002_ex07",
+    "knowledge_id": "g2_biology_u002",
+    "question": "填空题：能引起疟疾的原生动物是______。",
+    "answer": "答案：疟原虫\n解析：疟原虫通过按蚊传播，能引起疟疾。"
+  },
+  {
+    "id": "g2_biology_u002_ex08",
+    "knowledge_id": "g2_biology_u002",
+    "question": "判断题：原生动物是动物界中最低等的类群。",
+    "answer": "答案：正确\n解析：原生动物结构最简单，是动物进化的起点。"
+  },
+  {
+    "id": "g2_biology_u002_ex09",
+    "knowledge_id": "g2_biology_u002",
+    "question": "解答题：观察草履虫时，为什么要在载玻片的培养液中放几丝棉花纤维？",
+    "answer": "答案：限制草履虫的运动速度，便于观察。\n解析：草履虫运动速度较快，放棉花纤维可以减慢其运动。"
+  },
+  {
+    "id": "g2_biology_u002_ex10",
+    "knowledge_id": "g2_biology_u002",
+    "question": "选择题：原生动物与其他动物的主要区别是（  ）\nA. 体型微小\nB. 单细胞\nC. 生活在水中\nD. 没有细胞壁",
+    "answer": "答案：B\n解析：原生动物是单细胞动物，这是与其他多细胞动物的根本区别。"
+  },
+  {
+    "id": "g2_biology_u003_ex01",
+    "knowledge_id": "g2_biology_u003",
+    "question": "选择题：下列动物中，属于腔肠动物的是（  ）\nA. 涡虫\nB. 水螅\nC. 蛔虫\nD. 蚯蚓",
+    "answer": "答案：B\n解析：水螅是腔肠动物，身体呈辐射对称，有口无肛门。"
+  },
+  {
+    "id": "g2_biology_u003_ex02",
+    "knowledge_id": "g2_biology_u003",
+    "question": "填空题：腔肠动物的身体呈______对称，有______无______。",
+    "answer": "答案：辐射，口，肛门\n解析：腔肠动物身体呈辐射对称，有口无肛门。"
+  },
+  {
+    "id": "g2_biology_u003_ex03",
+    "knowledge_id": "g2_biology_u003",
+    "question": "选择题：水螅的触手用于（  ）\nA. 运动\nB. 捕食\nC. 防御\nD. 呼吸",
+    "answer": "答案：B\n解析：水螅的触手上有刺细胞，用于捕捉食物。"
+  },
+  {
+    "id": "g2_biology_u003_ex04",
+    "knowledge_id": "g2_biology_u003",
+    "question": "判断题：珊瑚虫属于腔肠动物。",
+    "answer": "答案：正确\n解析：珊瑚虫身体呈辐射对称，有口无肛门，属于腔肠动物。"
+  },
+  {
+    "id": "g2_biology_u003_ex05",
+    "knowledge_id": "g2_biology_u003",
+    "question": "解答题：腔肠动物和原生动物相比，有哪些进化上的进步？",
+    "answer": "答案：腔肠动物出现了组织分化（内胚层、外胚层），身体呈辐射对称，有了简单的消化腔。\n解析：考察生物进化的理解。"
+  },
+  {
+    "id": "g2_biology_u003_ex06",
+    "knowledge_id": "g2_biology_u003",
+    "question": "选择题：下列关于腔肠动物的说法，正确的是（  ）\nA. 有口有肛门\nB. 身体扁平\nC. 有刺细胞\nD. 生活在陆地上",
+    "answer": "答案：C\n解析：腔肠动物有刺细胞用于捕食和防御。"
+  },
+  {
+    "id": "g2_biology_u003_ex07",
+    "knowledge_id": "g2_biology_u003",
+    "question": "填空题：珊瑚礁是由______分泌的石灰质外壳堆积形成的。",
+    "answer": "答案：珊瑚虫\n解析：珊瑚虫分泌石灰质外壳，堆积形成珊瑚礁。"
+  },
+  {
+    "id": "g2_biology_u003_ex08",
+    "knowledge_id": "g2_biology_u003",
+    "question": "判断题：腔肠动物都是固着生活的。",
+    "answer": "答案：错误\n解析：水螅营固着生活，但水母营漂浮生活。"
+  },
+  {
+    "id": "g2_biology_u003_ex09",
+    "knowledge_id": "g2_biology_u003",
+    "question": "解答题：为什么说腔肠动物是真正后生动物的开始？",
+    "answer": "答案：腔肠动物出现了组织分化，有了内胚层和外胚层，身体结构比原生动物复杂得多。\n解析：考察对生物进化的理解。"
+  },
+  {
+    "id": "g2_biology_u003_ex10",
+    "knowledge_id": "g2_biology_u003",
+    "question": "选择题：腔肠动物的消化方式是（  ）\nA. 细胞内消化\nB. 细胞外消化\nC. 既有细胞内又有细胞外消化\nD. 没有消化",
+    "answer": "答案：C\n解析：腔肠动物既有细胞内消化（食物颗粒被细胞吞噬），也有细胞外消化（消化腔中的消化酶）。"
+  },
+  {
+    "id": "g2_biology_u004_ex01",
+    "knowledge_id": "g2_biology_u004",
+    "question": "选择题：下列动物中，属于扁形动物的是（  ）\nA. 水螅\nB. 涡虫\nC. 蛔虫\nD. 蚯蚓",
+    "answer": "答案：B\n解析：涡虫身体扁平，呈柳叶状，有眼点，属于扁形动物。"
+  },
+  {
+    "id": "g2_biology_u004_ex02",
+    "knowledge_id": "g2_biology_u004",
+    "question": "填空题：扁形动物的身体呈______对称，有______个胚层。",
+    "answer": "答案：两侧（左右），三\n解析：扁形动物身体呈两侧对称，有内胚层、中胚层、外胚层三个胚层。"
+  },
+  {
+    "id": "g2_biology_u004_ex03",
+    "knowledge_id": "g2_biology_u004",
+    "question": "选择题：扁形动物与腔肠动物相比，进化上的进步是（  ）\nA. 身体呈辐射对称\nB. 出现中胚层\nC. 有口无肛门\nD. 体型更小",
+    "answer": "答案：B\n解析：扁形动物出现了中胚层，为器官系统的形成奠定了基础。"
+  },
+  {
+    "id": "g2_biology_u004_ex04",
+    "knowledge_id": "g2_biology_u004",
+    "question": "判断题：血吸虫属于扁形动物。",
+    "answer": "答案：正确\n解析：血吸虫身体扁平，两侧对称，属于扁形动物。"
+  },
+  {
+    "id": "g2_biology_u004_ex05",
+    "knowledge_id": "g2_biology_u004",
+    "question": "解答题：两侧对称对动物的进化有什么意义？",
+    "answer": "答案：两侧对称使动物身体有了前后、左右、背腹之分，运动更加定向，感觉器官集中在前端，有利于主动寻找食物和逃避敌害。\n解析：考察对生物进化的理解。"
+  },
+  {
+    "id": "g2_biology_u004_ex06",
+    "knowledge_id": "g2_biology_u004",
+    "question": "选择题：涡虫的眼点用于（  ）\nA. 看东西\nB. 感光\nC. 捕食\nD. 防御",
+    "answer": "答案：B\n解析：涡虫的眼点只能感受光线强弱，不能成像。"
+  },
+  {
+    "id": "g2_biology_u004_ex07",
+    "knowledge_id": "g2_biology_u004",
+    "question": "填空题：扁形动物中营自由生活的代表是______，营寄生生活的代表有______。",
+    "answer": "答案：涡虫，血吸虫（或华枝睾吸虫）\n解析：涡虫自由生活，血吸虫等寄生生活。"
+  },
+  {
+    "id": "g2_biology_u004_ex08",
+    "knowledge_id": "g2_biology_u004",
+    "question": "判断题：扁形动物都有三个胚层。",
+    "answer": "答案：正确\n解析：三个胚层是扁形动物的重要特征。"
+  },
+  {
+    "id": "g2_biology_u004_ex09",
+    "knowledge_id": "g2_biology_u004",
+    "question": "解答题：寄生生活的扁形动物有哪些适应寄生生活的特征？",
+    "answer": "答案：体表有角质层防止消化液侵蚀，生殖器官发达，消化系统退化，有特殊的附着器官。\n解析：考察对寄生生物适应性的理解。"
+  },
+  {
+    "id": "g2_biology_u004_ex10",
+    "knowledge_id": "g2_biology_u004",
+    "question": "选择题：下列关于扁形动物的说法，错误的是（  ）\nA. 身体扁平\nB. 两侧对称\nC. 有口有肛门\nD. 有三个胚层",
+    "answer": "答案：C\n解析：扁形动物有口无肛门。"
+  },
+  {
+    "id": "g2_biology_u005_ex01",
+    "knowledge_id": "g2_biology_u005",
+    "question": "选择题：下列动物中，属于线形动物的是（  ）\nA. 涡虫\nB. 蚯蚓\nC. 蛔虫\nD. 蜗牛",
+    "answer": "答案：C\n解析：蛔虫身体细长如线，有假体腔，属于线形动物。"
+  },
+  {
+    "id": "g2_biology_u005_ex02",
+    "knowledge_id": "g2_biology_u005",
+    "question": "填空题：线形动物身体细长呈______形，体表有一层______层。",
+    "answer": "答案：线，角质\n解析：线形动物身体细长呈线形，体表有角质层防止消化液侵蚀。"
+  },
+  {
+    "id": "g2_biology_u005_ex03",
+    "knowledge_id": "g2_biology_u005",
+    "question": "选择题：线形动物的主要特征是（  ）\nA. 身体分节\nB. 有假体腔\nC. 有真体腔\nD. 有贝壳",
+    "answer": "答案：B\n解析：线形动物开始出现假体腔。"
+  },
+  {
+    "id": "g2_biology_u005_ex04",
+    "knowledge_id": "g2_biology_u005",
+    "question": "判断题：蛔虫是常见的人体寄生虫。",
+    "answer": "答案：正确\n解析：蛔虫成虫寄生在人体小肠内，可引起蛔虫病。"
+  },
+  {
+    "id": "g2_biology_u005_ex05",
+    "knowledge_id": "g2_biology_u005",
+    "question": "解答题：如何预防蛔虫病？",
+    "answer": "答案：注意个人卫生，饭前便后洗手，不吃生冷食物，不喝生水，粪便无害化处理。\n解析：考察卫生常识和对寄生虫的了解。"
+  },
+  {
+    "id": "g2_biology_u005_ex06",
+    "knowledge_id": "g2_biology_u005",
+    "question": "选择题：蛔虫的消化器官特点是（  ）\nA. 发达\nB. 退化\nC. 没有\nD. 只有口",
+    "answer": "答案：B\n解析：蛔虫寄生在人体内，消化器官退化，依靠宿主的营养。"
+  },
+  {
+    "id": "g2_biology_u005_ex07",
+    "knowledge_id": "g2_biology_u005",
+    "question": "填空题：蛲虫常在______爬到肛门处产卵。",
+    "answer": "答案：夜间\n解析：蛲虫常在夜间爬到肛门处产卵，引起肛门瘙痒。"
+  },
+  {
+    "id": "g2_biology_u005_ex08",
+    "knowledge_id": "g2_biology_u005",
+    "question": "判断题：所有线形动物都是寄生生活的。",
+    "answer": "答案：错误\n解析：线形动物有些自由生活，有些寄生生活。"
+  },
+  {
+    "id": "g2_biology_u005_ex09",
+    "knowledge_id": "g2_biology_u005",
+    "question": "解答题：假体腔和真体腔有什么区别？",
+    "answer": "答案：假体腔的体腔壁没有肌肉层，真体腔的体腔壁有肌肉层。\n解析：考察对动物体腔的理解。"
+  },
+  {
+    "id": "g2_biology_u005_ex10",
+    "knowledge_id": "g2_biology_u005",
+    "question": "选择题：下列关于线形动物的说法，正确的是（  ）\nA. 身体分节\nB. 有口有肛门\nC. 有外骨骼\nD. 生活在水中",
+    "answer": "答案：B\n解析：线形动物有口有肛门，这是比扁形动物进化的地方。"
+  },
+  {
+    "id": "g2_biology_u006_ex01",
+    "knowledge_id": "g2_biology_u006",
+    "question": "选择题：下列动物中，属于环节动物的是（  ）\nA. 蛔虫\nB. 蚯蚓\nC. 蜗牛\nD. 蝗虫",
+    "answer": "答案：B\n解析：蚯蚓身体分节，有刚毛，属于环节动物。"
+  },
+  {
+    "id": "g2_biology_u006_ex02",
+    "knowledge_id": "g2_biology_u006",
+    "question": "填空题：环节动物的身体由许多______的体节构成。",
+    "answer": "答案：相似\n解析：环节动物身体分节，体节相似。"
+  },
+  {
+    "id": "g2_biology_u006_ex03",
+    "knowledge_id": "g2_biology_u006",
+    "question": "选择题：蚯蚓的运动器官是（  ）\nA. 纤毛\nB. 刚毛\nC. 疣足\nD. 四肢",
+    "answer": "答案：B\n解析：蚯蚓依靠刚毛辅助运动。"
+  },
+  {
+    "id": "g2_biology_u006_ex04",
+    "knowledge_id": "g2_biology_u006",
+    "question": "判断题：蚯蚓对土壤肥力有重要作用。",
+    "answer": "答案：正确\n解析：蚯蚓以土壤中的有机质为食，排出的粪便富含养分，能提高土壤肥力。"
+  },
+  {
+    "id": "g2_biology_u006_ex05",
+    "knowledge_id": "g2_biology_u006",
+    "question": "解答题：蚯蚓身体分节有什么意义？",
+    "answer": "答案：身体分节使运动更加灵活，各体节可以独立运动，增强了适应能力。\n解析：考察对分节现象的理解。"
+  },
+  {
+    "id": "g2_biology_u006_ex06",
+    "knowledge_id": "g2_biology_u006",
+    "question": "选择题：蚯蚓的环带位于（  ）\nA. 前端\nB. 后端\nC. 中部\nD. 尾部",
+    "answer": "答案：A\n解析：蚯蚓的环带位于身体前端，是生殖带。"
+  },
+  {
+    "id": "g2_biology_u006_ex07",
+    "knowledge_id": "g2_biology_u006",
+    "question": "填空题：环节动物出现了______体腔。",
+    "answer": "答案：真\n解析：环节动物出现了真体腔，体腔壁有肌肉层。"
+  },
+  {
+    "id": "g2_biology_u006_ex08",
+    "knowledge_id": "g2_biology_u006",
+    "question": "判断题：水蛭属于环节动物。",
+    "answer": "答案：正确\n解析：水蛭（蚂蟥）身体分节，属于环节动物。"
+  },
+  {
+    "id": "g2_biology_u006_ex09",
+    "knowledge_id": "g2_biology_u006",
+    "question": "解答题：为什么蚯蚓被称为\"生态系统工程师\"？",
+    "answer": "答案：蚯蚓能疏松土壤，提高土壤肥力，促进物质循环，对生态系统有重要作用。\n解析：考察对蚯蚓生态作用的理解。"
+  },
+  {
+    "id": "g2_biology_u006_ex10",
+    "knowledge_id": "g2_biology_u006",
+    "question": "选择题：下列关于环节动物的说法，错误的是（  ）\nA. 身体分节\nB. 有真体腔\nC. 有外骨骼\nD. 多数有刚毛",
+    "answer": "答案：C\n解析：外骨骼是节肢动物的特征，环节动物没有外骨骼。"
+  },
+  {
+    "id": "g2_biology_u007_ex01",
+    "knowledge_id": "g2_biology_u007",
+    "question": "选择题：下列动物中，属于软体动物的是（  ）\nA. 蚯蚓\nB. 蜗牛\nC. 蝗虫\nD. 蛔虫",
+    "answer": "答案：B\n解析：蜗牛身体柔软，有外套膜和贝壳，属于软体动物。"
+  },
+  {
+    "id": "g2_biology_u007_ex02",
+    "knowledge_id": "g2_biology_u007",
+    "question": "填空题：软体动物身体柔软，有______膜和______。",
+    "answer": "答案：外套，贝壳\n解析：软体动物有外套膜，多数有贝壳。"
+  },
+  {
+    "id": "g2_biology_u007_ex03",
+    "knowledge_id": "g2_biology_u007",
+    "question": "选择题：河蚌的呼吸器官是（  ）\nA. 鳃\nB. 肺\nC. 皮肤\nD. 气管",
+    "answer": "答案：A\n解析：河蚌用鳃呼吸。"
+  },
+  {
+    "id": "g2_biology_u007_ex04",
+    "knowledge_id": "g2_biology_u007",
+    "question": "判断题：乌贼属于软体动物。",
+    "answer": "答案：正确\n解析：乌贼身体柔软，有外套膜，贝壳退化，属于软体动物。"
+  },
+  {
+    "id": "g2_biology_u007_ex05",
+    "knowledge_id": "g2_biology_u007",
+    "question": "解答题：软体动物贝壳的作用是什么？",
+    "answer": "答案：保护柔软的身体，防止外界伤害和水分蒸发。\n解析：考察对贝壳功能的理解。"
+  },
+  {
+    "id": "g2_biology_u007_ex06",
+    "knowledge_id": "g2_biology_u007",
+    "question": "选择题：下列关于软体动物的说法，正确的是（  ）\nA. 都有贝壳\nB. 都生活在水中\nC. 身体柔软\nD. 身体分节",
+    "answer": "答案：C\n解析：软体动物的主要特征是身体柔软。"
+  },
+  {
+    "id": "g2_biology_u007_ex07",
+    "knowledge_id": "g2_biology_u007",
+    "question": "填空题：软体动物是动物界中第______大类群。",
+    "answer": "答案：二\n解析：软体动物是仅次于节肢动物的第二大类群。"
+  },
+  {
+    "id": "g2_biology_u007_ex08",
+    "knowledge_id": "g2_biology_u007",
+    "question": "判断题：章鱼有贝壳。",
+    "answer": "答案：错误\n解析：章鱼的贝壳退化。"
+  },
+  {
+    "id": "g2_biology_u007_ex09",
+    "knowledge_id": "g2_biology_u007",
+    "question": "解答题：为什么说软体动物是动物界中多样性很高的类群？",
+    "answer": "答案：软体动物生活环境多样（水生、陆生），形态多样（有壳、无壳），食性多样，种类繁多。\n解析：考察对软体动物多样性的理解。"
+  },
+  {
+    "id": "g2_biology_u007_ex10",
+    "knowledge_id": "g2_biology_u007",
+    "question": "选择题：蜗牛的运动器官是（  ）\nA. 足\nB. 鳍\nC. 四肢\nD. 刚毛",
+    "answer": "答案：A\n解析：蜗牛的足宽大，适于爬行。"
+  },
+  {
+    "id": "g2_biology_u008_ex01",
+    "knowledge_id": "g2_biology_u008",
+    "question": "选择题：下列关于\"节肢动物的主要特征\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据节肢动物的主要特征的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u008_ex02",
+    "knowledge_id": "g2_biology_u008",
+    "question": "填空题：节肢动物的主要特征的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：节肢动物的主要特征的核心特征。"
+  },
+  {
+    "id": "g2_biology_u008_ex03",
+    "knowledge_id": "g2_biology_u008",
+    "question": "选择题：节肢动物的主要特征的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u008_ex04",
+    "knowledge_id": "g2_biology_u008",
+    "question": "判断题：节肢动物的主要特征的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u008_ex05",
+    "knowledge_id": "g2_biology_u008",
+    "question": "判断题：节肢动物的主要特征的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u008_ex06",
+    "knowledge_id": "g2_biology_u008",
+    "question": "解答题：请简述节肢动物的主要特征的主要特征。",
+    "answer": "答案：节肢动物是动物界中种类最多、数量最大、分布最广的动物类群。主要特征：身体分部（头、胸、腹三部分）；身体和附肢都分节；体表覆盖外骨骼（外骨骼不能随身体生长，需经蜕皮才能生长）；具有分节的附肢。节肢动物主...\n解析：本题考察对节肢动物的主要特征的理解。"
+  },
+  {
+    "id": "g2_biology_u008_ex07",
+    "knowledge_id": "g2_biology_u008",
+    "question": "解答题：节肢动物的主要特征与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u008_ex08",
+    "knowledge_id": "g2_biology_u008",
+    "question": "选择题：节肢动物的主要特征的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据节肢动物的主要特征的功能判断。"
+  },
+  {
+    "id": "g2_biology_u008_ex09",
+    "knowledge_id": "g2_biology_u008",
+    "question": "填空题：节肢动物的主要特征的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：节肢动物的主要特征的结构特征。"
+  },
+  {
+    "id": "g2_biology_u008_ex10",
+    "knowledge_id": "g2_biology_u008",
+    "question": "综合题：结合节肢动物的主要特征和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u009_ex01",
+    "knowledge_id": "g2_biology_u009",
+    "question": "选择题：下列关于\"昆虫纲的主要特征\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据昆虫纲的主要特征的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u009_ex02",
+    "knowledge_id": "g2_biology_u009",
+    "question": "填空题：昆虫纲的主要特征的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：昆虫纲的主要特征的核心特征。"
+  },
+  {
+    "id": "g2_biology_u009_ex03",
+    "knowledge_id": "g2_biology_u009",
+    "question": "选择题：昆虫纲的主要特征的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u009_ex04",
+    "knowledge_id": "g2_biology_u009",
+    "question": "判断题：昆虫纲的主要特征的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u009_ex05",
+    "knowledge_id": "g2_biology_u009",
+    "question": "判断题：昆虫纲的主要特征的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u009_ex06",
+    "knowledge_id": "g2_biology_u009",
+    "question": "解答题：请简述昆虫纲的主要特征的主要特征。",
+    "answer": "答案：昆虫是节肢动物中种类最多的一个纲（约100万种）。主要特征：身体分为头、胸、腹三部分；头部有一对触角、一对复眼和三对口器；胸部有三对足，一般有两对翅（少数无翅）；呼吸器官为气管系统；多数种类进行变态发...\n解析：本题考察对昆虫纲的主要特征的理解。"
+  },
+  {
+    "id": "g2_biology_u009_ex07",
+    "knowledge_id": "g2_biology_u009",
+    "question": "解答题：昆虫纲的主要特征与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u009_ex08",
+    "knowledge_id": "g2_biology_u009",
+    "question": "选择题：昆虫纲的主要特征的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据昆虫纲的主要特征的功能判断。"
+  },
+  {
+    "id": "g2_biology_u009_ex09",
+    "knowledge_id": "g2_biology_u009",
+    "question": "填空题：昆虫纲的主要特征的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：昆虫纲的主要特征的结构特征。"
+  },
+  {
+    "id": "g2_biology_u009_ex10",
+    "knowledge_id": "g2_biology_u009",
+    "question": "综合题：结合昆虫纲的主要特征和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u010_ex01",
+    "knowledge_id": "g2_biology_u010",
+    "question": "选择题：下列关于\"甲壳纲的主要特征\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据甲壳纲的主要特征的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u010_ex02",
+    "knowledge_id": "g2_biology_u010",
+    "question": "填空题：甲壳纲的主要特征的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：甲壳纲的主要特征的核心特征。"
+  },
+  {
+    "id": "g2_biology_u010_ex03",
+    "knowledge_id": "g2_biology_u010",
+    "question": "选择题：甲壳纲的主要特征的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u010_ex04",
+    "knowledge_id": "g2_biology_u010",
+    "question": "判断题：甲壳纲的主要特征的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u010_ex05",
+    "knowledge_id": "g2_biology_u010",
+    "question": "判断题：甲壳纲的主要特征的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u010_ex06",
+    "knowledge_id": "g2_biology_u010",
+    "question": "解答题：请简述甲壳纲的主要特征的主要特征。",
+    "answer": "答案：甲壳纲动物主要特征：身体分为头胸部和腹部两部分；头胸部外面包着坚韧的头胸甲；一般有五对步足用于行走，多对游泳足用于游泳；有两对触角。代表动物：虾和蟹。虾的腹部发达，有尾扇；蟹的腹部退化紧贴头胸部（俗称...\n解析：本题考察对甲壳纲的主要特征的理解。"
+  },
+  {
+    "id": "g2_biology_u010_ex07",
+    "knowledge_id": "g2_biology_u010",
+    "question": "解答题：甲壳纲的主要特征与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u010_ex08",
+    "knowledge_id": "g2_biology_u010",
+    "question": "选择题：甲壳纲的主要特征的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据甲壳纲的主要特征的功能判断。"
+  },
+  {
+    "id": "g2_biology_u010_ex09",
+    "knowledge_id": "g2_biology_u010",
+    "question": "填空题：甲壳纲的主要特征的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：甲壳纲的主要特征的结构特征。"
+  },
+  {
+    "id": "g2_biology_u010_ex10",
+    "knowledge_id": "g2_biology_u010",
+    "question": "综合题：结合甲壳纲的主要特征和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u011_ex01",
+    "knowledge_id": "g2_biology_u011",
+    "question": "选择题：下列关于\"蛛形纲的主要特征\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据蛛形纲的主要特征的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u011_ex02",
+    "knowledge_id": "g2_biology_u011",
+    "question": "填空题：蛛形纲的主要特征的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：蛛形纲的主要特征的核心特征。"
+  },
+  {
+    "id": "g2_biology_u011_ex03",
+    "knowledge_id": "g2_biology_u011",
+    "question": "选择题：蛛形纲的主要特征的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u011_ex04",
+    "knowledge_id": "g2_biology_u011",
+    "question": "判断题：蛛形纲的主要特征的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u011_ex05",
+    "knowledge_id": "g2_biology_u011",
+    "question": "判断题：蛛形纲的主要特征的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u011_ex06",
+    "knowledge_id": "g2_biology_u011",
+    "question": "解答题：请简述蛛形纲的主要特征的主要特征。",
+    "answer": "答案：蛛形纲动物的主要特征：身体分为头胸部和腹部两部分（有的愈合）；有四对足（共八只步足）；没有触角和翅；多数种类结网捕食。蜘蛛的腹部后端有纺绩器，可吐丝结网。蝎子腹部较长，末端有毒钩。蜱螨（如恙螨、疥螨）...\n解析：本题考察对蛛形纲的主要特征的理解。"
+  },
+  {
+    "id": "g2_biology_u011_ex07",
+    "knowledge_id": "g2_biology_u011",
+    "question": "解答题：蛛形纲的主要特征与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u011_ex08",
+    "knowledge_id": "g2_biology_u011",
+    "question": "选择题：蛛形纲的主要特征的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据蛛形纲的主要特征的功能判断。"
+  },
+  {
+    "id": "g2_biology_u011_ex09",
+    "knowledge_id": "g2_biology_u011",
+    "question": "填空题：蛛形纲的主要特征的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：蛛形纲的主要特征的结构特征。"
+  },
+  {
+    "id": "g2_biology_u011_ex10",
+    "knowledge_id": "g2_biology_u011",
+    "question": "综合题：结合蛛形纲的主要特征和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u012_ex01",
+    "knowledge_id": "g2_biology_u012",
+    "question": "选择题：下列关于\"鱼类的特征\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据鱼类的特征的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u012_ex02",
+    "knowledge_id": "g2_biology_u012",
+    "question": "填空题：鱼类的特征的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：鱼类的特征的核心特征。"
+  },
+  {
+    "id": "g2_biology_u012_ex03",
+    "knowledge_id": "g2_biology_u012",
+    "question": "选择题：鱼类的特征的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u012_ex04",
+    "knowledge_id": "g2_biology_u012",
+    "question": "判断题：鱼类的特征的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u012_ex05",
+    "knowledge_id": "g2_biology_u012",
+    "question": "判断题：鱼类的特征的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u012_ex06",
+    "knowledge_id": "g2_biology_u012",
+    "question": "解答题：请简述鱼类的特征的主要特征。",
+    "answer": "答案：鱼类是脊椎动物中种类最多的类群（约24000种）。主要特征：终生生活在水中；用鳃呼吸，鳃丝密布毛细血管；用鳍游泳；体表覆盖鳞片，分泌黏液减少摩擦；心脏有一心房一心室，血液循环为单循环；体温随环境变化（...\n解析：本题考察对鱼类的特征的理解。"
+  },
+  {
+    "id": "g2_biology_u012_ex07",
+    "knowledge_id": "g2_biology_u012",
+    "question": "解答题：鱼类的特征与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u012_ex08",
+    "knowledge_id": "g2_biology_u012",
+    "question": "选择题：鱼类的特征的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据鱼类的特征的功能判断。"
+  },
+  {
+    "id": "g2_biology_u012_ex09",
+    "knowledge_id": "g2_biology_u012",
+    "question": "填空题：鱼类的特征的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：鱼类的特征的结构特征。"
+  },
+  {
+    "id": "g2_biology_u012_ex10",
+    "knowledge_id": "g2_biology_u012",
+    "question": "综合题：结合鱼类的特征和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u013_ex01",
+    "knowledge_id": "g2_biology_u013",
+    "question": "选择题：下列关于\"两栖动物的特征\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据两栖动物的特征的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u013_ex02",
+    "knowledge_id": "g2_biology_u013",
+    "question": "填空题：两栖动物的特征的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：两栖动物的特征的核心特征。"
+  },
+  {
+    "id": "g2_biology_u013_ex03",
+    "knowledge_id": "g2_biology_u013",
+    "question": "选择题：两栖动物的特征的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u013_ex04",
+    "knowledge_id": "g2_biology_u013",
+    "question": "判断题：两栖动物的特征的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u013_ex05",
+    "knowledge_id": "g2_biology_u013",
+    "question": "判断题：两栖动物的特征的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u013_ex06",
+    "knowledge_id": "g2_biology_u013",
+    "question": "解答题：请简述两栖动物的特征的主要特征。",
+    "answer": "答案：两栖动物的主要特征：幼体（蝌蚪）生活在水中，用鳃呼吸，经过变态发育变为成体；成体水陆两栖生活，用肺呼吸，同时皮肤可辅助呼吸；皮肤裸露、湿润，能分泌黏液；体温随环境变化（变温动物）；体外受精，卵在水中受...\n解析：本题考察对两栖动物的特征的理解。"
+  },
+  {
+    "id": "g2_biology_u013_ex07",
+    "knowledge_id": "g2_biology_u013",
+    "question": "解答题：两栖动物的特征与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u013_ex08",
+    "knowledge_id": "g2_biology_u013",
+    "question": "选择题：两栖动物的特征的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据两栖动物的特征的功能判断。"
+  },
+  {
+    "id": "g2_biology_u013_ex09",
+    "knowledge_id": "g2_biology_u013",
+    "question": "填空题：两栖动物的特征的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：两栖动物的特征的结构特征。"
+  },
+  {
+    "id": "g2_biology_u013_ex10",
+    "knowledge_id": "g2_biology_u013",
+    "question": "综合题：结合两栖动物的特征和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u014_ex01",
+    "knowledge_id": "g2_biology_u014",
+    "question": "选择题：下列关于\"爬行动物的特征\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据爬行动物的特征的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u014_ex02",
+    "knowledge_id": "g2_biology_u014",
+    "question": "填空题：爬行动物的特征的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：爬行动物的特征的核心特征。"
+  },
+  {
+    "id": "g2_biology_u014_ex03",
+    "knowledge_id": "g2_biology_u014",
+    "question": "选择题：爬行动物的特征的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u014_ex04",
+    "knowledge_id": "g2_biology_u014",
+    "question": "判断题：爬行动物的特征的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u014_ex05",
+    "knowledge_id": "g2_biology_u014",
+    "question": "判断题：爬行动物的特征的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u014_ex06",
+    "knowledge_id": "g2_biology_u014",
+    "question": "解答题：请简述爬行动物的特征的主要特征。",
+    "answer": "答案：爬行动物的主要特征：体表覆盖角质鳞片或甲，能防止水分散失，适于陆地生活；用肺呼吸；体温随环境变化（变温动物）；体内受精，卵有坚韧的卵壳保护；多数种类在陆地上产卵。爬行动物是真正的陆生脊椎动物。代表动物...\n解析：本题考察对爬行动物的特征的理解。"
+  },
+  {
+    "id": "g2_biology_u014_ex07",
+    "knowledge_id": "g2_biology_u014",
+    "question": "解答题：爬行动物的特征与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u014_ex08",
+    "knowledge_id": "g2_biology_u014",
+    "question": "选择题：爬行动物的特征的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据爬行动物的特征的功能判断。"
+  },
+  {
+    "id": "g2_biology_u014_ex09",
+    "knowledge_id": "g2_biology_u014",
+    "question": "填空题：爬行动物的特征的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：爬行动物的特征的结构特征。"
+  },
+  {
+    "id": "g2_biology_u014_ex10",
+    "knowledge_id": "g2_biology_u014",
+    "question": "综合题：结合爬行动物的特征和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u015_ex01",
+    "knowledge_id": "g2_biology_u015",
+    "question": "选择题：下列关于\"鸟类的特征\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据鸟类的特征的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u015_ex02",
+    "knowledge_id": "g2_biology_u015",
+    "question": "填空题：鸟类的特征的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：鸟类的特征的核心特征。"
+  },
+  {
+    "id": "g2_biology_u015_ex03",
+    "knowledge_id": "g2_biology_u015",
+    "question": "选择题：鸟类的特征的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u015_ex04",
+    "knowledge_id": "g2_biology_u015",
+    "question": "判断题：鸟类的特征的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u015_ex05",
+    "knowledge_id": "g2_biology_u015",
+    "question": "判断题：鸟类的特征的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u015_ex06",
+    "knowledge_id": "g2_biology_u015",
+    "question": "解答题：请简述鸟类的特征的主要特征。",
+    "answer": "答案：鸟类的主要特征：体表覆羽，前肢变为翼，能飞行（少数不能飞行如企鹅、鸵鸟）；骨骼轻而坚固，长骨中空；胸骨发达，有龙骨突；用肺呼吸，有气囊辅助呼吸（双重呼吸）；体温恒定（约42℃），心脏四腔，血液循环双循...\n解析：本题考察对鸟类的特征的理解。"
+  },
+  {
+    "id": "g2_biology_u015_ex07",
+    "knowledge_id": "g2_biology_u015",
+    "question": "解答题：鸟类的特征与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u015_ex08",
+    "knowledge_id": "g2_biology_u015",
+    "question": "选择题：鸟类的特征的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据鸟类的特征的功能判断。"
+  },
+  {
+    "id": "g2_biology_u015_ex09",
+    "knowledge_id": "g2_biology_u015",
+    "question": "填空题：鸟类的特征的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：鸟类的特征的结构特征。"
+  },
+  {
+    "id": "g2_biology_u015_ex10",
+    "knowledge_id": "g2_biology_u015",
+    "question": "综合题：结合鸟类的特征和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u016_ex01",
+    "knowledge_id": "g2_biology_u016",
+    "question": "选择题：下列关于\"哺乳动物的特征\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据哺乳动物的特征的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u016_ex02",
+    "knowledge_id": "g2_biology_u016",
+    "question": "填空题：哺乳动物的特征的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：哺乳动物的特征的核心特征。"
+  },
+  {
+    "id": "g2_biology_u016_ex03",
+    "knowledge_id": "g2_biology_u016",
+    "question": "选择题：哺乳动物的特征的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u016_ex04",
+    "knowledge_id": "g2_biology_u016",
+    "question": "判断题：哺乳动物的特征的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u016_ex05",
+    "knowledge_id": "g2_biology_u016",
+    "question": "判断题：哺乳动物的特征的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u016_ex06",
+    "knowledge_id": "g2_biology_u016",
+    "question": "解答题：请简述哺乳动物的特征的主要特征。",
+    "answer": "答案：哺乳动物的主要特征：体表被毛，保温性能好；体温恒定（约36-37℃）；心脏四腔，血液循环完全双循环；大脑皮层发达，行为复杂；胎生哺乳（是哺乳动物特有的繁殖方式），胚胎在母体子宫内发育，通过胎盘获取营养...\n解析：本题考察对哺乳动物的特征的理解。"
+  },
+  {
+    "id": "g2_biology_u016_ex07",
+    "knowledge_id": "g2_biology_u016",
+    "question": "解答题：哺乳动物的特征与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u016_ex08",
+    "knowledge_id": "g2_biology_u016",
+    "question": "选择题：哺乳动物的特征的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据哺乳动物的特征的功能判断。"
+  },
+  {
+    "id": "g2_biology_u016_ex09",
+    "knowledge_id": "g2_biology_u016",
+    "question": "填空题：哺乳动物的特征的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：哺乳动物的特征的结构特征。"
+  },
+  {
+    "id": "g2_biology_u016_ex10",
+    "knowledge_id": "g2_biology_u016",
+    "question": "综合题：结合哺乳动物的特征和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u017_ex01",
+    "knowledge_id": "g2_biology_u017",
+    "question": "选择题：下列关于\"动物的运动结构\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据动物的运动结构的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u017_ex02",
+    "knowledge_id": "g2_biology_u017",
+    "question": "填空题：动物的运动结构的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：动物的运动结构的核心特征。"
+  },
+  {
+    "id": "g2_biology_u017_ex03",
+    "knowledge_id": "g2_biology_u017",
+    "question": "选择题：动物的运动结构的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u017_ex04",
+    "knowledge_id": "g2_biology_u017",
+    "question": "判断题：动物的运动结构的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u017_ex05",
+    "knowledge_id": "g2_biology_u017",
+    "question": "判断题：动物的运动结构的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u017_ex06",
+    "knowledge_id": "g2_biology_u017",
+    "question": "解答题：请简述动物的运动结构的主要特征。",
+    "answer": "答案：动物的运动主要由运动系统完成，运动系统由骨、关节和肌肉三部分组成。骨起杠杆作用，关节是支点，肌肉起动力作用。骨骼肌包括中间较粗的肌腹和两端较细的肌腱，肌腱结缔组织，将骨骼肌牢固地附着在骨上。一块骨骼肌...\n解析：本题考察对动物的运动结构的理解。"
+  },
+  {
+    "id": "g2_biology_u017_ex07",
+    "knowledge_id": "g2_biology_u017",
+    "question": "解答题：动物的运动结构与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u017_ex08",
+    "knowledge_id": "g2_biology_u017",
+    "question": "选择题：动物的运动结构的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据动物的运动结构的功能判断。"
+  },
+  {
+    "id": "g2_biology_u017_ex09",
+    "knowledge_id": "g2_biology_u017",
+    "question": "填空题：动物的运动结构的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：动物的运动结构的结构特征。"
+  },
+  {
+    "id": "g2_biology_u017_ex10",
+    "knowledge_id": "g2_biology_u017",
+    "question": "综合题：结合动物的运动结构和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u018_ex01",
+    "knowledge_id": "g2_biology_u018",
+    "question": "选择题：下列关于\"关节的结构\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据关节的结构的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u018_ex02",
+    "knowledge_id": "g2_biology_u018",
+    "question": "填空题：关节的结构的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：关节的结构的核心特征。"
+  },
+  {
+    "id": "g2_biology_u018_ex03",
+    "knowledge_id": "g2_biology_u018",
+    "question": "选择题：关节的结构的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u018_ex04",
+    "knowledge_id": "g2_biology_u018",
+    "question": "判断题：关节的结构的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u018_ex05",
+    "knowledge_id": "g2_biology_u018",
+    "question": "判断题：关节的结构的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u018_ex06",
+    "knowledge_id": "g2_biology_u018",
+    "question": "解答题：请简述关节的结构的主要特征。",
+    "answer": "答案：关节是骨连接的主要形式，结构包括：关节面（分为关节头和关节窝，表面光滑覆有关节软骨，可减少摩擦和缓冲震动）；关节囊（由结缔组织构成，内有滑膜层可分泌滑液）；关节腔（关节囊围成的密闭空间，内有滑液）；韧...\n解析：本题考察对关节的结构的理解。"
+  },
+  {
+    "id": "g2_biology_u018_ex07",
+    "knowledge_id": "g2_biology_u018",
+    "question": "解答题：关节的结构与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u018_ex08",
+    "knowledge_id": "g2_biology_u018",
+    "question": "选择题：关节的结构的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据关节的结构的功能判断。"
+  },
+  {
+    "id": "g2_biology_u018_ex09",
+    "knowledge_id": "g2_biology_u018",
+    "question": "填空题：关节的结构的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：关节的结构的结构特征。"
+  },
+  {
+    "id": "g2_biology_u018_ex10",
+    "knowledge_id": "g2_biology_u018",
+    "question": "综合题：结合关节的结构和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u019_ex01",
+    "knowledge_id": "g2_biology_u019",
+    "question": "选择题：下列关于\"骨骼肌的收缩和舒张\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据骨骼肌的收缩和舒张的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u019_ex02",
+    "knowledge_id": "g2_biology_u019",
+    "question": "填空题：骨骼肌的收缩和舒张的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：骨骼肌的收缩和舒张的核心特征。"
+  },
+  {
+    "id": "g2_biology_u019_ex03",
+    "knowledge_id": "g2_biology_u019",
+    "question": "选择题：骨骼肌的收缩和舒张的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u019_ex04",
+    "knowledge_id": "g2_biology_u019",
+    "question": "判断题：骨骼肌的收缩和舒张的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u019_ex05",
+    "knowledge_id": "g2_biology_u019",
+    "question": "判断题：骨骼肌的收缩和舒张的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u019_ex06",
+    "knowledge_id": "g2_biology_u019",
+    "question": "解答题：请简述骨骼肌的收缩和舒张的主要特征。",
+    "answer": "答案：骨骼肌接受神经传来的刺激后会产生收缩。肌肉收缩时变短变粗，牵引骨围绕关节产生运动。但肌肉不能单独完成动作，必须有多块肌肉协调配合。以屈肘和伸肘为例：屈肘时，肱二头肌收缩、肱三头肌舒张；伸肘时，肱三头肌...\n解析：本题考察对骨骼肌的收缩和舒张的理解。"
+  },
+  {
+    "id": "g2_biology_u019_ex07",
+    "knowledge_id": "g2_biology_u019",
+    "question": "解答题：骨骼肌的收缩和舒张与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u019_ex08",
+    "knowledge_id": "g2_biology_u019",
+    "question": "选择题：骨骼肌的收缩和舒张的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据骨骼肌的收缩和舒张的功能判断。"
+  },
+  {
+    "id": "g2_biology_u019_ex09",
+    "knowledge_id": "g2_biology_u019",
+    "question": "填空题：骨骼肌的收缩和舒张的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：骨骼肌的收缩和舒张的结构特征。"
+  },
+  {
+    "id": "g2_biology_u019_ex10",
+    "knowledge_id": "g2_biology_u019",
+    "question": "综合题：结合骨骼肌的收缩和舒张和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u020_ex01",
+    "knowledge_id": "g2_biology_u020",
+    "question": "选择题：下列关于\"动物行为的类型\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据动物行为的类型的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u020_ex02",
+    "knowledge_id": "g2_biology_u020",
+    "question": "填空题：动物行为的类型的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：动物行为的类型的核心特征。"
+  },
+  {
+    "id": "g2_biology_u020_ex03",
+    "knowledge_id": "g2_biology_u020",
+    "question": "选择题：动物行为的类型的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u020_ex04",
+    "knowledge_id": "g2_biology_u020",
+    "question": "判断题：动物行为的类型的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u020_ex05",
+    "knowledge_id": "g2_biology_u020",
+    "question": "判断题：动物行为的类型的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u020_ex06",
+    "knowledge_id": "g2_biology_u020",
+    "question": "解答题：请简述动物行为的类型的主要特征。",
+    "answer": "答案：动物行为是动物对外界环境变化和周围环境的各种刺激所做出的反应。主要类型包括：觅食行为（获取食物的行为）；防御行为（防御敌害，保护自己的行为）；生殖行为（与繁殖后代有关的行为，如求偶、交配、孵卵、育雏）...\n解析：本题考察对动物行为的类型的理解。"
+  },
+  {
+    "id": "g2_biology_u020_ex07",
+    "knowledge_id": "g2_biology_u020",
+    "question": "解答题：动物行为的类型与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u020_ex08",
+    "knowledge_id": "g2_biology_u020",
+    "question": "选择题：动物行为的类型的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据动物行为的类型的功能判断。"
+  },
+  {
+    "id": "g2_biology_u020_ex09",
+    "knowledge_id": "g2_biology_u020",
+    "question": "填空题：动物行为的类型的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：动物行为的类型的结构特征。"
+  },
+  {
+    "id": "g2_biology_u020_ex10",
+    "knowledge_id": "g2_biology_u020",
+    "question": "综合题：结合动物行为的类型和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u021_ex01",
+    "knowledge_id": "g2_biology_u021",
+    "question": "选择题：下列关于\"先天性行为和学习行为\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据先天性行为和学习行为的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u021_ex02",
+    "knowledge_id": "g2_biology_u021",
+    "question": "填空题：先天性行为和学习行为的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：先天性行为和学习行为的核心特征。"
+  },
+  {
+    "id": "g2_biology_u021_ex03",
+    "knowledge_id": "g2_biology_u021",
+    "question": "选择题：先天性行为和学习行为的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u021_ex04",
+    "knowledge_id": "g2_biology_u021",
+    "question": "判断题：先天性行为和学习行为的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u021_ex05",
+    "knowledge_id": "g2_biology_u021",
+    "question": "判断题：先天性行为和学习行为的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u021_ex06",
+    "knowledge_id": "g2_biology_u021",
+    "question": "解答题：请简述先天性行为和学习行为的主要特征。",
+    "answer": "答案：根据行为获得方式可分为：先天性行为（本能行为）是指动物生来就有的，由遗传因素决定的行为，如蜘蛛结网、鸟类迁徙、蜜蜂采蜜、婴儿吃奶等，这类行为具有物种特异性。学习行为则是动物在成长过程中通过学习和经验获...\n解析：本题考察对先天性行为和学习行为的理解。"
+  },
+  {
+    "id": "g2_biology_u021_ex07",
+    "knowledge_id": "g2_biology_u021",
+    "question": "解答题：先天性行为和学习行为与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u021_ex08",
+    "knowledge_id": "g2_biology_u021",
+    "question": "选择题：先天性行为和学习行为的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据先天性行为和学习行为的功能判断。"
+  },
+  {
+    "id": "g2_biology_u021_ex09",
+    "knowledge_id": "g2_biology_u021",
+    "question": "填空题：先天性行为和学习行为的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：先天性行为和学习行为的结构特征。"
+  },
+  {
+    "id": "g2_biology_u021_ex10",
+    "knowledge_id": "g2_biology_u021",
+    "question": "综合题：结合先天性行为和学习行为和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u022_ex01",
+    "knowledge_id": "g2_biology_u022",
+    "question": "选择题：下列关于\"社会行为（社群行为）的特征\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据社会行为（社群行为）的特征的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u022_ex02",
+    "knowledge_id": "g2_biology_u022",
+    "question": "填空题：社会行为（社群行为）的特征的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：社会行为（社群行为）的特征的核心特征。"
+  },
+  {
+    "id": "g2_biology_u022_ex03",
+    "knowledge_id": "g2_biology_u022",
+    "question": "选择题：社会行为（社群行为）的特征的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u022_ex04",
+    "knowledge_id": "g2_biology_u022",
+    "question": "判断题：社会行为（社群行为）的特征的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u022_ex05",
+    "knowledge_id": "g2_biology_u022",
+    "question": "判断题：社会行为（社群行为）的特征的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u022_ex06",
+    "knowledge_id": "g2_biology_u022",
+    "question": "解答题：请简述社会行为（社群行为）的特征的主要特征。",
+    "answer": "答案：社会行为（社群行为）是指群体内部不同成员之间分工合作，共同维持群体生活的行为。具有以下特征：群体内部形成一定的组织；成员之间有明确的分工；有的还有等级次序。典型的社群行为例子：蜜蜂群体中有蜂王（专职繁...\n解析：本题考察对社会行为（社群行为）的特征的理解。"
+  },
+  {
+    "id": "g2_biology_u022_ex07",
+    "knowledge_id": "g2_biology_u022",
+    "question": "解答题：社会行为（社群行为）的特征与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u022_ex08",
+    "knowledge_id": "g2_biology_u022",
+    "question": "选择题：社会行为（社群行为）的特征的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据社会行为（社群行为）的特征的功能判断。"
+  },
+  {
+    "id": "g2_biology_u022_ex09",
+    "knowledge_id": "g2_biology_u022",
+    "question": "填空题：社会行为（社群行为）的特征的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：社会行为（社群行为）的特征的结构特征。"
+  },
+  {
+    "id": "g2_biology_u022_ex10",
+    "knowledge_id": "g2_biology_u022",
+    "question": "综合题：结合社会行为（社群行为）的特征和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u023_ex01",
+    "knowledge_id": "g2_biology_u023",
+    "question": "选择题：下列关于\"动物的信息交流\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据动物的信息交流的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u023_ex02",
+    "knowledge_id": "g2_biology_u023",
+    "question": "填空题：动物的信息交流的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：动物的信息交流的核心特征。"
+  },
+  {
+    "id": "g2_biology_u023_ex03",
+    "knowledge_id": "g2_biology_u023",
+    "question": "选择题：动物的信息交流的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u023_ex04",
+    "knowledge_id": "g2_biology_u023",
+    "question": "判断题：动物的信息交流的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u023_ex05",
+    "knowledge_id": "g2_biology_u023",
+    "question": "判断题：动物的信息交流的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u023_ex06",
+    "knowledge_id": "g2_biology_u023",
+    "question": "解答题：请简述动物的信息交流的主要特征。",
+    "answer": "答案：动物之间通过各种方式进行信息交流。动物的动作：蜜蜂通过舞蹈告诉同伴蜜源的方向和距离，圆圈舞表示较近，摆尾舞表示较远；萤火虫通过发光进行交流。动物的声音：鸟鸣、兽吼等可传递求偶、警告、联络等信息。动物的...\n解析：本题考察对动物的信息交流的理解。"
+  },
+  {
+    "id": "g2_biology_u023_ex07",
+    "knowledge_id": "g2_biology_u023",
+    "question": "解答题：动物的信息交流与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u023_ex08",
+    "knowledge_id": "g2_biology_u023",
+    "question": "选择题：动物的信息交流的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据动物的信息交流的功能判断。"
+  },
+  {
+    "id": "g2_biology_u023_ex09",
+    "knowledge_id": "g2_biology_u023",
+    "question": "填空题：动物的信息交流的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：动物的信息交流的结构特征。"
+  },
+  {
+    "id": "g2_biology_u023_ex10",
+    "knowledge_id": "g2_biology_u023",
+    "question": "综合题：结合动物的信息交流和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u024_ex01",
+    "knowledge_id": "g2_biology_u024",
+    "question": "选择题：下列关于\"动物在生态系统中的作用\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据动物在生态系统中的作用的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u024_ex02",
+    "knowledge_id": "g2_biology_u024",
+    "question": "填空题：动物在生态系统中的作用的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：动物在生态系统中的作用的核心特征。"
+  },
+  {
+    "id": "g2_biology_u024_ex03",
+    "knowledge_id": "g2_biology_u024",
+    "question": "选择题：动物在生态系统中的作用的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u024_ex04",
+    "knowledge_id": "g2_biology_u024",
+    "question": "判断题：动物在生态系统中的作用的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u024_ex05",
+    "knowledge_id": "g2_biology_u024",
+    "question": "判断题：动物在生态系统中的作用的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u024_ex06",
+    "knowledge_id": "g2_biology_u024",
+    "question": "解答题：请简述动物在生态系统中的作用的主要特征。",
+    "answer": "答案：动物在生态系统中具有重要作用：促进生态系统物质循环，动物作为消费者，把有机物带入生态系统，通过呼吸作用分解有机物，释放二氧化碳、水和无机盐，供生产者重新利用；帮助植物传粉和传播种子，许多植物依赖动物传...\n解析：本题考察对动物在生态系统中的作用的理解。"
+  },
+  {
+    "id": "g2_biology_u024_ex07",
+    "knowledge_id": "g2_biology_u024",
+    "question": "解答题：动物在生态系统中的作用与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u024_ex08",
+    "knowledge_id": "g2_biology_u024",
+    "question": "选择题：动物在生态系统中的作用的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据动物在生态系统中的作用的功能判断。"
+  },
+  {
+    "id": "g2_biology_u024_ex09",
+    "knowledge_id": "g2_biology_u024",
+    "question": "填空题：动物在生态系统中的作用的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：动物在生态系统中的作用的结构特征。"
+  },
+  {
+    "id": "g2_biology_u024_ex10",
+    "knowledge_id": "g2_biology_u024",
+    "question": "综合题：结合动物在生态系统中的作用和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u025_ex01",
+    "knowledge_id": "g2_biology_u025",
+    "question": "选择题：下列关于\"动物与人类生活的关系\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据动物与人类生活的关系的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u025_ex02",
+    "knowledge_id": "g2_biology_u025",
+    "question": "填空题：动物与人类生活的关系的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：动物与人类生活的关系的核心特征。"
+  },
+  {
+    "id": "g2_biology_u025_ex03",
+    "knowledge_id": "g2_biology_u025",
+    "question": "选择题：动物与人类生活的关系的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u025_ex04",
+    "knowledge_id": "g2_biology_u025",
+    "question": "判断题：动物与人类生活的关系的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u025_ex05",
+    "knowledge_id": "g2_biology_u025",
+    "question": "判断题：动物与人类生活的关系的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u025_ex06",
+    "knowledge_id": "g2_biology_u025",
+    "question": "解答题：请简述动物与人类生活的关系的主要特征。",
+    "answer": "答案：动物与人类生活密切相关：为人类提供食物（肉类、蛋类、奶类）、皮毛、药材（鹿茸、麝香、熊胆）等物资；某些动物可传播疾病（如蚊子传播疟疾、鼠类传播鼠疫），危害人类健康；动物为人类提供科技发明的灵感——仿生...\n解析：本题考察对动物与人类生活的关系的理解。"
+  },
+  {
+    "id": "g2_biology_u025_ex07",
+    "knowledge_id": "g2_biology_u025",
+    "question": "解答题：动物与人类生活的关系与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u025_ex08",
+    "knowledge_id": "g2_biology_u025",
+    "question": "选择题：动物与人类生活的关系的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据动物与人类生活的关系的功能判断。"
+  },
+  {
+    "id": "g2_biology_u025_ex09",
+    "knowledge_id": "g2_biology_u025",
+    "question": "填空题：动物与人类生活的关系的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：动物与人类生活的关系的结构特征。"
+  },
+  {
+    "id": "g2_biology_u025_ex10",
+    "knowledge_id": "g2_biology_u025",
+    "question": "综合题：结合动物与人类生活的关系和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u026_ex01",
+    "knowledge_id": "g2_biology_u026",
+    "question": "选择题：下列关于\"细菌的形态和结构\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据细菌的形态和结构的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u026_ex02",
+    "knowledge_id": "g2_biology_u026",
+    "question": "填空题：细菌的形态和结构的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌的形态和结构的核心特征。"
+  },
+  {
+    "id": "g2_biology_u026_ex03",
+    "knowledge_id": "g2_biology_u026",
+    "question": "选择题：细菌的形态和结构的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u026_ex04",
+    "knowledge_id": "g2_biology_u026",
+    "question": "判断题：细菌的形态和结构的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u026_ex05",
+    "knowledge_id": "g2_biology_u026",
+    "question": "判断题：细菌的形态和结构的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u026_ex06",
+    "knowledge_id": "g2_biology_u026",
+    "question": "解答题：请简述细菌的形态和结构的主要特征。",
+    "answer": "答案：细菌是单细胞生物，属于原核生物。结构包括：细胞壁（保护作用）；细胞膜（控制物质进出）；细胞质（进行生命活动的场所）；DNA集中区（没有核膜包裹，称为拟核）；有些细菌还有荚膜（保护作用）和鞭毛（运动作用...\n解析：本题考察对细菌的形态和结构的理解。"
+  },
+  {
+    "id": "g2_biology_u026_ex07",
+    "knowledge_id": "g2_biology_u026",
+    "question": "解答题：细菌的形态和结构与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u026_ex08",
+    "knowledge_id": "g2_biology_u026",
+    "question": "选择题：细菌的形态和结构的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据细菌的形态和结构的功能判断。"
+  },
+  {
+    "id": "g2_biology_u026_ex09",
+    "knowledge_id": "g2_biology_u026",
+    "question": "填空题：细菌的形态和结构的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌的形态和结构的结构特征。"
+  },
+  {
+    "id": "g2_biology_u026_ex10",
+    "knowledge_id": "g2_biology_u026",
+    "question": "综合题：结合细菌的形态和结构和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u027_ex01",
+    "knowledge_id": "g2_biology_u027",
+    "question": "选择题：下列关于\"细菌的繁殖方式\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据细菌的繁殖方式的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u027_ex02",
+    "knowledge_id": "g2_biology_u027",
+    "question": "填空题：细菌的繁殖方式的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌的繁殖方式的核心特征。"
+  },
+  {
+    "id": "g2_biology_u027_ex03",
+    "knowledge_id": "g2_biology_u027",
+    "question": "选择题：细菌的繁殖方式的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u027_ex04",
+    "knowledge_id": "g2_biology_u027",
+    "question": "判断题：细菌的繁殖方式的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u027_ex05",
+    "knowledge_id": "g2_biology_u027",
+    "question": "判断题：细菌的繁殖方式的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u027_ex06",
+    "knowledge_id": "g2_biology_u027",
+    "question": "解答题：请简述细菌的繁殖方式的主要特征。",
+    "answer": "答案：细菌通过分裂进行繁殖。分裂过程：细菌吸收营养物质，生长到一定程度后，细胞壁向内凹陷，细胞质分裂，细胞核也分裂，最后形成两个子细菌。在适宜条件下，细菌分裂速度很快，如大肠杆菌约20分钟分裂一次。环境不利...\n解析：本题考察对细菌的繁殖方式的理解。"
+  },
+  {
+    "id": "g2_biology_u027_ex07",
+    "knowledge_id": "g2_biology_u027",
+    "question": "解答题：细菌的繁殖方式与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u027_ex08",
+    "knowledge_id": "g2_biology_u027",
+    "question": "选择题：细菌的繁殖方式的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据细菌的繁殖方式的功能判断。"
+  },
+  {
+    "id": "g2_biology_u027_ex09",
+    "knowledge_id": "g2_biology_u027",
+    "question": "填空题：细菌的繁殖方式的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌的繁殖方式的结构特征。"
+  },
+  {
+    "id": "g2_biology_u027_ex10",
+    "knowledge_id": "g2_biology_u027",
+    "question": "综合题：结合细菌的繁殖方式和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u028_ex01",
+    "knowledge_id": "g2_biology_u028",
+    "question": "选择题：下列关于\"真菌的形态和结构\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据真菌的形态和结构的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u028_ex02",
+    "knowledge_id": "g2_biology_u028",
+    "question": "填空题：真菌的形态和结构的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：真菌的形态和结构的核心特征。"
+  },
+  {
+    "id": "g2_biology_u028_ex03",
+    "knowledge_id": "g2_biology_u028",
+    "question": "选择题：真菌的形态和结构的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u028_ex04",
+    "knowledge_id": "g2_biology_u028",
+    "question": "判断题：真菌的形态和结构的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u028_ex05",
+    "knowledge_id": "g2_biology_u028",
+    "question": "判断题：真菌的形态和结构的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u028_ex06",
+    "knowledge_id": "g2_biology_u028",
+    "question": "解答题：请简述真菌的形态和结构的主要特征。",
+    "answer": "答案：真菌有单细胞和多细胞两类。单细胞真菌代表：酵母菌，椭圆形，有细胞壁、细胞膜、细胞质和细胞核。多细胞真菌代表：青霉（菌丝顶端呈扫帚状）、曲霉（顶端呈球状）、蘑菇（由菌丝构成）。真菌的结构：细胞壁、细胞膜...\n解析：本题考察对真菌的形态和结构的理解。"
+  },
+  {
+    "id": "g2_biology_u028_ex07",
+    "knowledge_id": "g2_biology_u028",
+    "question": "解答题：真菌的形态和结构与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u028_ex08",
+    "knowledge_id": "g2_biology_u028",
+    "question": "选择题：真菌的形态和结构的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据真菌的形态和结构的功能判断。"
+  },
+  {
+    "id": "g2_biology_u028_ex09",
+    "knowledge_id": "g2_biology_u028",
+    "question": "填空题：真菌的形态和结构的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：真菌的形态和结构的结构特征。"
+  },
+  {
+    "id": "g2_biology_u028_ex10",
+    "knowledge_id": "g2_biology_u028",
+    "question": "综合题：结合真菌的形态和结构和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u029_ex01",
+    "knowledge_id": "g2_biology_u029",
+    "question": "选择题：下列关于\"细菌和真菌的分布\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据细菌和真菌的分布的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u029_ex02",
+    "knowledge_id": "g2_biology_u029",
+    "question": "填空题：细菌和真菌的分布的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌和真菌的分布的核心特征。"
+  },
+  {
+    "id": "g2_biology_u029_ex03",
+    "knowledge_id": "g2_biology_u029",
+    "question": "选择题：细菌和真菌的分布的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u029_ex04",
+    "knowledge_id": "g2_biology_u029",
+    "question": "判断题：细菌和真菌的分布的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u029_ex05",
+    "knowledge_id": "g2_biology_u029",
+    "question": "判断题：细菌和真菌的分布的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u029_ex06",
+    "knowledge_id": "g2_biology_u029",
+    "question": "解答题：请简述细菌和真菌的分布的主要特征。",
+    "answer": "答案：细菌和真菌在自然界分布极其广泛：土壤中是细菌和真菌最多的地方，它们分解有机物，促进物质循环；水中、空气中都有它们的踪迹；动植物体内和体表也有细菌和真菌存在（如肠道中有很多大肠杆菌）；甚至在极端环境中也...\n解析：本题考察对细菌和真菌的分布的理解。"
+  },
+  {
+    "id": "g2_biology_u029_ex07",
+    "knowledge_id": "g2_biology_u029",
+    "question": "解答题：细菌和真菌的分布与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u029_ex08",
+    "knowledge_id": "g2_biology_u029",
+    "question": "选择题：细菌和真菌的分布的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据细菌和真菌的分布的功能判断。"
+  },
+  {
+    "id": "g2_biology_u029_ex09",
+    "knowledge_id": "g2_biology_u029",
+    "question": "填空题：细菌和真菌的分布的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌和真菌的分布的结构特征。"
+  },
+  {
+    "id": "g2_biology_u029_ex10",
+    "knowledge_id": "g2_biology_u029",
+    "question": "综合题：结合细菌和真菌的分布和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u030_ex01",
+    "knowledge_id": "g2_biology_u030",
+    "question": "选择题：下列关于\"细菌和真菌与食品制作\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据细菌和真菌与食品制作的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u030_ex02",
+    "knowledge_id": "g2_biology_u030",
+    "question": "填空题：细菌和真菌与食品制作的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌和真菌与食品制作的核心特征。"
+  },
+  {
+    "id": "g2_biology_u030_ex03",
+    "knowledge_id": "g2_biology_u030",
+    "question": "选择题：细菌和真菌与食品制作的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u030_ex04",
+    "knowledge_id": "g2_biology_u030",
+    "question": "判断题：细菌和真菌与食品制作的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u030_ex05",
+    "knowledge_id": "g2_biology_u030",
+    "question": "判断题：细菌和真菌与食品制作的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u030_ex06",
+    "knowledge_id": "g2_biology_u030",
+    "question": "解答题：请简述细菌和真菌与食品制作的主要特征。",
+    "answer": "答案：细菌和真菌在食品制作中应用广泛：酵母菌发酵：酵母菌在有氧条件下分解有机物产生二氧化碳和水，使面团膨胀形成馒头、面包；无氧条件下产生酒精，用于酿酒。乳酸菌发酵：乳酸菌使牛奶发酵形成酸奶，使蔬菜发酵形成泡...\n解析：本题考察对细菌和真菌与食品制作的理解。"
+  },
+  {
+    "id": "g2_biology_u030_ex07",
+    "knowledge_id": "g2_biology_u030",
+    "question": "解答题：细菌和真菌与食品制作与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u030_ex08",
+    "knowledge_id": "g2_biology_u030",
+    "question": "选择题：细菌和真菌与食品制作的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据细菌和真菌与食品制作的功能判断。"
+  },
+  {
+    "id": "g2_biology_u030_ex09",
+    "knowledge_id": "g2_biology_u030",
+    "question": "填空题：细菌和真菌与食品制作的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌和真菌与食品制作的结构特征。"
+  },
+  {
+    "id": "g2_biology_u030_ex10",
+    "knowledge_id": "g2_biology_u030",
+    "question": "综合题：结合细菌和真菌与食品制作和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u031_ex01",
+    "knowledge_id": "g2_biology_u031",
+    "question": "选择题：下列关于\"食品保存的原理和方法\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据食品保存的原理和方法的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u031_ex02",
+    "knowledge_id": "g2_biology_u031",
+    "question": "填空题：食品保存的原理和方法的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：食品保存的原理和方法的核心特征。"
+  },
+  {
+    "id": "g2_biology_u031_ex03",
+    "knowledge_id": "g2_biology_u031",
+    "question": "选择题：食品保存的原理和方法的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u031_ex04",
+    "knowledge_id": "g2_biology_u031",
+    "question": "判断题：食品保存的原理和方法的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u031_ex05",
+    "knowledge_id": "g2_biology_u031",
+    "question": "判断题：食品保存的原理和方法的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u031_ex06",
+    "knowledge_id": "g2_biology_u031",
+    "question": "解答题：请简述食品保存的原理和方法的主要特征。",
+    "answer": "答案：食品保存的原理是把食物中的细菌和真菌杀死或抑制其生长和繁殖。常用方法：巴氏消毒法（将牛奶加热到70-80℃，杀死大部分细菌）；防腐剂（杀死或抑制微生物生长）；干燥（脱水保存，如干蘑菇、干肉）；冷藏（低...\n解析：本题考察对食品保存的原理和方法的理解。"
+  },
+  {
+    "id": "g2_biology_u031_ex07",
+    "knowledge_id": "g2_biology_u031",
+    "question": "解答题：食品保存的原理和方法与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u031_ex08",
+    "knowledge_id": "g2_biology_u031",
+    "question": "选择题：食品保存的原理和方法的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据食品保存的原理和方法的功能判断。"
+  },
+  {
+    "id": "g2_biology_u031_ex09",
+    "knowledge_id": "g2_biology_u031",
+    "question": "填空题：食品保存的原理和方法的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：食品保存的原理和方法的结构特征。"
+  },
+  {
+    "id": "g2_biology_u031_ex10",
+    "knowledge_id": "g2_biology_u031",
+    "question": "综合题：结合食品保存的原理和方法和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u032_ex01",
+    "knowledge_id": "g2_biology_u032",
+    "question": "选择题：下列关于\"细菌和真菌与疾病防治\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据细菌和真菌与疾病防治的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u032_ex02",
+    "knowledge_id": "g2_biology_u032",
+    "question": "填空题：细菌和真菌与疾病防治的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌和真菌与疾病防治的核心特征。"
+  },
+  {
+    "id": "g2_biology_u032_ex03",
+    "knowledge_id": "g2_biology_u032",
+    "question": "选择题：细菌和真菌与疾病防治的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u032_ex04",
+    "knowledge_id": "g2_biology_u032",
+    "question": "判断题：细菌和真菌与疾病防治的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u032_ex05",
+    "knowledge_id": "g2_biology_u032",
+    "question": "判断题：细菌和真菌与疾病防治的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u032_ex06",
+    "knowledge_id": "g2_biology_u032",
+    "question": "解答题：请简述细菌和真菌与疾病防治的主要特征。",
+    "answer": "答案：细菌和真菌在疾病防治中具有重要作用：抗生素是某些真菌或细菌产生的能够杀死或抑制其他微生物的物质。青霉素是第一种被发现并广泛使用的抗生素，由青霉产生，可治疗多种细菌感染性疾病。链霉素、红霉素、土霉素等也...\n解析：本题考察对细菌和真菌与疾病防治的理解。"
+  },
+  {
+    "id": "g2_biology_u032_ex07",
+    "knowledge_id": "g2_biology_u032",
+    "question": "解答题：细菌和真菌与疾病防治与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u032_ex08",
+    "knowledge_id": "g2_biology_u032",
+    "question": "选择题：细菌和真菌与疾病防治的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据细菌和真菌与疾病防治的功能判断。"
+  },
+  {
+    "id": "g2_biology_u032_ex09",
+    "knowledge_id": "g2_biology_u032",
+    "question": "填空题：细菌和真菌与疾病防治的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌和真菌与疾病防治的结构特征。"
+  },
+  {
+    "id": "g2_biology_u032_ex10",
+    "knowledge_id": "g2_biology_u032",
+    "question": "综合题：结合细菌和真菌与疾病防治和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_u033_ex01",
+    "knowledge_id": "g2_biology_u033",
+    "question": "选择题：下列关于\"细菌和真菌与环境保护\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据细菌和真菌与环境保护的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_u033_ex02",
+    "knowledge_id": "g2_biology_u033",
+    "question": "填空题：细菌和真菌与环境保护的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌和真菌与环境保护的核心特征。"
+  },
+  {
+    "id": "g2_biology_u033_ex03",
+    "knowledge_id": "g2_biology_u033",
+    "question": "选择题：细菌和真菌与环境保护的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_u033_ex04",
+    "knowledge_id": "g2_biology_u033",
+    "question": "判断题：细菌和真菌与环境保护的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_u033_ex05",
+    "knowledge_id": "g2_biology_u033",
+    "question": "判断题：细菌和真菌与环境保护的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_u033_ex06",
+    "knowledge_id": "g2_biology_u033",
+    "question": "解答题：请简述细菌和真菌与环境保护的主要特征。",
+    "answer": "答案：细菌和真菌在环境保护中发挥重要作用：污水处理：利用细菌分解有机物净化污水，污水处理厂利用活性污泥中的微生物分解有机废物；分解污染物：某些细菌和真菌能分解农药、塑料、石油等污染物，用于生物修复；沼气发酵...\n解析：本题考察对细菌和真菌与环境保护的理解。"
+  },
+  {
+    "id": "g2_biology_u033_ex07",
+    "knowledge_id": "g2_biology_u033",
+    "question": "解答题：细菌和真菌与环境保护与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_u033_ex08",
+    "knowledge_id": "g2_biology_u033",
+    "question": "选择题：细菌和真菌与环境保护的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据细菌和真菌与环境保护的功能判断。"
+  },
+  {
+    "id": "g2_biology_u033_ex09",
+    "knowledge_id": "g2_biology_u033",
+    "question": "填空题：细菌和真菌与环境保护的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：细菌和真菌与环境保护的结构特征。"
+  },
+  {
+    "id": "g2_biology_u033_ex10",
+    "knowledge_id": "g2_biology_u033",
+    "question": "综合题：结合细菌和真菌与环境保护和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l001_ex01",
+    "knowledge_id": "g2_biology_l001",
+    "question": "选择题：下列关于\"生命起源的化学进化假说\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据生命起源的化学进化假说的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l001_ex02",
+    "knowledge_id": "g2_biology_l001",
+    "question": "填空题：生命起源的化学进化假说的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：生命起源的化学进化假说的核心特征。"
+  },
+  {
+    "id": "g2_biology_l001_ex03",
+    "knowledge_id": "g2_biology_l001",
+    "question": "选择题：生命起源的化学进化假说的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l001_ex04",
+    "knowledge_id": "g2_biology_l001",
+    "question": "判断题：生命起源的化学进化假说的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l001_ex05",
+    "knowledge_id": "g2_biology_l001",
+    "question": "判断题：生命起源的化学进化假说的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l001_ex06",
+    "knowledge_id": "g2_biology_l001",
+    "question": "解答题：请简述生命起源的化学进化假说的主要特征。",
+    "answer": "答案：化学进化假说是目前科学界较为公认的生命起源假说。该假说认为生命是在地球形成以后，通过化学进化过程逐渐产生的。具体过程：原始地球环境条件下，无机小分子物质（如甲烷、氨气、水蒸气、氢气等）在高温、雷电、紫...\n解析：本题考察对生命起源的化学进化假说的理解。"
+  },
+  {
+    "id": "g2_biology_l001_ex07",
+    "knowledge_id": "g2_biology_l001",
+    "question": "解答题：生命起源的化学进化假说与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l001_ex08",
+    "knowledge_id": "g2_biology_l001",
+    "question": "选择题：生命起源的化学进化假说的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据生命起源的化学进化假说的功能判断。"
+  },
+  {
+    "id": "g2_biology_l001_ex09",
+    "knowledge_id": "g2_biology_l001",
+    "question": "填空题：生命起源的化学进化假说的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：生命起源的化学进化假说的结构特征。"
+  },
+  {
+    "id": "g2_biology_l001_ex10",
+    "knowledge_id": "g2_biology_l001",
+    "question": "综合题：结合生命起源的化学进化假说和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l002_ex01",
+    "knowledge_id": "g2_biology_l002",
+    "question": "选择题：下列关于\"米勒实验\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据米勒实验的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l002_ex02",
+    "knowledge_id": "g2_biology_l002",
+    "question": "填空题：米勒实验的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：米勒实验的核心特征。"
+  },
+  {
+    "id": "g2_biology_l002_ex03",
+    "knowledge_id": "g2_biology_l002",
+    "question": "选择题：米勒实验的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l002_ex04",
+    "knowledge_id": "g2_biology_l002",
+    "question": "判断题：米勒实验的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l002_ex05",
+    "knowledge_id": "g2_biology_l002",
+    "question": "判断题：米勒实验的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l002_ex06",
+    "knowledge_id": "g2_biology_l002",
+    "question": "解答题：请简述米勒实验的主要特征。",
+    "answer": "答案：1953年，美国科学家米勒设计了一个模拟原始地球环境的实验装置。他将水、甲烷、氨气、氢气等混合在一起，模拟原始大气的成分，然后通过放电产生闪电，模拟原始地球的自然条件。一周后，在实验装置中检测到了多种...\n解析：本题考察对米勒实验的理解。"
+  },
+  {
+    "id": "g2_biology_l002_ex07",
+    "knowledge_id": "g2_biology_l002",
+    "question": "解答题：米勒实验与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l002_ex08",
+    "knowledge_id": "g2_biology_l002",
+    "question": "选择题：米勒实验的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据米勒实验的功能判断。"
+  },
+  {
+    "id": "g2_biology_l002_ex09",
+    "knowledge_id": "g2_biology_l002",
+    "question": "填空题：米勒实验的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：米勒实验的结构特征。"
+  },
+  {
+    "id": "g2_biology_l002_ex10",
+    "knowledge_id": "g2_biology_l002",
+    "question": "综合题：结合米勒实验和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l003_ex01",
+    "knowledge_id": "g2_biology_l003",
+    "question": "选择题：下列关于\"原始地球的环境特点\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据原始地球的环境特点的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l003_ex02",
+    "knowledge_id": "g2_biology_l003",
+    "question": "填空题：原始地球的环境特点的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：原始地球的环境特点的核心特征。"
+  },
+  {
+    "id": "g2_biology_l003_ex03",
+    "knowledge_id": "g2_biology_l003",
+    "question": "选择题：原始地球的环境特点的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l003_ex04",
+    "knowledge_id": "g2_biology_l003",
+    "question": "判断题：原始地球的环境特点的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l003_ex05",
+    "knowledge_id": "g2_biology_l003",
+    "question": "判断题：原始地球的环境特点的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l003_ex06",
+    "knowledge_id": "g2_biology_l003",
+    "question": "解答题：请简述原始地球的环境特点的主要特征。",
+    "answer": "答案：原始地球形成于约46亿年前，当时地球的环境与现在截然不同：表面温度很高，频繁的火山喷发；大气层稀薄，主要成分是水蒸气、二氧化碳、甲烷、氨气、氢气等（没有氧气，还原性大气）；频繁的雷电交加；宇宙射线和紫...\n解析：本题考察对原始地球的环境特点的理解。"
+  },
+  {
+    "id": "g2_biology_l003_ex07",
+    "knowledge_id": "g2_biology_l003",
+    "question": "解答题：原始地球的环境特点与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l003_ex08",
+    "knowledge_id": "g2_biology_l003",
+    "question": "选择题：原始地球的环境特点的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据原始地球的环境特点的功能判断。"
+  },
+  {
+    "id": "g2_biology_l003_ex09",
+    "knowledge_id": "g2_biology_l003",
+    "question": "填空题：原始地球的环境特点的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：原始地球的环境特点的结构特征。"
+  },
+  {
+    "id": "g2_biology_l003_ex10",
+    "knowledge_id": "g2_biology_l003",
+    "question": "综合题：结合原始地球的环境特点和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l004_ex01",
+    "knowledge_id": "g2_biology_l004",
+    "question": "选择题：下列关于\"化石是生物进化的直接证据\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据化石是生物进化的直接证据的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l004_ex02",
+    "knowledge_id": "g2_biology_l004",
+    "question": "填空题：化石是生物进化的直接证据的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：化石是生物进化的直接证据的核心特征。"
+  },
+  {
+    "id": "g2_biology_l004_ex03",
+    "knowledge_id": "g2_biology_l004",
+    "question": "选择题：化石是生物进化的直接证据的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l004_ex04",
+    "knowledge_id": "g2_biology_l004",
+    "question": "判断题：化石是生物进化的直接证据的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l004_ex05",
+    "knowledge_id": "g2_biology_l004",
+    "question": "判断题：化石是生物进化的直接证据的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l004_ex06",
+    "knowledge_id": "g2_biology_l004",
+    "question": "解答题：请简述化石是生物进化的直接证据的主要特征。",
+    "answer": "答案：化石是保存在地层中的古代生物的遗体、遗物或遗迹，是生物进化的直接证据。化石的形成：生物死后被泥沙掩埋，其遗体或遗迹经过漫长的岁月，有机物被分解，坚硬部分（骨骼、贝壳等）被矿物质填充或替代，形成化石。不...\n解析：本题考察对化石是生物进化的直接证据的理解。"
+  },
+  {
+    "id": "g2_biology_l004_ex07",
+    "knowledge_id": "g2_biology_l004",
+    "question": "解答题：化石是生物进化的直接证据与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l004_ex08",
+    "knowledge_id": "g2_biology_l004",
+    "question": "选择题：化石是生物进化的直接证据的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据化石是生物进化的直接证据的功能判断。"
+  },
+  {
+    "id": "g2_biology_l004_ex09",
+    "knowledge_id": "g2_biology_l004",
+    "question": "填空题：化石是生物进化的直接证据的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：化石是生物进化的直接证据的结构特征。"
+  },
+  {
+    "id": "g2_biology_l004_ex10",
+    "knowledge_id": "g2_biology_l004",
+    "question": "综合题：结合化石是生物进化的直接证据和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l005_ex01",
+    "knowledge_id": "g2_biology_l005",
+    "question": "选择题：下列关于\"生物进化的大致历程\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据生物进化的大致历程的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l005_ex02",
+    "knowledge_id": "g2_biology_l005",
+    "question": "填空题：生物进化的大致历程的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：生物进化的大致历程的核心特征。"
+  },
+  {
+    "id": "g2_biology_l005_ex03",
+    "knowledge_id": "g2_biology_l005",
+    "question": "选择题：生物进化的大致历程的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l005_ex04",
+    "knowledge_id": "g2_biology_l005",
+    "question": "判断题：生物进化的大致历程的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l005_ex05",
+    "knowledge_id": "g2_biology_l005",
+    "question": "判断题：生物进化的大致历程的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l005_ex06",
+    "knowledge_id": "g2_biology_l005",
+    "question": "解答题：请简述生物进化的大致历程的主要特征。",
+    "answer": "答案：生物进化的大致历程：地球上最早出现的生命是原始的单细胞生物（约35亿年前）；然后发展为多细胞生物；再进化出无脊椎动物；最后进化出脊椎动物。脊椎动物的大致进化顺序：原始鱼类（约5亿年前）→两栖类（约4亿...\n解析：本题考察对生物进化的大致历程的理解。"
+  },
+  {
+    "id": "g2_biology_l005_ex07",
+    "knowledge_id": "g2_biology_l005",
+    "question": "解答题：生物进化的大致历程与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l005_ex08",
+    "knowledge_id": "g2_biology_l005",
+    "question": "选择题：生物进化的大致历程的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据生物进化的大致历程的功能判断。"
+  },
+  {
+    "id": "g2_biology_l005_ex09",
+    "knowledge_id": "g2_biology_l005",
+    "question": "填空题：生物进化的大致历程的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：生物进化的大致历程的结构特征。"
+  },
+  {
+    "id": "g2_biology_l005_ex10",
+    "knowledge_id": "g2_biology_l005",
+    "question": "综合题：结合生物进化的大致历程和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l006_ex01",
+    "knowledge_id": "g2_biology_l006",
+    "question": "选择题：下列关于\"进化论的创立者——达尔文\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据进化论的创立者——达尔文的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l006_ex02",
+    "knowledge_id": "g2_biology_l006",
+    "question": "填空题：进化论的创立者——达尔文的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：进化论的创立者——达尔文的核心特征。"
+  },
+  {
+    "id": "g2_biology_l006_ex03",
+    "knowledge_id": "g2_biology_l006",
+    "question": "选择题：进化论的创立者——达尔文的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l006_ex04",
+    "knowledge_id": "g2_biology_l006",
+    "question": "判断题：进化论的创立者——达尔文的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l006_ex05",
+    "knowledge_id": "g2_biology_l006",
+    "question": "判断题：进化论的创立者——达尔文的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l006_ex06",
+    "knowledge_id": "g2_biology_l006",
+    "question": "解答题：请简述进化论的创立者——达尔文的主要特征。",
+    "answer": "答案：查尔斯·达尔文（1809-1882）是英国博物学家，1859年出版《物种起源》一书，提出进化论（自然选择学说）。自然选择学说的主要内容：过度繁殖（生物都有过度繁殖的倾向，导致生存斗争）；生存斗争（生物...\n解析：本题考察对进化论的创立者——达尔文的理解。"
+  },
+  {
+    "id": "g2_biology_l006_ex07",
+    "knowledge_id": "g2_biology_l006",
+    "question": "解答题：进化论的创立者——达尔文与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l006_ex08",
+    "knowledge_id": "g2_biology_l006",
+    "question": "选择题：进化论的创立者——达尔文的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据进化论的创立者——达尔文的功能判断。"
+  },
+  {
+    "id": "g2_biology_l006_ex09",
+    "knowledge_id": "g2_biology_l006",
+    "question": "填空题：进化论的创立者——达尔文的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：进化论的创立者——达尔文的结构特征。"
+  },
+  {
+    "id": "g2_biology_l006_ex10",
+    "knowledge_id": "g2_biology_l006",
+    "question": "综合题：结合进化论的创立者——达尔文和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l007_ex01",
+    "knowledge_id": "g2_biology_l007",
+    "question": "选择题：下列关于\"自然选择学说的要点\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据自然选择学说的要点的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l007_ex02",
+    "knowledge_id": "g2_biology_l007",
+    "question": "填空题：自然选择学说的要点的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：自然选择学说的要点的核心特征。"
+  },
+  {
+    "id": "g2_biology_l007_ex03",
+    "knowledge_id": "g2_biology_l007",
+    "question": "选择题：自然选择学说的要点的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l007_ex04",
+    "knowledge_id": "g2_biology_l007",
+    "question": "判断题：自然选择学说的要点的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l007_ex05",
+    "knowledge_id": "g2_biology_l007",
+    "question": "判断题：自然选择学说的要点的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l007_ex06",
+    "knowledge_id": "g2_biology_l007",
+    "question": "解答题：请简述自然选择学说的要点的主要特征。",
+    "answer": "答案：自然选择学说的四个要点：1）过度繁殖：每种生物都能产生大量后代，但食物和空间有限；2）生存斗争：生物要生存下去，需要与自然环境、同种生物、其他物种进行斗争；3）遗传和变异：后代保留有利变异，也会产生各...\n解析：本题考察对自然选择学说的要点的理解。"
+  },
+  {
+    "id": "g2_biology_l007_ex07",
+    "knowledge_id": "g2_biology_l007",
+    "question": "解答题：自然选择学说的要点与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l007_ex08",
+    "knowledge_id": "g2_biology_l007",
+    "question": "选择题：自然选择学说的要点的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据自然选择学说的要点的功能判断。"
+  },
+  {
+    "id": "g2_biology_l007_ex09",
+    "knowledge_id": "g2_biology_l007",
+    "question": "填空题：自然选择学说的要点的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：自然选择学说的要点的结构特征。"
+  },
+  {
+    "id": "g2_biology_l007_ex10",
+    "knowledge_id": "g2_biology_l007",
+    "question": "综合题：结合自然选择学说的要点和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l008_ex01",
+    "knowledge_id": "g2_biology_l008",
+    "question": "选择题：下列关于\"研究生物进化的证据\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据研究生物进化的证据的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l008_ex02",
+    "knowledge_id": "g2_biology_l008",
+    "question": "填空题：研究生物进化的证据的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：研究生物进化的证据的核心特征。"
+  },
+  {
+    "id": "g2_biology_l008_ex03",
+    "knowledge_id": "g2_biology_l008",
+    "question": "选择题：研究生物进化的证据的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l008_ex04",
+    "knowledge_id": "g2_biology_l008",
+    "question": "判断题：研究生物进化的证据的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l008_ex05",
+    "knowledge_id": "g2_biology_l008",
+    "question": "判断题：研究生物进化的证据的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l008_ex06",
+    "knowledge_id": "g2_biology_l008",
+    "question": "解答题：请简述研究生物进化的证据的主要特征。",
+    "answer": "答案：研究生物进化有多种证据：化石证据：通过研究不同地层中的化石，可以了解生物进化的大致历程，越古老地层化石越简单。解剖学证据：同源器官（结构不同、功能不同，但来源和基本结构相同的器官，如蝙蝠的翼、鲸的鳍、...\n解析：本题考察对研究生物进化的证据的理解。"
+  },
+  {
+    "id": "g2_biology_l008_ex07",
+    "knowledge_id": "g2_biology_l008",
+    "question": "解答题：研究生物进化的证据与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l008_ex08",
+    "knowledge_id": "g2_biology_l008",
+    "question": "选择题：研究生物进化的证据的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据研究生物进化的证据的功能判断。"
+  },
+  {
+    "id": "g2_biology_l008_ex09",
+    "knowledge_id": "g2_biology_l008",
+    "question": "填空题：研究生物进化的证据的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：研究生物进化的证据的结构特征。"
+  },
+  {
+    "id": "g2_biology_l008_ex10",
+    "knowledge_id": "g2_biology_l008",
+    "question": "综合题：结合研究生物进化的证据和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l009_ex01",
+    "knowledge_id": "g2_biology_l009",
+    "question": "选择题：下列关于\"人类的进化历程\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据人类的进化历程的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l009_ex02",
+    "knowledge_id": "g2_biology_l009",
+    "question": "填空题：人类的进化历程的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：人类的进化历程的核心特征。"
+  },
+  {
+    "id": "g2_biology_l009_ex03",
+    "knowledge_id": "g2_biology_l009",
+    "question": "选择题：人类的进化历程的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l009_ex04",
+    "knowledge_id": "g2_biology_l009",
+    "question": "判断题：人类的进化历程的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l009_ex05",
+    "knowledge_id": "g2_biology_l009",
+    "question": "判断题：人类的进化历程的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l009_ex06",
+    "knowledge_id": "g2_biology_l009",
+    "question": "解答题：请简述人类的进化历程的主要特征。",
+    "answer": "答案：人类的进化历程：森林古猿（约700-1000万年前）是人类和现代类人猿的共同祖先；南方古猿（约400-200万年前）开始直立行走；能人（约200-150万年前）能制造简单工具；直立人（约100-20万...\n解析：本题考察对人类的进化历程的理解。"
+  },
+  {
+    "id": "g2_biology_l009_ex07",
+    "knowledge_id": "g2_biology_l009",
+    "question": "解答题：人类的进化历程与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l009_ex08",
+    "knowledge_id": "g2_biology_l009",
+    "question": "选择题：人类的进化历程的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据人类的进化历程的功能判断。"
+  },
+  {
+    "id": "g2_biology_l009_ex09",
+    "knowledge_id": "g2_biology_l009",
+    "question": "填空题：人类的进化历程的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：人类的进化历程的结构特征。"
+  },
+  {
+    "id": "g2_biology_l009_ex10",
+    "knowledge_id": "g2_biology_l009",
+    "question": "综合题：结合人类的进化历程和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l010_ex01",
+    "knowledge_id": "g2_biology_l010",
+    "question": "选择题：下列关于\"生物多样性\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据生物多样性的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l010_ex02",
+    "knowledge_id": "g2_biology_l010",
+    "question": "填空题：生物多样性的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：生物多样性的核心特征。"
+  },
+  {
+    "id": "g2_biology_l010_ex03",
+    "knowledge_id": "g2_biology_l010",
+    "question": "选择题：生物多样性的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l010_ex04",
+    "knowledge_id": "g2_biology_l010",
+    "question": "判断题：生物多样性的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l010_ex05",
+    "knowledge_id": "g2_biology_l010",
+    "question": "判断题：生物多样性的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l010_ex06",
+    "knowledge_id": "g2_biology_l010",
+    "question": "解答题：请简述生物多样性的主要特征。",
+    "answer": "答案：生物多样性包括三个层次：物种多样性（地球上各种生物种类的丰富程度，已知约有200万种）；基因多样性（同一物种内不同个体的基因差异，如不同品种的水稻基因不同）；生态系统多样性（森林、草原、湿地、海洋等不...\n解析：本题考察对生物多样性的理解。"
+  },
+  {
+    "id": "g2_biology_l010_ex07",
+    "knowledge_id": "g2_biology_l010",
+    "question": "解答题：生物多样性与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l010_ex08",
+    "knowledge_id": "g2_biology_l010",
+    "question": "选择题：生物多样性的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据生物多样性的功能判断。"
+  },
+  {
+    "id": "g2_biology_l010_ex09",
+    "knowledge_id": "g2_biology_l010",
+    "question": "填空题：生物多样性的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：生物多样性的结构特征。"
+  },
+  {
+    "id": "g2_biology_l010_ex10",
+    "knowledge_id": "g2_biology_l010",
+    "question": "综合题：结合生物多样性和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l011_ex01",
+    "knowledge_id": "g2_biology_l011",
+    "question": "选择题：下列关于\"遗传和变异的概念\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据遗传和变异的概念的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l011_ex02",
+    "knowledge_id": "g2_biology_l011",
+    "question": "填空题：遗传和变异的概念的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：遗传和变异的概念的核心特征。"
+  },
+  {
+    "id": "g2_biology_l011_ex03",
+    "knowledge_id": "g2_biology_l011",
+    "question": "选择题：遗传和变异的概念的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l011_ex04",
+    "knowledge_id": "g2_biology_l011",
+    "question": "判断题：遗传和变异的概念的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l011_ex05",
+    "knowledge_id": "g2_biology_l011",
+    "question": "判断题：遗传和变异的概念的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l011_ex06",
+    "knowledge_id": "g2_biology_l011",
+    "question": "解答题：请简述遗传和变异的概念的主要特征。",
+    "answer": "答案：遗传是指生物亲子代之间在形态、结构、生理等方面相似的现象，如种瓜得瓜、种豆得豆，龙生龙、凤生凤。变异是指生物亲子代之间以及子代个体之间在形态、结构、生理等方面存在差异的现象，如一母生九子，连母十个样。...\n解析：本题考察对遗传和变异的概念的理解。"
+  },
+  {
+    "id": "g2_biology_l011_ex07",
+    "knowledge_id": "g2_biology_l011",
+    "question": "解答题：遗传和变异的概念与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l011_ex08",
+    "knowledge_id": "g2_biology_l011",
+    "question": "选择题：遗传和变异的概念的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据遗传和变异的概念的功能判断。"
+  },
+  {
+    "id": "g2_biology_l011_ex09",
+    "knowledge_id": "g2_biology_l011",
+    "question": "填空题：遗传和变异的概念的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：遗传和变异的概念的结构特征。"
+  },
+  {
+    "id": "g2_biology_l011_ex10",
+    "knowledge_id": "g2_biology_l011",
+    "question": "综合题：结合遗传和变异的概念和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l012_ex01",
+    "knowledge_id": "g2_biology_l012",
+    "question": "选择题：下列关于\"DNA是主要的遗传物质\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据DNA是主要的遗传物质的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l012_ex02",
+    "knowledge_id": "g2_biology_l012",
+    "question": "填空题：DNA是主要的遗传物质的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：DNA是主要的遗传物质的核心特征。"
+  },
+  {
+    "id": "g2_biology_l012_ex03",
+    "knowledge_id": "g2_biology_l012",
+    "question": "选择题：DNA是主要的遗传物质的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l012_ex04",
+    "knowledge_id": "g2_biology_l012",
+    "question": "判断题：DNA是主要的遗传物质的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l012_ex05",
+    "knowledge_id": "g2_biology_l012",
+    "question": "判断题：DNA是主要的遗传物质的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l012_ex06",
+    "knowledge_id": "g2_biology_l012",
+    "question": "解答题：请简述DNA是主要的遗传物质的主要特征。",
+    "answer": "答案：DNA（脱氧核糖核酸）是细胞核中储存遗传信息的物质，是主要的遗传物质。DNA分子的结构：双螺旋结构，像螺旋楼梯，由两条长链组成，两条链上的碱基配对（AT、GC）形成阶梯。DNA分子上有许多基因，基因是...\n解析：本题考察对DNA是主要的遗传物质的理解。"
+  },
+  {
+    "id": "g2_biology_l012_ex07",
+    "knowledge_id": "g2_biology_l012",
+    "question": "解答题：DNA是主要的遗传物质与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l012_ex08",
+    "knowledge_id": "g2_biology_l012",
+    "question": "选择题：DNA是主要的遗传物质的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据DNA是主要的遗传物质的功能判断。"
+  },
+  {
+    "id": "g2_biology_l012_ex09",
+    "knowledge_id": "g2_biology_l012",
+    "question": "填空题：DNA是主要的遗传物质的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：DNA是主要的遗传物质的结构特征。"
+  },
+  {
+    "id": "g2_biology_l012_ex10",
+    "knowledge_id": "g2_biology_l012",
+    "question": "综合题：结合DNA是主要的遗传物质和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l013_ex01",
+    "knowledge_id": "g2_biology_l013",
+    "question": "选择题：下列关于\"染色体\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据染色体的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l013_ex02",
+    "knowledge_id": "g2_biology_l013",
+    "question": "填空题：染色体的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：染色体的核心特征。"
+  },
+  {
+    "id": "g2_biology_l013_ex03",
+    "knowledge_id": "g2_biology_l013",
+    "question": "选择题：染色体的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l013_ex04",
+    "knowledge_id": "g2_biology_l013",
+    "question": "判断题：染色体的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l013_ex05",
+    "knowledge_id": "g2_biology_l013",
+    "question": "判断题：染色体的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l013_ex06",
+    "knowledge_id": "g2_biology_l013",
+    "question": "解答题：请简述染色体的主要特征。",
+    "answer": "答案：染色体是细胞核中容易被碱性染料染色的物质，由DNA和蛋白质组成。染色体是遗传物质的主要载体。在细胞分裂的不同时期，染色体呈现不同的形态：在分裂期呈X形，分裂间期呈染色质状态。体细胞中染色体成对存在，如...\n解析：本题考察对染色体的理解。"
+  },
+  {
+    "id": "g2_biology_l013_ex07",
+    "knowledge_id": "g2_biology_l013",
+    "question": "解答题：染色体与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l013_ex08",
+    "knowledge_id": "g2_biology_l013",
+    "question": "选择题：染色体的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据染色体的功能判断。"
+  },
+  {
+    "id": "g2_biology_l013_ex09",
+    "knowledge_id": "g2_biology_l013",
+    "question": "填空题：染色体的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：染色体的结构特征。"
+  },
+  {
+    "id": "g2_biology_l013_ex10",
+    "knowledge_id": "g2_biology_l013",
+    "question": "综合题：结合染色体和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l014_ex01",
+    "knowledge_id": "g2_biology_l014",
+    "question": "选择题：下列关于\"基因与性状的关系\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据基因与性状的关系的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l014_ex02",
+    "knowledge_id": "g2_biology_l014",
+    "question": "填空题：基因与性状的关系的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：基因与性状的关系的核心特征。"
+  },
+  {
+    "id": "g2_biology_l014_ex03",
+    "knowledge_id": "g2_biology_l014",
+    "question": "选择题：基因与性状的关系的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l014_ex04",
+    "knowledge_id": "g2_biology_l014",
+    "question": "判断题：基因与性状的关系的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l014_ex05",
+    "knowledge_id": "g2_biology_l014",
+    "question": "判断题：基因与性状的关系的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l014_ex06",
+    "knowledge_id": "g2_biology_l014",
+    "question": "解答题：请简述基因与性状的关系的主要特征。",
+    "answer": "答案：基因是具有遗传效应的DNA片段，位于染色体上，每条染色体上有许多基因。基因决定生物的性状，如单眼皮还是双眼皮、有无耳垂等。在体细胞中，基因也是成对存在的，称为等位基因。等位基因有显性基因和隐性基因之分...\n解析：本题考察对基因与性状的关系的理解。"
+  },
+  {
+    "id": "g2_biology_l014_ex07",
+    "knowledge_id": "g2_biology_l014",
+    "question": "解答题：基因与性状的关系与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l014_ex08",
+    "knowledge_id": "g2_biology_l014",
+    "question": "选择题：基因与性状的关系的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据基因与性状的关系的功能判断。"
+  },
+  {
+    "id": "g2_biology_l014_ex09",
+    "knowledge_id": "g2_biology_l014",
+    "question": "填空题：基因与性状的关系的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：基因与性状的关系的结构特征。"
+  },
+  {
+    "id": "g2_biology_l014_ex10",
+    "knowledge_id": "g2_biology_l014",
+    "question": "综合题：结合基因与性状的关系和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l015_ex01",
+    "knowledge_id": "g2_biology_l015",
+    "question": "选择题：下列关于\"孟德尔豌豆杂交实验\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据孟德尔豌豆杂交实验的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l015_ex02",
+    "knowledge_id": "g2_biology_l015",
+    "question": "填空题：孟德尔豌豆杂交实验的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：孟德尔豌豆杂交实验的核心特征。"
+  },
+  {
+    "id": "g2_biology_l015_ex03",
+    "knowledge_id": "g2_biology_l015",
+    "question": "选择题：孟德尔豌豆杂交实验的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l015_ex04",
+    "knowledge_id": "g2_biology_l015",
+    "question": "判断题：孟德尔豌豆杂交实验的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l015_ex05",
+    "knowledge_id": "g2_biology_l015",
+    "question": "判断题：孟德尔豌豆杂交实验的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l015_ex06",
+    "knowledge_id": "g2_biology_l015",
+    "question": "解答题：请简述孟德尔豌豆杂交实验的主要特征。",
+    "answer": "答案：格雷戈尔·孟德尔（1822-1884）是遗传学的奠基人，他用豌豆进行了大量杂交实验。他选取豌豆是因为豌豆有容易区分的相对性状（如高茎和矮茎、圆粒和皱粒），且是自花传粉植物，实验结果可靠。他发现了两大遗...\n解析：本题考察对孟德尔豌豆杂交实验的理解。"
+  },
+  {
+    "id": "g2_biology_l015_ex07",
+    "knowledge_id": "g2_biology_l015",
+    "question": "解答题：孟德尔豌豆杂交实验与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l015_ex08",
+    "knowledge_id": "g2_biology_l015",
+    "question": "选择题：孟德尔豌豆杂交实验的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据孟德尔豌豆杂交实验的功能判断。"
+  },
+  {
+    "id": "g2_biology_l015_ex09",
+    "knowledge_id": "g2_biology_l015",
+    "question": "填空题：孟德尔豌豆杂交实验的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：孟德尔豌豆杂交实验的结构特征。"
+  },
+  {
+    "id": "g2_biology_l015_ex10",
+    "knowledge_id": "g2_biology_l015",
+    "question": "综合题：结合孟德尔豌豆杂交实验和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l016_ex01",
+    "knowledge_id": "g2_biology_l016",
+    "question": "选择题：下列关于\"基因的分离定律\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据基因的分离定律的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l016_ex02",
+    "knowledge_id": "g2_biology_l016",
+    "question": "填空题：基因的分离定律的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：基因的分离定律的核心特征。"
+  },
+  {
+    "id": "g2_biology_l016_ex03",
+    "knowledge_id": "g2_biology_l016",
+    "question": "选择题：基因的分离定律的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l016_ex04",
+    "knowledge_id": "g2_biology_l016",
+    "question": "判断题：基因的分离定律的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l016_ex05",
+    "knowledge_id": "g2_biology_l016",
+    "question": "判断题：基因的分离定律的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l016_ex06",
+    "knowledge_id": "g2_biology_l016",
+    "question": "解答题：请简述基因的分离定律的主要特征。",
+    "answer": "答案：基因的分离定律是孟德尔发现的第一个遗传定律。内容：在形成配子时，等位基因随同源染色体的分开而分离，分别进入不同的配子中。具体过程：以高茎（D）和矮茎（d）为例：纯合高茎（DD）和纯合矮茎（dd）杂交，...\n解析：本题考察对基因的分离定律的理解。"
+  },
+  {
+    "id": "g2_biology_l016_ex07",
+    "knowledge_id": "g2_biology_l016",
+    "question": "解答题：基因的分离定律与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l016_ex08",
+    "knowledge_id": "g2_biology_l016",
+    "question": "选择题：基因的分离定律的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据基因的分离定律的功能判断。"
+  },
+  {
+    "id": "g2_biology_l016_ex09",
+    "knowledge_id": "g2_biology_l016",
+    "question": "填空题：基因的分离定律的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：基因的分离定律的结构特征。"
+  },
+  {
+    "id": "g2_biology_l016_ex10",
+    "knowledge_id": "g2_biology_l016",
+    "question": "综合题：结合基因的分离定律和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l017_ex01",
+    "knowledge_id": "g2_biology_l017",
+    "question": "选择题：下列关于\"基因的自由组合定律\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据基因的自由组合定律的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l017_ex02",
+    "knowledge_id": "g2_biology_l017",
+    "question": "填空题：基因的自由组合定律的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：基因的自由组合定律的核心特征。"
+  },
+  {
+    "id": "g2_biology_l017_ex03",
+    "knowledge_id": "g2_biology_l017",
+    "question": "选择题：基因的自由组合定律的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l017_ex04",
+    "knowledge_id": "g2_biology_l017",
+    "question": "判断题：基因的自由组合定律的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l017_ex05",
+    "knowledge_id": "g2_biology_l017",
+    "question": "判断题：基因的自由组合定律的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l017_ex06",
+    "knowledge_id": "g2_biology_l017",
+    "question": "解答题：请简述基因的自由组合定律的主要特征。",
+    "answer": "答案：基因的自由组合定律是孟德尔发现的第二个遗传定律。内容：在形成配子时，位于非同源染色体上的非等位基因自由组合。具体过程：以黄色圆粒（YYRR）和绿色皱粒（yyrr）杂交为例：子一代全为黄色圆粒（YyRr...\n解析：本题考察对基因的自由组合定律的理解。"
+  },
+  {
+    "id": "g2_biology_l017_ex07",
+    "knowledge_id": "g2_biology_l017",
+    "question": "解答题：基因的自由组合定律与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l017_ex08",
+    "knowledge_id": "g2_biology_l017",
+    "question": "选择题：基因的自由组合定律的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据基因的自由组合定律的功能判断。"
+  },
+  {
+    "id": "g2_biology_l017_ex09",
+    "knowledge_id": "g2_biology_l017",
+    "question": "填空题：基因的自由组合定律的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：基因的自由组合定律的结构特征。"
+  },
+  {
+    "id": "g2_biology_l017_ex10",
+    "knowledge_id": "g2_biology_l017",
+    "question": "综合题：结合基因的自由组合定律和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l018_ex01",
+    "knowledge_id": "g2_biology_l018",
+    "question": "选择题：下列关于\"显性性状和隐性性状的判断\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据显性性状和隐性性状的判断的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l018_ex02",
+    "knowledge_id": "g2_biology_l018",
+    "question": "填空题：显性性状和隐性性状的判断的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：显性性状和隐性性状的判断的核心特征。"
+  },
+  {
+    "id": "g2_biology_l018_ex03",
+    "knowledge_id": "g2_biology_l018",
+    "question": "选择题：显性性状和隐性性状的判断的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l018_ex04",
+    "knowledge_id": "g2_biology_l018",
+    "question": "判断题：显性性状和隐性性状的判断的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l018_ex05",
+    "knowledge_id": "g2_biology_l018",
+    "question": "判断题：显性性状和隐性性状的判断的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l018_ex06",
+    "knowledge_id": "g2_biology_l018",
+    "question": "解答题：请简述显性性状和隐性性状的判断的主要特征。",
+    "answer": "答案：判断显隐性关系的方法：1）通过杂交判断：具有相对性状的两个亲本杂交，如果后代全表现为一种性状，则该性状为显性，另一种为隐性；2）通过自交判断：相同性状的个体交配，如果后代出现性状分离，则亲本为杂合子，...\n解析：本题考察对显性性状和隐性性状的判断的理解。"
+  },
+  {
+    "id": "g2_biology_l018_ex07",
+    "knowledge_id": "g2_biology_l018",
+    "question": "解答题：显性性状和隐性性状的判断与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l018_ex08",
+    "knowledge_id": "g2_biology_l018",
+    "question": "选择题：显性性状和隐性性状的判断的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据显性性状和隐性性状的判断的功能判断。"
+  },
+  {
+    "id": "g2_biology_l018_ex09",
+    "knowledge_id": "g2_biology_l018",
+    "question": "填空题：显性性状和隐性性状的判断的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：显性性状和隐性性状的判断的结构特征。"
+  },
+  {
+    "id": "g2_biology_l018_ex10",
+    "knowledge_id": "g2_biology_l018",
+    "question": "综合题：结合显性性状和隐性性状的判断和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l019_ex01",
+    "knowledge_id": "g2_biology_l019",
+    "question": "选择题：下列关于\"人类的性别决定\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据人类的性别决定的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l019_ex02",
+    "knowledge_id": "g2_biology_l019",
+    "question": "填空题：人类的性别决定的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：人类的性别决定的核心特征。"
+  },
+  {
+    "id": "g2_biology_l019_ex03",
+    "knowledge_id": "g2_biology_l019",
+    "question": "选择题：人类的性别决定的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l019_ex04",
+    "knowledge_id": "g2_biology_l019",
+    "question": "判断题：人类的性别决定的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l019_ex05",
+    "knowledge_id": "g2_biology_l019",
+    "question": "判断题：人类的性别决定的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l019_ex06",
+    "knowledge_id": "g2_biology_l019",
+    "question": "解答题：请简述人类的性别决定的主要特征。",
+    "answer": "答案：人类的性别由性染色体决定，属于XY型。男性体细胞中的性染色体为XY，女性体细胞中的性染色体为XX。在形成配子时，男性产生两种精子（22条+X或22条+Y），女性只产生一种卵细胞（22条+X）。精子与卵...\n解析：本题考察对人类的性别决定的理解。"
+  },
+  {
+    "id": "g2_biology_l019_ex07",
+    "knowledge_id": "g2_biology_l019",
+    "question": "解答题：人类的性别决定与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l019_ex08",
+    "knowledge_id": "g2_biology_l019",
+    "question": "选择题：人类的性别决定的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据人类的性别决定的功能判断。"
+  },
+  {
+    "id": "g2_biology_l019_ex09",
+    "knowledge_id": "g2_biology_l019",
+    "question": "填空题：人类的性别决定的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：人类的性别决定的结构特征。"
+  },
+  {
+    "id": "g2_biology_l019_ex10",
+    "knowledge_id": "g2_biology_l019",
+    "question": "综合题：结合人类的性别决定和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l020_ex01",
+    "knowledge_id": "g2_biology_l020",
+    "question": "选择题：下列关于\"遗传病的类型\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据遗传病的类型的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l020_ex02",
+    "knowledge_id": "g2_biology_l020",
+    "question": "填空题：遗传病的类型的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：遗传病的类型的核心特征。"
+  },
+  {
+    "id": "g2_biology_l020_ex03",
+    "knowledge_id": "g2_biology_l020",
+    "question": "选择题：遗传病的类型的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l020_ex04",
+    "knowledge_id": "g2_biology_l020",
+    "question": "判断题：遗传病的类型的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l020_ex05",
+    "knowledge_id": "g2_biology_l020",
+    "question": "判断题：遗传病的类型的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l020_ex06",
+    "knowledge_id": "g2_biology_l020",
+    "question": "解答题：请简述遗传病的类型的主要特征。",
+    "answer": "答案：遗传病是指由遗传物质改变引起的疾病。主要类型：1）单基因遗传病：由一对基因控制的遗传病，如白化病、多指症、镰刀型细胞贫血症等；2）多基因遗传病：由多对基因控制，如哮喘、唇腭裂、冠心病等；3）染色体异常...\n解析：本题考察对遗传病的类型的理解。"
+  },
+  {
+    "id": "g2_biology_l020_ex07",
+    "knowledge_id": "g2_biology_l020",
+    "question": "解答题：遗传病的类型与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l020_ex08",
+    "knowledge_id": "g2_biology_l020",
+    "question": "选择题：遗传病的类型的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据遗传病的类型的功能判断。"
+  },
+  {
+    "id": "g2_biology_l020_ex09",
+    "knowledge_id": "g2_biology_l020",
+    "question": "填空题：遗传病的类型的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：遗传病的类型的结构特征。"
+  },
+  {
+    "id": "g2_biology_l020_ex10",
+    "knowledge_id": "g2_biology_l020",
+    "question": "综合题：结合遗传病的类型和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l021_ex01",
+    "knowledge_id": "g2_biology_l021",
+    "question": "选择题：下列关于\"可遗传的变异和不遗传的变异\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据可遗传的变异和不遗传的变异的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l021_ex02",
+    "knowledge_id": "g2_biology_l021",
+    "question": "填空题：可遗传的变异和不遗传的变异的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：可遗传的变异和不遗传的变异的核心特征。"
+  },
+  {
+    "id": "g2_biology_l021_ex03",
+    "knowledge_id": "g2_biology_l021",
+    "question": "选择题：可遗传的变异和不遗传的变异的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l021_ex04",
+    "knowledge_id": "g2_biology_l021",
+    "question": "判断题：可遗传的变异和不遗传的变异的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l021_ex05",
+    "knowledge_id": "g2_biology_l021",
+    "question": "判断题：可遗传的变异和不遗传的变异的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l021_ex06",
+    "knowledge_id": "g2_biology_l021",
+    "question": "解答题：请简述可遗传的变异和不遗传的变异的主要特征。",
+    "answer": "答案：变异可分为两类：可遗传的变异是指由于遗传物质（如DNA、基因、染色体）发生改变而引起的变异，这类变异能遗传给后代，包括基因突变（DNA分子中碱基对的增添、缺失或改变）、染色体变异（染色体数目或结构改变...\n解析：本题考察对可遗传的变异和不遗传的变异的理解。"
+  },
+  {
+    "id": "g2_biology_l021_ex07",
+    "knowledge_id": "g2_biology_l021",
+    "question": "解答题：可遗传的变异和不遗传的变异与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l021_ex08",
+    "knowledge_id": "g2_biology_l021",
+    "question": "选择题：可遗传的变异和不遗传的变异的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据可遗传的变异和不遗传的变异的功能判断。"
+  },
+  {
+    "id": "g2_biology_l021_ex09",
+    "knowledge_id": "g2_biology_l021",
+    "question": "填空题：可遗传的变异和不遗传的变异的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：可遗传的变异和不遗传的变异的结构特征。"
+  },
+  {
+    "id": "g2_biology_l021_ex10",
+    "knowledge_id": "g2_biology_l021",
+    "question": "综合题：结合可遗传的变异和不遗传的变异和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l022_ex01",
+    "knowledge_id": "g2_biology_l022",
+    "question": "选择题：下列关于\"变异在农业上的应用\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据变异在农业上的应用的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l022_ex02",
+    "knowledge_id": "g2_biology_l022",
+    "question": "填空题：变异在农业上的应用的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：变异在农业上的应用的核心特征。"
+  },
+  {
+    "id": "g2_biology_l022_ex03",
+    "knowledge_id": "g2_biology_l022",
+    "question": "选择题：变异在农业上的应用的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l022_ex04",
+    "knowledge_id": "g2_biology_l022",
+    "question": "判断题：变异在农业上的应用的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l022_ex05",
+    "knowledge_id": "g2_biology_l022",
+    "question": "判断题：变异在农业上的应用的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l022_ex06",
+    "knowledge_id": "g2_biology_l022",
+    "question": "解答题：请简述变异在农业上的应用的主要特征。",
+    "answer": "答案：变异在农业上有着广泛应用：人工选择：通过选择培育有利变异，经过逐代选择形成作物新品种（如各种狗的品种、各种花卉品种）。杂交育种：将两个不同品种的个体杂交，让控制不同性状基因重新组合，产生新品种（如杂交...\n解析：本题考察对变异在农业上的应用的理解。"
+  },
+  {
+    "id": "g2_biology_l022_ex07",
+    "knowledge_id": "g2_biology_l022",
+    "question": "解答题：变异在农业上的应用与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l022_ex08",
+    "knowledge_id": "g2_biology_l022",
+    "question": "选择题：变异在农业上的应用的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据变异在农业上的应用的功能判断。"
+  },
+  {
+    "id": "g2_biology_l022_ex09",
+    "knowledge_id": "g2_biology_l022",
+    "question": "填空题：变异在农业上的应用的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：变异在农业上的应用的结构特征。"
+  },
+  {
+    "id": "g2_biology_l022_ex10",
+    "knowledge_id": "g2_biology_l022",
+    "question": "综合题：结合变异在农业上的应用和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l023_ex01",
+    "knowledge_id": "g2_biology_l023",
+    "question": "选择题：下列关于\"人类与现代类人猿的亲缘关系\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据人类与现代类人猿的亲缘关系的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l023_ex02",
+    "knowledge_id": "g2_biology_l023",
+    "question": "填空题：人类与现代类人猿的亲缘关系的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：人类与现代类人猿的亲缘关系的核心特征。"
+  },
+  {
+    "id": "g2_biology_l023_ex03",
+    "knowledge_id": "g2_biology_l023",
+    "question": "选择题：人类与现代类人猿的亲缘关系的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l023_ex04",
+    "knowledge_id": "g2_biology_l023",
+    "question": "判断题：人类与现代类人猿的亲缘关系的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l023_ex05",
+    "knowledge_id": "g2_biology_l023",
+    "question": "判断题：人类与现代类人猿的亲缘关系的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l023_ex06",
+    "knowledge_id": "g2_biology_l023",
+    "question": "解答题：请简述人类与现代类人猿的亲缘关系的主要特征。",
+    "answer": "答案：人类和现代类人猿有着共同的原始祖先——森林古猿。现代类人猿包括黑猩猩、大猩猩、猩猩和长臂猿，它们与人类的亲缘关系最近，其中黑猩猩与人类的基因相似度最高（约98%-99%）。需要注意的是：人类不是由现代...\n解析：本题考察对人类与现代类人猿的亲缘关系的理解。"
+  },
+  {
+    "id": "g2_biology_l023_ex07",
+    "knowledge_id": "g2_biology_l023",
+    "question": "解答题：人类与现代类人猿的亲缘关系与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l023_ex08",
+    "knowledge_id": "g2_biology_l023",
+    "question": "选择题：人类与现代类人猿的亲缘关系的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据人类与现代类人猿的亲缘关系的功能判断。"
+  },
+  {
+    "id": "g2_biology_l023_ex09",
+    "knowledge_id": "g2_biology_l023",
+    "question": "填空题：人类与现代类人猿的亲缘关系的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：人类与现代类人猿的亲缘关系的结构特征。"
+  },
+  {
+    "id": "g2_biology_l023_ex10",
+    "knowledge_id": "g2_biology_l023",
+    "question": "综合题：结合人类与现代类人猿的亲缘关系和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l024_ex01",
+    "knowledge_id": "g2_biology_l024",
+    "question": "选择题：下列关于\"从猿到人的进化历程\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据从猿到人的进化历程的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l024_ex02",
+    "knowledge_id": "g2_biology_l024",
+    "question": "填空题：从猿到人的进化历程的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：从猿到人的进化历程的核心特征。"
+  },
+  {
+    "id": "g2_biology_l024_ex03",
+    "knowledge_id": "g2_biology_l024",
+    "question": "选择题：从猿到人的进化历程的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l024_ex04",
+    "knowledge_id": "g2_biology_l024",
+    "question": "判断题：从猿到人的进化历程的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l024_ex05",
+    "knowledge_id": "g2_biology_l024",
+    "question": "判断题：从猿到人的进化历程的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l024_ex06",
+    "knowledge_id": "g2_biology_l024",
+    "question": "解答题：请简述从猿到人的进化历程的主要特征。",
+    "answer": "答案：从猿到人的进化历程：约1000万年前，森林古猿生活在森林中；由于环境变化，一部分森林古猿下地生活，开始直立行走；直立行走使前肢解放出来，开始使用天然工具；逐渐学会制造工具，这是人类区别于猿的重要标志；...\n解析：本题考察对从猿到人的进化历程的理解。"
+  },
+  {
+    "id": "g2_biology_l024_ex07",
+    "knowledge_id": "g2_biology_l024",
+    "question": "解答题：从猿到人的进化历程与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l024_ex08",
+    "knowledge_id": "g2_biology_l024",
+    "question": "选择题：从猿到人的进化历程的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据从猿到人的进化历程的功能判断。"
+  },
+  {
+    "id": "g2_biology_l024_ex09",
+    "knowledge_id": "g2_biology_l024",
+    "question": "填空题：从猿到人的进化历程的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：从猿到人的进化历程的结构特征。"
+  },
+  {
+    "id": "g2_biology_l024_ex10",
+    "knowledge_id": "g2_biology_l024",
+    "question": "综合题：结合从猿到人的进化历程和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l025_ex01",
+    "knowledge_id": "g2_biology_l025",
+    "question": "选择题：下列关于\"人类进化的主要阶段\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据人类进化的主要阶段的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l025_ex02",
+    "knowledge_id": "g2_biology_l025",
+    "question": "填空题：人类进化的主要阶段的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：人类进化的主要阶段的核心特征。"
+  },
+  {
+    "id": "g2_biology_l025_ex03",
+    "knowledge_id": "g2_biology_l025",
+    "question": "选择题：人类进化的主要阶段的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l025_ex04",
+    "knowledge_id": "g2_biology_l025",
+    "question": "判断题：人类进化的主要阶段的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l025_ex05",
+    "knowledge_id": "g2_biology_l025",
+    "question": "判断题：人类进化的主要阶段的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l025_ex06",
+    "knowledge_id": "g2_biology_l025",
+    "question": "解答题：请简述人类进化的主要阶段的主要特征。",
+    "answer": "答案：人类进化的主要阶段：1）南方古猿：约400-200万年前，能两足直立行走，但脑容量较小；2）能人：约200-150万年前，能制造简单石器工具，脑容量约600-700毫升；3）直立人：约100-20万年...\n解析：本题考察对人类进化的主要阶段的理解。"
+  },
+  {
+    "id": "g2_biology_l025_ex07",
+    "knowledge_id": "g2_biology_l025",
+    "question": "解答题：人类进化的主要阶段与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l025_ex08",
+    "knowledge_id": "g2_biology_l025",
+    "question": "选择题：人类进化的主要阶段的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据人类进化的主要阶段的功能判断。"
+  },
+  {
+    "id": "g2_biology_l025_ex09",
+    "knowledge_id": "g2_biology_l025",
+    "question": "填空题：人类进化的主要阶段的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：人类进化的主要阶段的结构特征。"
+  },
+  {
+    "id": "g2_biology_l025_ex10",
+    "knowledge_id": "g2_biology_l025",
+    "question": "综合题：结合人类进化的主要阶段和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l026_ex01",
+    "knowledge_id": "g2_biology_l026",
+    "question": "选择题：下列关于\"生态系统的组成\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据生态系统的组成的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l026_ex02",
+    "knowledge_id": "g2_biology_l026",
+    "question": "填空题：生态系统的组成的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：生态系统的组成的核心特征。"
+  },
+  {
+    "id": "g2_biology_l026_ex03",
+    "knowledge_id": "g2_biology_l026",
+    "question": "选择题：生态系统的组成的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l026_ex04",
+    "knowledge_id": "g2_biology_l026",
+    "question": "判断题：生态系统的组成的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l026_ex05",
+    "knowledge_id": "g2_biology_l026",
+    "question": "判断题：生态系统的组成的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l026_ex06",
+    "knowledge_id": "g2_biology_l026",
+    "question": "解答题：请简述生态系统的组成的主要特征。",
+    "answer": "答案：生态系统由生物成分和非生物成分组成。生物成分包括：生产者（绿色植物，通过光合作用制造有机物，是生态系统的基础）；消费者（动物，不能自己制造有机物，直接或间接以植物为食）；分解者（细菌和真菌，分解动植物...\n解析：本题考察对生态系统的组成的理解。"
+  },
+  {
+    "id": "g2_biology_l026_ex07",
+    "knowledge_id": "g2_biology_l026",
+    "question": "解答题：生态系统的组成与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l026_ex08",
+    "knowledge_id": "g2_biology_l026",
+    "question": "选择题：生态系统的组成的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据生态系统的组成的功能判断。"
+  },
+  {
+    "id": "g2_biology_l026_ex09",
+    "knowledge_id": "g2_biology_l026",
+    "question": "填空题：生态系统的组成的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：生态系统的组成的结构特征。"
+  },
+  {
+    "id": "g2_biology_l026_ex10",
+    "knowledge_id": "g2_biology_l026",
+    "question": "综合题：结合生态系统的组成和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l027_ex01",
+    "knowledge_id": "g2_biology_l027",
+    "question": "选择题：下列关于\"食物链和食物网\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据食物链和食物网的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l027_ex02",
+    "knowledge_id": "g2_biology_l027",
+    "question": "填空题：食物链和食物网的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：食物链和食物网的核心特征。"
+  },
+  {
+    "id": "g2_biology_l027_ex03",
+    "knowledge_id": "g2_biology_l027",
+    "question": "选择题：食物链和食物网的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l027_ex04",
+    "knowledge_id": "g2_biology_l027",
+    "question": "判断题：食物链和食物网的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l027_ex05",
+    "knowledge_id": "g2_biology_l027",
+    "question": "判断题：食物链和食物网的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l027_ex06",
+    "knowledge_id": "g2_biology_l027",
+    "question": "解答题：请简述食物链和食物网的主要特征。",
+    "answer": "答案：食物链是生态系统中各种生物之间由于食物关系而形成的一种联系。食物链的起点是生产者（绿色植物），然后是草食动物（初级消费者），再是肉食动物（次级、三级消费者），最后是分解者。食物网是生态系统中多条食物链...\n解析：本题考察对食物链和食物网的理解。"
+  },
+  {
+    "id": "g2_biology_l027_ex07",
+    "knowledge_id": "g2_biology_l027",
+    "question": "解答题：食物链和食物网与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l027_ex08",
+    "knowledge_id": "g2_biology_l027",
+    "question": "选择题：食物链和食物网的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据食物链和食物网的功能判断。"
+  },
+  {
+    "id": "g2_biology_l027_ex09",
+    "knowledge_id": "g2_biology_l027",
+    "question": "填空题：食物链和食物网的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：食物链和食物网的结构特征。"
+  },
+  {
+    "id": "g2_biology_l027_ex10",
+    "knowledge_id": "g2_biology_l027",
+    "question": "综合题：结合食物链和食物网和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l028_ex01",
+    "knowledge_id": "g2_biology_l028",
+    "question": "选择题：下列关于\"生态系统的能量流动和物质循环\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据生态系统的能量流动和物质循环的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l028_ex02",
+    "knowledge_id": "g2_biology_l028",
+    "question": "填空题：生态系统的能量流动和物质循环的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：生态系统的能量流动和物质循环的核心特征。"
+  },
+  {
+    "id": "g2_biology_l028_ex03",
+    "knowledge_id": "g2_biology_l028",
+    "question": "选择题：生态系统的能量流动和物质循环的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l028_ex04",
+    "knowledge_id": "g2_biology_l028",
+    "question": "判断题：生态系统的能量流动和物质循环的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l028_ex05",
+    "knowledge_id": "g2_biology_l028",
+    "question": "判断题：生态系统的能量流动和物质循环的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l028_ex06",
+    "knowledge_id": "g2_biology_l028",
+    "question": "解答题：请简述生态系统的能量流动和物质循环的主要特征。",
+    "answer": "答案：生态系统的能量流动：能量进入生态系统后，通过生产者→消费者→分解者的途径流动，能量在流动过程中逐渐减少（每一环节约传递10%），最终以热能形式散失，因此能量流动是单向的、逐级递减的，不能循环。生态系统...\n解析：本题考察对生态系统的能量流动和物质循环的理解。"
+  },
+  {
+    "id": "g2_biology_l028_ex07",
+    "knowledge_id": "g2_biology_l028",
+    "question": "解答题：生态系统的能量流动和物质循环与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l028_ex08",
+    "knowledge_id": "g2_biology_l028",
+    "question": "选择题：生态系统的能量流动和物质循环的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据生态系统的能量流动和物质循环的功能判断。"
+  },
+  {
+    "id": "g2_biology_l028_ex09",
+    "knowledge_id": "g2_biology_l028",
+    "question": "填空题：生态系统的能量流动和物质循环的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：生态系统的能量流动和物质循环的结构特征。"
+  },
+  {
+    "id": "g2_biology_l028_ex10",
+    "knowledge_id": "g2_biology_l028",
+    "question": "综合题：结合生态系统的能量流动和物质循环和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l029_ex01",
+    "knowledge_id": "g2_biology_l029",
+    "question": "选择题：下列关于\"生态系统的自动调节能力\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据生态系统的自动调节能力的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l029_ex02",
+    "knowledge_id": "g2_biology_l029",
+    "question": "填空题：生态系统的自动调节能力的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：生态系统的自动调节能力的核心特征。"
+  },
+  {
+    "id": "g2_biology_l029_ex03",
+    "knowledge_id": "g2_biology_l029",
+    "question": "选择题：生态系统的自动调节能力的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l029_ex04",
+    "knowledge_id": "g2_biology_l029",
+    "question": "判断题：生态系统的自动调节能力的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l029_ex05",
+    "knowledge_id": "g2_biology_l029",
+    "question": "判断题：生态系统的自动调节能力的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l029_ex06",
+    "knowledge_id": "g2_biology_l029",
+    "question": "解答题：请简述生态系统的自动调节能力的主要特征。",
+    "answer": "答案：生态系统具有一定的自动调节能力，能在没有人为干扰的情况下维持相对稳定。但这种能力是有一定限度的。生态系统越复杂（生物种类越多、食物网越复杂），自动调节能力越强；生态系统越简单（生物种类少、食物网简单）...\n解析：本题考察对生态系统的自动调节能力的理解。"
+  },
+  {
+    "id": "g2_biology_l029_ex07",
+    "knowledge_id": "g2_biology_l029",
+    "question": "解答题：生态系统的自动调节能力与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l029_ex08",
+    "knowledge_id": "g2_biology_l029",
+    "question": "选择题：生态系统的自动调节能力的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据生态系统的自动调节能力的功能判断。"
+  },
+  {
+    "id": "g2_biology_l029_ex09",
+    "knowledge_id": "g2_biology_l029",
+    "question": "填空题：生态系统的自动调节能力的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：生态系统的自动调节能力的结构特征。"
+  },
+  {
+    "id": "g2_biology_l029_ex10",
+    "knowledge_id": "g2_biology_l029",
+    "question": "综合题：结合生态系统的自动调节能力和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l030_ex01",
+    "knowledge_id": "g2_biology_l030",
+    "question": "选择题：下列关于\"生物与环境的关系\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据生物与环境的关系的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l030_ex02",
+    "knowledge_id": "g2_biology_l030",
+    "question": "填空题：生物与环境的关系的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：生物与环境的关系的核心特征。"
+  },
+  {
+    "id": "g2_biology_l030_ex03",
+    "knowledge_id": "g2_biology_l030",
+    "question": "选择题：生物与环境的关系的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l030_ex04",
+    "knowledge_id": "g2_biology_l030",
+    "question": "判断题：生物与环境的关系的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l030_ex05",
+    "knowledge_id": "g2_biology_l030",
+    "question": "判断题：生物与环境的关系的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l030_ex06",
+    "knowledge_id": "g2_biology_l030",
+    "question": "解答题：请简述生物与环境的关系的主要特征。",
+    "answer": "答案：生物与环境之间存在密切的相互关系。生物影响环境：生物的活动能改变环境，如植物蒸腾作用增加空气湿度、动物挖掘洞穴改变土壤结构、人类活动污染环境等。环境影响生物：环境因素（如阳光、温度、水分、土壤等）影响...\n解析：本题考察对生物与环境的关系的理解。"
+  },
+  {
+    "id": "g2_biology_l030_ex07",
+    "knowledge_id": "g2_biology_l030",
+    "question": "解答题：生物与环境的关系与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l030_ex08",
+    "knowledge_id": "g2_biology_l030",
+    "question": "选择题：生物与环境的关系的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据生物与环境的关系的功能判断。"
+  },
+  {
+    "id": "g2_biology_l030_ex09",
+    "knowledge_id": "g2_biology_l030",
+    "question": "填空题：生物与环境的关系的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：生物与环境的关系的结构特征。"
+  },
+  {
+    "id": "g2_biology_l030_ex10",
+    "knowledge_id": "g2_biology_l030",
+    "question": "综合题：结合生物与环境的关系和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l031_ex01",
+    "knowledge_id": "g2_biology_l031",
+    "question": "选择题：下列关于\"生物技术的概念\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据生物技术的概念的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l031_ex02",
+    "knowledge_id": "g2_biology_l031",
+    "question": "填空题：生物技术的概念的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：生物技术的概念的核心特征。"
+  },
+  {
+    "id": "g2_biology_l031_ex03",
+    "knowledge_id": "g2_biology_l031",
+    "question": "选择题：生物技术的概念的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l031_ex04",
+    "knowledge_id": "g2_biology_l031",
+    "question": "判断题：生物技术的概念的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l031_ex05",
+    "knowledge_id": "g2_biology_l031",
+    "question": "判断题：生物技术的概念的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l031_ex06",
+    "knowledge_id": "g2_biology_l031",
+    "question": "解答题：请简述生物技术的概念的主要特征。",
+    "answer": "答案：生物技术是指利用生物体系（包括生物体、细胞、酶等）来改良生物或生产产品的技术。生物技术分为传统生物技术和现代生物技术。传统生物技术包括：酿造（酿酒、制醋）、发酵（制作酸奶、泡菜）、传统育种等，已经有几...\n解析：本题考察对生物技术的概念的理解。"
+  },
+  {
+    "id": "g2_biology_l031_ex07",
+    "knowledge_id": "g2_biology_l031",
+    "question": "解答题：生物技术的概念与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l031_ex08",
+    "knowledge_id": "g2_biology_l031",
+    "question": "选择题：生物技术的概念的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据生物技术的概念的功能判断。"
+  },
+  {
+    "id": "g2_biology_l031_ex09",
+    "knowledge_id": "g2_biology_l031",
+    "question": "填空题：生物技术的概念的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：生物技术的概念的结构特征。"
+  },
+  {
+    "id": "g2_biology_l031_ex10",
+    "knowledge_id": "g2_biology_l031",
+    "question": "综合题：结合生物技术的概念和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l032_ex01",
+    "knowledge_id": "g2_biology_l032",
+    "question": "选择题：下列关于\"基因工程与转基因技术\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据基因工程与转基因技术的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l032_ex02",
+    "knowledge_id": "g2_biology_l032",
+    "question": "填空题：基因工程与转基因技术的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：基因工程与转基因技术的核心特征。"
+  },
+  {
+    "id": "g2_biology_l032_ex03",
+    "knowledge_id": "g2_biology_l032",
+    "question": "选择题：基因工程与转基因技术的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l032_ex04",
+    "knowledge_id": "g2_biology_l032",
+    "question": "判断题：基因工程与转基因技术的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l032_ex05",
+    "knowledge_id": "g2_biology_l032",
+    "question": "判断题：基因工程与转基因技术的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l032_ex06",
+    "knowledge_id": "g2_biology_l032",
+    "question": "解答题：请简述基因工程与转基因技术的主要特征。",
+    "answer": "答案：基因工程是指按照人的意愿，人工地改造生物遗传性状的技术。转基因技术是基因工程的核心技术，其过程：提取目的基因（如抗虫基因）；用限制性核酸内切酶切割质粒（运载体），用DNA连接酶将目的基因与质粒拼接形成...\n解析：本题考察对基因工程与转基因技术的理解。"
+  },
+  {
+    "id": "g2_biology_l032_ex07",
+    "knowledge_id": "g2_biology_l032",
+    "question": "解答题：基因工程与转基因技术与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l032_ex08",
+    "knowledge_id": "g2_biology_l032",
+    "question": "选择题：基因工程与转基因技术的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据基因工程与转基因技术的功能判断。"
+  },
+  {
+    "id": "g2_biology_l032_ex09",
+    "knowledge_id": "g2_biology_l032",
+    "question": "填空题：基因工程与转基因技术的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：基因工程与转基因技术的结构特征。"
+  },
+  {
+    "id": "g2_biology_l032_ex10",
+    "knowledge_id": "g2_biology_l032",
+    "question": "综合题：结合基因工程与转基因技术和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  },
+  {
+    "id": "g2_biology_l033_ex01",
+    "knowledge_id": "g2_biology_l033",
+    "question": "选择题：下列关于\"克隆技术\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
+    "answer": "答案：C\n解析：根据克隆技术的定义和性质分析各选项。"
+  },
+  {
+    "id": "g2_biology_l033_ex02",
+    "knowledge_id": "g2_biology_l033",
+    "question": "填空题：克隆技术的主要特征是______。",
+    "answer": "答案：根据知识点填写\n解析：克隆技术的核心特征。"
+  },
+  {
+    "id": "g2_biology_l033_ex03",
+    "knowledge_id": "g2_biology_l033",
+    "question": "选择题：克隆技术的代表动物（或生物）是（  ）\nA. 选项A\nB. 选项B\nC. 选项C\nD. 选项D",
+    "answer": "答案：C\n解析：根据知识点判断。"
+  },
+  {
+    "id": "g2_biology_l033_ex04",
+    "knowledge_id": "g2_biology_l033",
+    "question": "判断题：克隆技术的某个重要性质描述。",
+    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+  },
+  {
+    "id": "g2_biology_l033_ex05",
+    "knowledge_id": "g2_biology_l033",
+    "question": "判断题：克隆技术的某个常见错误描述。",
+    "answer": "答案：错误\n解析：正确的理解应该是。"
+  },
+  {
+    "id": "g2_biology_l033_ex06",
+    "knowledge_id": "g2_biology_l033",
+    "question": "解答题：请简述克隆技术的主要特征。",
+    "answer": "答案：克隆是指不经过受精过程，通过无性繁殖获得与亲代遗传组成完全相同的个体。1996年，世界上第一只克隆哺乳动物——多利羊诞生。克隆技术的基本过程：将一只羊的乳腺细胞（体细胞）的细胞核取出，移植到另一只羊的...\n解析：本题考察对克隆技术的理解。"
+  },
+  {
+    "id": "g2_biology_l033_ex07",
+    "knowledge_id": "g2_biology_l033",
+    "question": "解答题：克隆技术与相关类群（或概念）有什么区别？",
+    "answer": "答案：分析比较知识点之间的异同\n解析：考察对知识的理解和比较能力。"
+  },
+  {
+    "id": "g2_biology_l033_ex08",
+    "knowledge_id": "g2_biology_l033",
+    "question": "选择题：克隆技术的功能（或作用）是（  ）\nA. 功能A\nB. 功能B\nC. 功能C\nD. 功能D",
+    "answer": "答案：C\n解析：根据克隆技术的功能判断。"
+  },
+  {
+    "id": "g2_biology_l033_ex09",
+    "knowledge_id": "g2_biology_l033",
+    "question": "填空题：克隆技术的结构特点是______。",
+    "answer": "答案：根据知识点填写\n解析：克隆技术的结构特征。"
+  },
+  {
+    "id": "g2_biology_l033_ex10",
+    "knowledge_id": "g2_biology_l033",
+    "question": "综合题：结合克隆技术和其他相关知识解决问题。",
+    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+  }
+]
