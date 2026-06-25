@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l002_ex01",
+    "knowledge_id": "g2_english_l002",
+    "question": "单项选择：You _____ wear a helmet when riding a bike. A. must  B. mustn't  C. have to  D. A and B",
+    "answer": "答案：D. A and B。解析：must和mustn't都表示\"必须/禁止\"，强调规定。整句：You must wear a helmet..."
+  },
+  {
+    "id": "g2_english_l002_ex02",
+    "knowledge_id": "g2_english_l002",
+    "question": "单项选择：You _____ play with fire. It's dangerous. A. must  B. mustn't  C. have to  D. A and B",
+    "answer": "答案：B. mustn't。解析：mustn't表示\"禁止\"，绝对不允许。整句：You mustn't play with fire."
+  },
+  {
+    "id": "g2_english_l002_ex03",
+    "knowledge_id": "g2_english_l002",
+    "question": "用所给词的适当形式填空：You ______ (must) be 18 years old to drive a car.",
+    "answer": "答案：must。解析：must表示\"必须\"，强调规定或法律要求。完整：You must be 18 years old to drive a car."
+  },
+  {
+    "id": "g2_english_l002_ex04",
+    "knowledge_id": "g2_english_l002",
+    "question": "单项选择：_____ I hand in my homework now? A. Must  B. Have to  C. Should  D. Could",
+    "answer": "答案：A. Must。解析：Must I...?表示\"我必须...吗？\"。must更强调主观必要性或规定。"
+  },
+  {
+    "id": "g2_english_l002_ex05",
+    "knowledge_id": "g2_english_l002",
+    "question": "翻译句子：禁止吸烟。",
+    "answer": "答案：You mustn't smoke here. 解析：mustn't\"禁止\"。smoke\"吸烟\"。here\"这里\"。"
+  },
+  {
+    "id": "g2_english_l002_ex06",
+    "knowledge_id": "g2_english_l002",
+    "question": "单项选择：We _____ follow the school rules. A. must  B. mustn't  C. have to  D. A and C",
+    "answer": "答案：D. A and D。解析：must和have to都可表示\"必须\"。must强调主观，have to强调客观。"
+  },
+  {
+    "id": "g2_english_l002_ex07",
+    "knowledge_id": "g2_english_l002",
+    "question": "用所给词的适当形式填空：You ______ (mustn't) tell anyone about this. It's a secret.",
+    "answer": "答案：mustn't。解析：mustn't\"禁止/不许\"，表示绝对不允许。完整：You mustn't tell anyone about this."
+  },
+  {
+    "id": "g2_english_l002_ex08",
+    "knowledge_id": "g2_english_l002",
+    "question": "单项选择：— Must I finish the work today? — _____. You can do it tomorrow. A. Yes, you must  B. No, you needn't  C. No, you mustn't  D. Yes, you do",
+    "answer": "答案：B. No, you needn't。解析：must的一般疑问句，否定回答用needn't/don't have to，表示\"不必\"。"
+  },
+  {
+    "id": "g2_english_l002_ex09",
+    "knowledge_id": "g2_english_l002",
+    "question": "翻译句子：我必须按时完成作业。",
+    "answer": "答案：I must finish my homework on time. 解析：must\"必须\"。on time\"按时\"。"
+  },
+  {
+    "id": "g2_english_l002_ex10",
+    "knowledge_id": "g2_english_l002",
+    "question": "单项选择：Students _____ be quiet in the library. A. must  B. mustn't  C. have to  D. A and B",
+    "answer": "答案：A. must。解析：must表示\"必须\"，图书馆规定要安静。"
+  }
+]

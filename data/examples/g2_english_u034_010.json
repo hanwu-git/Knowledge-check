@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u034_ex01",
+    "knowledge_id": "g2_english_u034",
+    "question": "单项选择：This book is _____ than that one. A. good  B. better  C. best  D. the best",
+    "answer": "答案：B. better。解析：good的比较级是better（不规则变化）。"
+  },
+  {
+    "id": "g2_english_u034_ex02",
+    "knowledge_id": "g2_english_u034",
+    "question": "单项选择：His English is _____ than mine. A. bad  B. badder  C. worse  D. worst",
+    "answer": "答案：C. worse。解析：bad的比较级是worse（不规则变化）。"
+  },
+  {
+    "id": "g2_english_u034_ex03",
+    "knowledge_id": "g2_english_u034",
+    "question": "用所给词的适当形式填空：I have ______ (many) books than you.",
+    "answer": "答案：more。解析：many的比较级是more。"
+  },
+  {
+    "id": "g2_english_u034_ex04",
+    "knowledge_id": "g2_english_u034",
+    "question": "单项选择：This bag is _____ expensive than that one. A. more  B. less  C. much  D. very",
+    "answer": "答案：B. less。解析：little的比较级是less，\"更便宜\"。"
+  },
+  {
+    "id": "g2_english_u034_ex05",
+    "knowledge_id": "g2_english_u034",
+    "question": "单项选择：My house is _____ from the school than yours. A. far  B. farther  C. farthest  D. farer",
+    "answer": "答案：B. farther。解析：far的比较级是farther或further。"
+  },
+  {
+    "id": "g2_english_u034_ex06",
+    "knowledge_id": "g2_english_u034",
+    "question": "用所给词的适当形式填空：Tom runs ______ (fast) than Jack.",
+    "answer": "答案：faster。解析：fast是规则变化，加-er变faster。"
+  },
+  {
+    "id": "g2_english_u034_ex07",
+    "knowledge_id": "g2_english_u034",
+    "question": "单项选择：She is _____ at math than me. A. good  B. well  C. better  D. best",
+    "answer": "答案：C. better。解析：good/well的比较级都是better。"
+  },
+  {
+    "id": "g2_english_u034_ex08",
+    "knowledge_id": "g2_english_u034",
+    "question": "翻译句子：今天的天气比昨天差。",
+    "answer": "答案：The weather today is worse than yesterday. 解析：bad的比较级是worse。"
+  },
+  {
+    "id": "g2_english_u034_ex09",
+    "knowledge_id": "g2_english_u034",
+    "question": "用所给词的适当形式填空：He has ______ (much) money than his brother.",
+    "answer": "答案：more。解析：much的比较级是more。"
+  },
+  {
+    "id": "g2_english_u034_ex10",
+    "knowledge_id": "g2_english_u034",
+    "question": "单项选择：— How are you feeling? — _____. I feel _____ than before. A. Bad, worse  B. Worse, badly  C. Worse, worse  D. Badly, bad",
+    "answer": "答案：A. Bad, worse。解析：feel是系动词，后接形容词bad；than后用比较级worse。"
+  }
+]

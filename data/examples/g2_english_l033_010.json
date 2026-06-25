@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l033_ex01",
+    "knowledge_id": "g2_english_l033",
+    "question": "单项选择：I _____ this book yesterday. A. read  B. have read  C. am reading  D. will read",
+    "answer": "答案：A. read。解析：yesterday是一般过去时，强调过去时间。read的过去式是read（发音/red/）。"
+  },
+  {
+    "id": "g2_english_l033_ex02",
+    "knowledge_id": "g2_english_l033",
+    "question": "单项选择：I _____ this book. I know the story well. A. read  B. have read  C. am reading  D. will read",
+    "answer": "答案：B. have read。解析：现在完成时强调与现在的联系（I know the story well）。"
+  },
+  {
+    "id": "g2_english_l033_ex03",
+    "knowledge_id": "g2_english_l033",
+    "question": "用所给词的适当形式填空：I ______ (visit) my grandparents last weekend.",
+    "answer": "答案：visited。解析：last weekend是一般过去时。完整：I visited my grandparents last weekend."
+  },
+  {
+    "id": "g2_english_l033_ex04",
+    "knowledge_id": "g2_english_l033",
+    "question": "单项选择：— Have you read this book? — Yes, I _____ it last month. A. read  B. reads  C. have read  D. will read",
+    "answer": "答案：A. read。解析：last month是过去时间，回答用一般过去时。read的过去式是read（发音/red/）。"
+  },
+  {
+    "id": "g2_english_l033_ex05",
+    "knowledge_id": "g2_english_l033",
+    "question": "翻译句子：昨天我看了那本有趣的书。",
+    "answer": "答案：I read that interesting book yesterday. 解析：yesterday是一般过去时。"
+  },
+  {
+    "id": "g2_english_l033_ex06",
+    "knowledge_id": "g2_english_l033",
+    "question": "单项选择：I _____ my hometown three years ago. A. leave  B. left  C. have left  D. will leave",
+    "answer": "答案：B. left。解析：three years ago是一般过去时。"
+  },
+  {
+    "id": "g2_english_l033_ex07",
+    "knowledge_id": "g2_english_l033",
+    "question": "用所给词的适当形式填空：She ______ (be) to Paris three times.",
+    "answer": "答案：has been。解析：three times强调经历，用现在完成时。完整：She has been to Paris three times."
+  },
+  {
+    "id": "g2_english_l033_ex08",
+    "knowledge_id": "g2_english_l033",
+    "question": "单项选择：He _____ in London in 2010. A. lives  B. lived  C. has lived  D. is living",
+    "answer": "答案：B. lived。解析：in 2010是过去具体时间，用一般过去时。"
+  },
+  {
+    "id": "g2_english_l033_ex09",
+    "knowledge_id": "g2_english_l033",
+    "question": "翻译句子：我从来没有去过日本。",
+    "answer": "答案：I have never been to Japan. 解析：never\"从未\"是现在完成时标志。"
+  },
+  {
+    "id": "g2_english_l033_ex10",
+    "knowledge_id": "g2_english_l033",
+    "question": "单项选择：I _____ this book before. A. read  B. reads  C. have read  D. will read",
+    "answer": "答案：C. have read。解析：before\"以前\"是现在完成时标志。"
+  }
+]

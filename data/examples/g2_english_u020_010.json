@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u020_ex01",
+    "knowledge_id": "g2_english_u020",
+    "question": "单项选择：You _____ lie to your parents. It's not right. A. should  B. shouldn't  C. would  D. could",
+    "answer": "答案：B. shouldn't。解析：shouldn't表示\"不应该\"。撒谎是不对的。"
+  },
+  {
+    "id": "g2_english_u020_ex02",
+    "knowledge_id": "g2_english_u020",
+    "question": "单项选择：Students _____ follow the school rules. A. should  B. shouldn't  C. would  D. could",
+    "answer": "答案：A. should。解析：should表示\"应该\"。学生应该遵守校规。"
+  },
+  {
+    "id": "g2_english_u020_ex03",
+    "knowledge_id": "g2_english_u020",
+    "question": "翻译句子：你不应该熬夜。",
+    "answer": "答案：You shouldn't stay up late. 解析：shouldn't + 动词原形。stay up late\"熬夜\"。"
+  },
+  {
+    "id": "g2_english_u020_ex04",
+    "knowledge_id": "g2_english_u020",
+    "question": "用所给词的适当形式填空：You ______ (should) tell the truth. It's always the best choice.",
+    "answer": "答案：should。解析：should表示\"应该\"。"
+  },
+  {
+    "id": "g2_english_u020_ex05",
+    "knowledge_id": "g2_english_u020",
+    "question": "单项选择：— I have a toothache. — You _____ see a dentist. A. shouldn't  B. should  C. wouldn't  D. couldn't",
+    "answer": "答案：B. should。解析：should表示\"应该\"，是建议。"
+  },
+  {
+    "id": "g2_english_u020_ex06",
+    "knowledge_id": "g2_english_u020",
+    "question": "单项选择：We _____ protect the environment. A. should  B. shouldn't  C. would  D. mustn't",
+    "answer": "答案：A. should。解析：should表示\"应该\"，环保是每个人的责任。"
+  },
+  {
+    "id": "g2_english_u020_ex07",
+    "knowledge_id": "g2_english_u020",
+    "question": "用所给词的适当形式填空：Children ______ (should) not play with fire. It's dangerous.",
+    "answer": "答案：should。解析：should not = shouldn't。完整：Children should not play with fire."
+  },
+  {
+    "id": "g2_english_u020_ex08",
+    "knowledge_id": "g2_english_u020",
+    "question": "单项选择：You _____ eat too much junk food. It's not healthy. A. shouldn't  B. should  C. would  D. must",
+    "answer": "答案：A. shouldn't。解析：shouldn't表示\"不应该\"。吃太多垃圾食品不健康。"
+  },
+  {
+    "id": "g2_english_u020_ex09",
+    "knowledge_id": "g2_english_u020",
+    "question": "翻译句子：出门前你应该关灯。",
+    "answer": "答案：You should turn off the lights before going out. 解析：should + 动词原形。turn off\"关掉\"。"
+  },
+  {
+    "id": "g2_english_u020_ex10",
+    "knowledge_id": "g2_english_u020",
+    "question": "单项选择：Drivers _____ wear seat belts for safety. A. should  B. shouldn't  C. would  D. needn't",
+    "answer": "答案：A. should。解析：should表示\"应该\"。为了安全司机应该系安全带。"
+  }
+]

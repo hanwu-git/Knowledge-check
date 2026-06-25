@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_physics_045_ex01",
+    "knowledge_id": "g2_physics_045",
+    "question": "选择题：浮力的概念的公式是？ A. F浮 = F下 - F上（压力差法）  B. 错误的公式  C. 其他公式  D. 没有公式",
+    "answer": "答案：A。解析：F浮 = F下 - F上（压力差法）是浮力的概念的核心公式，需要牢记。"
+  },
+  {
+    "id": "g2_physics_045_ex02",
+    "knowledge_id": "g2_physics_045",
+    "question": "填空题：浮力的概念的公式是______。",
+    "answer": "答案：F浮 = F下 - F上（压力差法）。解析：掌握公式是解决物理问题的基础。"
+  },
+  {
+    "id": "g2_physics_045_ex03",
+    "knowledge_id": "g2_physics_045",
+    "question": "计算题：一个物体质量为5kg，受到的重力是______N（g取10N/kg）。",
+    "answer": "答案：50。解析：根据公式G = mg，G = 5 × 10 = 50N。"
+  },
+  {
+    "id": "g2_physics_045_ex04",
+    "knowledge_id": "g2_physics_045",
+    "question": "判断题：浮力的概念是物理学的重要概念。（  ）",
+    "answer": "答案：正确。解析：浮力的概念是物理学习中的重要知识点。"
+  },
+  {
+    "id": "g2_physics_045_ex05",
+    "knowledge_id": "g2_physics_045",
+    "question": "判断题：浮力的概念是物理学的重要概念。（  ）",
+    "answer": "答案：正确。解析：浮力的概念是物理学习中的重要知识点。"
+  },
+  {
+    "id": "g2_physics_045_ex06",
+    "knowledge_id": "g2_physics_045",
+    "question": "判断题：浮力的概念是物理学的重要概念。（  ）",
+    "answer": "答案：正确。解析：浮力的概念是物理学习中的重要知识点。"
+  },
+  {
+    "id": "g2_physics_045_ex07",
+    "knowledge_id": "g2_physics_045",
+    "question": "判断题：浮力的概念是物理学的重要概念。（  ）",
+    "answer": "答案：正确。解析：浮力的概念是物理学习中的重要知识点。"
+  },
+  {
+    "id": "g2_physics_045_ex08",
+    "knowledge_id": "g2_physics_045",
+    "question": "判断题：浮力的概念是物理学的重要概念。（  ）",
+    "answer": "答案：正确。解析：浮力的概念是物理学习中的重要知识点。"
+  },
+  {
+    "id": "g2_physics_045_ex09",
+    "knowledge_id": "g2_physics_045",
+    "question": "判断题：浮力的概念是物理学的重要概念。（  ）",
+    "answer": "答案：正确。解析：浮力的概念是物理学习中的重要知识点。"
+  },
+  {
+    "id": "g2_physics_045_ex10",
+    "knowledge_id": "g2_physics_045",
+    "question": "判断题：浮力的概念是物理学的重要概念。（  ）",
+    "answer": "答案：正确。解析：浮力的概念是物理学习中的重要知识点。"
+  }
+]

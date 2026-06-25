@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u037_ex01",
+    "knowledge_id": "g2_english_u037",
+    "question": "单项选择：Tom is _____ than Jack in our class. A. tall  B. taller  C. tallest  D. the tallest",
+    "answer": "答案：B. taller。解析：两人比较用比较级。"
+  },
+  {
+    "id": "g2_english_u037_ex02",
+    "knowledge_id": "g2_english_u037",
+    "question": "单项选择：Tom is _____ student in our class. A. tall  B. taller  C. tallest  D. the tallest",
+    "answer": "答案：D. the tallest。解析：三者及以上用最高级，前加the。"
+  },
+  {
+    "id": "g2_english_u037_ex03",
+    "knowledge_id": "g2_english_u037",
+    "question": "用所给词的适当形式填空：This river is ______ (long) than that one.",
+    "answer": "答案：longer。解析：than是比较级标志。"
+  },
+  {
+    "id": "g2_english_u037_ex04",
+    "knowledge_id": "g2_english_u037",
+    "question": "单项选择：China has _____ population in the world. A. larger  B. largest  C. the largest  D. the most large",
+    "answer": "答案：C. the largest。解析：最高级前加the。largest是最高级。"
+  },
+  {
+    "id": "g2_english_u037_ex05",
+    "knowledge_id": "g2_english_u037",
+    "question": "翻译句子：他是三兄弟中最高的。",
+    "answer": "答案：He is the tallest of the three brothers. 解析：三者比较用最高级，of the three brothers\"在三个兄弟中\"。"
+  },
+  {
+    "id": "g2_english_u037_ex06",
+    "knowledge_id": "g2_english_u037",
+    "question": "用所给词的适当形式填空：Of the four seasons, summer is ______ (hot).",
+    "answer": "答案：the hottest。解析：四者比较用最高级。"
+  },
+  {
+    "id": "g2_english_u037_ex07",
+    "knowledge_id": "g2_english_u037",
+    "question": "单项选择：This question is _____ than that one. A. easy  B. easier  C. easiest  D. the easiest",
+    "answer": "答案：B. easier。解析：两者比较用比较级。"
+  },
+  {
+    "id": "g2_english_u037_ex08",
+    "knowledge_id": "g2_english_u037",
+    "question": "单项选择：He runs _____ of all the students. A. fast  B. faster  C. fastest  D. the fastest",
+    "answer": "答案：D. the fastest。解析：三者及以上用最高级。"
+  },
+  {
+    "id": "g2_english_u037_ex09",
+    "knowledge_id": "g2_english_u037",
+    "question": "用所给词的适当形式填空：She is ______ (young) of the three sisters.",
+    "answer": "答案：the youngest。解析：三者比较用最高级。"
+  },
+  {
+    "id": "g2_english_u037_ex10",
+    "knowledge_id": "g2_english_u037",
+    "question": "翻译句子：这个盒子比那个盒子重。",
+    "answer": "答案：This box is heavier than that one. 解析：两者比较用比较级。heavy以辅音+y结尾，变y为i加-er。"
+  }
+]

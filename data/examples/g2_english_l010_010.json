@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l010_ex01",
+    "knowledge_id": "g2_english_l010",
+    "question": "单项选择：Can you help me _____ the dishes? A. do  B. to do  C. doing  D. A and B",
+    "answer": "答案：D. A and B。解析：help sb. do/to do都可以，to可以省略。the dishes\"盘子\"。"
+  },
+  {
+    "id": "g2_english_l010_ex02",
+    "knowledge_id": "g2_english_l010",
+    "question": "单项选择：She helped me _____ my English last year. A. with  B. to  C. for  D. of",
+    "answer": "答案：A. with。解析：help sb. with\"在某方面帮助某人\"。整句：She helped me with my English."
+  },
+  {
+    "id": "g2_english_l010_ex03",
+    "knowledge_id": "g2_english_l010",
+    "question": "用所给词的适当形式填空：I need you ______ (help) me carry this heavy box.",
+    "answer": "答案：to help。解析：need sb. to do\"需要某人做\"。carry\"搬\"。"
+  },
+  {
+    "id": "g2_english_l010_ex04",
+    "knowledge_id": "g2_english_l010",
+    "question": "单项选择：Let me help you _____ the problem. A. solve  B. to solve  C. solving  D. A and B",
+    "answer": "答案：D. A and B。解析：help (to) do都可以。solve the problem\"解决问题\"。"
+  },
+  {
+    "id": "g2_english_l010_ex05",
+    "knowledge_id": "g2_english_l010",
+    "question": "翻译句子：谢谢你帮我学数学。",
+    "answer": "答案：Thank you for helping me with math. 解析：Thank you for doing\"谢谢你做...\"。help with\"帮助做\"。"
+  },
+  {
+    "id": "g2_english_l010_ex06",
+    "knowledge_id": "g2_english_l010",
+    "question": "单项选择：I can't help _____ the house. I'm too busy. A. cleaning  B. to clean  C. clean  D. A and B",
+    "answer": "答案：D. A and B。解析：help (to) do都可以。too busy\"太忙\"。"
+  },
+  {
+    "id": "g2_english_l010_ex07",
+    "knowledge_id": "g2_english_l010",
+    "question": "用所给词的适当形式填空：She helped her mother ______ (cook) dinner yesterday.",
+    "answer": "答案：cook/to cook。解析：help (to) do都可以。cook dinner\"做饭\"。"
+  },
+  {
+    "id": "g2_english_l010_ex08",
+    "knowledge_id": "g2_english_l010",
+    "question": "单项选择：This book helped me _____ the truth. A. understood  B. to understand  C. understanding  D. understand",
+    "answer": "答案：B. to understand。解析：help to understand\"帮助理解\"。the truth\"真相\"。"
+  },
+  {
+    "id": "g2_english_l010_ex09",
+    "knowledge_id": "g2_english_l010",
+    "question": "翻译句子：谁帮你搬这个箱子？",
+    "answer": "答案：Who helped you carry this box? 解析：help sb. do\"帮助某人做\"。carry\"搬/扛\"。"
+  },
+  {
+    "id": "g2_english_l010_ex10",
+    "knowledge_id": "g2_english_l010",
+    "question": "单项选择：With your help, I can finish it _____. A. easy  B. easier  C. easily  D. more easy",
+    "answer": "答案：C. easily。解析：with one's help\"在某人的帮助下\"，修饰动词用副词。finish easily\"轻松完成\"。"
+  }
+]

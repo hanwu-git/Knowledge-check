@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u003_ex01",
+    "knowledge_id": "g2_english_u003",
+    "question": "单项选择：I _____ my grandparents last Sunday. A. visited  B. visit  C. am visiting  D. visits",
+    "answer": "答案：A. visited。解析：visit是规则动词，过去式加-ed变visited，与last Sunday过去时搭配。"
+  },
+  {
+    "id": "g2_english_u003_ex02",
+    "knowledge_id": "g2_english_u003",
+    "question": "用所给词的适当形式填空：He ______ (go) to the park yesterday morning.",
+    "answer": "答案：went。解析：yesterday morning是一般过去时。go是不规则动词，过去式是went，不能写goed。"
+  },
+  {
+    "id": "g2_english_u003_ex03",
+    "knowledge_id": "g2_english_u003",
+    "question": "单项选择：I _____ a new bike from my father last birthday. A. receive  B. received  C. got  D. B and C",
+    "answer": "答案：D. B and C。解析：last birthday是一般过去时。receive（规则）过去式received，get（不规则）过去式got，两者都正确。"
+  },
+  {
+    "id": "g2_english_u003_ex04",
+    "knowledge_id": "g2_english_u003",
+    "question": "用所给词的适当形式填空：She ______ (eat) three hamburgers just now.",
+    "answer": "答案：ate。解析：just now（刚才）是一般过去时。eat是不规则动词，过去式是ate，不能写eated。"
+  },
+  {
+    "id": "g2_english_u003_ex05",
+    "knowledge_id": "g2_english_u003",
+    "question": "单项选择：We _____ a good time at Mary's party last night. A. had  B. have  C. has  D. having",
+    "answer": "答案：A. had。解析：last night是一般过去时。have是不规则动词，过去式是had。have a good time意思是\"玩得开心\"。"
+  },
+  {
+    "id": "g2_english_u003_ex06",
+    "knowledge_id": "g2_english_u003",
+    "question": "用所给词的适当形式填空：I ______ (see) an interesting film last weekend.",
+    "answer": "答案：saw。解析：last weekend是一般过去时。see是不规则动词，过去式是saw，不能写seed或seeed。"
+  },
+  {
+    "id": "g2_english_u003_ex07",
+    "knowledge_id": "g2_english_u003",
+    "question": "单项选择：My father _____ me a new computer as a birthday present. A. buy  B. buys  C. bought  D. buying",
+    "answer": "答案：C. bought。解析：句意暗示过去发生的事。buy是不规则动词，过去式是bought。"
+  },
+  {
+    "id": "g2_english_u003_ex08",
+    "knowledge_id": "g2_english_u003",
+    "question": "用所给词的适当形式填空：They ______ (make) a cake for me yesterday.",
+    "answer": "答案：made。解析：yesterday是一般过去时。make是不规则动词，过去式是made，与原形拼写不同。"
+  },
+  {
+    "id": "g2_english_u003_ex09",
+    "knowledge_id": "g2_english_u003",
+    "question": "单项选择：She _____ her keys in the classroom this morning. A. forget  B. forgot  C. forgotten  D. forgets",
+    "answer": "答案：B. forgot。解析：this morning是一般过去时。forget是不规则动词，过去式是forgot，过去分词是forgotten。"
+  },
+  {
+    "id": "g2_english_u003_ex10",
+    "knowledge_id": "g2_english_u003",
+    "question": "用所给词的适当形式填空：I ______ (read) an English book last night.",
+    "answer": "答案：read。解析：last night是一般过去时。read是不规则动词，过去式与原形同形，但发音变为/red/。"
+  }
+]

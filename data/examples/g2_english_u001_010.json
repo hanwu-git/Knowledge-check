@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u001_ex01",
+    "knowledge_id": "g2_english_u001",
+    "question": "单项选择：I _____ to the park with my friends yesterday afternoon. A. go  B. went  C. will go  D. have gone",
+    "answer": "答案：B. went。解析：句末的yesterday afternoon是一般过去时的时间状语，谓语动词需用过去式went。go的过去式是went（不规则变化）。"
+  },
+  {
+    "id": "g2_english_u001_ex02",
+    "knowledge_id": "g2_english_u001",
+    "question": "用所给词的适当形式填空：He ______ (visit) his grandparents last weekend.",
+    "answer": "答案：visited。解析：last weekend是一般过去时的标志时间状语，visit是规则动词，过去式直接加-ed，即visited。"
+  },
+  {
+    "id": "g2_english_u001_ex03",
+    "knowledge_id": "g2_english_u001",
+    "question": "单项选择：_____ you _____ a good time at the party last night? A. Do, have  B. Did, have  C. Were, having  D. Have, had",
+    "answer": "答案：B. Did, have。解析：last night是一般过去时标志，主句用一般疑问句结构Did + 主语 + 动词原形。have的过去式是had，但用在助动词did之后要还原为原形have。"
+  },
+  {
+    "id": "g2_english_u001_ex04",
+    "knowledge_id": "g2_english_u001",
+    "question": "句型转换：I went to Beijing last summer. （改为否定句）",
+    "answer": "答案：I didn't go to Beijing last summer. 解析：一般过去时否定句结构：主语 + didn't + 动词原形 + 其他。went是go的过去式，需还原为原形go。"
+  },
+  {
+    "id": "g2_english_u001_ex05",
+    "knowledge_id": "g2_english_u001",
+    "question": "单项选择：There _____ a book and two pens on the desk just now. A. is  B. was  C. were  D. are",
+    "answer": "答案：B. was。解析：just now（刚才）是一般过去时标志。There be句型中，be动词的选择采用就近原则：a book是单数，所以用was。"
+  },
+  {
+    "id": "g2_english_u001_ex06",
+    "knowledge_id": "g2_english_u001",
+    "question": "翻译句子：我昨天在图书馆里看了一本有趣的书。",
+    "answer": "答案：I read an interesting book in the library yesterday. 解析：read的过去式仍是read（发音为/red/），与原形同形。interesting是形容词修饰book，yesterday是过去时的时间状语。"
+  },
+  {
+    "id": "g2_english_u001_ex07",
+    "knowledge_id": "g2_english_u001",
+    "question": "单项选择：Tom and Jerry _____ in the same class two years ago. A. are  B. were  C. was  D. is",
+    "answer": "答案：B. were。解析：two years ago（两年前）是一般过去时标志。主语Tom and Jerry是复数，be动词用were。"
+  },
+  {
+    "id": "g2_english_u001_ex08",
+    "knowledge_id": "g2_english_u001",
+    "question": "用所给词的适当形式填空：She ______ (buy) a new dress for the party yesterday.",
+    "answer": "答案：bought。解析：yesterday提示一般过去时。buy是不规则动词，过去式是bought（不能写buyed）。"
+  },
+  {
+    "id": "g2_english_u001_ex09",
+    "knowledge_id": "g2_english_u001",
+    "question": "单项选择：The weather _____ fine last Sunday. We _____ a good time. A. is, have  B. was, had  C. were, have  D. is, had",
+    "answer": "答案：B. was, had。解析：last Sunday是一般过去时标志。The weather是不可数名词，be动词用was；have的过去式是had。"
+  },
+  {
+    "id": "g2_english_u001_ex10",
+    "knowledge_id": "g2_english_u001",
+    "question": "改写句子：Did you see the film? （作肯定回答）",
+    "answer": "答案：Yes, I did. 解析：一般过去时一般疑问句的简略回答用Yes, 主语 + did / No, 主语 + didn't。注意不能用saw，要用助动词did。"
+  }
+]

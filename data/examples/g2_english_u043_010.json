@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u043_ex01",
+    "knowledge_id": "g2_english_u043",
+    "question": "单项选择：I _____ the book yesterday. A. read  B. have read  C. am reading  D. will read",
+    "answer": "答案：A. read。解析：yesterday是一般过去时，read的过去式是read（发音为/red/）。"
+  },
+  {
+    "id": "g2_english_u043_ex02",
+    "knowledge_id": "g2_english_u043",
+    "question": "用所给词的适当形式填空：I ______ (read) this book already.",
+    "answer": "答案：have read。解析：already\"已经\"是现在完成时标志。"
+  },
+  {
+    "id": "g2_english_u043_ex03",
+    "knowledge_id": "g2_english_u043",
+    "question": "单项选择：_____ you _____ the movie? — Yes, I saw it last night. A. Have, seen  B. Did, see  C. Do, see  D. Are, seeing",
+    "answer": "答案：A. Have, seen。解析：现在完成时询问经历。回答用一般过去时saw。"
+  },
+  {
+    "id": "g2_english_u043_ex04",
+    "knowledge_id": "g2_english_u043",
+    "question": "单项选择：I _____ my keys just now. A. have lost  B. lost  C. lose  D. am losing",
+    "answer": "答案：B. lost。解析：just now（刚才）是一般过去时。"
+  },
+  {
+    "id": "g2_english_u043_ex05",
+    "knowledge_id": "g2_english_u043",
+    "question": "翻译句子：我昨天看了一部很棒的电影。",
+    "answer": "答案：I watched a great movie yesterday. 解析：yesterday是一般过去时。"
+  },
+  {
+    "id": "g2_english_u043_ex06",
+    "knowledge_id": "g2_english_u043",
+    "question": "用所给词的适当形式填空：He ______ (live) in Beijing for five years, but now he lives in Shanghai.",
+    "answer": "答案：lived。解析：for five years + but now提示一般过去时。"
+  },
+  {
+    "id": "g2_english_u043_ex07",
+    "knowledge_id": "g2_english_u043",
+    "question": "单项选择：Have you ever _____ to Japan? A. went  B. gone  C. been  D. go",
+    "answer": "答案：C. been。解析：have been to\"去过\"。ever\"曾经\"是现在完成时标志。"
+  },
+  {
+    "id": "g2_english_u043_ex08",
+    "knowledge_id": "g2_english_u043",
+    "question": "单项选择：She _____ her homework an hour ago. A. finished  B. has finished  C. finishes  D. is finishing",
+    "answer": "答案：A. finished。解析：an hour ago是一般过去时。"
+  },
+  {
+    "id": "g2_english_u043_ex09",
+    "knowledge_id": "g2_english_u043",
+    "question": "翻译句子：我从来没看过这部电影。",
+    "answer": "答案：I have never seen this movie. 解析：never\"从未\"是现在完成时标志。seen是see的过去分词。"
+  },
+  {
+    "id": "g2_english_u043_ex10",
+    "knowledge_id": "g2_english_u043",
+    "question": "用所给词的适当形式填空：I ______ (visit) my grandparents last weekend. I ______ (visit) them every month.",
+    "answer": "答案：visited, visit。解析：last weekend是一般过去时；every month是一般现在时。"
+  }
+]

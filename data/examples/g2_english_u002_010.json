@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u002_ex01",
+    "knowledge_id": "g2_english_u002",
+    "question": "单项选择：She _____ her homework an hour ago. A. finished  B. finish  C. finishes  D. finishing",
+    "answer": "答案：A. finished。解析：an hour ago是一般过去时时间状语。finish是规则动词，以sh结尾加-ed，变为finished。"
+  },
+  {
+    "id": "g2_english_u002_ex02",
+    "knowledge_id": "g2_english_u002",
+    "question": "用所给词的适当形式填空：They ______ (play) football on the playground just now.",
+    "answer": "答案：played。解析：just now（刚才）是一般过去时。play以元音+y结尾，直接加-ed变played。"
+  },
+  {
+    "id": "g2_english_u002_ex03",
+    "knowledge_id": "g2_english_u002",
+    "question": "单项选择：I _____ my keys under the table just now. A. look  B. looked  C. look for  D. looked for",
+    "answer": "答案：D. looked for。解析：just now是一般过去时标志。look for（寻找）是动词短语，规则变化加-ed变成looked for。"
+  },
+  {
+    "id": "g2_english_u002_ex04",
+    "knowledge_id": "g2_english_u002",
+    "question": "用所给词的适当形式填空：The little girl ______ (cry) loudly last night.",
+    "answer": "答案：cried。解析：last night是一般过去时。cry以辅音+y结尾，变y为i加-ed，变成cried。"
+  },
+  {
+    "id": "g2_english_u002_ex05",
+    "knowledge_id": "g2_english_u002",
+    "question": "单项选择：The teacher _____ us a story yesterday. A. tell  B. told  C. tells  D. telling",
+    "answer": "答案：B. told。解析：yesterday提示一般过去时。tell是不规则动词，过去式是told。"
+  },
+  {
+    "id": "g2_english_u002_ex06",
+    "knowledge_id": "g2_english_u002",
+    "question": "用所给词的适当形式填空：Tom ______ (stop) the car and got off.",
+    "answer": "答案：stopped。解析：stop以重读闭音节结尾，末尾只有一个辅音字母p，需双写p再加-ed，变成stopped。"
+  },
+  {
+    "id": "g2_english_u002_ex07",
+    "knowledge_id": "g2_english_u002",
+    "question": "单项选择：The movie _____ ten minutes ago. A. start  B. started  C. starts  D. starting",
+    "answer": "答案：B. started。解析：ten minutes ago是一般过去时。start是规则动词，末尾辅音字母前是元音组合ar，直接加-ed变started。"
+  },
+  {
+    "id": "g2_english_u002_ex08",
+    "knowledge_id": "g2_english_u002",
+    "question": "用所给词的适当形式填空：The children ______ (study) English at school last year.",
+    "answer": "答案：studied。解析：last year是一般过去时。study以辅音+y结尾，变y为i加-ed，变成studied。"
+  },
+  {
+    "id": "g2_english_u002_ex09",
+    "knowledge_id": "g2_english_u002",
+    "question": "单项选择：It _____ heavily when I left home this morning. A. rain  B. rained  C. rains  D. raining",
+    "answer": "答案：B. rained。解析：this morning是过去时时间。rain是规则动词，末尾辅音字母前是元音ai，直接加-ed变rained。"
+  },
+  {
+    "id": "g2_english_u002_ex10",
+    "knowledge_id": "g2_english_u002",
+    "question": "用所给词的适当形式填空：My mother ______ (live) in Beijing for ten years, but now she lives in Shanghai.",
+    "answer": "答案：lived。解析：live以e结尾，加-d变成lived。for ten years表明过去持续的动作发生在过去。"
+  }
+]

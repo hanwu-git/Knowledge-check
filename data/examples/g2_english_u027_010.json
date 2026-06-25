@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u027_ex01",
+    "knowledge_id": "g2_english_u027",
+    "question": "单项选择：I _____ TV at 9 last night. I was reading. A. watched  B. wasn't watching  C. don't watch  D. am not watching",
+    "answer": "答案：B. wasn't watching。解析：过去进行时否定：was/were not + 动词-ing。"
+  },
+  {
+    "id": "g2_english_u027_ex02",
+    "knowledge_id": "g2_english_u027",
+    "question": "单项选择：_____ you _____ the piano at 8 last night? A. Were, playing  B. Did, play  C. Are, playing  D. Do, play",
+    "answer": "答案：A. Were, playing。解析：at 8 last night是过去时间，特殊疑问句用were + 主语 + playing。"
+  },
+  {
+    "id": "g2_english_u027_ex03",
+    "knowledge_id": "g2_english_u027",
+    "question": "用所给词的适当形式填空：They ______ (not, play) football at 4 yesterday afternoon.",
+    "answer": "答案：weren't playing。解析：过去进行时否定。主语they用weren't。"
+  },
+  {
+    "id": "g2_english_u027_ex04",
+    "knowledge_id": "g2_english_u027",
+    "question": "单项选择：— Was she studying at that time? — _____. A. Yes, she was  B. No, she was  C. Yes, she did  D. No, she didn't",
+    "answer": "答案：A. Yes, she was。解析：过去进行时一般疑问句的回答用Yes, 主语 + was/were。"
+  },
+  {
+    "id": "g2_english_u027_ex05",
+    "knowledge_id": "g2_english_u027",
+    "question": "翻译句子：昨天这个时候我不在游泳。",
+    "answer": "答案：I wasn't swimming at this time yesterday. 解析：过去进行时否定：was not (wasn't) + 动词-ing。"
+  },
+  {
+    "id": "g2_english_u027_ex06",
+    "knowledge_id": "g2_english_u027",
+    "question": "单项选择：— What were you doing at 10 last night? — I _____ a letter. A. write  B. wrote  C. was writing  D. am writing",
+    "answer": "答案：C. was writing。解析：at 10 last night是过去某时，\"正在写\"用过去进行时。"
+  },
+  {
+    "id": "g2_english_u027_ex07",
+    "knowledge_id": "g2_english_u027",
+    "question": "用所给词的适当形式填空：______ (Be) they playing computer games when you called?",
+    "answer": "答案：Were。解析：when you called是一般过去时，问句用Were开头。"
+  },
+  {
+    "id": "g2_english_u027_ex08",
+    "knowledge_id": "g2_english_u027",
+    "question": "单项选择：He _____ the room at 8 yesterday morning. A. wasn't cleaning  B. weren't cleaning  C. didn't cleaning  D. isn't cleaning",
+    "answer": "答案：A. wasn't cleaning。解析：主语he是第三人称单数，否定用wasn't。"
+  },
+  {
+    "id": "g2_english_u027_ex09",
+    "knowledge_id": "g2_english_u027",
+    "question": "翻译句子：你昨天下午三点在做什么？",
+    "answer": "答案：What were you doing at three yesterday afternoon? 解析：特殊疑问句：What + were + 主语 + doing。"
+  },
+  {
+    "id": "g2_english_u027_ex10",
+    "knowledge_id": "g2_english_u027",
+    "question": "单项选择：— Were you watching TV at 9 last night? — No, I _____. I was doing my homework. A. wasn't  B. weren't  C. didn't  D. don't",
+    "answer": "答案：A. wasn't。解析：过去进行时一般疑问句否定回答用No, 主语 + wasn't。"
+  }
+]

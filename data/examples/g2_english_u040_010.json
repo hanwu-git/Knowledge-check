@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u040_ex01",
+    "knowledge_id": "g2_english_u040",
+    "question": "单项选择：I _____ in this city for ten years. A. live  B. lived  C. have lived  D. will live",
+    "answer": "答案：C. have lived。解析：for ten years是现在完成时标志，表示持续。"
+  },
+  {
+    "id": "g2_english_u040_ex02",
+    "knowledge_id": "g2_english_u040",
+    "question": "用所给词的适当形式填空：She ______ (teach) English since 2015.",
+    "answer": "答案：has taught。解析：since 2015是现在完成时标志。teach的过去分词是taught。"
+  },
+  {
+    "id": "g2_english_u040_ex03",
+    "knowledge_id": "g2_english_u040",
+    "question": "单项选择：_____ you _____ your lunch yet? A. Have, had  B. Did, have  C. Are, having  D. Will, have",
+    "answer": "答案：A. Have, had。解析：yet用于现在完成时一般疑问句。"
+  },
+  {
+    "id": "g2_english_u040_ex04",
+    "knowledge_id": "g2_english_u040",
+    "question": "翻译句子：他在这家公司工作三年了。",
+    "answer": "答案：He has worked in this company for three years. 解析：for three years是现在完成时标志。"
+  },
+  {
+    "id": "g2_english_u040_ex05",
+    "knowledge_id": "g2_english_u040",
+    "question": "单项选择：We _____ each other since we were children. A. know  B. knew  C. have known  D. will know",
+    "answer": "答案：C. have known。解析：since引导一般过去时，主句用现在完成时。"
+  },
+  {
+    "id": "g2_english_u040_ex06",
+    "knowledge_id": "g2_english_u040",
+    "question": "用所给词的适当形式填空：He ______ (be) to Hong Kong twice.",
+    "answer": "答案：has been。解析：twice表示次数，have been to\"去过\"。"
+  },
+  {
+    "id": "g2_english_u040_ex07",
+    "knowledge_id": "g2_english_u040",
+    "question": "单项选择：I _____ this movie three times. A. see  B. saw  C. have seen  D. will see",
+    "answer": "答案：C. have seen。解析：three times是现在完成时标志。"
+  },
+  {
+    "id": "g2_english_u040_ex08",
+    "knowledge_id": "g2_english_u040",
+    "question": "用所给词的适当形式填空：They ______ (know) each other for ten years.",
+    "answer": "答案：have known。解析：for ten years是现在完成时标志。"
+  },
+  {
+    "id": "g2_english_u040_ex09",
+    "knowledge_id": "g2_english_u040",
+    "question": "翻译句子：我祖父去世五年了。",
+    "answer": "答案：My grandfather has been dead for five years. 解析：die是瞬间动词，要转换为be dead。"
+  },
+  {
+    "id": "g2_english_u040_ex10",
+    "knowledge_id": "g2_english_u040",
+    "question": "单项选择：_____ he _____ to Beijing before? A. Has, been  B. Have, been  C. Did, go  D. Was, going",
+    "answer": "答案：A. Has, been。解析：主语he是第三人称单数，用has。before\"以前\"，是现在完成时标志。"
+  }
+]

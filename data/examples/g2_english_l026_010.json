@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l026_ex01",
+    "knowledge_id": "g2_english_l026",
+    "question": "单项选择：I _____ a book at 8 last night. A. read  B. was reading  C. am reading  D. will read",
+    "answer": "答案：B. was reading。解析：at 8 last night是过去某时，\"正在做\"用过去进行时。强调动作进行。"
+  },
+  {
+    "id": "g2_english_l026_ex02",
+    "knowledge_id": "g2_english_l026",
+    "question": "单项选择：I _____ a book yesterday. A. read  B. was reading  C. am reading  D. will read",
+    "answer": "答案：A. read。解析：yesterday是一般过去时，强调动作完成。read的过去式仍是read（发音/red/）。"
+  },
+  {
+    "id": "g2_english_l026_ex03",
+    "knowledge_id": "g2_english_l026",
+    "question": "用所给词的适当形式填空：At 9 last night, I ______ (watch) TV.",
+    "answer": "答案：was watching。解析：at 9 last night是过去某时，用过去进行时强调进行。完整：At 9 last night, I was watching TV."
+  },
+  {
+    "id": "g2_english_l026_ex04",
+    "knowledge_id": "g2_english_l026",
+    "question": "单项选择：I _____ my keys yesterday. I still can't find them. A. lose  B. lost  C. was losing  D. am losing",
+    "answer": "答案：B. lost。解析：yesterday是一般过去时，强调动作完成。I still can't find them说明动作已完成（结果）。"
+  },
+  {
+    "id": "g2_english_l026_ex05",
+    "knowledge_id": "g2_english_l026",
+    "question": "翻译句子：昨天晚上八点我在看电视。",
+    "answer": "答案：I was watching TV at 8 last night. 解析：at 8 last night是过去某时，用过去进行时强调正在进行。"
+  },
+  {
+    "id": "g2_english_l026_ex06",
+    "knowledge_id": "g2_english_l026",
+    "question": "单项选择：I _____ my keys all morning yesterday. A. lose  B. lost  C. was losing  D. am losing",
+    "answer": "答案：C. was losing。解析：all morning yesterday是过去一段时间，用过去进行时强调持续进行。"
+  },
+  {
+    "id": "g2_english_l026_ex07",
+    "knowledge_id": "g2_english_l026",
+    "question": "用所给词的适当形式填空：I ______ (read) the book yesterday. I've finished it.",
+    "answer": "答案：read。解析：yesterday是一般过去时，强调动作完成。I've finished说明结果。"
+  },
+  {
+    "id": "g2_english_l026_ex08",
+    "knowledge_id": "g2_english_l026",
+    "question": "单项选择：I _____ when the phone rang. A. cook  B. cooked  C. was cooking  D. am cooking",
+    "answer": "答案：C. was cooking。解析：when the phone rang是一般过去时，主句用过去进行时强调正在做。"
+  },
+  {
+    "id": "g2_english_l026_ex09",
+    "knowledge_id": "g2_english_l026",
+    "question": "翻译句子：昨天下午我在图书馆读书。",
+    "answer": "答案：I was reading in the library yesterday afternoon. 解析：yesterday afternoon是过去某时，可以用过去进行时强调进行。"
+  },
+  {
+    "id": "g2_english_l026_ex10",
+    "knowledge_id": "g2_english_l026",
+    "question": "单项选择：I _____ to the cinema last night. I had a great time. A. go  B. went  C. was going  D. am going",
+    "answer": "答案：B. went。解析：last night是一般过去时，强调动作完成。I had a great time是过去完成时呼应。"
+  }
+]

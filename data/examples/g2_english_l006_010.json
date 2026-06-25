@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l006_ex01",
+    "knowledge_id": "g2_english_l006",
+    "question": "单项选择：My head _____. I think I need to rest. A. hurts  B. hurt  C. is hurting  D. hurting",
+    "answer": "答案：A. hurts。解析：head是第三人称单数，hurt用hurts。整句：My head hurts."
+  },
+  {
+    "id": "g2_english_l006_ex02",
+    "knowledge_id": "g2_english_l006",
+    "question": "单项选择：She has a _____ and can't eat anything. A. stomachache  B. headache  C. toothache  D. fever",
+    "answer": "答案：A. stomachache。解析：can't eat anything\"吃不下任何东西\"提示胃疼。"
+  },
+  {
+    "id": "g2_english_l006_ex03",
+    "knowledge_id": "g2_english_l006",
+    "question": "用所给词的适当形式填空：He ______ (have) a terrible backache. He needs to see a doctor.",
+    "answer": "答案：has。解析：He是第三人称单数，have用has。backache\"背痛\"。"
+  },
+  {
+    "id": "g2_english_l006_ex04",
+    "knowledge_id": "g2_english_l006",
+    "question": "单项选择：The little girl is _____ She fell down and got hurt. A. crying  B. cries  C. cry  D. to cry",
+    "answer": "答案：A. crying。解析：is crying\"正在哭\"，进行时态表示正在进行的动作。"
+  },
+  {
+    "id": "g2_english_l006_ex05",
+    "knowledge_id": "g2_english_l006",
+    "question": "翻译句子：我哥哥腿受伤了，现在不能走路。",
+    "answer": "答案：My brother hurt his leg. He can't walk now. 解析：hurt\"受伤\"（过去式/原形同形）。"
+  },
+  {
+    "id": "g2_english_l006_ex06",
+    "knowledge_id": "g2_english_l006",
+    "question": "单项选择：His feet _____ after walking for a long time. A. hurt  B. hurts  C. is hurting  D. to hurt",
+    "answer": "答案：A. hurt。解析：feet是复数，hurt用原形。整句：His feet hurt after walking for a long time."
+  },
+  {
+    "id": "g2_english_l006_ex07",
+    "knowledge_id": "g2_english_l006",
+    "question": "用所给词的适当形式填空：She has a ______ (sore throat). It's painful to swallow.",
+    "answer": "答案：sore throat。解析：sore throat\"喉咙痛\"。painful\"痛苦的\"。swallow\"吞咽\"。"
+  },
+  {
+    "id": "g2_english_l006_ex08",
+    "knowledge_id": "g2_english_l006",
+    "question": "单项选择：I don't feel well. I think I'm getting a _____. A. cold  B. fever  C. headache  D. All of the above",
+    "answer": "答案：D. All of the above。解析：三种不适都可能导致感觉不好。"
+  },
+  {
+    "id": "g2_english_l006_ex09",
+    "knowledge_id": "g2_english_l006",
+    "question": "翻译句子：他的眼睛很累，他应该休息一下。",
+    "answer": "答案：His eyes are tired. He should have a rest. 解析：eyes are tired\"眼睛累了\"。have a rest\"休息一下\"。"
+  },
+  {
+    "id": "g2_english_l006_ex10",
+    "knowledge_id": "g2_english_l006",
+    "question": "单项选择：She has a high _____ and needs to see a doctor. A. temperature  B. fever  C. cold  D. A and B",
+    "answer": "答案：D. A and B。解析：temperature和fever都表示\"发烧/体温\"。"
+  }
+]

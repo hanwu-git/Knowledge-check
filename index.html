@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>初中知识点背诵系统</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3B82F6',
+                        secondary: '#6366F1',
+                        accent: '#F59E0B',
+                        success: '#10B981',
+                        danger: '#EF4444',
+                        warning: '#F97316',
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div class="page-container">
+        <header class="page-header">
+            <h1 class="page-title">📚 初中知识点背诵系统</h1>
+            <p class="page-subtitle">选择年级和科目，开始学习之旅</p>
+        </header>
+
+        <div class="flex justify-center mb-8">
+            <a href="wrongbook.html" class="flex items-center gap-2 px-6 py-3 bg-red-50 text-red-600 rounded-xl hover:bg-red-100 transition-colors">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path>
+                </svg>
+                <span class="font-medium">我的错题本</span>
+                <span id="wrongbook-count" class="px-2 py-0.5 bg-red-500 text-white text-xs rounded-full">0</span>
+            </a>
+        </div>
+
+        <div id="continue-study" class="card p-6 mb-6 hidden">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center gap-4">
+                    <div class="w-12 h-12 bg-primary/10 text-primary rounded-xl flex items-center justify-center text-2xl">
+                        📖
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-bold text-gray-800">继续学习</h3>
+                        <p id="last-study-info" class="text-gray-500 text-sm mt-1"></p>
+                    </div>
+                </div>
+                <button id="btn-continue" class="btn btn-primary px-6 py-2">继续学习</button>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+            <div class="card p-6 border-2 border-primary/30">
+                <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+                    <span class="w-8 h-8 bg-primary text-white rounded-lg flex items-center justify-center font-bold">七</span>
+                    初一
+                </h2>
+                <div class="space-y-3">
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="grade1_math">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📐 数学</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/60</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="g1_math.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="g1_math.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="grade1_english">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">🔤 英语</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/60</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="g1_english.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="g1_english.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="grade1_chinese">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 语文</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/60</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="g1_chinese.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="g1_chinese.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="grade1_chinese_recite">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📝 语文重点背诵</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/30</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="g1_chinese_recite.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="g1_chinese_recite.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="grade1_english_vocab">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📚 英语词汇背诵</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/30</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="g1_english_vocab.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="g1_english_vocab.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="grade1_history">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">🏛️ 历史</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/60</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="g1_history.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="g1_history.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="grade1_geography">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">🌍 地理</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/60</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="g1_geography.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="g1_geography.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="grade1_biology">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">🧬 生物</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/60</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="g1_biology.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="g1_biology.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="grade1_daofa">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">⚖️ 道德与法治</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/60</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="g1_daofa.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="g1_daofa.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card p-6 border-2 border-primary/30">
+                <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+                    <span class="w-8 h-8 bg-primary text-white rounded-lg flex items-center justify-center font-bold">八</span>
+                    初二
+                </h2>
+                <div class="space-y-3">
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="math">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 数学</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/53</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_math.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_math.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="physics">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 物理</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/58</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_physics.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_physics.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="english">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 英语</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/87</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_english.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_english.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="geography">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 地理</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/85</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_geography.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_geography.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="chinese">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 语文</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/60</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_chinese.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_chinese.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="chinese_recite">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 语文重点背诵</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/30</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_chinese_recite.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_chinese_recite.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="english_vocab">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 英语词汇背诵</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/30</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_english_vocab.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_english_vocab.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="history">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 历史</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/92</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_history.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_history.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="daofa">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 道德与法治</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/60</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_daofa.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_daofa.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="biology">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">📖 生物</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/66</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_biology.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_biology.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+
+            <div class="card p-6">
+                <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+                    <span class="w-8 h-8 bg-gray-200 text-gray-500 rounded-lg flex items-center justify-center font-bold">九</span>
+                    初三
+                </h2>
+                <div class="text-gray-500 text-sm">暂无数据</div>
+            </div>
+        </div>
+
+        <div class="card p-6 bg-gradient-to-r from-blue-50 to-indigo-50">
+            <h3 class="font-bold text-gray-700 mb-4">📊 当前数据统计</h3>
+            <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
+                <div class="text-center">
+                    <div class="text-3xl font-bold text-primary">621</div>
+                    <div class="text-sm text-gray-500">知识点</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-3xl font-bold text-secondary">7290</div>
+                    <div class="text-sm text-gray-500">例题</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-3xl font-bold text-danger" id="stat-wrong">-</div>
+                    <div class="text-sm text-gray-500">错题数</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card p-6 mt-6">
+            <h3 class="font-bold text-gray-700 mb-4">💡 使用说明</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-gray-600">
+                <div class="flex items-start gap-3">
+                    <span class="w-6 h-6 bg-primary/10 text-primary rounded-full flex items-center justify-center flex-shrink-0 font-bold">1</span>
+                    <p>选择年级和科目，点击"上册"或"下册"进入学习</p>
+                </div>
+                <div class="flex items-start gap-3">
+                    <span class="w-6 h-6 bg-secondary/10 text-secondary rounded-full flex items-center justify-center flex-shrink-0 font-bold">2</span>
+                    <p>点击知识点卡片展开查看公式和详细解释</p>
+                </div>
+                <div class="flex items-start gap-3">
+                    <span class="w-6 h-6 bg-success/10 text-success rounded-full flex items-center justify-center flex-shrink-0 font-bold">3</span>
+                    <p>做例题并加入错题本，方便复习巩固</p>
+                </div>
+            </div>
+        </div>
+
+        <footer class="text-center text-gray-400 text-sm mt-8">
+            <p>初中知识点背诵系统 · 北京人教版</p>
+        </footer>
+    </div>
+
+    <script>
+        const WrongBookManager = {
+            STORAGE_KEY_PREFIX: 'wrongbook_',
+            getAllWrongBookKeys() {
+                const keys = [];
+                for (let i = 0; i < localStorage.length; i++) {
+                    const key = localStorage.key(i);
+                    if (key && key.startsWith(this.STORAGE_KEY_PREFIX)) {
+                        const data = JSON.parse(localStorage.getItem(key) || '[]');
+                        keys.push({ count: data.length });
+                    }
+                }
+                return keys;
+            }
+        };
+
+        const ProgressManager = {
+            STORAGE_KEY: 'study_progress',
+            getProgress() {
+                try {
+                    return JSON.parse(localStorage.getItem(this.STORAGE_KEY) || '{}');
+                } catch(e) {
+                    return {};
+                }
+            },
+            getLastStudy() {
+                const progress = this.getProgress();
+                return progress.lastStudy || null;
+            },
+            getSubjectProgress(subject) {
+                const progress = this.getProgress();
+                if (!progress.learnedKnowledge) return { learned: 0 };
+                const prefix = 'g2_' + subject + '_';
+                const learned = Object.keys(progress.learnedKnowledge).filter(k => k.startsWith(prefix)).length;
+                return { learned };
+            }
+        };
+
+        const SUBJECT_COUNTS = {
+            'math': 53,
+            'physics': 58,
+            'english': 87,
+            'geography': 85,
+            'chinese': 60,
+            'chinese_recite': 30,
+            'english_vocab': 30,
+            'history': 92,
+            'daofa': 60,
+            'biology': 66
+        };
+
+        function formatTimeAgo(timestamp) {
+            const now = new Date();
+            const then = new Date(timestamp);
+            const diffMs = now - then;
+            const diffMins = Math.floor(diffMs / 60000);
+            const diffHours = Math.floor(diffMs / 3600000);
+            const diffDays = Math.floor(diffMs / 86400000);
+            
+            if (diffMins < 1) return '刚刚';
+            if (diffMins < 60) return diffMins + '分钟前';
+            if (diffHours < 24) return diffHours + '小时前';
+            if (diffDays < 7) return diffDays + '天前';
+            return then.toLocaleDateString('zh-CN');
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const allWrongBooks = WrongBookManager.getAllWrongBookKeys();
+            const totalCount = allWrongBooks.reduce((sum, item) => sum + item.count, 0);
+            document.getElementById('wrongbook-count').textContent = totalCount;
+            document.getElementById('stat-wrong').textContent = totalCount;
+
+            const lastStudy = ProgressManager.getLastStudy();
+            if (lastStudy) {
+                const continueStudyDiv = document.getElementById('continue-study');
+                const lastStudyInfo = document.getElementById('last-study-info');
+                const btnContinue = document.getElementById('btn-continue');
+                
+                const timeAgo = formatTimeAgo(lastStudy.timestamp);
+                lastStudyInfo.textContent = lastStudy.subjectName + ' · ' + lastStudy.semesterName + ' · ' + lastStudy.knowledgeName + '（' + timeAgo + '）';
+                continueStudyDiv.classList.remove('hidden');
+                
+                btnContinue.addEventListener('click', () => {
+                    const url = 'knowledge_' + lastStudy.subject + '.html?semester=' + lastStudy.semester + '#' + lastStudy.knowledgeId;
+                    window.location.href = url;
+                });
+            }
+
+            Object.keys(SUBJECT_COUNTS).forEach(subjectKey => {
+                const progress = ProgressManager.getSubjectProgress(subjectKey);
+                const total = SUBJECT_COUNTS[subjectKey];
+                const percent = total > 0 ? Math.round((progress.learned / total) * 100) : 0;
+                
+                const subjectCard = document.querySelector('[data-subject="' + subjectKey + '"]');
+                if (subjectCard) {
+                    const progressText = subjectCard.querySelector('.subject-progress-text');
+                    const progressBar = subjectCard.querySelector('.subject-progress-bar');
+                    if (progressText) progressText.textContent = progress.learned + '/' + total;
+                    if (progressBar) progressBar.style.width = percent + '%';
+                }
+            });
+        });
+    </script>
+</body>
+</html>

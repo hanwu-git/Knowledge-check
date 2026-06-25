@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l005_ex01",
+    "knowledge_id": "g2_english_l005",
+    "question": "单项选择：I _____ swim when I was five years old. A. can  B. could  C. may  D. must",
+    "answer": "答案：B. could。解析：could是can的过去式，表示过去的能力。when I was five是过去时间。"
+  },
+  {
+    "id": "g2_english_l005_ex02",
+    "knowledge_id": "g2_english_l005",
+    "question": "单项选择：_____ you please help me with my homework? A. Can  B. Could  C. May  D. B and C",
+    "answer": "答案：D. B and C。解析：Could/May you please...?是礼貌请求，Could比Can更委婉。"
+  },
+  {
+    "id": "g2_english_l005_ex03",
+    "knowledge_id": "g2_english_l005",
+    "question": "用所给词的适当形式填空：She ______ (could) speak three languages when she was young.",
+    "answer": "答案：could。解析：could表示过去的能力。when she was young是过去时间。"
+  },
+  {
+    "id": "g2_english_l005_ex04",
+    "knowledge_id": "g2_english_l005",
+    "question": "单项选择：— Could I borrow your book? — _____. A. Sure  B. Sorry, you can't  C. Of course  D. All of the above",
+    "answer": "答案：D. All of the above。解析：Could I...?的回答可以是肯定或否定。"
+  },
+  {
+    "id": "g2_english_l005_ex05",
+    "knowledge_id": "g2_english_l005",
+    "question": "翻译句子：你会说英语吗？",
+    "answer": "答案：Can you speak English? 解析：can表示能力，\"会/能\"。speak English\"说英语\"。"
+  },
+  {
+    "id": "g2_english_l005_ex06",
+    "knowledge_id": "g2_english_l005",
+    "question": "单项选择：When I was a child, I _____ ride a bike. A. can  B. could  C. may  D. must",
+    "answer": "答案：B. could。解析：could是can的过去式，表示过去的能力。"
+  },
+  {
+    "id": "g2_english_l005_ex07",
+    "knowledge_id": "g2_english_l005",
+    "question": "用所给词的适当形式填空：______ (Can/Could) you tell me the way to the station?",
+    "answer": "答案：Could。解析：Could you tell me...?是礼貌请求，比Can更客气。"
+  },
+  {
+    "id": "g2_english_l005_ex08",
+    "knowledge_id": "g2_english_l005",
+    "question": "单项选择：I couldn't find my keys yesterday _____ I looked everywhere. A. can  B. could  C. must  D. couldn't",
+    "answer": "答案：D. couldn't。解析：couldn't是could not的缩写，表示过去做不到。"
+  },
+  {
+    "id": "g2_english_l005_ex09",
+    "knowledge_id": "g2_english_l005",
+    "question": "翻译句子：我以前能游泳，但现在不能了。",
+    "answer": "答案：I could swim before, but I can't now. 解析：could swim表示过去的能力，can't now表示现在做不到。"
+  },
+  {
+    "id": "g2_english_l005_ex10",
+    "knowledge_id": "g2_english_l005",
+    "question": "单项选择：No one _____ answer this difficult question. A. can  B. could  C. must  D. should",
+    "answer": "答案：B. could。解析：could表示能力，\"能够\"，暗示没有人能回答。"
+  }
+]

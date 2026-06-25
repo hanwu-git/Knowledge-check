@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u044_ex01",
+    "knowledge_id": "g2_english_u044",
+    "question": "单项选择：I have _____ my homework. A. do  B. did  C. done  D. doing",
+    "answer": "答案：C. done。解析：do的过去分词是done。现在完成时：have + 过去分词。"
+  },
+  {
+    "id": "g2_english_u044_ex02",
+    "knowledge_id": "g2_english_u044",
+    "question": "用所给词的适当形式填空：He has ______ (eat) three hamburgers.",
+    "answer": "答案：eaten。解析：eat的过去分词是eaten（不规则变化）。"
+  },
+  {
+    "id": "g2_english_u044_ex03",
+    "knowledge_id": "g2_english_u044",
+    "question": "单项选择：She has _____ to Beijing twice. A. gone  B. went  C. go  D. goes",
+    "answer": "答案：A. gone。解析：go的过去分词是gone。现在完成时：has + gone。"
+  },
+  {
+    "id": "g2_english_u044_ex04",
+    "knowledge_id": "g2_english_u044",
+    "question": "单项选择：I have _____ the book on the desk. A. put  B. putted  C. puts  D. putting",
+    "answer": "答案：A. put。解析：put的过去分词是put（三形相同）。现在完成时：have + put。"
+  },
+  {
+    "id": "g2_english_u044_ex05",
+    "knowledge_id": "g2_english_u044",
+    "question": "用所给词的适当形式填空：He has ______ (buy) a new car.",
+    "answer": "答案：bought。解析：buy的过去分词是bought（不规则变化）。"
+  },
+  {
+    "id": "g2_english_u044_ex06",
+    "knowledge_id": "g2_english_u044",
+    "question": "单项选择：They have _____ the work. A. finish  B. finished  C. finishing  D. finishes",
+    "answer": "答案：B. finished。解析：finish的过去分词是finished（规则变化，加-ed）。"
+  },
+  {
+    "id": "g2_english_u044_ex07",
+    "knowledge_id": "g2_english_u044",
+    "question": "用所给词的适当形式填空：I have ______ (see) that movie before.",
+    "answer": "答案：seen。解析：see的过去分词是seen（不规则变化）。"
+  },
+  {
+    "id": "g2_english_u044_ex08",
+    "knowledge_id": "g2_english_u044",
+    "question": "单项选择：She has _____ a letter to her friend. A. write  B. wrote  C. written  D. writing",
+    "answer": "答案：C. written。解析：write的过去分词是written（不规则变化）。现在完成时：has + written。"
+  },
+  {
+    "id": "g2_english_u044_ex09",
+    "knowledge_id": "g2_english_u044",
+    "question": "用所给词的适当形式填空：He has ______ (take) the book away.",
+    "answer": "答案：taken。解析：take的过去分词是taken（不规则变化）。"
+  },
+  {
+    "id": "g2_english_u044_ex10",
+    "knowledge_id": "g2_english_u044",
+    "question": "翻译句子：我已经把书读完了。",
+    "answer": "答案：I have finished reading the book. 解析：finish的过去分词是finished。"
+  }
+]

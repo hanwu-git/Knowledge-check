@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l024_ex01",
+    "knowledge_id": "g2_english_l024",
+    "question": "单项选择：I was walking to school _____ I met my teacher. A. when  B. while  C. as  D. before",
+    "answer": "答案：A. when。解析：when引导一般过去时，I was walking是延续性动作。整句：I was walking to school when I met my teacher."
+  },
+  {
+    "id": "g2_english_l024_ex02",
+    "knowledge_id": "g2_english_l024",
+    "question": "单项选择：I was reading _____ the lights went out. A. when  B. while  C. as  D. for",
+    "answer": "答案：A. when。解析：the lights went out是短暂性动作，用when。"
+  },
+  {
+    "id": "g2_english_l024_ex03",
+    "knowledge_id": "g2_english_l024",
+    "question": "用所给词的适当形式填空：I ______ (read) a book when the phone rang.",
+    "answer": "答案：was reading。解析：when the phone rang是一般过去时，主句用过去进行时。完整：I was reading a book when the phone rang."
+  },
+  {
+    "id": "g2_english_l024_ex04",
+    "knowledge_id": "g2_english_l024",
+    "question": "单项选择：When I _____ the classroom, the teacher was writing on the blackboard. A. enter  B. entered  C. am entering  D. will enter",
+    "answer": "答案：B. entered。解析：主句I entered是一般过去时，the teacher was writing是过去进行时。整句：When I entered the classroom, the teacher was writing on the blackboard."
+  },
+  {
+    "id": "g2_english_l024_ex05",
+    "knowledge_id": "g2_english_l024",
+    "question": "翻译句子：当我到家时，妈妈正在做饭。",
+    "answer": "答案：When I got home, my mother was cooking. 解析：got是一般过去时，was cooking是过去进行时。on the blackboard\"在黑板上\"。"
+  },
+  {
+    "id": "g2_english_l024_ex06",
+    "knowledge_id": "g2_english_l024",
+    "question": "单项选择：He was playing computer games _____ his mother came back. A. when  B. while  C. as  D. for",
+    "answer": "答案：A. when。解析：his mother came back是短暂性动作，用when。"
+  },
+  {
+    "id": "g2_english_l024_ex07",
+    "knowledge_id": "g2_english_l024",
+    "question": "用所给词的适当形式填空：She ______ (cook) dinner when the doorbell rang.",
+    "answer": "答案：was cooking。解析：when the doorbell rang是一般过去时，主句用过去进行时。完整：She was cooking dinner when the doorbell rang."
+  },
+  {
+    "id": "g2_english_l024_ex08",
+    "knowledge_id": "g2_english_l024",
+    "question": "单项选择：When I _____ the library, I saw many students reading. A. enter  B. entered  C. am entering  D. will enter",
+    "answer": "答案：B. entered。解析：When I entered是一般过去时。I saw也是一般过去时（描述同时看到的背景）。"
+  },
+  {
+    "id": "g2_english_l024_ex09",
+    "knowledge_id": "g2_english_l024",
+    "question": "翻译句子：我正走在路上，突然开始下雨了。",
+    "answer": "答案：I was walking on the road when it started to rain. 解析：was walking是过去进行时，when it started是一般过去时。"
+  },
+  {
+    "id": "g2_english_l024_ex10",
+    "knowledge_id": "g2_english_l024",
+    "question": "单项选择：When she _____ the classroom, all the students were reading. A. enter  B. entered  C. is entering  D. has entered",
+    "answer": "答案：B. entered。解析：entered是一般过去时，were reading是过去进行时表示背景。"
+  }
+]

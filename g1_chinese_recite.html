@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>语文重点背诵知识点学习</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3B82F6',
+                        secondary: '#6366F1',
+                        accent: '#F59E0B',
+                        success: '#10B981',
+                        danger: '#EF4444',
+                        warning: '#F97316',
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div class="page-container">
+        <nav class="nav-bar">
+            <a href="grade1_index.html" class="nav-back-btn">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                </svg>
+                返回一年级
+            </a>
+            <div class="flex-1"></div>
+            <a href="wrongbook.html" class="flex items-center gap-2 px-4 py-2 bg-red-50 text-red-600 rounded-lg hover:bg-red-100 transition-colors">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path>
+                </svg>
+                错题本
+            </a>
+        </nav>
+
+        <header class="page-header">
+            <h1 id="page-title" class="page-title">语文重点背诵</h1>
+            <p id="page-subtitle" class="page-subtitle">点击卡片展开查看详细内容</p>
+        </header>
+
+        <div class="bg-white rounded-xl shadow-lg p-4 mb-6">
+            <div class="flex flex-wrap gap-4 items-center justify-between">
+                <div class="flex gap-2">
+                    <button id="btn-expand-all" class="btn btn-primary">全部展示</button>
+                    <button id="btn-collapse-all" class="btn btn-gray">全部收起</button>
+                </div>
+                <div id="progress-stat" class="text-sm text-gray-600 flex items-center gap-3">
+                    <span>学习进度：<span id="progress-learned" class="font-bold text-green-600">0</span> / <span id="progress-total">0</span> 个知识点</span>
+                    <button id="btn-clear-progress" class="text-xs px-2 py-1 text-red-600 bg-red-50 hover:bg-red-100 rounded transition-colors" title="清除当前科目学习进度">
+                        清除进度
+                    </button>
+                </div>
+                <div class="flex gap-2">
+                    <a href="g1_chinese_recite.html?semester=upper" class="btn ${'{{'}btn ${'{{'}btn === 'upper' ? 'btn-primary' : 'btn-gray'}}">上册</a>
+                    <a href="g1_chinese_recite.html?semester=lower" class="btn ${'{{'}btn ${'{{'}btn === 'lower' ? 'btn-primary' : 'btn-gray'}}">下册</a>
+                </div>
+                <div class="flex-1 max-w-md">
+                    <div class="relative">
+                        <input id="search-input" type="text" placeholder="搜索知识点名称..." class="input w-full pl-10"/>
+                        <svg class="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="search-results-info" class="hidden mb-4 p-3 bg-yellow-50 border border-yellow-200 rounded-lg">
+            <p class="text-yellow-800 text-sm">🔍 搜索结果：找到 <span id="search-count" class="font-bold">0</span> 个匹配的知识点</p>
+        </div>
+
+        <div id="knowledge-list" class="space-y-4"></div>
+        <div id="empty-state" class="hidden empty-state">
+            <div class="empty-state-icon">📭</div>
+            <p class="empty-state-text">暂无知识点数据</p>
+        </div>
+    </div>
+
+    <div id="example-modal" class="hidden modal-overlay">
+        <div class="modal-content p-6">
+            <div class="flex items-center justify-between mb-4">
+                <h3 class="text-lg font-bold text-gray-800">例题练习</h3>
+                <button id="close-example" class="text-gray-400 hover:text-gray-600">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                </button>
+            </div>
+            <div id="example-content">
+                <div class="mb-4">
+                    <span class="tag mb-2" id="example-knowledge-name"></span>
+                    <p id="example-question" class="text-gray-800 text-lg mb-4"></p>
+                </div>
+                <div id="example-answer-section" class="hidden mb-4">
+                    <div class="answer-box">
+                        <p id="example-answer" class="text-gray-700 whitespace-pre-wrap"></p>
+                    </div>
+                </div>
+                <div class="flex flex-wrap gap-2">
+                    <button id="btn-show-answer" class="btn btn-success">展示答案</button>
+                    <button id="btn-next-example" class="btn btn-secondary">换一题</button>
+                    <button id="btn-add-wrong" class="btn btn-danger">加入错题本</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ==================== 内嵌知识点数据 ====================
+        const DATA_KNOWLEDGE = [{"chapter":"上册 重点背诵","name":"《春》重点段落","formula":"春草图 春花图 春风图 春雨图","explanation":"【《春》朱自清】\n\n小草偷偷地从土里钻出来，嫩嫩的，绿绿的。园子里，田野里，瞧去，一大片一大片满是的。坐着，躺着，打两个滚，踢几脚球，赛几趟跑，捉几回迷藏。风轻悄悄的，草软绵绵的。\n\n桃树、杏树、梨树，你不让我，我不让你，都开满了花赶趟儿。红的像火，粉的像霞，白的像雪。花里带着甜味儿；闭了眼，树上仿佛已经满是桃儿、杏儿、梨儿。","id":"g1_chinese_recite_u001","semester":"upper"},{"chapter":"上册 重点背诵","name":"《论语》十二章","formula":"学习方法 学习态度 修身做人","explanation":"【《论语》十二章】\n1. 子曰：\"学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？\"\n2. 子曰：\"温故而知新，可以为师矣。\"\n3. 子曰：\"学而不思则罔，思而不学则殆。\"\n4. 子曰：\"三人行，必有我师焉。择其善者而从之，其不善者而改之。\"\n5. 子曰：\"三军可夺帅也，匹夫不可夺志也。\"","id":"g1_chinese_recite_u002","semester":"upper"},{"chapter":"上册 重点背诵","name":"古代诗歌四首","formula":"观沧海 闻王昌龄 次北固山下 天净沙秋思","explanation":"【《观沧海》曹操】\n东临碣石，以观沧海。水何澹澹，山岛竦峙。树木丛生，百草丰茂。秋风萧瑟，洪波涌起。日月之行，若出其中；星汉灿烂，若出其里。幸甚至哉，歌以咏志。\n\n【《次北固山下》王湾】\n客路青山外，行舟绿水前。潮平两岸阔，风正一帆悬。海日生残夜，江春入旧年。乡书何处达？归雁洛阳边。\n\n【《天净沙·秋思》马致远】\n枯藤老树昏鸦，小桥流水人家，古道西风瘦马。夕阳西下，断肠人在天涯。","id":"g1_chinese_recite_u003","semester":"upper"},{"chapter":"上册 重点背诵","name":"《世说新语》二则","formula":"咏雪 陈太丘与友期行","explanation":"【《咏雪》】\n谢太傅寒雪日内集，与儿女讲论文义。俄而雪骤，公欣然曰：\"白雪纷纷何所似？\"兄子胡儿曰：\"撒盐空中差可拟。\"兄女曰：\"未若柳絮因风起。\"公大笑乐。即公大兄无奕女，左将军王凝之妻也。\n\n【《陈太丘与友期行》】\n陈太丘与友期行，期日中，过中不至，太丘舍去，去后乃至。元方时年七岁，门外戏。客问元方：\"尊君在不？\"答曰：\"待君久不至，已去。\"","id":"g1_chinese_recite_u004","semester":"upper"},{"chapter":"上册 重点背诵","name":"《诫子书》诸葛亮","formula":"静以修身 俭以养德","explanation":"【《诫子书》诸葛亮】\n\n夫君子之行，静以修身，俭以养德。非淡泊无以明志，非宁静无以致远。夫学须静也，才须学也，非学无以广才，非志无以成学。淫慢则不能励精，险躁则不能治性。年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！","id":"g1_chinese_recite_u005","semester":"upper"},{"chapter":"上册 重点背诵","name":"《狼》蒲松龄","formula":"遇狼 惧狼 御狼 杀狼","explanation":"【《狼》蒲松龄】\n\n一屠晚归，担中肉尽，止有剩骨。途中两狼，缀行甚远。\n\n屠惧，投以骨。一狼得骨止，一狼仍从。复投之，后狼止而前狼又至。骨已尽矣，而两狼之并驱如故。\n\n屠大窘，恐前后受其敌。顾野有麦场，场主积薪其中，苫蔽成丘。屠乃奔倚其下，弛担持刀。狼不敢前，眈眈相向。","id":"g1_chinese_recite_u006","semester":"upper"},{"chapter":"上册 重点背诵","name":"修辞方法集锦","formula":"比喻 拟人 排比 夸张 反复 对偶","explanation":"【比喻】\n明喻：甲像乙（像、好像、仿佛、犹如）\n暗喻：甲是乙（是、成为、变成）\n借喻：乙代甲（不出现本体和比喻词）\n\n【拟人】把物当作人来写，赋予人的思想感情和动作行为。\n\n【排比】三个或三个以上结构相同或相似的句子。\n\n【夸张】故意夸大或缩小事物的特征。","id":"g1_chinese_recite_u007","semester":"upper"},{"chapter":"上册 重点背诵","name":"记叙文知识要点","formula":"六要素 线索 顺序 人称 中心思想","explanation":"【记叙文六要素】时间、地点、人物、起因、经过、结果\n\n【记叙线索】时间线、地点线、人物线、事件线、情感线、物品线\n\n【记叙顺序】\n顺叙：按时间先后\n倒叙：先写结果，制造悬念\n插叙：插入相关内容，丰富情节\n\n【记叙人称】第一人称（真实亲切）、第三人称（客观全面）","id":"g1_chinese_recite_u008","semester":"upper"},{"chapter":"上册 重点背诵","name":"文言虚词：之","formula":"代词、助词、动词","explanation":"【\"之\"的用法】\n\n1. 代词：代人、代事、代物\n   例：学而时习之（代学过的知识）\n\n2. 助词：\n   - 结构助词\"的\"：故时有物外之趣\n   - 主谓之间，取消句子独立性：予独爱莲之出淤泥而不染\n   - 宾语前置的标志：何陋之有\n   - 凑足音节，无实义：久之，目似瞑\n\n3. 动词：去、往、到\n   例：送杜少府之任蜀州","id":"g1_chinese_recite_u009","semester":"upper"},{"chapter":"上册 重点背诵","name":"文言虚词：而","formula":"顺承、转折、修饰、并列","explanation":"【\"而\"的用法】\n\n1. 顺承关系（承接）：然后、就\n   例：学而时习之\n\n2. 转折关系：但是、却、可是\n   例：人不知而不愠\n\n3. 修饰关系：地、着（连接状语和中心语）\n   例：拔山倒树而来\n\n4. 并列关系：而且、并且\n   例：敏而好学\n\n5. 因果关系：因而\n   例：四时之景不同，而乐亦无穷也","id":"g1_chinese_recite_u010","semester":"upper"},{"chapter":"上册 重点背诵","name":"病句类型速记","formula":"成分残缺 搭配不当 语序不当 重复啰嗦","explanation":"【常见病句类型】\n\n1. 成分残缺：缺少主语、谓语、宾语等必要成分\n2. 搭配不当：主谓、动宾、主宾、修饰语与中心语搭配不当\n3. 语序不当：词语排列顺序不合理\n4. 重复啰嗦：意思重复\n5. 前后矛盾：句子前后意思不一致\n6. 分类不当：分类标准不统一\n7. 表意不明：有歧义\n\n【修改原则】保持原意，尽量少改。","id":"g1_chinese_recite_u011","semester":"upper"},{"chapter":"上册 重点背诵","name":"成语归类（一）","formula":"描写人物 描写景物 寓言故事 历史故事","explanation":"【描写人物品质】\n奋不顾身、舍己为人、坚强不屈、赤胆忠心、不屈不挠\n\n【描写人物神态】\n神采奕奕、眉飞色舞、垂头丧气、目瞪口呆、愁眉苦脸\n\n【描写学习】\n废寝忘食、孜孜不倦、悬梁刺股、凿壁偷光、学而不厌\n\n【描写自然景物】\n万紫千红、鸟语花香、崇山峻岭、山清水秀、姹紫嫣红","id":"g1_chinese_recite_u012","semester":"upper"},{"chapter":"上册 重点背诵","name":"作家作品常识（一）","formula":"朱自清 老舍 鲁迅 冰心 安徒生","explanation":"【朱自清】\n现代散文家、诗人、学者。代表作：《春》《背影》《荷塘月色》。\n\n【老舍】\n原名舒庆春，字舍予，现代作家。代表作：《骆驼祥子》《茶馆》。\n\n【鲁迅】\n原名周树人，现代文学家、思想家、革命家。代表作：《呐喊》《彷徨》《朝花夕拾》。\n\n【冰心】\n原名谢婉莹，现代女作家。代表作：《繁星》《春水》。","id":"g1_chinese_recite_u013","semester":"upper"},{"chapter":"上册 重点背诵","name":"文言常识：人称","formula":"第一人称 第二人称 第三人称 尊称 谦称","explanation":"【第一人称】\n吾、我、余、予、朕（秦后皇帝专用）\n\n【第二人称】\n汝、女、尔、若、乃、君、子、足下\n\n【第三人称】\n彼、其、之、渠\n\n【尊称】\n君、子、公、先生、足下、陛下、夫子\n\n【谦称】\n寡人、孤、臣、仆、鄙人、不才、在下、愚","id":"g1_chinese_recite_u014","semester":"upper"},{"chapter":"上册 重点背诵","name":"文学常识：古代诗歌","formula":"古体诗 近体诗 律诗 绝句 词 曲","explanation":"【古体诗】\n唐代以前的诗歌，格律自由，篇幅不限。例：《观沧海》\n\n【近体诗（格律诗）】\n唐代形成的律诗和绝句的统称。\n- 律诗：八句，分为首联、颔联、颈联、尾联，中间两联对仗\n- 绝句：四句\n\n【词】\n又称长短句，有固定词牌。例：《天净沙·秋思》（小令）\n\n【曲】\n元代兴起的一种文学形式，分为散曲和杂剧。","id":"g1_chinese_recite_u015","semester":"upper"},{"chapter":"下册 重点背诵","name":"《黄河颂》歌词","formula":"颂黄河，赞民族精神","explanation":"【《黄河颂》光未然】\n\n我站在高山之巅，\n望黄河滚滚，\n奔向东南。\n惊涛澎湃，\n掀起万丈狂澜；\n浊流宛转，\n结成九曲连环；\n从昆仑山下\n奔向黄海之边；\n把中原大地\n劈成南北两面。\n\n啊！黄河！\n你是中华民族的摇篮！\n五千年的古国文化，\n从你这儿发源；\n多少英雄的故事，\n在你的身边扮演！","id":"g1_chinese_recite_l001","semester":"lower"},{"chapter":"下册 重点背诵","name":"《木兰诗》","formula":"乐府双璧之一，代父从军","explanation":"【《木兰诗》】\n\n唧唧复唧唧，木兰当户织。不闻机杼声，唯闻女叹息。\n\n问女何所思，问女何所忆。女亦无所思，女亦无所忆。昨夜见军帖，可汗大点兵，军书十二卷，卷卷有爷名。阿爷无大儿，木兰无长兄，愿为市鞍马，从此替爷征。\n\n万里赴戎机，关山度若飞。朔气传金柝，寒光照铁衣。将军百战死，壮士十年归。\n\n雄兔脚扑朔，雌兔眼迷离；双兔傍地走，安能辨我是雄雌？","id":"g1_chinese_recite_l002","semester":"lower"},{"chapter":"下册 重点背诵","name":"《孙权劝学》","formula":"开卷有益，刮目相看","explanation":"【《孙权劝学》】\n\n初，权谓吕蒙曰：\"卿今当涂掌事，不可不学！\"蒙辞以军中多务。权曰：\"孤岂欲卿治经为博士邪！但当涉猎，见往事耳。卿言多务，孰若孤？孤常读书，自以为大有所益。\"蒙乃始就学。\n\n及鲁肃过寻阳，与蒙论议，大惊曰：\"卿今者才略，非复吴下阿蒙！\"蒙曰：\"士别三日，即更刮目相待，大兄何见事之晚乎！\"肃遂拜蒙母，结友而别。","id":"g1_chinese_recite_l003","semester":"lower"},{"chapter":"下册 重点背诵","name":"《卖油翁》欧阳修","formula":"熟能生巧，谦虚谨慎","explanation":"【《卖油翁》欧阳修】\n\n陈康肃公尧咨善射，当世无双，公亦以此自矜。尝射于家圃，有卖油翁释担而立，睨之，久而不去。见其发矢十中八九，但微颔之。\n\n康肃问曰：\"汝亦知射乎？吾射不亦精乎？\"翁曰：\"无他，但手熟尔。\"康肃忿然曰：\"尔安敢轻吾射！\"翁曰：\"以我酌油知之。\"乃取一葫芦置于地，以钱覆其口，徐以杓酌油沥之，自钱孔入，而钱不湿。因曰：\"我亦无他，惟手熟尔。\"康肃笑而遣之。","id":"g1_chinese_recite_l004","semester":"lower"},{"chapter":"下册 重点背诵","name":"《短文两篇》","formula":"陋室铭 爱莲说","explanation":"【《陋室铭》刘禹锡】\n山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。可以调素琴，阅金经。无丝竹之乱耳，无案牍之劳形。南阳诸葛庐，西蜀子云亭。孔子云：何陋之有？\n\n【《爱莲说》周敦颐】\n水陆草木之花，可爱者甚蕃。晋陶渊明独爱菊。自李唐来，世人甚爱牡丹。予独爱莲之出淤泥而不染，濯清涟而不妖，中通外直，不蔓不枝，香远益清，亭亭净植，可远观而不可亵玩焉。","id":"g1_chinese_recite_l005","semester":"lower"},{"chapter":"下册 重点背诵","name":"《河中石兽》纪昀","formula":"实践出真知，不能主观臆断","explanation":"【《河中石兽》纪昀】\n\n沧州南一寺临河干，山门圮于河，二石兽并沉焉。阅十余岁，僧募金重修，求二石兽于水中，竟不可得。以为顺流下矣，棹数小舟，曳铁钯，寻十余里，无迹。\n\n一讲学家设帐寺中，闻之笑曰：\"尔辈不能究物理，是非木杮，岂能为暴涨携之去？乃石性坚重，沙性松浮，湮于沙上，渐沉渐深耳。沿河求之，不亦颠乎？\"众服为确论。\n\n一老河兵闻之，又笑曰：\"凡河中失石，当求之于上流。\"","id":"g1_chinese_recite_l006","semester":"lower"},{"chapter":"下册 重点背诵","name":"《假如生活欺骗了你》普希金","formula":"乐观面对生活，相信未来","explanation":"【《假如生活欺骗了你》普希金】\n\n假如生活欺骗了你，\n不要悲伤，不要心急！\n忧郁的日子里须要镇静：\n相信吧，快乐的日子将会来临。\n\n心儿永远向往着未来；\n现在却常是忧郁。\n一切都是瞬息，\n一切都将会过去；\n而那过去了的，\n就会成为亲切的怀恋。","id":"g1_chinese_recite_l007","semester":"lower"},{"chapter":"下册 重点背诵","name":"古代诗歌五首","formula":"登幽州台歌 望岳 登飞来峰 游山西村 己亥杂诗","explanation":"【《登幽州台歌》陈子昂】\n前不见古人，后不见来者。念天地之悠悠，独怆然而涕下！\n\n【《望岳》杜甫】\n岱宗夫如何？齐鲁青未了。造化钟神秀，阴阳割昏晓。荡胸生曾云，决眦入归鸟。会当凌绝顶，一览众山小。\n\n【《游山西村》陆游】\n莫笑农家腊酒浑，丰年留客足鸡豚。山重水复疑无路，柳暗花明又一村。\n\n【《己亥杂诗》龚自珍】\n浩荡离愁白日斜，吟鞭东指即天涯。落红不是无情物，化作春泥更护花。","id":"g1_chinese_recite_l008","semester":"lower"},{"chapter":"下册 重点背诵","name":"文言文实词（二）","formula":"古今异义 一词多义 通假字 词类活用","explanation":"【古今异义】\n- 但当涉猎：但（古：只；今：但是）\n- 见往事耳：往事（古：历史；今：过去的事情）\n- 及鲁肃过寻阳：过（古：经过；今：经过、超过）\n- 但微颔之：颔（古：点头；今：下巴）\n\n【通假字】\n- 对镜帖花黄：\"帖\"同\"贴\"\n- 出门看火伴：\"火\"同\"伙\"\n- 徐以杓酌油沥之：\"杓\"同\"勺\"","id":"g1_chinese_recite_l009","semester":"lower"},{"chapter":"下册 重点背诵","name":"议论文知识要点","formula":"论点 论据 论证 结构 语言","explanation":"【议论文三要素】\n1. 论点：作者的观点和主张（中心论点、分论点）\n2. 论据：证明论点的依据（事实论据、道理论据）\n3. 论证：用论据证明论点的过程\n\n【论证方法】\n举例论证、道理论证、对比论证、比喻论证、引用论证\n\n【基本结构】\n引论（提出问题）→本论（分析问题）→结论（解决问题）\n\n【论证结构】\n总分式、递进式、并列式、对比式","id":"g1_chinese_recite_l010","semester":"lower"},{"chapter":"下册 重点背诵","name":"散文知识要点","formula":"形散神聚 线索 意境 语言","explanation":"【散文特点】\n形散神聚：取材广泛自由，主题集中鲜明\n\n【散文分类】\n1. 叙事散文：以写人记事为主\n2. 抒情散文：以抒发情感为主\n3. 哲理散文：以阐述哲理为主\n\n【散文线索】\n时间线、空间线、人物线、情感线、事物线、题目线\n\n【散文语言】\n准确凝练、优美生动、富有感情色彩","id":"g1_chinese_recite_l011","semester":"lower"},{"chapter":"下册 重点背诵","name":"托物言志常见意象","formula":"梅兰竹菊 松莲 蝉 雁 柳","explanation":"【梅花】坚强不屈、高洁傲岸\n【兰花】高洁典雅、贤德君子\n【竹子】正直虚心、坚韧不拔\n【菊花】高洁隐逸、不趋炎附势\n【松柏】坚贞不屈、不畏严寒\n【莲花】洁身自好、不同流合污\n【蝉】高洁清远、品行高洁\n【鸿雁】思乡怀亲、书信往来\n【杨柳】离别留恋、依依不舍","id":"g1_chinese_recite_l012","semester":"lower"},{"chapter":"下册 重点背诵","name":"作家作品常识（二）","formula":"杨振宁 臧克家 萧红 梁启超 刘慈欣","explanation":"【杨振宁】\n美籍华裔物理学家，诺贝尔奖获得者。\n\n【臧克家】\n现代诗人，代表作《烙印》。\n\n【萧红】\n现代女作家，代表作《呼兰河传》《生死场》。\n\n【梁启超】\n近代思想家、学者，戊戌变法领袖之一。\n\n【刘慈欣】\n当代科幻作家，代表作《三体》《流浪地球》。","id":"g1_chinese_recite_l013","semester":"lower"},{"chapter":"下册 重点背诵","name":"成语归类（二）","formula":"历史故事 寓言故事 神话传说 诗文名句","explanation":"【历史故事成语】\n完璧归赵（蔺相如）、负荆请罪（廉颇）、卧薪尝胆（勾践）\n四面楚歌（项羽）、三顾茅庐（刘备）、纸上谈兵（赵括）\n\n【寓言故事成语】\n亡羊补牢、守株待兔、画蛇添足、掩耳盗铃、滥竽充数\n\n【神话传说成语】\n女娲补天、精卫填海、夸父追日、后羿射日、嫦娥奔月","id":"g1_chinese_recite_l014","semester":"lower"},{"chapter":"下册 重点背诵","name":"文言虚词：以、于","formula":"以：把、用、因为、来；于：在、从、比、对","explanation":"【\"以\"的用法】\n1. 介词：把、用、拿、凭借、按照\n   例：以我酌油知之（凭借）\n2. 连词：来、用来、以致\n   例：静以修身，俭以养德（来）\n3. 动词：认为\n   例：自以为大有所益（认为）\n\n【\"于\"的用法】\n1. 在、从、到\n   例：尝射于家圃（在）\n2. 比\n   例：苛政猛于虎也（比）\n3. 对、对于\n   例：万钟于我何加焉（对）\n4. 被\n   例：受制于人（被）","id":"g1_chinese_recite_l015","semester":"lower"}];
+
+        // ==================== 内嵌例题数据 ====================
+        const DATA_EXAMPLES = [];
+        const HAS_EXAMPLES = false;
+
+        // 错题本管理器
+        const WrongBookManager = {
+            STORAGE_KEY_PREFIX: 'wrongbook_',
+            getWrongBook(grade, subject) {
+                const key = this.STORAGE_KEY_PREFIX + grade + '_' + subject;
+                return JSON.parse(localStorage.getItem(key) || '[]');
+            },
+            addWrongBook(item) {
+                const key = this.STORAGE_KEY_PREFIX + item.grade + '_' + item.subject;
+                let wrongBook = this.getWrongBook(item.grade, item.subject);
+                const exists = wrongBook.some(w => w.question === item.question);
+                if (exists) return false;
+                wrongBook.push({...item, id: item.knowledgeId + '_' + Date.now(), addedAt: new Date().toISOString()});
+                localStorage.setItem(key, JSON.stringify(wrongBook));
+                return true;
+            }
+        };
+
+        // 学习进度管理器
+        const ProgressManager = {
+            STORAGE_KEY: 'study_progress',
+            
+            getProgress() {
+                try {
+                    return JSON.parse(localStorage.getItem(this.STORAGE_KEY) || '{}');
+                } catch(e) {
+                    return {};
+                }
+            },
+            
+            saveProgress(progress) {
+                localStorage.setItem(this.STORAGE_KEY, JSON.stringify(progress));
+            },
+            
+            recordStudy(grade, subject, subjectName, semester, semesterName, knowledgeId, knowledgeName) {
+                const progress = this.getProgress();
+                const now = new Date().toISOString();
+                const today = new Date().toISOString().split('T')[0];
+                
+                if (!progress.learnedKnowledge) progress.learnedKnowledge = {};
+                if (!progress.dailyStats) progress.dailyStats = {};
+                if (!progress.dailyStats[today]) {
+                    progress.dailyStats[today] = { learnedCount: 0, subjects: [] };
+                }
+                
+                const isNew = !progress.learnedKnowledge[knowledgeId];
+                progress.learnedKnowledge[knowledgeId] = { learnedAt: now };
+                
+                if (isNew) {
+                    progress.dailyStats[today].learnedCount++;
+                    if (!progress.dailyStats[today].subjects.includes(subject)) {
+                        progress.dailyStats[today].subjects.push(subject);
+                    }
+                }
+                
+                progress.lastStudy = {
+                    grade, subject, subjectName, semester, semesterName,
+                    knowledgeId, knowledgeName, timestamp: now
+                };
+                
+                this.saveProgress(progress);
+            },
+            
+            isLearned(knowledgeId) {
+                const progress = this.getProgress();
+                return !!(progress.learnedKnowledge && progress.learnedKnowledge[knowledgeId]);
+            },
+            
+            getLastStudy() {
+                const progress = this.getProgress();
+                return progress.lastStudy || null;
+            },
+            
+            getSubjectProgress(grade, subject) {
+                const progress = this.getProgress();
+                if (!progress.learnedKnowledge) return { learned: 0, total: 0, percent: 0 };
+                const prefix = grade + '_' + subject + '_';
+                const learned = Object.keys(progress.learnedKnowledge).filter(k => k.startsWith(prefix)).length;
+                const total = DATA_KNOWLEDGE.length;
+                const percent = total > 0 ? Math.round((learned / total) * 100) : 0;
+                return { learned, total, percent };
+            },
+            
+            clearSubjectProgress(grade, subject) {
+                const progress = this.getProgress();
+                const prefix = grade + '_' + subject + '_';
+                
+                if (progress.learnedKnowledge) {
+                    Object.keys(progress.learnedKnowledge).forEach(k => {
+                        if (k.startsWith(prefix)) {
+                            delete progress.learnedKnowledge[k];
+                        }
+                    });
+                }
+                
+                if (progress.lastStudy && progress.lastStudy.grade === grade && progress.lastStudy.subject === subject) {
+                    delete progress.lastStudy;
+                }
+                
+                this.saveProgress(progress);
+                return true;
+            }
+        };
+
+        // URL参数解析
+        function getUrlParams() {
+            const params = new URLSearchParams(window.location.search);
+            return {
+                grade: 'g1',
+                subject: 'chinese_recite',
+                semester: params.get('semester') || 'upper'
+            };
+        }
+
+        const gradeNames = {'g1':'初一','g2':'初二','g3':'初三'};
+        const subjectNames = {'chinese_recite':'语文重点背诵'};
+        const semesterNames = {'upper':'上册','lower':'下册'};
+
+        let currentParams = getUrlParams();
+        let knowledgeList = [];
+        let expandedIds = new Set();
+        let currentExample = null;
+
+        const pageTitle = document.getElementById('page-title');
+        const pageSubtitle = document.getElementById('page-subtitle');
+        const knowledgeListEl = document.getElementById('knowledge-list');
+        const emptyStateEl = document.getElementById('empty-state');
+        const searchResultsInfo = document.getElementById('search-results-info');
+        const searchCountEl = document.getElementById('search-count');
+        const searchInput = document.getElementById('search-input');
+
+        function initPage() {
+            const {grade, subject, semester} = currentParams;
+            pageTitle.textContent = gradeNames[grade] + ' · ' + subjectNames[subject] + ' · ' + semesterNames[semester];
+            loadKnowledge();
+            updateProgressStat();
+            
+            const hash = window.location.hash.replace('#', '');
+            if (hash && knowledgeList.some(k => k.id === hash)) {
+                setTimeout(() => {
+                    toggleExpand(hash);
+                    const card = document.querySelector('[data-id="' + hash + '"]');
+                    if (card) {
+                        card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    }
+                }, 100);
+            }
+        }
+
+        function updateProgressStat() {
+            const {grade, subject} = currentParams;
+            const learnedInSemester = knowledgeList.filter(k => ProgressManager.isLearned(k.id)).length;
+            document.getElementById('progress-learned').textContent = learnedInSemester;
+            document.getElementById('progress-total').textContent = knowledgeList.length;
+        }
+
+        function loadKnowledge() {
+            const {grade, subject, semester} = currentParams;
+            knowledgeList = DATA_KNOWLEDGE.filter(k => {
+                return k.semester === semester;
+            });
+            renderKnowledgeList();
+        }
+
+        function renderKnowledgeList(items = knowledgeList) {
+            if (items.length === 0) {
+                knowledgeListEl.innerHTML = '';
+                emptyStateEl.classList.remove('hidden');
+                return;
+            }
+            emptyStateEl.classList.add('hidden');
+            knowledgeListEl.innerHTML = items.map(item => {
+                const isExpanded = expandedIds.has(item.id);
+                const isLearned = ProgressManager.isLearned(item.id);
+                return '<div class="card knowledge-card ' + (isLearned ? 'learned' : '') + '" data-id="' + item.id + '">' +
+                    '<div class="knowledge-header p-4 flex items-center justify-between" onclick="toggleExpand(\'' + item.id + '\')">' +
+                        '<div class="flex items-center gap-3 flex-1 min-w-0">' +
+                            '<div class="expand-icon ' + (isExpanded ? 'expanded' : 'collapsed') + '">' + (isExpanded ? '−' : '+') + '</div>' +
+                            '<div class="flex-1 min-w-0">' +
+                                '<h3 class="text-lg font-semibold text-gray-800 flex items-center gap-2">' + escapeHtml(item.name) + (isLearned ? '<span class="text-green-500 text-sm">✓ 已学习</span>' : '') + '</h3>' +
+                                '<p class="text-xs text-gray-500 mt-1">' + escapeHtml(item.chapter) + '</p>' +
+                            '</div>' +
+                        '</div>' +
+                        (HAS_EXAMPLES ? '<button class="btn btn-secondary text-sm px-3 py-1" onclick="event.stopPropagation(); showExample(\'' + item.id + '\', \'' + escapeHtml(item.name) + '\')">例题</button>' : '') +
+                    '</div>' +
+                    '<div id="content-' + item.id + '" class="px-6 pb-4 ' + (isExpanded ? '' : 'hidden') + '">' +
+                        (item.formula ? '<div class="mb-4"><h4 class="text-sm font-medium text-gray-500 mb-2">📐 公式</h4><p class="formula-box text-gray-800 text-lg bg-gray-50 p-3 rounded-lg">' + escapeHtml(item.formula) + '</p></div>' : '') +
+                        (item.explanation ? '<div><h4 class="text-sm font-medium text-gray-500 mb-2">📝 解释</h4><p class="text-gray-700 leading-relaxed whitespace-pre-wrap">' + escapeHtml(item.explanation) + '</p></div>' : '') +
+                    '</div>' +
+                '</div>';
+            }).join('');
+        }
+
+        function toggleExpand(id) {
+            const isNewLearn = !expandedIds.has(id) && !ProgressManager.isLearned(id);
+            if (expandedIds.has(id)) {
+                expandedIds.delete(id);
+            } else {
+                expandedIds.add(id);
+                const {grade, subject, semester} = currentParams;
+                const item = knowledgeList.find(k => k.id === id);
+                if (item) {
+                    ProgressManager.recordStudy(
+                        grade, subject, subjectNames[subject],
+                        semester, semesterNames[semester],
+                        id, item.name
+                    );
+                }
+            }
+            const card = document.querySelector('[data-id="' + id + '"]');
+            const content = document.getElementById('content-' + id);
+            const icon = card.querySelector('.expand-icon');
+            const header = card.querySelector('.knowledge-header');
+            const title = card.querySelector('h3');
+            if (expandedIds.has(id)) {
+                content.classList.remove('hidden');
+                icon.classList.remove('collapsed');
+                icon.classList.add('expanded');
+                icon.textContent = '−';
+                header.classList.add('expanded');
+            } else {
+                content.classList.add('hidden');
+                icon.classList.remove('expanded');
+                icon.classList.add('collapsed');
+                icon.textContent = '+';
+                header.classList.remove('expanded');
+            }
+            if (isNewLearn) {
+                card.classList.add('learned');
+                if (!title.querySelector('.text-green-500')) {
+                    title.innerHTML += '<span class="text-green-500 text-sm">✓ 已学习</span>';
+                }
+                updateProgressStat();
+            }
+        }
+
+        function expandAll() {
+            knowledgeList.forEach(item => expandedIds.add(item.id));
+            renderKnowledgeList();
+        }
+
+        function collapseAll() {
+            expandedIds.clear();
+            renderKnowledgeList();
+        }
+
+        function searchKnowledge(keyword, list) {
+            if (!keyword) return [];
+            const lower = keyword.toLowerCase();
+            return list.filter(k =>
+                k.name.toLowerCase().includes(lower) ||
+                k.chapter.toLowerCase().includes(lower)
+            );
+        }
+
+        function performSearch() {
+            const keyword = searchInput.value.trim();
+            if (!keyword) {
+                searchResultsInfo.classList.add('hidden');
+                renderKnowledgeList();
+                return;
+            }
+            const results = searchKnowledge(keyword, knowledgeList);
+            searchCountEl.textContent = results.length;
+            searchResultsInfo.classList.remove('hidden');
+            renderKnowledgeList(results);
+        }
+
+        function showExample(knowledgeId, knowledgeName) {
+            const examples = DATA_EXAMPLES.filter(e => e.knowledge_id === knowledgeId);
+            if (examples.length === 0) {
+                alert('暂无例题');
+                return;
+            }
+            const example = examples[Math.floor(Math.random() * examples.length)];
+            currentExample = {...example, knowledgeId, knowledgeName, ...currentParams};
+            document.getElementById('example-knowledge-name').textContent = knowledgeName;
+            document.getElementById('example-question').textContent = example.question;
+            document.getElementById('example-answer').textContent = example.answer;
+            document.getElementById('example-answer-section').classList.add('hidden');
+            document.getElementById('btn-show-answer').classList.remove('hidden');
+            document.getElementById('example-modal').classList.remove('hidden');
+        }
+
+        function nextExample() {
+            if (!currentExample) return;
+            const examples = DATA_EXAMPLES.filter(e => e.knowledge_id === currentExample.knowledgeId);
+            const otherExamples = examples.filter(e => e !== currentExample);
+            if (otherExamples.length === 0) {
+                alert('没有更多例题了');
+                return;
+            }
+            const example = otherExamples[Math.floor(Math.random() * otherExamples.length)];
+            currentExample = {...example, knowledgeId: currentExample.knowledgeId, knowledgeName: currentExample.knowledgeName, ...currentParams};
+            document.getElementById('example-question').textContent = example.question;
+            document.getElementById('example-answer').textContent = example.answer;
+            document.getElementById('example-answer-section').classList.add('hidden');
+            document.getElementById('btn-show-answer').classList.remove('hidden');
+        }
+
+        function addToWrongBook() {
+            if (!currentExample) return;
+            const item = {
+                knowledgeId: currentExample.knowledgeId,
+                knowledgeName: currentExample.knowledgeName,
+                question: currentExample.question,
+                answer: currentExample.answer,
+                grade: currentParams.grade,
+                subject: currentParams.subject
+            };
+            if (WrongBookManager.addWrongBook(item)) {
+                alert('已加入错题本！');
+            } else {
+                alert('该题目已在错题本中');
+            }
+        }
+
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function clearProgress() {
+            const {grade, subject} = currentParams;
+            const subjectName = subjectNames[subject];
+            var msg = '确定要清除【' + subjectName + '】科目的所有学习进度吗？';
+            msg += '\n\n';
+            msg += '此操作将清除该科目所有已学习标记，且不可恢复。';
+            if (!confirm(msg)) {
+                return;
+            }
+            ProgressManager.clearSubjectProgress(grade, subject);
+            updateProgressStat();
+            renderKnowledgeList();
+            alert('学习进度已清除');
+        }
+
+        document.getElementById('btn-expand-all').addEventListener('click', expandAll);
+        document.getElementById('btn-collapse-all').addEventListener('click', collapseAll);
+        document.getElementById('btn-clear-progress').addEventListener('click', clearProgress);
+        searchInput.addEventListener('keyup', e => { if (e.key === 'Enter') performSearch(); });
+        searchInput.addEventListener('input', () => { if (!searchInput.value) { searchResultsInfo.classList.add('hidden'); renderKnowledgeList(); }});
+        document.getElementById('close-example').addEventListener('click', () => document.getElementById('example-modal').classList.add('hidden'));
+        document.getElementById('btn-show-answer').addEventListener('click', () => {
+            document.getElementById('example-answer-section').classList.remove('hidden');
+            document.getElementById('btn-show-answer').classList.add('hidden');
+        });
+        document.getElementById('btn-next-example').addEventListener('click', nextExample);
+        document.getElementById('btn-add-wrong').addEventListener('click', addToWrongBook);
+        document.getElementById('example-modal').addEventListener('click', e => { if (e.target.id === 'example-modal') document.getElementById('example-modal').classList.add('hidden'); });
+
+        initPage();
+    </script>
+</body>
+</html>

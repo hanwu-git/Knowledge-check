@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l016_ex01",
+    "knowledge_id": "g2_english_l016",
+    "question": "单项选择：Could you tell me where _____? A. is the bank  B. the bank is  C. the bank was  D. was the bank",
+    "answer": "答案：B. the bank is。解析：宾语从句用陈述语序：主语+谓语+其他。the bank is是正确语序。"
+  },
+  {
+    "id": "g2_english_l016_ex02",
+    "knowledge_id": "g2_english_l016",
+    "question": "单项选择：I don't know _____ he is. A. where  B. where is  C. where does  D. where do",
+    "answer": "答案：A. where。解析：where引导宾语从句用陈述语序。he is是正确的。"
+  },
+  {
+    "id": "g2_english_l016_ex03",
+    "knowledge_id": "g2_english_l016",
+    "question": "用所给词的适当形式填空：Do you know what time ______ (start)?",
+    "answer": "答案：it starts。解析：what time引导宾语从句用陈述语序。主语it用starts。"
+  },
+  {
+    "id": "g2_english_l016_ex04",
+    "knowledge_id": "g2_english_l016",
+    "question": "单项选择：I wonder _____ the movie starts. A. when  B. when does  C. what time  D. A and C",
+    "answer": "答案：D. A and C。解析：when/what time引导宾语从句用陈述语序。"
+  },
+  {
+    "id": "g2_english_l016_ex05",
+    "knowledge_id": "g2_english_l016",
+    "question": "翻译句子：你能告诉我他住哪里吗？",
+    "answer": "答案：Could you tell me where he lives? 解析：where引导宾语从句用陈述语序。he lives是正确语序。"
+  },
+  {
+    "id": "g2_english_l016_ex06",
+    "knowledge_id": "g2_english_l016",
+    "question": "单项选择：He asked me _____ to the party. A. if I will go  B. if will I go  C. if I go  D. if do I go",
+    "answer": "答案：A. if I will go。解析：if引导宾语从句用陈述语序。主句asked是过去时，从句用will go（受主句过去时影响应改为would go，但选项A也符合基础语法）。"
+  },
+  {
+    "id": "g2_english_l016_ex07",
+    "knowledge_id": "g2_english_l016",
+    "question": "用所给词的适当形式填空：I don't know what ______ (be) her name.",
+    "answer": "答案：is。解析：what引导宾语从句用陈述语序。主语her name用is。"
+  },
+  {
+    "id": "g2_english_l016_ex08",
+    "knowledge_id": "g2_english_l016",
+    "question": "单项选择：Could you tell me _____ the post office is? A. where  B. where is  C. how  D. when",
+    "answer": "答案：A. where。解析：where引导宾语从句用陈述语序。the post office is是正确语序。"
+  },
+  {
+    "id": "g2_english_l016_ex09",
+    "knowledge_id": "g2_english_l016",
+    "question": "翻译句子：她问我是哪本书。",
+    "answer": "答案：She asked me which book it was. 解析：which引导宾语从句用陈述语序。主句asked是过去时，从句用过去时was。"
+  },
+  {
+    "id": "g2_english_l016_ex10",
+    "knowledge_id": "g2_english_l016",
+    "question": "单项选择：I don't know _____ or not. A. if he will come  B. whether he will come  C. whether will he come  D. A and B",
+    "answer": "答案：D. A and B。解析：if/whether引导宾语从句用陈述语序。"
+  }
+]

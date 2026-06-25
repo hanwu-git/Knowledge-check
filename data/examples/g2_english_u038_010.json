@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u038_ex01",
+    "knowledge_id": "g2_english_u038",
+    "question": "单项选择：Tom is _____ tall _____ Jack. A. as, as  B. so, as  C. as, so  D. so, so",
+    "answer": "答案：A. as, as。解析：as...as表示\"和...一样\"。"
+  },
+  {
+    "id": "g2_english_u038_ex02",
+    "knowledge_id": "g2_english_u038",
+    "question": "单项选择：This book is _____ interesting _____ that one. A. as, as  B. so, as  C. as, so  D. too, to",
+    "answer": "答案：A. as, as。解析：as...as同级比较。"
+  },
+  {
+    "id": "g2_english_u038_ex03",
+    "knowledge_id": "g2_english_u038",
+    "question": "用所给词的适当形式填空：She runs ______ (fast) as her sister.",
+    "answer": "答案：as fast。解析：as...as中间用原级。"
+  },
+  {
+    "id": "g2_english_u038_ex04",
+    "knowledge_id": "g2_english_u038",
+    "question": "单项选择：He is _____ old _____ me. A. as, as  B. so, as  C. as, like  D. so, like",
+    "answer": "答案：A. as, as。解析：as...as表示\"和...一样\"。"
+  },
+  {
+    "id": "g2_english_u038_ex05",
+    "knowledge_id": "g2_english_u038",
+    "question": "翻译句子：这个房间和那个房间一样大。",
+    "answer": "答案：This room is as big as that one. 解析：as...as中间用原级。"
+  },
+  {
+    "id": "g2_english_u038_ex06",
+    "knowledge_id": "g2_english_u038",
+    "question": "单项选择：This problem isn't _____ difficult _____ that one. A. as, as  B. so, as  C. as, like  D. not, as",
+    "answer": "答案：A. as, as。解析：not as...as\"不如...\"。"
+  },
+  {
+    "id": "g2_english_u038_ex07",
+    "knowledge_id": "g2_english_u038",
+    "question": "用所给词的适当形式填空：Tom is ______ (tall) as his father.",
+    "answer": "答案：as tall。解析：as...as中间用原级。"
+  },
+  {
+    "id": "g2_english_u038_ex08",
+    "knowledge_id": "g2_english_u038",
+    "question": "单项选择：My new dress is _____ beautiful _____ the one I saw yesterday. A. as, as  B. so, as  C. so, like  D. too, to",
+    "answer": "答案：A. as, as。解析：as...as同级比较。"
+  },
+  {
+    "id": "g2_english_u038_ex09",
+    "knowledge_id": "g2_english_u038",
+    "question": "翻译句子：他说得和他朋友一样快。",
+    "answer": "答案：He speaks as fast as his friend. 解析：as...as中间用原级。speaks fast\"说得快\"。"
+  },
+  {
+    "id": "g2_english_u038_ex10",
+    "knowledge_id": "g2_english_u038",
+    "question": "用所给词的适当形式填空：She is ______ (pretty) as her mother.",
+    "answer": "答案：as pretty。解析：as...as中间用原级。"
+  }
+]

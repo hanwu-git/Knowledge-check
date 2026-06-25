@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u039_ex01",
+    "knowledge_id": "g2_english_u039",
+    "question": "单项选择：I _____ already _____ my homework. A. has, finished  B. have, finished  C. am, finishing  D. will, finish",
+    "answer": "答案：B. have, finished。解析：现在完成时：have + 过去分词。already用于现在完成时。"
+  },
+  {
+    "id": "g2_english_u039_ex02",
+    "knowledge_id": "g2_english_u039",
+    "question": "用所给词的适当形式填空：She ______ (go) to Shanghai. She will be back next week.",
+    "answer": "答案：has gone。解析：现在完成时表示\"去了还没回来\"。"
+  },
+  {
+    "id": "g2_english_u039_ex03",
+    "knowledge_id": "g2_english_u039",
+    "question": "单项选择：They _____ this book many times. A. read  B. reads  C. have read  D. has read",
+    "answer": "答案：C. have read。解析：主语they用have。"
+  },
+  {
+    "id": "g2_english_u039_ex04",
+    "knowledge_id": "g2_english_u039",
+    "question": "单项选择：He _____ in this school for three years. A. works  B. worked  C. has worked  D. will work",
+    "answer": "答案：C. has worked。解析：for three years是现在完成时的标志时间状语。"
+  },
+  {
+    "id": "g2_english_u039_ex05",
+    "knowledge_id": "g2_english_u039",
+    "question": "翻译句子：我已经看过这部电影了。",
+    "answer": "答案：I have already seen this movie. 解析：现在完成时：have + 过去分词。"
+  },
+  {
+    "id": "g2_english_u039_ex06",
+    "knowledge_id": "g2_english_u039",
+    "question": "用所给词的适当形式填空：We ______ (live) in Beijing since 2010.",
+    "answer": "答案：have lived。解析：since 2010\"自从2010年\"，是现在完成时标志。"
+  },
+  {
+    "id": "g2_english_u039_ex07",
+    "knowledge_id": "g2_english_u039",
+    "question": "单项选择：My father _____ just _____ back from work. A. has, come  B. have, came  C. is, come  D. was, come",
+    "answer": "答案：A. has, come。解析：just\"刚刚\"，与现在完成时连用。My father是第三人称单数，用has。"
+  },
+  {
+    "id": "g2_english_u039_ex08",
+    "knowledge_id": "g2_english_u039",
+    "question": "单项选择：She _____ the book yet? A. has finished  B. have finished  C. finished  D. finishes",
+    "answer": "答案：A. has finished。解析：yet用于现在完成时，主语she用has。"
+  },
+  {
+    "id": "g2_english_u039_ex09",
+    "knowledge_id": "g2_english_u039",
+    "question": "翻译句子：他已经去过北京两次了。",
+    "answer": "答案：He has been to Beijing twice. 解析：have been to\"去过\"。twice\"两次\"。"
+  },
+  {
+    "id": "g2_english_u039_ex10",
+    "knowledge_id": "g2_english_u039",
+    "question": "用所给词的适当形式填空：I ______ (know) him for five years.",
+    "answer": "答案：have known。解析：for five years是现在完成时标志。"
+  }
+]

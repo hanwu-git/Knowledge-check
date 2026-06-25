@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u005_ex01",
+    "knowledge_id": "g2_english_u005",
+    "question": "单项选择：_____ did you go on vacation last summer? A. What  B. Where  C. When  D. Who",
+    "answer": "答案：B. Where。解析：go on vacation搭配where询问地点。"
+  },
+  {
+    "id": "g2_english_u005_ex02",
+    "knowledge_id": "g2_english_u005",
+    "question": "用所给词的适当形式填空：Excuse me, could you tell me where the post office ______ (be)?",
+    "answer": "答案：is。解析：Where引导的宾语从句，从句用陈述语序。post office是单数，用is。"
+  },
+  {
+    "id": "g2_english_u005_ex03",
+    "knowledge_id": "g2_english_u005",
+    "question": "单项选择：— Where _____ you last weekend? — I _____ to the beach with my family. A. were, went  B. are, go  C. were, go  D. did, went",
+    "answer": "答案：A. were, went。解析：last weekend是一般过去时。第一句where后接be动词，were是过去式；第二句I后接动词过去式went。"
+  },
+  {
+    "id": "g2_english_u005_ex04",
+    "knowledge_id": "g2_english_u005",
+    "question": "句型转换：I went to Mount Tai. （就划线部分提问）",
+    "answer": "答案：Where did you go? 解析：对地点Mount Tai提问用Where。特殊疑问句结构：Where + did + 主语 + 动词原形？went还原为go。"
+  },
+  {
+    "id": "g2_english_u005_ex05",
+    "knowledge_id": "g2_english_u005",
+    "question": "单项选择：She asked me where _____ the next day. A. did I go  B. I went  C. I will go  D. I go",
+    "answer": "答案：B. I went。解析：where引导的宾语从句用陈述语序（主语+谓语），时态需与主句呼应。asked是过去时，从句也用过去时went。"
+  },
+  {
+    "id": "g2_english_u005_ex06",
+    "knowledge_id": "g2_english_u005",
+    "question": "翻译句子：你能告诉我最近的医院在哪里吗？",
+    "answer": "答案：Could you tell me where the nearest hospital is? 解析：Where引导宾语从句，从句用陈述语序。the nearest hospital is是陈述语序。"
+  },
+  {
+    "id": "g2_english_u005_ex07",
+    "knowledge_id": "g2_english_u005",
+    "question": "单项选择：I don't know _____ she went yesterday. A. where  B. what  C. when  D. who",
+    "answer": "答案：A. where。解析：宾语从句中where引导地点状语。yesterday提示主句和从句都涉及过去，但从句用where引导，go是过去式。"
+  },
+  {
+    "id": "g2_english_u005_ex08",
+    "knowledge_id": "g2_english_u005",
+    "question": "用所给词的适当形式填空：Can you tell me where ______ (find) the bookshop?",
+    "answer": "答案：to find。解析：where to do结构，疑问词+不定式作宾语。"
+  },
+  {
+    "id": "g2_english_u005_ex09",
+    "knowledge_id": "g2_english_u005",
+    "question": "单项选择：Do you know _____ she lives? A. where  B. where do  C. where does  D. which",
+    "answer": "答案：A. where。解析：宾语从句用陈述语序。lives是第三人称单数现在时，从句本身结构完整。"
+  },
+  {
+    "id": "g2_english_u005_ex10",
+    "knowledge_id": "g2_english_u005",
+    "question": "句型转换：The library is on the second floor. （就划线部分提问）",
+    "answer": "答案：Where is the library? 解析：对地点on the second floor提问用where。注意：原文on the second floor是表语，不影响主语is的位置。"
+  }
+]

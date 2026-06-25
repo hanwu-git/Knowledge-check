@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u026_ex01",
+    "knowledge_id": "g2_english_u026",
+    "question": "单项选择：I _____ my homework when my mother came home. A. do  B. did  C. was doing  D. am doing",
+    "answer": "答案：C. was doing。解析：when my mother came home是一般过去时，主句用过去进行时表示\"正在做\"。"
+  },
+  {
+    "id": "g2_english_u026_ex02",
+    "knowledge_id": "g2_english_u026",
+    "question": "单项选择：She _____ the dishes when I saw her. A. washes  B. washed  C. was washing  D. is washing",
+    "answer": "答案：C. was washing。解析：when I saw her是一般过去时，\"正在做\"用过去进行时。"
+  },
+  {
+    "id": "g2_english_u026_ex03",
+    "knowledge_id": "g2_english_u026",
+    "question": "用所给词的适当形式填空：While I ______ (read), the lights went out.",
+    "answer": "答案：was reading。解析：while + 延续性动作，用过去进行时。"
+  },
+  {
+    "id": "g2_english_u026_ex04",
+    "knowledge_id": "g2_english_u026",
+    "question": "单项选择：I _____ the Great Wall last year. A. visit  B. visited  C. was visiting  D. am visiting",
+    "answer": "答案：B. visited。解析：last year是一般过去时。visit是规则动词，过去式visited。"
+  },
+  {
+    "id": "g2_english_u026_ex05",
+    "knowledge_id": "g2_english_u026",
+    "question": "单项选择：— What did you do yesterday? — I _____ a new book. A. read  B. was reading  C. am reading  D. reads",
+    "answer": "答案：A. read。解析：yesterday是一般过去时。read的过去式仍是read（发音为/red/）。"
+  },
+  {
+    "id": "g2_english_u026_ex06",
+    "knowledge_id": "g2_english_u026",
+    "question": "用所给词的适当形式填空：I ______ (write) a letter to my friend last night.",
+    "answer": "答案：wrote。解析：last night是一般过去时。write是不规则动词，过去式是wrote。"
+  },
+  {
+    "id": "g2_english_u026_ex07",
+    "knowledge_id": "g2_english_u026",
+    "question": "单项选择：He _____ a new car last week. A. buys  B. bought  C. was buying  D. is buying",
+    "answer": "答案：B. bought。解析：last week是一般过去时。buy是不规则动词，过去式是bought。"
+  },
+  {
+    "id": "g2_english_u026_ex08",
+    "knowledge_id": "g2_english_u026",
+    "question": "用所给词的适当形式填空：At 8 last night, I ______ (watch) a movie.",
+    "answer": "答案：was watching。解析：at 8 last night是过去某时，用过去进行时。"
+  },
+  {
+    "id": "g2_english_u026_ex09",
+    "knowledge_id": "g2_english_u026",
+    "question": "单项选择：— I called you at 9 last night, but you didn't answer. — Oh, sorry. I _____ a bath. A. take  B. took  C. was taking  D. am taking",
+    "answer": "答案：C. was taking。解析：at 9 last night是过去时间点，\"正在洗澡\"用过去进行时。"
+  },
+  {
+    "id": "g2_english_u026_ex10",
+    "knowledge_id": "g2_english_u026",
+    "question": "翻译句子：我昨天读了那本有趣的书。",
+    "answer": "答案：I read that interesting book yesterday. 解析：yesterday是一般过去时。"
+  }
+]

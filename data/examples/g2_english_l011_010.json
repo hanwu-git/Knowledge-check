@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l011_ex01",
+    "knowledge_id": "g2_english_l011",
+    "question": "单项选择：I like _____ in the morning. A. swim  B. to swim  C. swimming  D. B and C",
+    "answer": "答案：D. B and C。解析：like to do/like doing都可以，表示习惯性喜好。"
+  },
+  {
+    "id": "g2_english_l011_ex02",
+    "knowledge_id": "g2_english_l011",
+    "question": "单项选择：She started _____ English five years ago. A. learn  B. to learn  C. learning  D. B and C",
+    "answer": "答案：D. B and C。解析：start to do/start doing都可以。five years ago\"五年前\"。"
+  },
+  {
+    "id": "g2_english_l011_ex03",
+    "knowledge_id": "g2_english_l011",
+    "question": "用所给词的适当形式填空：He prefers ______ (read) books to watching TV.",
+    "answer": "答案：reading。解析：prefer doing A to doing B\"比起B更喜欢A\"。read books\"读书\"。"
+  },
+  {
+    "id": "g2_english_l011_ex04",
+    "knowledge_id": "g2_english_l011",
+    "question": "单项选择：I continue _____ harder. A. work  B. to work  C. working  D. B and C",
+    "answer": "答案：D. B and C。解析：continue to do/continue doing都可以，意思相同。"
+  },
+  {
+    "id": "g2_english_l011_ex05",
+    "knowledge_id": "g2_english_l011",
+    "question": "翻译句子：他选择学医而不是学工程。",
+    "answer": "答案：He chose to study medicine rather than study engineering. 解析：choose to do\"选择做\"。rather than\"而不是\"。"
+  },
+  {
+    "id": "g2_english_l011_ex06",
+    "knowledge_id": "g2_english_l011",
+    "question": "单项选择：She hates _____ early in the morning. A. get up  B. to get up  C. getting up  D. B and C",
+    "answer": "答案：D. B and C。解析：hate to do/hate doing都可以，表示\"讨厌做\"。"
+  },
+  {
+    "id": "g2_english_l011_ex07",
+    "knowledge_id": "g2_english_l011",
+    "question": "用所给词的适当形式填空：I would like ______ (travel) around the world someday.",
+    "answer": "答案：to travel。解析：would like to do\"想要做\"。around the world\"环游世界\"。"
+  },
+  {
+    "id": "g2_english_l011_ex08",
+    "knowledge_id": "g2_english_l011",
+    "question": "单项选择：It began _____ heavily when we arrived. A. rain  B. to rain  C. raining  D. B and C",
+    "answer": "答案：D. B and C。解析：begin to do/begin doing都可以。heavily\"猛烈地\"。"
+  },
+  {
+    "id": "g2_english_l011_ex09",
+    "knowledge_id": "g2_english_l011",
+    "question": "翻译句子：我宁愿现在就走，也不愿等待。",
+    "answer": "答案：I prefer to leave now rather than wait. 解析：prefer to do rather than do\"宁愿做...也不愿做...\"。"
+  },
+  {
+    "id": "g2_english_l011_ex10",
+    "knowledge_id": "g2_english_l011",
+    "question": "单项选择：I remember _____ my keys somewhere. Where did I put them? A. to put  B. putting  C. put  D. puts",
+    "answer": "答案：B. putting。解析：remember doing\"记得做过\"。remember to do\"记得要做\"。根据语境是已经做过的事。"
+  }
+]

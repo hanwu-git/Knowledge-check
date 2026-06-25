@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l037_ex01",
+    "knowledge_id": "g2_english_l037",
+    "question": "单项选择：My grandfather _____ for three years. A. died  B. has died  C. has been dead  D. is dead",
+    "answer": "答案：C. has been dead。解析：die是瞬间动词，不能与for three years直接连用，要转换为be dead。整句：My grandfather has been dead for three years."
+  },
+  {
+    "id": "g2_english_l037_ex02",
+    "knowledge_id": "g2_english_l037",
+    "question": "单项选择：He _____ the company for two years. A. left  B. has left  C. has been away from  D. A and C",
+    "answer": "答案：D. A and C。解析：left是瞬间动词，与for two years连用要转换为has been away from。"
+  },
+  {
+    "id": "g2_english_l037_ex03",
+    "knowledge_id": "g2_english_l037",
+    "question": "用所给词的适当形式填空：I ______ (buy) this bike for three years.",
+    "answer": "答案：have had。解析：buy是瞬间动词，要转换为have（拥有）。完整：I have had this bike for three years."
+  },
+  {
+    "id": "g2_english_l037_ex04",
+    "knowledge_id": "g2_english_l037",
+    "question": "单项选择：She _____ the club since 2010. A. joined  B. has joined  C. has been a member of  D. A and C",
+    "answer": "答案：C. has been a member of。解析：join是瞬间动词，要转换为be a member of。"
+  },
+  {
+    "id": "g2_english_l037_ex05",
+    "knowledge_id": "g2_english_l037",
+    "question": "翻译句子：这本书我已经借了三天了。",
+    "answer": "答案：I have kept this book for three days. 解析：borrow是瞬间动词，要转换为keep（保留）。"
+  },
+  {
+    "id": "g2_english_l037_ex06",
+    "knowledge_id": "g2_english_l037",
+    "question": "单项选择：The class _____ for ten minutes. A. started  B. has started  C. has been on  D. A and C",
+    "answer": "答案：C. has been on。解析：start是瞬间动词，要转换为be on（进行中）。"
+  },
+  {
+    "id": "g2_english_l037_ex07",
+    "knowledge_id": "g2_english_l037",
+    "question": "用所给词的适当形式填空：He ______ (arrive) here for two weeks.",
+    "answer": "答案：has been in。解析：arrive是瞬间动词，要转换为be in。完整：He has been in here for two weeks."
+  },
+  {
+    "id": "g2_english_l037_ex08",
+    "knowledge_id": "g2_english_l037",
+    "question": "单项选择：The meeting _____ for an hour. A. finished  B. has finished  C. has been over  D. A and C",
+    "answer": "答案：C. has been over。解析：finish是瞬间动词，要转换为be over（结束）。"
+  },
+  {
+    "id": "g2_english_l037_ex09",
+    "knowledge_id": "g2_english_l037",
+    "question": "翻译句子：他离开这个城市已经五年了。",
+    "answer": "答案：He has been away from this city for five years. 解析：leave是瞬间动词，要转换为be away from。"
+  },
+  {
+    "id": "g2_english_l037_ex10",
+    "knowledge_id": "g2_english_l037",
+    "question": "单项选择：She _____ the company for three years. A. married  B. has married  C. has been married to  D. A and C",
+    "answer": "答案：C. has been married to。解析：marry是瞬间动词，要转换为be married to（与...结婚的状态）。"
+  }
+]

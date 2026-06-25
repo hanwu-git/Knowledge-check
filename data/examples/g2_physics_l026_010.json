@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_physics_054_ex01",
+    "knowledge_id": "g2_physics_054",
+    "question": "选择题：滑轮的核心公式是？ A. F = G / n",
+    "answer": "答案：A. F = G / n。解析：滑轮的公式是：F = G / n。这个公式是解决相关问题的基础，需要牢记并会运用。"
+  },
+  {
+    "id": "g2_physics_054_ex02",
+    "knowledge_id": "g2_physics_054",
+    "question": "填空题：滑轮的公式是______。",
+    "answer": "答案：F = G / n。解析：这是滑轮的核心公式，掌握它是学习该知识点的关键。"
+  },
+  {
+    "id": "g2_physics_054_ex03",
+    "knowledge_id": "g2_physics_054",
+    "question": "选择题：关于滑轮，下列说法正确的是？ A. F = G / n\ns = nh",
+    "answer": "答案：A. F = G / n\ns = nh。解析：滑轮的关键知识点包括：F = G / n\ns = nh。"
+  },
+  {
+    "id": "g2_physics_054_ex04",
+    "knowledge_id": "g2_physics_054",
+    "question": "判断题：定滑轮：...（  ）",
+    "answer": "答案：正确。解析：滑轮的主要内容包括：定滑轮：..."
+  },
+  {
+    "id": "g2_physics_054_ex05",
+    "knowledge_id": "g2_physics_054",
+    "question": "选择题：关于滑轮，以下描述正确的是？ A. 滑轮分类：",
+    "answer": "答案：A. 滑轮分类：。解析：滑轮是第十二章 简单机械的重要知识点，滑轮分类：..."
+  },
+  {
+    "id": "g2_physics_054_ex06",
+    "knowledge_id": "g2_physics_054",
+    "question": "简答题：请简述滑轮的主要内容。",
+    "answer": "答案：滑轮的主要内容包括：F = G / n\ns = nh。滑轮分类：\n\n1. 定滑轮：\n   - 实质：等臂杠杆\n   - 特点：F = G，不省力但改变力的方向\n   - 物体移动距离 s = 绳端移动距离\n\n2. 动滑轮：\n   - 实质：动力臂 = 2 × 阻力臂的杠杆\n   - 特点：F = G/2，省一半力（不计摩擦和动滑轮重），但不改变力的方向..."
+  },
+  {
+    "id": "g2_physics_054_ex07",
+    "knowledge_id": "g2_physics_054",
+    "question": "选择题：滑轮中，下列数值或关系正确的是？ A. 功率  B. 功  C. 能  D. 特点：F = G，不省力但改变力的方向",
+    "answer": "答案：D. 特点：F = G，不省力但改变力的方向。解析：滑轮的重要结论：特点：F = G，不省力但改变力的方向。"
+  },
+  {
+    "id": "g2_physics_054_ex08",
+    "knowledge_id": "g2_physics_054",
+    "question": "选择题：关于滑轮，下列说法错误的是？ A. - 物体移动距离 s = 绳端移动距离",
+    "answer": "答案：A. - 物体移动距离 s = 绳端移动距离。解析：滑轮的相关知识点：- 物体移动距离 s = 绳端移动距离..."
+  },
+  {
+    "id": "g2_physics_054_ex09",
+    "knowledge_id": "g2_physics_054",
+    "question": "判断题：- 特点：F = G/2，省一半力（不计摩擦和动滑轮重），但不改变力的方向...（  ）",
+    "answer": "答案：正确。解析：滑轮的知识点包括：- 特点：F = G/2，省一半力（不计摩擦和动滑轮重），但不改变力的方向..."
+  },
+  {
+    "id": "g2_physics_054_ex10",
+    "knowledge_id": "g2_physics_054",
+    "question": "判断题：- s/v 关系：v绳 = nv物...（  ）",
+    "answer": "答案：正确。解析：滑轮的知识点包括：- s/v 关系：v绳 = nv物..."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u016_ex01",
+    "knowledge_id": "g2_english_u016",
+    "question": "单项选择：You _____ be more careful with your spelling. A. should  B. would  C. can  D. may",
+    "answer": "答案：A. should。解析：should表示\"应该\"，是建议。"
+  },
+  {
+    "id": "g2_english_u016_ex02",
+    "knowledge_id": "g2_english_u016",
+    "question": "单项选择：_____ I open the door for you? A. Will  B. Would  C. Could  D. May",
+    "answer": "答案：C. Could。解析：Could I...?是委婉请求许可。"
+  },
+  {
+    "id": "g2_english_u016_ex03",
+    "knowledge_id": "g2_english_u016",
+    "question": "单项选择：_____ you help me with the heavy box? A. Can  B. Could  C. May  D. Might",
+    "answer": "答案：B. Could。解析：Could you...?是委婉请求，比Can you...?更客气。"
+  },
+  {
+    "id": "g2_english_u016_ex04",
+    "knowledge_id": "g2_english_u016",
+    "question": "用所给词的适当形式填空：You ______ (should/may) finish your homework before watching TV.",
+    "answer": "答案：should。解析：should表示\"应该\"，强调这是应该做的事。"
+  },
+  {
+    "id": "g2_english_u016_ex05",
+    "knowledge_id": "g2_english_u016",
+    "question": "单项选择：It _____ rain this afternoon. Take an umbrella. A. should  B. would  C. may  D. must",
+    "answer": "答案：C. may。解析：may表示可能性，\"可能\"。"
+  },
+  {
+    "id": "g2_english_u016_ex06",
+    "knowledge_id": "g2_english_u016",
+    "question": "翻译句子：如果你有不明白的地方，可以问老师。",
+    "answer": "答案：You may/can/could ask the teacher if you don't understand. 解析：may/can/could都表示许可或委婉请求。"
+  },
+  {
+    "id": "g2_english_u016_ex07",
+    "knowledge_id": "g2_english_u016",
+    "question": "单项选择：_____ I come in? — Yes, please. A. Should  B. May  C. Would  D. Need",
+    "answer": "答案：B. May。解析：May I...?用于请求许可。"
+  },
+  {
+    "id": "g2_english_u016_ex08",
+    "knowledge_id": "g2_english_u016",
+    "question": "单项选择：— Would you like some tea? — _____ A. Yes, I would  B. Yes, please  C. No, thanks  D. B and C",
+    "answer": "答案：D. B and C。解析：Would you like...?的肯定回答Yes, please；否定回答No, thanks。"
+  },
+  {
+    "id": "g2_english_u016_ex09",
+    "knowledge_id": "g2_english_u016",
+    "question": "用所给词的适当形式填空：You ______ (can/may) play games after you finish your homework.",
+    "answer": "答案：can/may。解析：can/may都表示许可。"
+  },
+  {
+    "id": "g2_english_u016_ex10",
+    "knowledge_id": "g2_english_u016",
+    "question": "单项选择：You _____ talk loudly in the library. A. shouldn't  B. couldn't  C. would  D. mustn't",
+    "answer": "答案：A. shouldn't。解析：shouldn't表示\"不应该\"，图书馆是公共场所。"
+  }
+]

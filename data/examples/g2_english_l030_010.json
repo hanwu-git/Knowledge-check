@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l030_ex01",
+    "knowledge_id": "g2_english_l030",
+    "question": "单项选择：By the time I got outside, the bus _____. A. leaves  B. left  C. has left  D. had already left",
+    "answer": "答案：D. had already left。解析：By the time I got outside是一般过去时，主句用过去完成时（已经离开）。"
+  },
+  {
+    "id": "g2_english_l030_ex02",
+    "knowledge_id": "g2_english_l030",
+    "question": "单项选择：By the time he _____ at the station, the train had left. A. arrive  B. arrives  C. arrived  D. is arriving",
+    "answer": "答案：C. arrived。解析：By the time + 一般过去时，主句用过去完成时。整句：By the time he arrived at the station, the train had left."
+  },
+  {
+    "id": "g2_english_l030_ex03",
+    "knowledge_id": "g2_english_l030",
+    "question": "用所给词的适当形式填空：By the time I ______ (get) there, they had already gone.",
+    "answer": "答案：got。解析：By the time + 一般过去时got。完整：By the time I got there, they had already gone."
+  },
+  {
+    "id": "g2_english_l030_ex04",
+    "knowledge_id": "g2_english_l030",
+    "question": "单项选择：By the time you come back, I _____ the work. A. finish  B. finished  C. will have finished  D. have finished",
+    "answer": "答案：C. will have finished。解析：By the time + 一般现在时（come），主句用将来完成时。"
+  },
+  {
+    "id": "g2_english_l030_ex05",
+    "knowledge_id": "g2_english_l030",
+    "question": "翻译句子：到我回家时，妈妈已经做好了饭。",
+    "answer": "答案：By the time I got home, my mother had already cooked the meal. 解析：got是一般过去时，had cooked是过去完成时。"
+  },
+  {
+    "id": "g2_english_l030_ex06",
+    "knowledge_id": "g2_english_l030",
+    "question": "单项选择：By the time the bell rang, all the students _____ their seats. A. take  B. took  C. have taken  D. had taken",
+    "answer": "答案：D. had taken。解析：By the time the bell rang是一般过去时，主句用过去完成时。"
+  },
+  {
+    "id": "g2_english_l030_ex07",
+    "knowledge_id": "g2_english_l030",
+    "question": "用所给词的适当形式填空：By the time she ______ (reach) the cinema, the movie had begun.",
+    "answer": "答案：reached。解析：By the time + 一般过去时reached。完整：By the time she reached the cinema, the movie had begun."
+  },
+  {
+    "id": "g2_english_l030_ex08",
+    "knowledge_id": "g2_english_l030",
+    "question": "单项选择：By the time tomorrow comes, I _____ the project. A. finish  B. finished  C. will have finished  D. have finished",
+    "answer": "答案：C. will have finished。解析：By the time + 一般现在时（comes），主句用将来完成时。"
+  },
+  {
+    "id": "g2_english_l030_ex09",
+    "knowledge_id": "g2_english_l030",
+    "question": "翻译句子：到明年为止，我就学英语十年了。",
+    "answer": "答案：By next year, I will have learned English for ten years. 解析：By next year是将来时间，用将来完成时。"
+  },
+  {
+    "id": "g2_english_l030_ex10",
+    "knowledge_id": "g2_english_l030",
+    "question": "单项选择：By the time you read this letter, I _____ Beijing. A. leave  B. left  C. will have left  D. have left",
+    "answer": "答案：C. will have left。解析：By the time + 一般现在时（read），主句用将来完成时。"
+  }
+]

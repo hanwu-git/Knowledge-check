@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u006_ex01",
+    "knowledge_id": "g2_english_u006",
+    "question": "单项选择：There is _____ in the box. It's empty. A. something  B. anything  C. nothing  D. everything",
+    "answer": "答案：C. nothing。解析：It's empty（它是空的）说明盒子里没有东西。nothing意为\"没有东西\"，符合语境。"
+  },
+  {
+    "id": "g2_english_u006_ex02",
+    "knowledge_id": "g2_english_u006",
+    "question": "用所给词的适当形式填空：He has ______ (some) money in his pocket.",
+    "answer": "答案：some。解析：some可以修饰不可数名词money。注意：some常用在肯定句中，any用在否定和疑问句中。"
+  },
+  {
+    "id": "g2_english_u006_ex03",
+    "knowledge_id": "g2_english_u006",
+    "question": "单项选择：I don't have _____ to do this evening. A. something  B. anything  C. nothing  D. everything",
+    "answer": "答案：B. anything。解析：don't是否定标志，复合不定代词用anything（任何事）。"
+  },
+  {
+    "id": "g2_english_u006_ex04",
+    "knowledge_id": "g2_english_u006",
+    "question": "单项选择：Is there _____ in the classroom? A. something  B. anything  C. nothing  D. everyone",
+    "answer": "答案：B. anything。解析：一般疑问句中用anything。"
+  },
+  {
+    "id": "g2_english_u006_ex05",
+    "knowledge_id": "g2_english_u006",
+    "question": "用所给词的适当形式填空：______ (Someone/Anyone) can answer this question.",
+    "answer": "答案：Anyone。解析：anyone意思是\"任何人\"，用于肯定句中表示\"无论谁\"。"
+  },
+  {
+    "id": "g2_english_u006_ex06",
+    "knowledge_id": "g2_english_u006",
+    "question": "单项选择：_____ is ready for the party. A. Anything  B. Something  C. Everything  D. Nothing",
+    "answer": "答案：C. Everything。解析：is ready表示准备就绪，everything意为\"一切/所有事\"。"
+  },
+  {
+    "id": "g2_english_u006_ex07",
+    "knowledge_id": "g2_english_u006",
+    "question": "单项选择：I saw _____ in the park yesterday. A. anyone  B. someone  C. everyone  D. nobody",
+    "answer": "答案：B. someone。解析：一般过去时，肯定句中用someone（某人）。saw是过去式。"
+  },
+  {
+    "id": "g2_english_u006_ex08",
+    "knowledge_id": "g2_english_u006",
+    "question": "用所给词的适当形式填空：Don't tell ______ (anyone) about it. It's a secret.",
+    "answer": "答案：anyone。解析：Don't开头的祈使句是否定句，用anyone。"
+  },
+  {
+    "id": "g2_english_u006_ex09",
+    "knowledge_id": "g2_english_u006",
+    "question": "单项选择：There is _____ wrong with my bike. It doesn't work. A. something  B. anything  C. nothing  D. everything",
+    "answer": "答案：A. something。解析：There is something wrong with...是固定句型，意为\"...出了毛病\"。"
+  },
+  {
+    "id": "g2_english_u006_ex10",
+    "knowledge_id": "g2_english_u006",
+    "question": "单项选择：— Is there _____ in the box? — No, _____. A. something, nothing  B. anything, nothing  C. anything, there isn't  D. anything, none",
+    "answer": "答案：B. anything, nothing。解析：一般疑问句用anything；否定回答用nothing。"
+  }
+]

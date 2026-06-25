@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l042_ex01",
+    "knowledge_id": "g2_english_l042",
+    "question": "单项选择：I _____ this book yesterday. A. read  B. have read  C. am reading  D. will read",
+    "answer": "答案：A. read。解析：yesterday是过去具体时间，用一般过去时。"
+  },
+  {
+    "id": "g2_english_l042_ex02",
+    "knowledge_id": "g2_english_l042",
+    "question": "单项选择：I _____ this book. I know the story well. A. read  B. have read  C. am reading  D. will read",
+    "answer": "答案：B. have read。解析：I know the story well说明对现在的影响，用现在完成时。"
+  },
+  {
+    "id": "g2_english_l042_ex03",
+    "knowledge_id": "g2_english_l042",
+    "question": "用所给词的适当形式填空：She ______ (go) to Shanghai last year.",
+    "answer": "答案：went。解析：last year是过去具体时间，用一般过去时。go的过去式是went。完整：She went to Shanghai last year."
+  },
+  {
+    "id": "g2_english_l042_ex04",
+    "knowledge_id": "g2_english_l042",
+    "question": "单项选择：She _____ to Shanghai three times. A. has been  B. went  C. has gone  D. goes",
+    "answer": "答案：A. has been。解析：three times强调经历，用现在完成时。have been to\"去过\"。"
+  },
+  {
+    "id": "g2_english_l042_ex05",
+    "knowledge_id": "g2_english_l042",
+    "question": "翻译句子：我昨天去了公园。",
+    "answer": "答案：I went to the park yesterday. 解析：yesterday是过去具体时间，用一般过去时。go的过去式是went。"
+  },
+  {
+    "id": "g2_english_l042_ex06",
+    "knowledge_id": "g2_english_l042",
+    "question": "单项选择：I have _____ been to the Great Wall. A. ever  B. never  C. already  D. just",
+    "answer": "答案：B. never。解析：never\"从未\"，强调过去的经历对现在的影响，用现在完成时。"
+  },
+  {
+    "id": "g2_english_l042_ex07",
+    "knowledge_id": "g2_english_l042",
+    "question": "用所给词的适当形式填空：I ______ (just, finish) my homework.",
+    "answer": "答案：have just finished。解析：just\"刚刚\"是现在完成时标志。完整：I have just finished my homework."
+  },
+  {
+    "id": "g2_english_l042_ex08",
+    "knowledge_id": "g2_english_l042",
+    "question": "单项选择：— Did you see him yesterday? — _____. A. Yes, I do  B. No, I didn't  C. Yes, I have  D. No, I haven't",
+    "answer": "答案：B. No, I didn't。解析：Did you see...?是一般过去时一般疑问句，否定回答用No, I didn't。"
+  },
+  {
+    "id": "g2_english_l042_ex09",
+    "knowledge_id": "g2_english_l042",
+    "question": "翻译句子：到目前为止我已经学了十个单元。",
+    "answer": "答案：So far I have learned ten units. 解析：so far\"到目前为止\"是现在完成时标志。"
+  },
+  {
+    "id": "g2_english_l042_ex10",
+    "knowledge_id": "g2_english_l042",
+    "question": "单项选择：I _____ him since 2020. A. know  B. knew  C. have known  D. will know",
+    "answer": "答案：C. have known。解析：since 2020是现在完成时标志。"
+  }
+]

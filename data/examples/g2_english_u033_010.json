@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u033_ex01",
+    "knowledge_id": "g2_english_u033",
+    "question": "单项选择：Tom is _____ than Jack. A. tall  B. taller  C. tallest  D. the tallest",
+    "answer": "答案：B. taller。解析：than是比较级的标志。tall的比较级是taller（直接加-er）。"
+  },
+  {
+    "id": "g2_english_u033_ex02",
+    "knowledge_id": "g2_english_u033",
+    "question": "用所给词的适当形式填空：This box is ______ (heavy) than that one.",
+    "answer": "答案：heavier。解析：than是比较级标志。heavy以辅音+y结尾，变y为i加-er。"
+  },
+  {
+    "id": "g2_english_u033_ex03",
+    "knowledge_id": "g2_english_u033",
+    "question": "单项选择：It is _____ today than yesterday. A. cold  B. colder  C. coldest  D. the coldest",
+    "answer": "答案：B. colder。解析：than是比较级标志。cold的比较级是colder。"
+  },
+  {
+    "id": "g2_english_u033_ex04",
+    "knowledge_id": "g2_english_u033",
+    "question": "单项选择：This book is _____ than that one. A. more interesting  B. interesting  C. interestinger  D. most interesting",
+    "answer": "答案：A. more interesting。解析：interesting是多音节形容词，比较级前加more。"
+  },
+  {
+    "id": "g2_english_u033_ex05",
+    "knowledge_id": "g2_english_u033",
+    "question": "用所给词的适当形式填空：Mary is ______ (busy) than her sister.",
+    "answer": "答案：busier。解析：busy以辅音+y结尾，变y为i加-er。"
+  },
+  {
+    "id": "g2_english_u033_ex06",
+    "knowledge_id": "g2_english_u033",
+    "question": "单项选择：A plane is _____ than a car. A. fast  B. faster  C. fastest  D. the fastest",
+    "answer": "答案：B. faster。解析：than是比较级标志。fast的比较级是faster。"
+  },
+  {
+    "id": "g2_english_u033_ex07",
+    "knowledge_id": "g2_english_u033",
+    "question": "用所给词的适当形式填空：Today is ______ (hot) than yesterday.",
+    "answer": "答案：hotter。解析：hot是重读闭音节结尾，末尾只有一个辅音字母t，双写t加-er。"
+  },
+  {
+    "id": "g2_english_u033_ex08",
+    "knowledge_id": "g2_english_u033",
+    "question": "单项选择：My bag is _____ than yours. A. big  B. bigger  C. biggest  D. the biggest",
+    "answer": "答案：B. bigger。解析：than是比较级标志。big是重读闭音节结尾，双写g加-er。"
+  },
+  {
+    "id": "g2_english_u033_ex09",
+    "knowledge_id": "g2_english_u033",
+    "question": "翻译句子：他比他哥哥更外向。",
+    "answer": "答案：He is more outgoing than his brother. 解析：outgoing是多音节形容词，比较级前加more。"
+  },
+  {
+    "id": "g2_english_u033_ex10",
+    "knowledge_id": "g2_english_u033",
+    "question": "用所给词的适当形式填空：My room is ______ (large) than my sister's.",
+    "answer": "答案：larger。解析：large以e结尾，加-r。"
+  }
+]

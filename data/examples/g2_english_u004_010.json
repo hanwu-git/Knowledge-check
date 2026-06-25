@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u004_ex01",
+    "knowledge_id": "g2_english_u004",
+    "question": "单项选择：_____ he _____ to the cinema yesterday? A. Does, go  B. Did, went  C. Did, go  D. Was, go",
+    "answer": "答案：C. Did, go。解析：yesterday是一般过去时。did是助动词，后面的动词必须用原形。"
+  },
+  {
+    "id": "g2_english_u004_ex02",
+    "knowledge_id": "g2_english_u004",
+    "question": "句型转换：She watched TV last night. （改为一般疑问句）",
+    "answer": "答案：Did she watch TV last night? 解析：一般过去时一般疑问句的结构是Did + 主语 + 动词原形 + 其他？watched要还原为原形watch。"
+  },
+  {
+    "id": "g2_english_u004_ex03",
+    "knowledge_id": "g2_english_u004",
+    "question": "单项选择：Tom _____ come to school yesterday because he was ill. A. doesn't  B. isn't  C. didn't  D. wasn't",
+    "answer": "答案：C. didn't。解析：yesterday是一般过去时。主语Tom是第三人称单数，但didn't是助动词did的否定形式，didn't后接动词原形come。"
+  },
+  {
+    "id": "g2_english_u004_ex04",
+    "knowledge_id": "g2_english_u004",
+    "question": "句型转换：I played football yesterday. （改为否定句）",
+    "answer": "答案：I didn't play football yesterday. 解析：一般过去时否定句结构：主语 + didn't + 动词原形 + 其他。played还原为play。"
+  },
+  {
+    "id": "g2_english_u004_ex05",
+    "knowledge_id": "g2_english_u004",
+    "question": "单项选择：_____ you _____ the book last week? A. Do, read  B. Did, read  C. Did, readed  D. Were, read",
+    "answer": "答案：B. Did, read。解析：last week是一般过去时。一般疑问句用Did + 主语 + 动词原形，read的过去式是read，但did之后必须用原形。"
+  },
+  {
+    "id": "g2_english_u004_ex06",
+    "knowledge_id": "g2_english_u004",
+    "question": "用所给词的适当形式填空：They ______ (not, see) the movie last night.",
+    "answer": "答案：didn't see。解析：last night是一般过去时。否定句用didn't + 动词原形。see的过去式是saw，但在didn't后用原形see。"
+  },
+  {
+    "id": "g2_english_u004_ex07",
+    "knowledge_id": "g2_english_u004",
+    "question": "单项选择：When _____ you _____ your homework this morning? A. did, finish  B. did, finished  C. do, finish  D. were, finish",
+    "answer": "答案：A. did, finish。解析：this morning是一般过去时。特殊疑问句用疑问词 + 助动词did + 主语 + 动词原形。"
+  },
+  {
+    "id": "g2_english_u004_ex08",
+    "knowledge_id": "g2_english_u004",
+    "question": "句型转换：Did you go to the park? （作否定回答）",
+    "answer": "答案：No, I didn't. 解析：一般过去时一般疑问句的否定回答用No, 主语 + didn't。"
+  },
+  {
+    "id": "g2_english_u004_ex09",
+    "knowledge_id": "g2_english_u004",
+    "question": "单项选择：He _____ buy any books yesterday. A. doesn't  B. didn't  C. don't  D. wasn't",
+    "answer": "答案：B. didn't。解析：yesterday是一般过去时。一般过去时否定句：主语 + didn't + 动词原形。"
+  },
+  {
+    "id": "g2_english_u004_ex10",
+    "knowledge_id": "g2_english_u004",
+    "question": "句型转换：I saw the film yesterday. （改为一般疑问句并作肯定回答）",
+    "answer": "答案：Did you see the film yesterday? Yes, I did. 解析：一般过去时一般疑问句用Did开头；saw还原为see。肯定回答用Yes, I did。"
+  }
+]

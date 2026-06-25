@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u031_ex01",
+    "knowledge_id": "g2_english_u031",
+    "question": "单项选择：Can you tell me _____ you are from? A. where  B. what  C. who  D. which",
+    "answer": "答案：A. where。解析：where引导宾语从句，\"你来自哪里\"。"
+  },
+  {
+    "id": "g2_english_u031_ex02",
+    "knowledge_id": "g2_english_u031",
+    "question": "用所给词的适当形式填空：I don't know ______ (what) he said.",
+    "answer": "答案：what。解析：what引导宾语从句，\"他说了什么\"。"
+  },
+  {
+    "id": "g2_english_u031_ex03",
+    "knowledge_id": "g2_english_u031",
+    "question": "单项选择：Do you know _____ he is waiting for? A. who  B. what  C. where  D. when",
+    "answer": "答案：A. who。解析：who引导宾语从句作介词for的宾语，\"他在等谁\"。"
+  },
+  {
+    "id": "g2_english_u031_ex04",
+    "knowledge_id": "g2_english_u031",
+    "question": "单项选择：Could you tell me _____ the train station is? A. where  B. what  C. which  D. who",
+    "answer": "答案：A. where。解析：where引导宾语从句，\"火车站在哪里\"。"
+  },
+  {
+    "id": "g2_english_u031_ex05",
+    "knowledge_id": "g2_english_u031",
+    "question": "翻译句子：你能告诉我他为什么迟到吗？",
+    "answer": "答案：Can you tell me why he was late? 解析：why引导宾语从句，\"他为什么迟到\"。was是过去时，呼应主句的过去时。"
+  },
+  {
+    "id": "g2_english_u031_ex06",
+    "knowledge_id": "g2_english_u031",
+    "question": "用所给词的适当形式填空：I want to know ______ (when) the meeting will start.",
+    "answer": "答案：when。解析：when引导宾语从句，\"会议什么时候开始\"。"
+  },
+  {
+    "id": "g2_english_u031_ex07",
+    "knowledge_id": "g2_english_u031",
+    "question": "单项选择：Do you know _____ he is talking to? A. whom  B. what  C. where  D. how",
+    "answer": "答案：A. whom。解析：whom是who的宾格，\"他在和谁说话\"。"
+  },
+  {
+    "id": "g2_english_u031_ex08",
+    "knowledge_id": "g2_english_u031",
+    "question": "单项选择：Could you explain _____ this happened? A. what  B. how  C. why  D. B and C",
+    "answer": "答案：D. B and C。解析：how和why都可引导宾语从句，\"这怎么发生/为什么发生\"。"
+  },
+  {
+    "id": "g2_english_u031_ex09",
+    "knowledge_id": "g2_english_u031",
+    "question": "翻译句子：我想知道他住在哪。",
+    "answer": "答案：I want to know where he lives. 解析：where引导宾语从句，\"他住哪里\"。lives是第三人称单数现在时。"
+  },
+  {
+    "id": "g2_english_u031_ex10",
+    "knowledge_id": "g2_english_u031",
+    "question": "用所给词的适当形式填空：She asked me ______ (how) I could get to the airport.",
+    "answer": "答案：how。解析：how引导宾语从句，\"我怎么去机场\"。"
+  }
+]

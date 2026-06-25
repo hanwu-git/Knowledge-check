@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u009_ex01",
+    "knowledge_id": "g2_english_u009",
+    "question": "单项选择：_____ you please pass me the salt? A. Can  B. Could  C. Will  D. Would",
+    "answer": "答案：B. Could。解析：Could you please...?是比Can you...?更委婉的请求。"
+  },
+  {
+    "id": "g2_english_u009_ex02",
+    "knowledge_id": "g2_english_u009",
+    "question": "单项选择：When I was five, I _____ swim in the river. A. can  B. could  C. may  D. might",
+    "answer": "答案：B. could。解析：could是can的过去式，表示过去的能力。when I was five提示过去时间。"
+  },
+  {
+    "id": "g2_english_u009_ex03",
+    "knowledge_id": "g2_english_u009",
+    "question": "用所给词的适当形式填空：______ (Could) I borrow your pen, please?",
+    "answer": "答案：Could。解析：Could I...?是请求许可的委婉句型，比Can I...?更客气。"
+  },
+  {
+    "id": "g2_english_u009_ex04",
+    "knowledge_id": "g2_english_u009",
+    "question": "单项选择：She said she _____ come to the party. A. can  B. could  C. may  D. might",
+    "answer": "答案：B. could。解析：said是过去时，从句用相应的过去时。"
+  },
+  {
+    "id": "g2_english_u009_ex05",
+    "knowledge_id": "g2_english_u009",
+    "question": "单项选择：_____ I use your computer for a while? A. Could  B. Must  C. Should  D. Would",
+    "answer": "答案：A. Could。解析：Could I...?表示委婉请求许可。"
+  },
+  {
+    "id": "g2_english_u009_ex06",
+    "knowledge_id": "g2_english_u009",
+    "question": "用所给词的适当形式填空：He ______ (could, not) find his book anywhere.",
+    "answer": "答案：couldn't。解析：could not = couldn't。"
+  },
+  {
+    "id": "g2_english_u009_ex07",
+    "knowledge_id": "g2_english_u009",
+    "question": "单项选择：I think it _____ rain tomorrow. A. may  B. could  C. would  D. must",
+    "answer": "答案：B. could。解析：could表示可能性，\"可能会\"。"
+  },
+  {
+    "id": "g2_english_u009_ex08",
+    "knowledge_id": "g2_english_u009",
+    "question": "翻译句子：你能告诉我怎么去火车站吗？",
+    "answer": "答案：Could you tell me how to get to the train station? 解析：Could you...?是委婉请求。"
+  },
+  {
+    "id": "g2_english_u009_ex09",
+    "knowledge_id": "g2_english_u009",
+    "question": "单项选择：He _____ speak three languages when he was young. A. can  B. could  C. may  D. must",
+    "answer": "答案：B. could。解析：when he was young是过去时间，用could表示过去的能力。"
+  },
+  {
+    "id": "g2_english_u009_ex10",
+    "knowledge_id": "g2_english_u009",
+    "question": "用所给词的适当形式填空：She asked if she ______ (could) leave early.",
+    "answer": "答案：could。解析：asked是过去时，间接引语中用could。"
+  }
+]

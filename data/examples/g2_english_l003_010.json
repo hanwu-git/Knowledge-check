@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l003_ex01",
+    "knowledge_id": "g2_english_l003",
+    "question": "单项选择：You have to study hard, _____ you want to pass the exam. A. if  B. unless  C. because  D. so",
+    "answer": "答案：A. if。解析：if引导条件状语从句，\"如果\"。must强调主观必要性，have to强调客观必要性。"
+  },
+  {
+    "id": "g2_english_l003_ex02",
+    "knowledge_id": "g2_english_l003",
+    "question": "单项选择：I _____ go to school even on weekends when I was in that school. A. must  B. have to  C. had to  D. A and B",
+    "answer": "答案：C. had to。解析：when I was in that school是过去时间，用had to。"
+  },
+  {
+    "id": "g2_english_l003_ex03",
+    "knowledge_id": "g2_english_l003",
+    "question": "用所给词的适当形式填空：You ______ (mustn't) park here. It's not allowed.",
+    "answer": "答案：mustn't。解析：mustn't表示禁止，\"不许\"。park\"停车\"。allowed\"允许\"。"
+  },
+  {
+    "id": "g2_english_l003_ex04",
+    "knowledge_id": "g2_english_l003",
+    "question": "单项选择：You look tired. You _____ have a good rest. A. must  B. mustn't  C. have to  D. should",
+    "answer": "答案：A. must。解析：must表示建议，\"应该/必须\"。整句：You must have a good rest."
+  },
+  {
+    "id": "g2_english_l003_ex05",
+    "knowledge_id": "g2_english_l003",
+    "question": "翻译句子：must和have to都表示\"必须\"，有什么区别？",
+    "answer": "答案：must强调主观上的必要性，往往来自说话人本人的判断；have to强调客观上的必要性，往往由于外部条件、规则或情况而不得不做。"
+  },
+  {
+    "id": "g2_english_l003_ex06",
+    "knowledge_id": "g2_english_l003",
+    "question": "单项选择：I have to work on weekends, _____ my job requires it. A. because  B. if  C. unless  D. but",
+    "answer": "答案：A. because。解析：because引导原因状语从句，\"因为\"。整句：I have to work on weekends because my job requires it."
+  },
+  {
+    "id": "g2_english_l003_ex07",
+    "knowledge_id": "g2_english_l003",
+    "question": "用所给词的适当形式填空：She ______ (had to) take care of her little sister last night.",
+    "answer": "答案：had to。解析：last night是过去时间。have to的过去式是had to。"
+  },
+  {
+    "id": "g2_english_l003_ex08",
+    "knowledge_id": "g2_english_l003",
+    "question": "单项选择：You don't really _____ come if you're busy. A. must  B. have to  C. mustn't  D. A and B",
+    "answer": "答案：B. have to。解析：don't have to表示\"不必\"，暗示如果你忙可以不来。"
+  },
+  {
+    "id": "g2_english_l003_ex09",
+    "knowledge_id": "g2_english_l003",
+    "question": "翻译句子：他不得不工作到很晚才能完成任务。",
+    "answer": "答案：He has to work late to finish the task. 解析：has to\"不得不\"。to finish表示目的。"
+  },
+  {
+    "id": "g2_english_l003_ex10",
+    "knowledge_id": "g2_english_l003",
+    "question": "单项选择：I have to wake up early, _____ I have an important meeting. A. because  B. if  C. unless  D. but",
+    "answer": "答案：A. because。解析：because\"因为\"，解释不得不早起的原因。"
+  }
+]

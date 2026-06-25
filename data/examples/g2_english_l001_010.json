@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_l001_ex01",
+    "knowledge_id": "g2_english_l001",
+    "question": "单项选择：I _____ get up early every morning. A. has to  B. have to  C. had to  D. must to",
+    "answer": "答案：B. have to。解析：主语I后用have to。have to表示\"不得不\"，强调客观必要性。"
+  },
+  {
+    "id": "g2_english_l001_ex02",
+    "knowledge_id": "g2_english_l001",
+    "question": "单项选择：She _____ go to the hospital because she is ill. A. has to  B. have to  C. had to  D. must to",
+    "answer": "答案：A. has to。解析：主语she是第三人称单数，用has to。整句：She has to go to the hospital because she is ill."
+  },
+  {
+    "id": "g2_english_l001_ex03",
+    "knowledge_id": "g2_english_l001",
+    "question": "用所给词的适当形式填空：You ______ (don't have to) finish it today. You can do it tomorrow.",
+    "answer": "答案：don't have to。解析：don't have to意为\"不必\"。完整：You don't have to finish it today."
+  },
+  {
+    "id": "g2_english_l001_ex04",
+    "knowledge_id": "g2_english_l001",
+    "question": "单项选择：Do you _____ wear a uniform at school? A. has to  B. have to  C. had to  D. must",
+    "answer": "答案：B. have to。解析：Do you...?提问，主语you，用have to。整句：Do you have to wear a uniform at school?"
+  },
+  {
+    "id": "g2_english_l001_ex05",
+    "knowledge_id": "g2_english_l001",
+    "question": "翻译句子：我每天不得不早起去上学。",
+    "answer": "答案：I have to get up early every day to go to school. 解析：have to\"不得不\"。every day\"每天\"。"
+  },
+  {
+    "id": "g2_english_l001_ex06",
+    "knowledge_id": "g2_english_l001",
+    "question": "单项选择：We _____ clean our classroom every day. A. has to  B. have to  C. had to  D. must",
+    "answer": "答案：B. have to。解析：主语we用have to。整句：We have to clean our classroom every day."
+  },
+  {
+    "id": "g2_english_l001_ex07",
+    "knowledge_id": "g2_english_l001",
+    "question": "句型转换：He has to work late tonight. （改为否定句）",
+    "answer": "答案：He doesn't have to work late tonight. 解析：第三人称单数否定用doesn't have to。"
+  },
+  {
+    "id": "g2_english_l001_ex08",
+    "knowledge_id": "g2_english_l001",
+    "question": "用所给词的适当形式填空：Yesterday he ______ (have to) stay at home because he was sick.",
+    "answer": "答案：had to。解析：yesterday是一般过去时。have to的过去式是had to。"
+  },
+  {
+    "id": "g2_english_l001_ex09",
+    "knowledge_id": "g2_english_l001",
+    "question": "单项选择：— Do I have to be there on time? — _____. A. Yes, you do  B. No, you don't  C. A and B  D. Yes, you must",
+    "answer": "答案：C. A and B。解析：Do I have to...?的回答取决于具体情况，可以是肯定或否定。"
+  },
+  {
+    "id": "g2_english_l001_ex10",
+    "knowledge_id": "g2_english_l001",
+    "question": "翻译句子：你不必担心，一切都会好的。",
+    "answer": "答案：You don't have to worry. Everything will be fine. 解析：don't have to\"不必\"。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u013_ex01",
+    "knowledge_id": "g2_english_u013",
+    "question": "单项选择：I _____ get up early tomorrow because I have an important meeting. A. need  B. need to  C. needs  D. needed",
+    "answer": "答案：B. need to。解析：need to do意为\"需要做\"。"
+  },
+  {
+    "id": "g2_english_u013_ex02",
+    "knowledge_id": "g2_english_u013",
+    "question": "单项选择：She _____ practice the piano every day. A. need  B. need to  C. needs to  D. need not",
+    "answer": "答案：C. needs to。解析：主语She是第三人称单数，need要用needs。"
+  },
+  {
+    "id": "g2_english_u013_ex03",
+    "knowledge_id": "g2_english_u013",
+    "question": "用所给词的适当形式填空：You ______ (don't need) to worry about me. I'm fine.",
+    "answer": "答案：don't need。解析：don't need to意为\"不需要\"。"
+  },
+  {
+    "id": "g2_english_u013_ex04",
+    "knowledge_id": "g2_english_u013",
+    "question": "单项选择：Do I _____ bring my umbrella today? A. need  B. needs  C. need to  D. needed",
+    "answer": "答案：C. need to。解析：need to do是固定搭配。"
+  },
+  {
+    "id": "g2_english_u013_ex05",
+    "knowledge_id": "g2_english_u013",
+    "question": "句型转换：You don't need to hurry. （同义句）",
+    "answer": "答案：You needn't hurry. 解析：don't need to = needn't。"
+  },
+  {
+    "id": "g2_english_u013_ex06",
+    "knowledge_id": "g2_english_u013",
+    "question": "单项选择：We _____ to be there before 8 o'clock. A. needs  B. need  C. needs to  D. need to",
+    "answer": "答案：D. need to。解析：主语we后用need to。"
+  },
+  {
+    "id": "g2_english_u013_ex07",
+    "knowledge_id": "g2_english_u013",
+    "question": "单项选择：Does he _____ to wear a uniform at school? A. need  B. needs  C. need to  D. needed",
+    "answer": "答案：C. need to。解析：Does是一般疑问句助动词，need to do结构中need用原形。"
+  },
+  {
+    "id": "g2_english_u013_ex08",
+    "knowledge_id": "g2_english_u013",
+    "question": "翻译句子：你需要做更多的练习来提高你的英语。",
+    "answer": "答案：You need to do more exercises to improve your English. 解析：need to do\"需要做\"。"
+  },
+  {
+    "id": "g2_english_u013_ex09",
+    "knowledge_id": "g2_english_u013",
+    "question": "用所给词的适当形式填空：She ______ (need) to finish her homework before dinner.",
+    "answer": "答案：needs。解析：主语she是第三人称单数，need用needs。"
+  },
+  {
+    "id": "g2_english_u013_ex10",
+    "knowledge_id": "g2_english_u013",
+    "question": "单项选择：You don't need _____ that again. A. do  B. to do  C. doing  D. done",
+    "answer": "答案：B. to do。解析：don't need to do是固定搭配。"
+  }
+]

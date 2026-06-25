@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>我的错题本</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3B82F6',
+                        secondary: '#6366F1',
+                        accent: '#F59E0B',
+                        success: '#10B981',
+                        danger: '#EF4444',
+                        warning: '#F97316',
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div class="page-container">
+        <!-- 导航栏 -->
+        <nav class="nav-bar">
+            <a href="index.html" class="nav-back-btn">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                </svg>
+                返回首页
+            </a>
+        </nav>
+
+        <!-- 页面标题 -->
+        <header class="page-header">
+            <h1 class="page-title">📚 我的错题本</h1>
+            <p class="page-subtitle">记录学习中的易错题目，反复练习巩固知识</p>
+        </header>
+
+        <!-- 筛选器 -->
+        <div class="bg-white rounded-xl shadow-lg p-4 mb-6">
+            <div class="flex flex-wrap gap-4 items-center">
+                <div class="flex items-center gap-2">
+                    <span class="text-sm text-gray-500">年级：</span>
+                    <div class="flex gap-2" id="grade-filters">
+                        <button class="filter-btn active" data-grade="g2">初二</button>
+                    </div>
+                </div>
+                <div class="flex items-center gap-2">
+                    <span class="text-sm text-gray-500">科目：</span>
+                    <div class="flex gap-2" id="subject-filters">
+                        <button class="filter-btn active-secondary" data-subject="math">数学</button>
+                        <button class="filter-btn" data-subject="physics">物理</button>
+                    </div>
+                </div>
+                <div class="flex-1"></div>
+                <div class="text-sm text-gray-500">
+                    共 <span id="wrong-count" class="font-bold text-danger">0</span> 道错题
+                </div>
+            </div>
+        </div>
+
+        <!-- 操作按钮 -->
+        <div class="flex gap-3 mb-6">
+            <button id="btn-export" class="btn btn-secondary">
+                <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"></path>
+                </svg>
+                导出错题本
+            </button>
+            <button id="btn-import" class="btn btn-gray">
+                <svg class="w-4 h-4 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-8l-4-4m0 0L8 8m4-4v12"></path>
+                </svg>
+                导入错题本
+            </button>
+            <input type="file" id="import-file" accept=".json" class="hidden">
+        </div>
+
+        <!-- 错题列表 -->
+        <div id="wrong-list" class="space-y-4">
+            <!-- 空状态 -->
+            <div id="empty-state" class="empty-state">
+                <div class="empty-state-icon">🎉</div>
+                <p class="empty-state-text">太棒了！暂无错题记录</p>
+                <a href="index.html" class="mt-4 inline-block px-4 py-2 bg-primary text-white rounded-lg hover:bg-blue-600 transition-colors">
+                    去学习
+                </a>
+            </div>
+        </div>
+
+        <!-- 错题卡片模板（隐藏） -->
+        <template id="wrong-card-template">
+            <div class="wrong-card" data-item-id="">
+                <div class="flex items-start justify-between mb-2">
+                    <div class="flex items-center gap-2">
+                        <span class="text-sm font-medium text-red-600 question-index">第 1 题</span>
+                        <span class="tag" data-knowledge-name></span>
+                    </div>
+                    <button class="btn-remove text-red-400 hover:text-red-600" title="删除">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path>
+                        </svg>
+                    </button>
+                </div>
+                <p class="text-gray-800 mb-3 whitespace-pre-wrap question-text"></p>
+                <div class="answer-section hidden">
+                    <div class="answer-box">
+                        <p class="text-gray-700 text-sm whitespace-pre-wrap answer-text"></p>
+                    </div>
+                    <button class="btn-hide-answer mt-2 px-3 py-1 bg-gray-200 text-gray-600 rounded text-xs hover:bg-gray-300 transition-colors">
+                        收起答案
+                    </button>
+                </div>
+                <div class="btn-show-answer-wrapper">
+                    <button class="btn-show-answer px-4 py-1.5 bg-success text-white rounded text-sm hover:bg-green-600 transition-colors">
+                        查看答案
+                    </button>
+                </div>
+            </div>
+        </template>
+    </div>
+
+    <script src="js/data-loader.js"></script>
+    <script>
+        // 全局状态
+        let currentGrade = 'g2';
+        let currentSubject = 'math';
+        let answerVisible = new Set();
+
+        // DOM 元素
+        const wrongList = document.getElementById('wrong-list');
+        const emptyState = document.getElementById('empty-state');
+        const wrongCount = document.getElementById('wrong-count');
+        const template = document.getElementById('wrong-card-template');
+
+        // 初始化筛选按钮事件
+        function initFilters() {
+            // 年级筛选
+            document.querySelectorAll('#grade-filters .filter-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('#grade-filters .filter-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentGrade = btn.dataset.grade;
+                    loadWrongBook();
+                });
+            });
+
+            // 科目筛选
+            document.querySelectorAll('#subject-filters .filter-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('#subject-filters .filter-btn').forEach(b => {
+                        b.classList.remove('active', 'active-secondary');
+                    });
+                    btn.classList.add('active-secondary');
+                    currentSubject = btn.dataset.subject;
+                    loadWrongBook();
+                });
+            });
+        }
+
+        // 加载错题本
+        function loadWrongBook() {
+            const wrongItems = WrongBookManager.getWrongBook(currentGrade, currentSubject);
+            
+            wrongCount.textContent = wrongItems.length;
+
+            if (wrongItems.length === 0) {
+                wrongList.innerHTML = '';
+                wrongList.appendChild(emptyState);
+                emptyState.classList.remove('hidden');
+                return;
+            }
+
+            emptyState.classList.add('hidden');
+            wrongList.innerHTML = '';
+
+            wrongItems.forEach((item, index) => {
+                const card = createWrongCard(item, index);
+                wrongList.appendChild(card);
+            });
+        }
+
+        // 创建错题卡片
+        function createWrongCard(item, index) {
+            const card = template.content.cloneNode(true).querySelector('.wrong-card');
+            
+            card.dataset.itemId = item.id;
+            card.querySelector('.question-index').textContent = `第 ${index + 1} 题`;
+            card.querySelector('[data-knowledge-name]').textContent = item.knowledgeName || '';
+            card.querySelector('.question-text').textContent = item.question;
+            card.querySelector('.answer-text').textContent = item.answer;
+
+            // 查看答案按钮
+            const btnShow = card.querySelector('.btn-show-answer');
+            btnShow.addEventListener('click', () => {
+                card.querySelector('.answer-section').classList.remove('hidden');
+                btnShow.classList.add('hidden');
+                answerVisible.add(item.id);
+            });
+
+            // 收起答案按钮
+            const btnHide = card.querySelector('.btn-hide-answer');
+            btnHide.addEventListener('click', () => {
+                card.querySelector('.answer-section').classList.add('hidden');
+                btnShow.classList.remove('hidden');
+                answerVisible.delete(item.id);
+            });
+
+            // 删除按钮
+            const btnRemove = card.querySelector('.btn-remove');
+            btnRemove.addEventListener('click', () => {
+                if (confirm('确定要删除这道错题吗？')) {
+                    WrongBookManager.removeWrongBook(currentGrade, currentSubject, item.id);
+                    loadWrongBook();
+                    // 更新首页的错题数量
+                    updateHomePageCount();
+                }
+            });
+
+            return card;
+        }
+
+        // 更新首页错题数量
+        function updateHomePageCount() {
+            const allWrongBooks = WrongBookManager.getAllWrongBookKeys();
+            const totalCount = allWrongBooks.reduce((sum, item) => sum + item.count, 0);
+            
+            // 尝试更新首页（如果首页已打开）
+            const homeCount = window.opener?.document?.getElementById('wrongbook-count');
+            if (homeCount) {
+                homeCount.textContent = totalCount;
+            }
+        }
+
+        // 初始化
+        function init() {
+            initFilters();
+            loadWrongBook();
+            initExportImport();
+        }
+
+        // 导出/导入功能
+        function initExportImport() {
+            // 导出按钮
+            document.getElementById('btn-export').addEventListener('click', () => {
+                const wrongData = WrongBookManager.exportAll();
+                if (Object.keys(wrongData).length === 0) {
+                    alert('暂无错题可导出');
+                    return;
+                }
+                const blob = new Blob([JSON.stringify(wrongData, null, 2)], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = `错题本_${new Date().toLocaleDateString('zh-CN').replace(/\//g, '-')}.json`;
+                a.click();
+                URL.revokeObjectURL(url);
+            });
+
+            // 导入按钮
+            document.getElementById('btn-import').addEventListener('click', () => {
+                document.getElementById('import-file').click();
+            });
+
+            // 文件选择
+            document.getElementById('import-file').addEventListener('change', (e) => {
+                const file = e.target.files[0];
+                if (!file) return;
+                
+                const reader = new FileReader();
+                reader.onload = (event) => {
+                    try {
+                        const data = JSON.parse(event.target.result);
+                        const count = WrongBookManager.importAll(data);
+                        alert(`成功导入 ${count} 道错题`);
+                        loadWrongBook();
+                        updateHomePageCount();
+                    } catch (err) {
+                        alert('导入失败：文件格式不正确');
+                    }
+                };
+                reader.readAsText(file);
+                e.target.value = ''; // 清空以便重复选择同一文件
+            });
+        }
+
+        init();
+    </script>
+</body>
+</html>

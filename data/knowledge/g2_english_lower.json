@@ -1,0 +1,296 @@
+[
+  {
+    "id": "g2_english_l001",
+    "chapter": "第一章 Unit1: What's the matter?",
+    "name": "情态动词 have to 的用法",
+    "formula": "主语 + have/has to + 动词原形\n否定：主语 + don't/doesn't + have to + 动词原形\n疑问：Do/Does + 主语 + have to + 动词原形?",
+    "explanation": "have to 表示\"不得不\"，强调客观上的必要性，区别于 must 的主观必要性。have to 可以用于过去时态 (had to)，也可以与情态动词连用。其否定形式表示\"没有必要\"。例如：I have to get up early every day. (我每天不得不早起。)"
+  },
+  {
+    "id": "g2_english_l002",
+    "chapter": "第一章 Unit1: What's the matter?",
+    "name": "情态动词 must 的用法",
+    "formula": "肯定：主语 + must + 动词原形\n否定：主语 + mustn't + 动词原形\nmust not = mustn't，表示\"禁止/不允许\"",
+    "explanation": "must 表示\"必须\"，强调主观上的必要性。mustn't 意思是\"禁止/不许\"，表示强烈禁止。must 没有时态变化，过去式用 had to 代替。在回答 must 的一般疑问句时，否定回答用 don't have to / don't need to，表示\"不必要\"。例如：You must finish your homework. (你必须完成作业。)"
+  },
+  {
+    "id": "g2_english_l003",
+    "chapter": "第一章 Unit1: What's the matter?",
+    "name": "have to 与 must 的区别",
+    "formula": "must 强调主观意愿：I must study hard. (我必须努力学习。)\nhave to 强调客观需要：I have to work to earn money. (我不得不工作赚钱。)",
+    "explanation": "must 和 have to 都可以表示\"必须\"，但有重要区别：1) must 强调主观上的必要性，往往来自说话人本人的判断或规定；have to 强调客观上的必要性，往往由于外部条件、规则或情况而不得不做。2) must 通常不能与 will, would 等助动词连用，而 have to 可以。3) must 没有过去式形式，过去式中必须用 had to。4) 口语中 have to 比 must 更常用。"
+  },
+  {
+    "id": "g2_english_l004",
+    "chapter": "第一章 Unit1: What's the matter?",
+    "name": "询问身体状况的常用句型",
+    "formula": "What's the matter (with you)?\nWhat' wrong (with you)?\nWhat's the problem (with you)?\nHow are you feeling?",
+    "explanation": "这些都是用来询问他人身体状况或遇到什么问题的常用表达。What's the matter? 可以单独使用，也可以后接 with + 人或 with + 身体部位。回答时常用以下表达：I have a headache/stomachache/toothache/backache. (我头疼/胃疼/牙疼/背疼。) I feel sick/ fine/better. (我感到恶心/很好/好多了。)"
+  },
+  {
+    "id": "g2_english_l005",
+    "chapter": "第一章 Unit1: What's the matter?",
+    "name": "情态动词 can/could 表能力",
+    "formula": "肯定：主语 + can/could + 动词原形\n否定：主语 + can't/couldn't + 动词原形\n疑问：Can/Could + 主语 + 动词原形?",
+    "explanation": "can 和 could 都可以表示能力，意思是\"能/会\"。could 是 can 的过去式，用于过去的能力或更委婉的请求。can 还可表示可能性和允许。could 用在疑问句中比 can 更委婉客气。例如：Can you speak English? (你会说英语吗？) Yes, I can. / No, I can't."
+  },
+  {
+    "id": "g2_english_l006",
+    "chapter": "第一章 Unit1: What's the matter?",
+    "name": "身体部位词汇及 pain 相关表达",
+    "formula": "身体部位 + hurt (s): My head hurts.\nhave a + 疾病名词：have a fever/cold/headache\nbe/get hurt：受伤",
+    "explanation": "表达身体不适的常见方式包括：1) 直接用 hurt + 身体部位，如 My stomach hurts. 2) 用 have a + 疾病名，如 have a sore throat (喉咙痛)。3) 用 be sick/ill 表示生病。4) 用 get hurt 表示受伤。常见身体部位词汇：head, stomach, back, neck, ear, eye, tooth, knee, arm, leg 等。"
+  },
+  {
+    "id": "g2_english_l007",
+    "chapter": "第一章 Unit1: What's the matter?",
+    "name": "情态动词 may 的用法",
+    "formula": "肯定：主语 + may + 动词原形\n否定：主语 + may not + 动词原形\n疑问：May + 主语 + 动词原形?",
+    "explanation": "may 主要有两个用法：1) 表示可能性，意思是\"可能/也许\"。例如：It may rain today. (今天可能下雨。) 2) 表示允许，意思是\"可以\"。回答 may 引导的疑问句时，肯定回答用 Yes, you may. 或 Sure.，否定回答用 No, you may not. 或 You'd better not."
+  },
+  {
+    "id": "g2_english_l008",
+    "chapter": "第二章 Unit2: I'll help to clean up the city parks",
+    "name": "不定式作宾语",
+    "formula": "动词 + to + 动词原形\n常见动词：want, hope, decide, plan, agree, learn, pretend, refuse, seem, would like",
+    "explanation": "不定式可以在句中充当宾语成分。能接不定式作宾语的动词很多，常见的有：want to do (想要做), hope to do (希望做), decide to do (决定做), plan to do (计划做), agree to do (同意做), learn to do (学着做), would like to do (想要做), refuse to do (拒绝做)。例如：I want to learn English. (我想学英语。)"
+  },
+  {
+    "id": "g2_english_l009",
+    "chapter": "第二章 Unit2: I'll help to clean up the city parks",
+    "name": "不定式作宾语补足语",
+    "formula": "动词 + 宾语 + to + 动词原形\n常见动词：want, ask, tell, would like, invite, encourage, teach, expect",
+    "explanation": "不定式可以在句中充当宾语补足语，与宾语一起构成复合宾语。常见结构：want sb. to do (想要某人做), ask sb. to do (请某人做), tell sb. to do (告诉某人做), would like sb. to do (想让某人做), invite sb. to do (邀请某人做), encourage sb. to do (鼓励某人做)。例如：She asked me to help her. (她请我帮忙。)"
+  },
+  {
+    "id": "g2_english_l010",
+    "chapter": "第二章 Unit2: I'll help to clean up the city parks",
+    "name": "动词 help 的用法",
+    "formula": "help + (to) + 动词原形\nhelp sb. + (to) + 动词原形\nhelp sb. with + 名词",
+    "explanation": "help 是一个多功能的动词，用法灵活：1) help to do something = help do something，两者意思相同，to 可以省略。例如：Can you help (to) carry the box? 2) help sb. with something 表示\"在某方面帮助某人\"。例如：I help my mother with housework. 3) help 还可以作名词，如 with one's help."
+  },
+  {
+    "id": "g2_english_l011",
+    "chapter": "第二章 Unit2: I'll help to clean up the city parks",
+    "name": "几个用 to do 作宾语的动词",
+    "formula": "start to do / begin to do / continue to do\nlike to do / love to do / hate to do\nprefer to do / choose to do",
+    "explanation": "start, begin, like, love, hate, prefer, choose 等动词后面可以接不定式 (to do) 作宾语。这些动词既可以接 to do 也可以接 doing，意思基本相同，但要注意：1) 表示长期习惯用 doing，如 I like swimming. 2) 表示具体一次动作时两者皆可。3) should like to do 是固定表达，用于正式场合。"
+  },
+  {
+    "id": "g2_english_l012",
+    "chapter": "第二章 Unit2: I'll help to clean up the city parks",
+    "name": "动词不定式的否定形式",
+    "formula": "not + to + 动词原形\ntell/ask/want sb. not to do sth.",
+    "explanation": "不定式的否定形式是在 to 前面加 not，即 not to do。常见结构：tell sb. not to do (告诉某人不要做), ask sb. not to do (请求某人不要做), want sb. not to do (想要某人不做), hope not to do (希望不做)。例如：She told me not to be late. (她告诉我不要迟到。)"
+  },
+  {
+    "id": "g2_english_l013",
+    "chapter": "第二章 Unit2: I'll help to clean up the city parks",
+    "name": "感官动词后不定式与动名词的区别",
+    "formula": "see/hear/watch + sb. + do (看到/听到全过程)\nsee/hear/watch + sb. + doing (看到/听到正在进行的动作)",
+    "explanation": "感官动词 see, hear, watch, feel, notice 等后面可以接不定式或动名词作宾语补足语。接不带 to 的不定式时，表示动作的全部过程或经常发生；接动名词时，表示动作正在进行或多次发生。例如：I saw him play football yesterday. (我昨天看到他踢足球了。) I saw him playing football when I passed by. (我路过时看到他正在踢足球。)"
+  },
+  {
+    "id": "g2_english_l014",
+    "chapter": "第三章 Unit3: Could you please tell me where the restrooms are?",
+    "name": "宾语从句 - 问路",
+    "formula": "Could you please tell me + 宾语从句?\nCould you tell me how to get to + 地点?\nCould you tell me where + 主语 + is/are?",
+    "explanation": "宾语从句在问路表达中非常常见。使用宾语从句时要注意：1) 从句用陈述语序（主语在前，谓语在后）。2) 如果疑问词本身是主语，则语序不变。例如：Where is the bank? → Could you tell me where the bank is? 3) 常用疑问词：where (哪里), how (怎么走), which way (哪个方向)。"
+  },
+  {
+    "id": "g2_english_l015",
+    "chapter": "第三章 Unit3: Could you please tell me where the restrooms are?",
+    "name": "Could you please...? 礼貌请求",
+    "formula": "Could you please + 动词原形?\nCould I please + 动词原形?\nCould you please not + 动词原形?",
+    "explanation": "Could you please...? 是比 Can you...? 更礼貌的请求表达方式。please 可以放在句中或句末，但放在句末时前面要加逗号。例如：Could you please open the door? = Could you open the door, please? 回答时常用：Sure. / Of course. / No problem. / I'm sorry, I can't. 否定形式 Could you please not...? 用于委婉请求不要做某事。"
+  },
+  {
+    "id": "g2_english_l016",
+    "chapter": "第三章 Unit3: Could you please tell me where the restrooms are?",
+    "name": "宾语从句的陈述语序",
+    "formula": "疑问词 + 主语 + 谓语 + 其他?\nWhere is the museum? → I don't know where the museum is.\nWhat did he say? → Can you tell me what he said?",
+    "explanation": "宾语从句必须使用陈述语序，即\"主语 + 谓语\"的结构，不能使用疑问句的倒装语序。例如：一般疑问句变为宾语从句时要加 whether/if，并使用陈述语序。特殊疑问句直接用疑问词引导，从句中疑问词如果是主语，语序本身就是陈述语序。转换时注意时态呼应的规则。"
+  },
+  {
+    "id": "g2_english_l017",
+    "chapter": "第三章 Unit3: Could you please tell me where the restrooms are?",
+    "name": "问路的常用表达",
+    "formula": "Excuse me, could you tell me how to get to...?\nExcuse me, where is the nearest...?\nExcuse me, which is the way to...?\nExcuse me, is there a... nearby?",
+    "explanation": "问路时的礼貌用语：1) 开头用 Excuse me (打扰一下) 来引起注意。2) 常用表达方式包括：问最近的地方用 nearest；问路线用 which way 或 how to get to；问是否存在用 is there...。3) 回答问路时常用：Go straight / Turn left / Turn right / It's on the left/right 等。4) 还可以用 It's about... minutes' walk from here."
+  },
+  {
+    "id": "g2_english_l018",
+    "chapter": "第三章 Unit3: Could you please tell me where the restrooms are?",
+    "name": "不定式与疑问词连用",
+    "formula": "疑问词 + to + 动词原形\nhow to do it\nwhere to go\nwhat to do\nwhen to start\nwho to ask",
+    "explanation": "不定式可以和疑问词 (how, where, what, when, who, which) 连用，在句中作主语、宾语、表语等成分。例如：I don't know what to do. (我不知道该怎么办。) She showed me how to use the computer. (她教我怎么用电脑。) This tells us where to find the information. 这种结构比完整的宾语从句更简洁，是口语中非常实用的表达方式。"
+  },
+  {
+    "id": "g2_english_l019",
+    "chapter": "第四章 Unit4: Maybe you should learn to relax",
+    "name": "情态动词 should 的用法",
+    "formula": "肯定：主语 + should + 动词原形\n否定：主语 + shouldn't + 动词原形\n疑问：Should + 主语 + 动词原形?",
+    "explanation": "should 是情态动词，表示\"应该\"，用来提出建议、推荐或表达期望。should 没有时态变化，过去式仍是 should。should 的用法：1) 表示建议：You should study harder. 2) 表示期望：She should be here soon. 3) 表示推测：This should be the right answer. 4) should have done 表示过去应该做但没做。"
+  },
+  {
+    "id": "g2_english_l020",
+    "chapter": "第四章 Unit4: Maybe you should learn to relax",
+    "name": "should 建议句型总结",
+    "formula": "You should do sth.\nYou shouldn't do sth.\nWhy don't you do sth.?\nWhy not do sth.?\nWhat about doing sth.?\nHow about doing sth.?",
+    "explanation": "提建议的多种表达方式：1) should/shouldn't 表示应该/不应该做某事。2) Why don't you...? / Why not...? 表示\"为什么不...?\"是一种建议。3) What/How about + doing 表示\"...怎么样?\"，about 后面接动名词。4) Let's do sth. 表示让我们做某事吧。5) You had better (not) do sth. 表示你最好(不要)做某事。"
+  },
+  {
+    "id": "g2_english_l021",
+    "chapter": "第四章 Unit4: Maybe you should learn to relax",
+    "name": "maybe 与 may be 的区别",
+    "formula": "maybe (副词) + 句子：Maybe he is a teacher.\nmay be (情态动词 + 动词) + 表语：He may be a teacher.",
+    "explanation": "maybe 是一个副词，意思是\"也许/大概\"，相当于 perhaps，在句中作状语，通常放在句首。may be 是情态动词 may 加动词 be，意思是\"可能是\"，后面接名词、形容词等作表语。例如：Maybe she is ill. = She may be ill. (她也许病了。) 注意：maybe 是一个词，不能分开写；may be 是两个词，需要分开使用。"
+  },
+  {
+    "id": "g2_english_l022",
+    "chapter": "第四章 Unit4: Maybe you should learn to relax",
+    "name": "had better 的用法",
+    "formula": "肯定：主语 + had better + 动词原形\n否定：主语 + had better not + 动词原形\n缩写：had better = 'd better",
+    "explanation": "had better 表示\"最好...\"，是一种提出建议或警告的方式，含有忠告的意味。had better 用于所有人称，had 是过去式形式但表示现在或将来的建议。否定形式是 had better not，意思是\"最好不要\"。例如：You had better go home now. (你最好现在回家。) You had better not be late again. (你最好别再迟到了。)"
+  },
+  {
+    "id": "g2_english_l023",
+    "chapter": "第五章 Unit5: What were you doing when the UFO landed?",
+    "name": "过去进行时的定义与构成",
+    "formula": "构成：主语 + was/were + 动词-ing\n肯定：I was watching TV.\n否定：I was not (wasn't) watching TV.\n疑问：Was I watching TV?",
+    "explanation": "过去进行时表示在过去某一时刻或某一段时间正在进行的动作。其构成为 was/were + 动词的现在分词 (-ing 形式)。was 用于第一人称单数 (I/he/she/it) 和第三人称单数，were 用于第一人称复数 (we) 和第二人称 (you) 及第三人称复数 (they)。过去进行时常与 at that time, at this time yesterday, when, while 等时间状语连用。"
+  },
+  {
+    "id": "g2_english_l024",
+    "chapter": "第五章 Unit5: What were you doing when the UFO landed?",
+    "name": "when 引导的时间状语从句",
+    "formula": "主句(过去进行时) + when + 从句(一般过去时)\nI was walking when the phone rang.",
+    "explanation": "when 引导的时间状语从句可以放在主句前或主句后。当主句用过去进行时，从句用一般过去时时，表示\"当某事发生时，另一事正在发生\"。when 强调两个动作的对比或一个动作在另一个动作进行中发生。例如：I was reading when he came in. (他进来时我正在读书。) She was cooking when the lights went out. (灯灭时她正在做饭。)"
+  },
+  {
+    "id": "g2_english_l025",
+    "chapter": "第五章 Unit5: What were you doing when the UFO landed?",
+    "name": "while 引导的时间状语从句",
+    "formula": "主句 + while + 从句(过去进行时)\nWhile I was doing my homework, my mother was cooking.",
+    "explanation": "while 引导的时间状语从句通常表示两个动作同时进行，从句中谓语动词用过去进行时。while 强调两个动作的持续性和同时性。如果两个动作都是持续的，通常用 while 连接。while 还可以表示\"对比/然而\"，表示两种情况的对比。例如：I was reading while he was sleeping. (他在睡觉的时候我在读书。)"
+  },
+  {
+    "id": "g2_english_l026",
+    "chapter": "第五章 Unit5: What were you doing when the UFO landed?",
+    "name": "过去进行时与一般过去时的区别",
+    "formula": "过去进行时：强调动作正在进行（未完成）\n一般过去时：强调动作已经发生（已完成）\nI was reading a book. (我那时在读书。过程)\nI read a book. (我读了一本书。结果)",
+    "explanation": "过去进行时和一般过去时的主要区别：1) 过去进行时强调动作正在进行，未完成；一般过去时强调动作已完成。2) 过去进行时通常与 when, while 等连用，描述背景；一般过去时描述突然发生的事件。3) 在 when 引导的句型中：when + 短暂性动词（一般过去时）用于描述突发事件；while + 延续性动词（过去进行时）用于描述持续的动作。4) 过去进行时可以表示过去反复发生的动作。"
+  },
+  {
+    "id": "g2_english_l027",
+    "chapter": "第五章 Unit5: What were you doing when the UFO landed?",
+    "name": "过去进行时的应用场景",
+    "formula": "1. 描述故事发生的背景\n2. 与 when 短暂性动词连用\n3. 与 while 延续性动词连用\n4. 表示过去的某段时间内持续进行的动作",
+    "explanation": "过去进行时的主要应用场景：1) 用来设置故事情景或背景，如 It was raining heavily. People were running for shelter. 2) 与 when 连用时，when 后的短暂性动词常造成动作的突然性，如 I was walking when I saw an accident. 3) 与 while 连用时，描述同时进行的持续动作。4) 可以表示情绪、态度或行为的持续性，如 She was thinking about her future all night."
+  },
+  {
+    "id": "g2_english_l028",
+    "chapter": "第六章 Unit6: By the time I got outside, the bus had already left",
+    "name": "过去完成时的定义与构成",
+    "formula": "构成：主语 + had + 过去分词\n肯定：I had finished my homework.\n否定：I had not (hadn't) finished my homework.\n疑问：Had I finished my homework?",
+    "explanation": "过去完成时是过去某个时间或动作之前已经发生或完成的动作。它表示\"过去的过去\"。其构成为 had + 过去分词，had 是过去式没有人称和数的变化。过去完成时主要用来：1) 表示在过去某动作之前已完成的动作。2) 表示在过去某时间之前已经发生并完成的事情。3) 与 by + 过去时间状语连用，如 by yesterday, by the end of last week。"
+  },
+  {
+    "id": "g2_english_l029",
+    "chapter": "第六章 Unit6: By the time I got outside, the bus had already left",
+    "name": "过去完成时与一般过去时的区别",
+    "formula": "过去完成时：过去的过去\n一般过去时：过去的某个具体时间\nBy the time he came, I had finished my work.\n(我来之前他已经完成了工作。)",
+    "explanation": "过去完成时与一般过去时的主要区别：1) 一般过去时表示在过去某个时间发生的动作或存在的状态。2) 过去完成时表示在过去某个时间或动作之前已经发生的动作，即\"过去的过去\"。3) 在使用过去完成时前，通常会有一个过去的时间点或动作作为参照。例如：When I got home, my father had already cooked dinner. (我到家时，我爸爸已经做好了晚饭。got 是参照点，had cooked 发生在此之前。)"
+  },
+  {
+    "id": "g2_english_l030",
+    "chapter": "第六章 Unit6: By the time I got outside, the bus had already left",
+    "name": "by the time 的用法",
+    "formula": "by the time + 过去时间 (过去完成时)\nby the time + 一般现在时/现在完成时 (将来完成时)\nBy the time I got up, my mother had made breakfast.",
+    "explanation": "by the time 意思是\"到...时候为止\"，是过去完成时的重要标志词。1) 当 by the time 引导的句子用一般过去时时，主句用过去完成时。例如：By the time he arrived, we had left. 2) 当谈论将来的情况时，by the time 后用一般现在时，主句用将来完成时。例如：By the time you come back, I will have finished my work. 3) by the time 还可以与 now, tomorrow, next week 等时间词连用。"
+  },
+  {
+    "id": "g2_english_l031",
+    "chapter": "第六章 Unit6: By the time I got outside, the bus had already left",
+    "name": "过去完成时的常见时间状语",
+    "formula": "by the time + 过去时间\nbefore + 过去时间\nalready / just / never / ever\nwhen / after / until + 过去时态",
+    "explanation": "过去完成时常见的搭配：1) by the time 引导的时间状语：By the time I was 10, I had learned 500 English words. 2) before/after 引导的从句：I had finished dinner before he came. 3) already, just, never, ever 等副词常与过去完成时连用，表示动作的状态。例如：She had already gone when I arrived. 4) when 引导的从句中，主句用过去完成时，从句用一般过去时。"
+  },
+  {
+    "id": "g2_english_l032",
+    "chapter": "第七章 Unit7: Have you ever been to a museum?",
+    "name": "现在完成时的定义与构成",
+    "formula": "构成：主语 + have/has + 过去分词\n肯定：I have finished my homework.\n否定：I have not (haven't) finished my homework.\n疑问：Have I finished my homework?",
+    "explanation": "现在完成时是英语中非常重要的时态，表示：1) 过去发生并且已经完成的动作，对现在造成影响。2) 过去开始的动作持续到现在，可能还要继续下去。其构成为 have/has + 过去分词。has 用于第三人称单数 (he/she/it)，have 用于其他所有人称。现在完成时常与 already, yet, just, ever, never, recently, lately 等副词连用。"
+  },
+  {
+    "id": "g2_english_l033",
+    "chapter": "第七章 Unit7: Have you ever been to a museum?",
+    "name": "现在完成时与一般过去时的区别",
+    "formula": "现在完成时：过去发生，强调与现在的联系\n一般过去时：过去发生，强调动作本身\nI have read this book. (我已经读过了，知道内容)\nI read this book last week. (只说明过去读过)",
+    "explanation": "主要区别：1) 一般过去时明确指出动作发生的时间（ yesterday, last week, in 2020 等），现在完成时不强调具体时间。2) 现在完成时强调过去动作对现在的影响或结果，一般过去时只描述过去的动作。3) 在对话中，如果已经给出了具体的时间状语，通常用一般过去时。4) 如果时间状语不明确，但上下文暗示影响，用现在完成时。"
+  },
+  {
+    "id": "g2_english_l034",
+    "chapter": "第七章 Unit7: Have you ever been to a museum?",
+    "name": "have been to 与 have gone to 的区别",
+    "formula": "have been to + 地点：去过某地（已回来）\nhave gone to + 地点：去了某地（未回来）\nI have been to Beijing. (我去过北京。)\nHe has gone to Shanghai. (他去上海了。)",
+    "explanation": "两者区别：1) have been to 表示\"去过某地\"，说话时这个人已经不在那个地方了，已经回来。2) have gone to 表示\"去了某地\"，说话时这个人正在去某地的途中或已经在那里，不在说话现场。3) have been to 可以与次数连用：have been to... three times。4) have been in + 地点表示在某地待了多长时间。例如：I have been in Shanghai for two years."
+  },
+  {
+    "id": "g2_english_l035",
+    "chapter": "第七章 Unit7: Have you ever been to a museum?",
+    "name": "现在完成时中 ever 和 never 的用法",
+    "formula": "Have you ever + 过去分词...? (曾经...过吗？)\nI have never + 过去分词 (从未...过)\nThis is the first time I have + 过去分词.",
+    "explanation": "ever 和 never 是现在完成时中的重要时间副词：1) ever 意思是\"曾经\"，用于疑问句或否定句中，位于过去分词之前。例如：Have you ever been to Japan? 2) never 意思是\"从未\"，用于肯定句中，但表示否定意义。例如：I have never seen such a beautiful sunset. 3) 这类句型常用于谈论人生经历。4) This/It is the + 最高级 + 名词 + 定语从句中，谓语常用现在完成时。"
+  },
+  {
+    "id": "g2_english_l036",
+    "chapter": "第七章 Unit7: Have you ever been to a museum?",
+    "name": "现在完成时的肯定、否定和疑问形式",
+    "formula": "肯定：主语 + have/has + 过去分词\n否定：主语 + haven't/hasn't + 过去分词\n疑问：Have/Has + 主语 + 过去分词?\n否定疑问：Haven't/Hasn't + 主语 + 过去分词?",
+    "explanation": "现在完成时的句型变化：1) 变为一般疑问句时，将 have/has 提到句首，主语大小写不变。2) 变为否定句时，在 have/has 后加 not。3) 变为否定疑问句时，将 Haven't/Hasn't 提到句首。4) 回答时：Yes, 主语 + have/has. / No, 主语 + haven't/hasn't. 5) 常见时间词位置：have/has 之后，过去分词之前，也可以放在句末。"
+  },
+  {
+    "id": "g2_english_l037",
+    "chapter": "第七章 Unit7: Have you ever been to a museum?",
+    "name": "现在完成时的瞬间动词与延续性动词",
+    "formula": "瞬间动词：die, leave, start, buy, arrive, finish\n瞬间动词不能与 for/since 连用，需转换\nShe has died. → She has been dead for 3 years.",
+    "explanation": "瞬间动词（终止性动词）如 die, leave, join, buy, borrow, marry 等，不能直接与表示一段时间的状语 (for 3 years, since 1990) 连用。需要转换为相应的延续性动词或状态：1) die → be dead, 2) leave → be away, 3) join → be in/be a member of, 4) buy → have, 5) borrow → keep, 6) finish → be over, 7) arrive → be in。在完成时态中要注意这种转换。"
+  },
+  {
+    "id": "g2_english_l038",
+    "chapter": "第八章 Unit8: Have you read Treasure Island yet?",
+    "name": "现在完成时中 yet, already, still 的用法",
+    "formula": "yet：还，已经（用于疑问句/否定句，通常放句末）\nalready：已经（用于肯定句，通常放动词与助动词之间）\nstill：仍然（表示动作持续，放于主语与动词之间）",
+    "explanation": "三个词在时态中的区别：1) yet 意思是\"还/已经\"，用于疑问句和否定句，通常放在句末。例如：Have you finished your work yet? 2) already 意思是\"已经\"，用于肯定句，通常放在 have/has 和过去分词之间，也可以放在句末表示惊讶。例如：I have already finished my work. 3) still 意思是\"仍然\"，表示动作持续进行，可以用于各种时态。例如：She is still sleeping."
+  },
+  {
+    "id": "g2_english_l039",
+    "chapter": "第八章 Unit8: Have you read Treasure Island yet?",
+    "name": "yet 与 already 的位置和用法区别",
+    "formula": "yet 用于疑问句和否定句\nHave you finished yet?\nI haven't finished yet.\n\nalready 用于肯定句\nI have already finished.\nI have finished already.",
+    "explanation": "yet 和 already 都与现在完成时连用，但用法不同：1) yet 多用于疑问句和否定句，already 多用于肯定句。2) yet 通常放在句末，already 可以放在句中（have/has 之后，过去分词之前）或句末。3) already 在疑问句中可以用作惊讶语气：Have you finished already? (你竟然已经完成了？) 4) 在否定句中，yet 表示\"还\"，暗示某事尚未发生：I haven't finished my homework yet."
+  },
+  {
+    "id": "g2_english_l040",
+    "chapter": "第八章 Unit8: Have you read Treasure Island yet?",
+    "name": "现在完成时的时间状语搭配",
+    "formula": "already, yet, just, recently, lately\njust now (刚不久，用于一般过去时)\nso far = up to now = till now\nthis week/month/year...",
+    "explanation": "现在完成时常用的时间状语：1) already 常用于肯定句，yet 用于否定和疑问句。2) just 放在 have/has 与过去分词之间，表示\"刚刚\"。3) recently 和 lately 表示\"最近\"，可以与现在完成时连用。4) so far = up to now = till now 表示\"到目前为止\"。5) this week/month/year 等时间词，如果说话时还没过完，可以用现在完成时。注意：last week/year 不能与现在完成时连用。"
+  },
+  {
+    "id": "g2_english_l041",
+    "chapter": "第八章 Unit8: Have you read Treasure Island yet?",
+    "name": "现在完成时在日常交流中的应用",
+    "formula": "Have you ever...? → Yes, I have. / No, I haven't.\nHave you ... yet? → Yes, I have already. / No, not yet.\nHow long have you ...? → For... / Since...",
+    "explanation": "现在完成时在口语交流中的常见应用：1) 询问经历：Have you ever been to...? 2) 询问进展：Have you finished... yet? 3) 询问持续时间：How long have you lived here? 回答时用 for + 时间段或 since + 起点时间。4) 在谈论近期经历或变化时常用现在完成时。5) 注意区分：already 用于肯定句，yet 用于否定和疑问句末尾。例如：I've already had breakfast. / I haven't had breakfast yet."
+  },
+  {
+    "id": "g2_english_l042",
+    "chapter": "第八章 Unit8: Have you read Treasure Island yet?",
+    "name": "现在完成时与一般过去时的综合辨析",
+    "formula": "现在完成时 = 过去动作 + 现在影响/结果\n一般过去时 = 过去时间点\nHave you read this book? (你读过这本书吗？)\nDid you read this book yesterday? (你昨天读了这本书吗？)",
+    "explanation": "综合辨析：1) 现在完成时不能和明确的过去时间状语连用，如 yesterday, last week, in 2020 等。2) 一般过去时不能和现在完成时的时间状语连用，如 already, yet, recently, so far 等。3) 在综合填空和改错题中，要注意时间状语与时态的匹配。4) 常见的信号词：yet, already, ever, never, just, recently, so far 等通常与现在完成时连用；ago, last, in 2020 等通常与一般过去时连用。5) since 和 for 与现在完成时连用，但 since 后可接时间点，for 后接时间段。"
+  }
+]

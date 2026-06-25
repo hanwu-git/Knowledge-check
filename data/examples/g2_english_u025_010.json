@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u025_ex01",
+    "knowledge_id": "g2_english_u025",
+    "question": "单项选择：I was reading a book _____ my friend called me. A. when  B. while  C. as soon as  D. after",
+    "answer": "答案：A. when。解析：when引导一般过去时，\"正在做某事时另一事发生\"。"
+  },
+  {
+    "id": "g2_english_u025_ex02",
+    "knowledge_id": "g2_english_u025",
+    "question": "单项选择：_____ I was walking in the park, I met an old friend. A. When  B. While  C. As  D. After",
+    "answer": "答案：B. While。解析：while + 延续性动作。I was walking是延续性动作。"
+  },
+  {
+    "id": "g2_english_u025_ex03",
+    "knowledge_id": "g2_english_u025",
+    "question": "用所给词的适当形式填空：She was cooking ______ (when/while) the lights went out.",
+    "answer": "答案：when。解析：the lights went out是短暂性动作，when接短暂性动作。"
+  },
+  {
+    "id": "g2_english_u025_ex04",
+    "knowledge_id": "g2_english_u025",
+    "question": "单项选择：_____ they were playing games, the teacher came in. A. When  B. While  C. As  D. Since",
+    "answer": "答案：B. While。解析：while接延续性动作。they were playing是延续性的。"
+  },
+  {
+    "id": "g2_english_u025_ex05",
+    "knowledge_id": "g2_english_u025",
+    "question": "单项选择：I was having a shower _____ the doorbell rang. A. when  B. while  C. as  D. for",
+    "answer": "答案：A. when。解析：the doorbell rang是短暂性动作，用when。"
+  },
+  {
+    "id": "g2_english_u025_ex06",
+    "knowledge_id": "g2_english_u025",
+    "question": "用所给词的适当形式填空：______ (When/While) I was waiting for the bus, it started to rain.",
+    "answer": "答案：While。解析：I was waiting是延续性动作，用while。"
+  },
+  {
+    "id": "g2_english_u025_ex07",
+    "knowledge_id": "g2_english_u025",
+    "question": "翻译句子：当我走过学校时，我看见了一些学生正在打篮球。",
+    "answer": "答案：When I was walking past the school, I saw some students playing basketball. 解析：When + 从句(过去进行时)，主句(一般过去时)。"
+  },
+  {
+    "id": "g2_english_u025_ex08",
+    "knowledge_id": "g2_english_u025",
+    "question": "单项选择：My mother was cooking _____ my father was watching TV. A. when  B. while  C. as  D. after",
+    "answer": "答案：B. while。解析：两个动作都是延续性的，用while。"
+  },
+  {
+    "id": "g2_english_u025_ex09",
+    "knowledge_id": "g2_english_u025",
+    "question": "用所给词的适当形式填空：He was reading a newspaper ______ (when/while) the telephone rang.",
+    "answer": "答案：when。解析：the telephone rang是短暂性动作，用when。"
+  },
+  {
+    "id": "g2_english_u025_ex10",
+    "knowledge_id": "g2_english_u025",
+    "question": "单项选择：— What were you doing at 8 last night? — I _____ dinner. A. have  B. had  C. was having  D. am having",
+    "answer": "答案：C. was having。解析：at 8 last night是过去某时，\"正在吃\"用过去进行时。"
+  }
+]

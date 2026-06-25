@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u021_ex01",
+    "knowledge_id": "g2_english_u021",
+    "question": "单项选择：I _____ get up early every day. A. has to  B. have to  C. had to  D. having to",
+    "answer": "答案：B. have to。解析：主语I后用have to。"
+  },
+  {
+    "id": "g2_english_u021_ex02",
+    "knowledge_id": "g2_english_u021",
+    "question": "单项选择：She _____ work late last night. A. has to  B. have to  C. had to  D. having to",
+    "answer": "答案：C. had to。解析：last night是过去时，have to的过去式是had to。"
+  },
+  {
+    "id": "g2_english_u021_ex03",
+    "knowledge_id": "g2_english_u021",
+    "question": "用所给词的适当形式填空：You ______ (don't have to) worry about that. It's not your problem.",
+    "answer": "答案：don't have to。解析：don't have to意为\"不必\"。"
+  },
+  {
+    "id": "g2_english_u021_ex04",
+    "knowledge_id": "g2_english_u021",
+    "question": "单项选择：Does he _____ finish his homework before bed? A. has to  B. have to  C. had to  D. having to",
+    "answer": "答案：B. have to。解析：Does是一般疑问句助动词，have用原形。"
+  },
+  {
+    "id": "g2_english_u021_ex05",
+    "knowledge_id": "g2_english_u021",
+    "question": "翻译句子：我不得不每天步行上学。",
+    "answer": "答案：I have to walk to school every day. 解析：have to\"不得不\"。walk to school\"步行上学\"。"
+  },
+  {
+    "id": "g2_english_u021_ex06",
+    "knowledge_id": "g2_english_u021",
+    "question": "单项选择：We _____ wear a uniform at school. A. has to  B. have to  C. had to  D. having to",
+    "answer": "答案：B. have to。解析：主语we后用have to。"
+  },
+  {
+    "id": "g2_english_u021_ex07",
+    "knowledge_id": "g2_english_u021",
+    "question": "句型转换：He has to get up early. （改为否定句）",
+    "answer": "答案：He doesn't have to get up early. 解析：主语He是第三人称单数，否定用doesn't。doesn't后have用原形。"
+  },
+  {
+    "id": "g2_english_u021_ex08",
+    "knowledge_id": "g2_english_u021",
+    "question": "用所给词的适当形式填空：Yesterday I ______ (have to) take care of my little sister.",
+    "answer": "答案：had to。解析：yesterday是一般过去时。"
+  },
+  {
+    "id": "g2_english_u021_ex09",
+    "knowledge_id": "g2_english_u021",
+    "question": "单项选择：— Do I have to finish it now? — No, you _____. A. don't  B. haven't  C. mustn't  D. aren't",
+    "answer": "答案：A. don't。解析：Do I have to...?的否定回答用No, you don't."
+  },
+  {
+    "id": "g2_english_u021_ex10",
+    "knowledge_id": "g2_english_u021",
+    "question": "翻译句子：你不必担心他，他会照顾好自己的。",
+    "answer": "答案：You don't have to worry about him. He can take care of himself. 解析：don't have to\"不必\"。take care of\"照顾\"。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u028_ex01",
+    "knowledge_id": "g2_english_u028",
+    "question": "单项选择：I think (that) he _____ a good student. A. am  B. is  C. are  D. be",
+    "answer": "答案：B. is。解析：that引导宾语从句，he是第三人称单数，用is。"
+  },
+  {
+    "id": "g2_english_u028_ex02",
+    "knowledge_id": "g2_english_u028",
+    "question": "单项选择：She asked me if I _____ her. A. know  B. knows  C. knew  D. knowing",
+    "answer": "答案：C. knew。解析：asked是过去时，从句要用相应的过去时。knew是know的过去式。"
+  },
+  {
+    "id": "g2_english_u028_ex03",
+    "knowledge_id": "g2_english_u028",
+    "question": "用所给词的适当形式填空：I wonder where he ______ (live).",
+    "answer": "答案：lives。解析：where引导宾语从句，从句用陈述语序。主语he用lives。"
+  },
+  {
+    "id": "g2_english_u028_ex04",
+    "knowledge_id": "g2_english_u028",
+    "question": "单项选择：Do you know _____ tomorrow? A. what will the weather be like  B. what the weather will be like  C. what the weather is like  D. what is the weather like",
+    "answer": "答案：B. what the weather will be like。解析：宾语从句用陈述语序。tomorrow提示将来时。"
+  },
+  {
+    "id": "g2_english_u028_ex05",
+    "knowledge_id": "g2_english_u028",
+    "question": "翻译句子：他说他明天会来。",
+    "answer": "答案：He said (that) he would come tomorrow. 解析：said是过去时，从句要用过去将来时would come。"
+  },
+  {
+    "id": "g2_english_u028_ex06",
+    "knowledge_id": "g2_english_u028",
+    "question": "单项选择：I don't know _____ the book. A. where did he put  B. where he put  C. where he puts  D. where does he put",
+    "answer": "答案：B. where he put。解析：宾语从句用陈述语序。"
+  },
+  {
+    "id": "g2_english_u028_ex07",
+    "knowledge_id": "g2_english_u028",
+    "question": "用所给词的适当形式填空：Can you tell me how ______ (get) to the hospital?",
+    "answer": "答案：to get。解析：疑问词+to do结构。how to get\"怎么去\"。"
+  },
+  {
+    "id": "g2_english_u028_ex08",
+    "knowledge_id": "g2_english_u028",
+    "question": "单项选择：He told me (that) he _____ to New York next week. A. goes  B. will go  C. would go  D. went",
+    "answer": "答案：C. would go。解析：told是过去时，从句用过去将来时would go。"
+  },
+  {
+    "id": "g2_english_u028_ex09",
+    "knowledge_id": "g2_english_u028",
+    "question": "单项选择：I want to know _____ or not. A. if he will come  B. whether will he come  C. will he come  D. if will he come",
+    "answer": "答案：A. if he will come。解析：if/whether引导宾语从句，从句用陈述语序。"
+  },
+  {
+    "id": "g2_english_u028_ex10",
+    "knowledge_id": "g2_english_u028",
+    "question": "翻译句子：你能告诉我他在哪里吗？",
+    "answer": "答案：Can you tell me where he is? 解析：where引导宾语从句，从句用陈述语序。"
+  }
+]

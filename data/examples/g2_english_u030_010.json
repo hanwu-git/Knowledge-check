@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u030_ex01",
+    "knowledge_id": "g2_english_u030",
+    "question": "单项选择：I don't know _____ he will come or not. A. that  B. if  C. what  D. where",
+    "answer": "答案：B. if。解析：if/whether\"是否\"。"
+  },
+  {
+    "id": "g2_english_u030_ex02",
+    "knowledge_id": "g2_english_u030",
+    "question": "用所给词的适当形式填空：She asked me ______ (if/whether) I could help her.",
+    "answer": "答案：if/whether。解析：if/whether\"是否\"。"
+  },
+  {
+    "id": "g2_english_u030_ex03",
+    "knowledge_id": "g2_english_u030",
+    "question": "单项选择：Could you tell me _____ there is a bank nearby? A. that  B. if  C. what  D. where",
+    "answer": "答案：B. if。解析：if\"是否\"，问是否有银行。"
+  },
+  {
+    "id": "g2_english_u030_ex04",
+    "knowledge_id": "g2_english_u030",
+    "question": "单项选择：I wonder _____ he is at home now. A. that  B. if  C. what  D. who",
+    "answer": "答案：B. if。解析：if\"是否\"。"
+  },
+  {
+    "id": "g2_english_u030_ex05",
+    "knowledge_id": "g2_english_u030",
+    "question": "翻译句子：他问我是否想去看电影。",
+    "answer": "答案：He asked me if/whether I wanted to go to the movies. 解析：if/whether\"是否\"。"
+  },
+  {
+    "id": "g2_english_u030_ex06",
+    "knowledge_id": "g2_english_u030",
+    "question": "用所给词的适当形式填空：I don't know ______ (whether) he will agree with us.",
+    "answer": "答案：whether。解析：whether/if都可表示\"是否\"。"
+  },
+  {
+    "id": "g2_english_u030_ex07",
+    "knowledge_id": "g2_english_u030",
+    "question": "单项选择：_____ he will come is not clear. A. If  B. Whether  C. That  D. What",
+    "answer": "答案：B. Whether。解析：在句首只用whether。"
+  },
+  {
+    "id": "g2_english_u030_ex08",
+    "knowledge_id": "g2_english_u030",
+    "question": "单项选择：It depends on _____ he will come. A. that  B. if  C. whether  D. what",
+    "answer": "答案：C. whether。解析：介词后只用whether。"
+  },
+  {
+    "id": "g2_english_u030_ex09",
+    "knowledge_id": "g2_english_u030",
+    "question": "翻译句子：我想知道他是否会来。",
+    "answer": "答案：I wonder if/whether he will come. 解析：if/whether\"是否\"。wonder后接if/whether从句。"
+  },
+  {
+    "id": "g2_english_u030_ex10",
+    "knowledge_id": "g2_english_u030",
+    "question": "用所给词的适当形式填空：I'm not sure ______ (if/whether) he is right.",
+    "answer": "答案：if/whether。解析：if/whether\"是否\"。"
+  }
+]

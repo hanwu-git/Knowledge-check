@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u035_ex01",
+    "knowledge_id": "g2_english_u035",
+    "question": "单项选择：Tom is the _____ student in our class. A. tall  B. taller  C. tallest  D. the tallest",
+    "answer": "答案：C. tallest。解析：最高级前加the。tall的最高级是tallest。"
+  },
+  {
+    "id": "g2_english_u035_ex02",
+    "knowledge_id": "g2_english_u035",
+    "question": "用所给词的适当形式填空：This is ______ (interesting) book I have ever read.",
+    "answer": "答案：the most interesting。解析：interesting是多音节形容词，最高级前加the most。"
+  },
+  {
+    "id": "g2_english_u035_ex03",
+    "knowledge_id": "g2_english_u035",
+    "question": "单项选择：Mount Qomolangma is _____ mountain in the world. A. high  B. higher  C. the highest  D. highest",
+    "answer": "答案：C. the highest。解析：最高级前要加the。"
+  },
+  {
+    "id": "g2_english_u035_ex04",
+    "knowledge_id": "g2_english_u035",
+    "question": "用所给词的适当形式填空：She is ______ (happy) girl in her family.",
+    "answer": "答案：the happiest。解析：happy以辅音+y结尾，变y为i加-est。"
+  },
+  {
+    "id": "g2_english_u035_ex05",
+    "knowledge_id": "g2_english_u035",
+    "question": "单项选择：Today is _____ day of the year. A. hot  B. hotter  C. hottest  D. the hottest",
+    "answer": "答案：D. the hottest。解析：最高级前加the。hot是重读闭音节结尾，双写t加-est。"
+  },
+  {
+    "id": "g2_english_u035_ex06",
+    "knowledge_id": "g2_english_u035",
+    "question": "单项选择：He is _____ boy in his class. A. tall  B. taller  C. the tallest  D. tallest",
+    "answer": "答案：C. the tallest。解析：最高级前加the。"
+  },
+  {
+    "id": "g2_english_u035_ex07",
+    "knowledge_id": "g2_english_u035",
+    "question": "用所给词的适当形式填空：This is one of ______ (nice) parks in the city.",
+    "answer": "答案：the nicest。解析：one of + 最高级 + 复数名词。nice以e结尾，加-st。"
+  },
+  {
+    "id": "g2_english_u035_ex08",
+    "knowledge_id": "g2_english_u035",
+    "question": "翻译句子：他是我们班最聪明的学生。",
+    "answer": "答案：He is the smartest student in our class. 解析：smart以重读闭音节结尾，双写t加-est。the smartest是最高级形式。"
+  },
+  {
+    "id": "g2_english_u035_ex09",
+    "knowledge_id": "g2_english_u035",
+    "question": "单项选择：Of all the subjects, math is _____ for me. A. difficult  B. more difficult  C. the most difficult  D. most difficult",
+    "answer": "答案：C. the most difficult。解析：多音节形容词最高级前加the most。"
+  },
+  {
+    "id": "g2_english_u035_ex10",
+    "knowledge_id": "g2_english_u035",
+    "question": "用所给词的适当形式填空：The Yangtze River is ______ (long) river in China.",
+    "answer": "答案：the longest。解析：long的最高级是longest。"
+  }
+]

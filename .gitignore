@@ -1,0 +1,37 @@
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# TRAE 相关
+.trae/
+
+# 开发脚本（可选，如需保留源码可注释掉）
+# scripts/
+
+# 日志
+*.log
+npm-debug.log*
+
+# 临时调试脚本
+debug.ps1
+test_replace.ps1
+fix_quotes.ps1
+fix_quotes.py
+fix_json_quotes.ps1
+
+# 质量检查结果
+check_results.json
+deep_check_results.json
+duplicate_options_issues.json
+
+# 临时文件
+*.tmp
+*.temp

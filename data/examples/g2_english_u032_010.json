@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_english_u032_ex01",
+    "knowledge_id": "g2_english_u032",
+    "question": "单项选择：He said he _____ at home yesterday. A. is  B. was  C. were  D. are",
+    "answer": "答案：B. was。解析：said是过去时，从句要用相应的过去时。"
+  },
+  {
+    "id": "g2_english_u032_ex02",
+    "knowledge_id": "g2_english_u032",
+    "question": "用所给词的适当形式填空：I thought she ______ (come) the next day.",
+    "answer": "答案：would come。解析：thought是过去时，从句要用过去将来时。"
+  },
+  {
+    "id": "g2_english_u032_ex03",
+    "knowledge_id": "g2_english_u032",
+    "question": "单项选择：She told me that she _____ to Paris last year. A. has gone  B. had gone  C. went  D. goes",
+    "answer": "答案：B. had gone。解析：told是过去时，从句用过去完成时。"
+  },
+  {
+    "id": "g2_english_u032_ex04",
+    "knowledge_id": "g2_english_u032",
+    "question": "单项选择：He said that light _____ faster than sound. A. travels  B. traveled  C. is traveling  D. was traveling",
+    "answer": "答案：A. travels。解析：主句是过去时，但\"光速比声速快\"是客观事实，从句用一般现在时。"
+  },
+  {
+    "id": "g2_english_u032_ex05",
+    "knowledge_id": "g2_english_u032",
+    "question": "翻译句子：她告诉我她在写一封信。",
+    "answer": "答案：She told me (that) she was writing a letter. 解析：told是过去时，从句用过去进行时was writing。"
+  },
+  {
+    "id": "g2_english_u032_ex06",
+    "knowledge_id": "g2_english_u032",
+    "question": "用所给词的适当形式填空：He said that the sun ______ (rise) in the east.",
+    "answer": "答案：rises。解析：\"太阳从东方升起\"是客观真理，时态不变。"
+  },
+  {
+    "id": "g2_english_u032_ex07",
+    "knowledge_id": "g2_english_u032",
+    "question": "单项选择：I think he _____ in the library now. A. is  B. was  C. will be  D. has been",
+    "answer": "答案：A. is。解析：主句I think是现在时，从句用相应时态。"
+  },
+  {
+    "id": "g2_english_u032_ex08",
+    "knowledge_id": "g2_english_u032",
+    "question": "单项选择：She said she _____ to the park tomorrow. A. goes  B. went  C. will go  D. would go",
+    "answer": "答案：D. would go。解析：said是过去时，从句用过去将来时would go。"
+  },
+  {
+    "id": "g2_english_u032_ex09",
+    "knowledge_id": "g2_english_u032",
+    "question": "用所给词的适当形式填空：I heard that he ______ (read) an English book at that time.",
+    "answer": "答案：was reading。解析：at that time\"那时\"，从句用过去进行时。"
+  },
+  {
+    "id": "g2_english_u032_ex10",
+    "knowledge_id": "g2_english_u032",
+    "question": "翻译句子：他告诉我他每天都锻炼。",
+    "answer": "答案：He told me (that) he exercises every day. 解析：每天锻炼是习惯性动作，从句用一般现在时。"
+  }
+]

@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英语词汇背诵知识点学习</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3B82F6',
+                        secondary: '#6366F1',
+                        accent: '#F59E0B',
+                        success: '#10B981',
+                        danger: '#EF4444',
+                        warning: '#F97316',
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div class="page-container">
+        <nav class="nav-bar">
+            <a href="grade1_index.html" class="nav-back-btn">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                </svg>
+                返回一年级
+            </a>
+            <div class="flex-1"></div>
+            <a href="wrongbook.html" class="flex items-center gap-2 px-4 py-2 bg-red-50 text-red-600 rounded-lg hover:bg-red-100 transition-colors">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path>
+                </svg>
+                错题本
+            </a>
+        </nav>
+
+        <header class="page-header">
+            <h1 id="page-title" class="page-title">英语词汇背诵</h1>
+            <p id="page-subtitle" class="page-subtitle">点击卡片展开查看详细内容</p>
+        </header>
+
+        <div class="bg-white rounded-xl shadow-lg p-4 mb-6">
+            <div class="flex flex-wrap gap-4 items-center justify-between">
+                <div class="flex gap-2">
+                    <button id="btn-expand-all" class="btn btn-primary">全部展示</button>
+                    <button id="btn-collapse-all" class="btn btn-gray">全部收起</button>
+                </div>
+                <div id="progress-stat" class="text-sm text-gray-600 flex items-center gap-3">
+                    <span>学习进度：<span id="progress-learned" class="font-bold text-green-600">0</span> / <span id="progress-total">0</span> 个知识点</span>
+                    <button id="btn-clear-progress" class="text-xs px-2 py-1 text-red-600 bg-red-50 hover:bg-red-100 rounded transition-colors" title="清除当前科目学习进度">
+                        清除进度
+                    </button>
+                </div>
+                <div class="flex gap-2">
+                    <a href="g1_english_vocab.html?semester=upper" class="btn ${'{{'}btn ${'{{'}btn === 'upper' ? 'btn-primary' : 'btn-gray'}}">上册</a>
+                    <a href="g1_english_vocab.html?semester=lower" class="btn ${'{{'}btn ${'{{'}btn === 'lower' ? 'btn-primary' : 'btn-gray'}}">下册</a>
+                </div>
+                <div class="flex-1 max-w-md">
+                    <div class="relative">
+                        <input id="search-input" type="text" placeholder="搜索知识点名称..." class="input w-full pl-10"/>
+                        <svg class="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="search-results-info" class="hidden mb-4 p-3 bg-yellow-50 border border-yellow-200 rounded-lg">
+            <p class="text-yellow-800 text-sm">🔍 搜索结果：找到 <span id="search-count" class="font-bold">0</span> 个匹配的知识点</p>
+        </div>
+
+        <div id="knowledge-list" class="space-y-4"></div>
+        <div id="empty-state" class="hidden empty-state">
+            <div class="empty-state-icon">📭</div>
+            <p class="empty-state-text">暂无知识点数据</p>
+        </div>
+    </div>
+
+    <div id="example-modal" class="hidden modal-overlay">
+        <div class="modal-content p-6">
+            <div class="flex items-center justify-between mb-4">
+                <h3 class="text-lg font-bold text-gray-800">例题练习</h3>
+                <button id="close-example" class="text-gray-400 hover:text-gray-600">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                </button>
+            </div>
+            <div id="example-content">
+                <div class="mb-4">
+                    <span class="tag mb-2" id="example-knowledge-name"></span>
+                    <p id="example-question" class="text-gray-800 text-lg mb-4"></p>
+                </div>
+                <div id="example-answer-section" class="hidden mb-4">
+                    <div class="answer-box">
+                        <p id="example-answer" class="text-gray-700 whitespace-pre-wrap"></p>
+                    </div>
+                </div>
+                <div class="flex flex-wrap gap-2">
+                    <button id="btn-show-answer" class="btn btn-success">展示答案</button>
+                    <button id="btn-next-example" class="btn btn-secondary">换一题</button>
+                    <button id="btn-add-wrong" class="btn btn-danger">加入错题本</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ==================== 内嵌知识点数据 ====================
+        const DATA_KNOWLEDGE = [{"chapter":"上册 Unit 1","name":"Unit 1 核心词汇","formula":"hello, hi, good, morning, afternoon, evening, night, goodbye, bye, see, you, I, me, my, your, he, she, it, we, they, name, is, am, are, from, old, how, what, where, who","explanation":"【Unit 1 核心词汇表】\n\n【问候类】\n1. hello 你好\n2. hi 嗨\n3. good 好的\n4. morning 早晨，上午\n5. afternoon 下午\n6. evening 晚上，傍晚\n7. night 夜晚\n8. goodbye 再见\n9. bye 再见\n10. see 看见\n\n【人称代词】\n11. I 我（主格）\n12. me 我（宾格）\n13. my 我的\n14. your 你的，你们的\n15. he 他\n16. she 她\n17. it 它\n18. we 我们\n19. they 他们，她们，它们\n\n【be动词】\n20. am 是（用于I）\n21. is 是（用于单数）\n22. are 是（用于复数和you）\n\n【疑问词】\n23. what 什么\n24. how 怎样\n25. where 在哪里\n26. who 谁\n\n【其他】\n27. name 名字\n28. from 从，来自\n29. old 老的，...岁的\n30. you 你，你们","id":"g1_english_vocab_u001","semester":"upper"},{"chapter":"上册 Unit 2","name":"Unit 2 核心词汇","formula":"family, father, mother, brother, sister, parent, grandfather, grandmother, this, that, these, those","explanation":"【Unit 2 核心词汇表】\n\n【家庭成员】\n1. family 家庭\n2. father 父亲，爸爸\n3. mother 母亲，妈妈\n4. dad 爸爸（口语）\n5. mom 妈妈（口语）\n6. parent 父亲或母亲\n7. parents 父母\n8. brother 兄，弟\n9. sister 姐，妹\n10. grandfather 祖父，外祖父\n11. grandmother 祖母，外祖母\n12. grandpa 爷爷，外公（口语）\n13. grandma 奶奶，外婆（口语）\n14. grandparent 祖父/祖母/外祖父/外祖母\n15. grandparents 祖父母，外祖父母\n16. uncle 叔叔，舅舅，伯父，姑父，姨父\n17. aunt 阿姨，姑姑，婶婶，舅妈，姨妈\n18. cousin 堂（表）兄弟，堂（表）姐妹\n19. son 儿子\n20. daughter 女儿\n\n【指示代词】\n21. this 这，这个\n22. that 那，那个\n23. these 这些\n24. those 那些\n\n【其他】\n25. photo 照片\n26. picture 图片，照片\n27. of 属于，关于\n28. my 我的\n29. your 你的\n30. here 这里","id":"g1_english_vocab_u002","semester":"upper"},{"chapter":"上册 Unit 3","name":"Unit 3 核心词汇","formula":"schoolbag, book, pen, pencil, ruler, eraser, desk, chair, where, in, on, under","explanation":"【Unit 3 核心词汇表】\n\n【学习用品】\n1. schoolbag 书包\n2. book 书\n3. pen 钢笔\n4. pencil 铅笔\n5. ruler 尺子\n6. eraser 橡皮\n7. pencil box 铅笔盒\n8. dictionary 字典，词典\n9. notebook 笔记本\n10. crayon 蜡笔\n\n【家具物品】\n11. desk 书桌\n12. chair 椅子\n13. table 桌子\n14. bed 床\n15. sofa 沙发\n16. shelf 架子\n17. box 盒子，箱子\n18. key 钥匙\n19. bag 包\n20. clock 时钟\n\n【方位介词】\n21. in 在...里面\n22. on 在...上面\n23. under 在...下面\n24. behind 在...后面\n25. near 在...附近\n26. next to 紧挨着\n27. between 在...之间\n28. in front of 在...前面\n\n【疑问词】\n29. where 在哪里\n30. what 什么","id":"g1_english_vocab_u003","semester":"upper"},{"chapter":"上册 Unit 4","name":"Unit 4 核心词汇","formula":"get up, breakfast, lunch, dinner, go to school, have class, homework, watch TV, go to bed","explanation":"【Unit 4 核心词汇表】\n\n【日常活动】\n1. get up 起床\n2. eat breakfast 吃早饭\n3. have breakfast 吃早饭\n4. go to school 去上学\n5. go home 回家\n6. go to bed 上床睡觉\n7. have class / have lessons 上课\n8. do homework 做作业\n9. watch TV 看电视\n10. read a book 读书\n11. play sports 做运动\n12. play football 踢足球\n13. play basketball 打篮球\n14. listen to music 听音乐\n15. eat / have 吃\n\n【三餐】\n16. breakfast 早餐\n17. lunch 午餐\n18. dinner 晚餐，正餐\n19. meal 一餐\n20. food 食物\n\n【时间】\n21. morning 早上，上午\n22. afternoon 下午\n23. evening 晚上\n24. night 夜晚\n25. today 今天\n26. tomorrow 明天\n27. usually 通常\n28. often 经常\n29. sometimes 有时\n30. always 总是","id":"g1_english_vocab_u004","semester":"upper"},{"chapter":"上册 Unit 5","name":"Unit 5 核心词汇","formula":"rice, bread, meat, fish, chicken, vegetable, fruit, water, milk, juice, tea, apple, banana","explanation":"【Unit 5 核心词汇表】\n\n【主食类】\n1. rice 米饭\n2. bread 面包\n3. noodle 面条\n4. dumpling 饺子\n5. hamburger 汉堡包\n6. sandwich 三明治\n\n【肉蛋类】\n7. meat 肉\n8. beef 牛肉\n9. pork 猪肉\n10. chicken 鸡肉\n11. fish 鱼肉\n12. egg 鸡蛋\n\n【蔬菜水果】\n13. vegetable 蔬菜\n14. tomato 西红柿\n15. potato 土豆，马铃薯\n16. carrot 胡萝卜\n17. fruit 水果\n18. apple 苹果\n19. banana 香蕉\n20. orange 橙子\n21. grape 葡萄\n22. pear 梨\n23. strawberry 草莓\n\n【饮料】\n24. water 水\n25. milk 牛奶\n26. juice 果汁\n27. tea 茶\n28. coffee 咖啡\n29. coke 可乐\n\n【其他】\n30. like 喜欢","id":"g1_english_vocab_u005","semester":"upper"},{"chapter":"上册 Unit 6","name":"Unit 6 核心词汇","formula":"shirt, T-shirt, sweater, jacket, coat, pants, shoes, socks, hat, dress, skirt, red, blue, green","explanation":"【Unit 6 核心词汇表】\n\n【服装类】\n1. shirt 衬衫\n2. T-shirt T恤衫\n3. sweater 毛衣\n4. jacket 夹克衫\n5. coat 外套，大衣\n6. dress 连衣裙\n7. skirt 短裙\n8. pants / trousers 裤子\n9. jeans 牛仔裤\n10. shorts 短裤\n11. shoes 鞋\n12. socks 袜子\n13. hat 帽子（有边的）\n14. cap 鸭舌帽\n15. scarf 围巾\n16. gloves 手套\n\n【颜色类】\n17. red 红色（的）\n18. blue 蓝色（的）\n19. green 绿色（的）\n20. yellow 黄色（的）\n21. black 黑色（的）\n22. white 白色（的）\n23. purple 紫色（的）\n24. pink 粉色（的）\n25. orange 橙色（的）\n26. brown 棕色（的）\n27. gray / grey 灰色（的）\n\n【形容词】\n28. big 大的\n29. small 小的\n30. long 长的\n31. short 短的，矮的\n32. new 新的\n33. old 旧的，老的\n\n【其他】\n34. wear 穿，戴\n35. want 想要\n36. buy 买\n37. sell 卖\n38. price 价格\n39. cheap 便宜的\n40. expensive 昂贵的","id":"g1_english_vocab_u006","semester":"upper"},{"chapter":"上册 Unit 7","name":"Unit 7 核心词汇","formula":"time, clock, hour, minute, day, week, month, year, Monday, Sunday, January, December","explanation":"【Unit 7 核心词汇表】\n\n【时间单位】\n1. time 时间\n2. clock 时钟\n3. hour 小时\n4. minute 分钟\n5. second 秒\n6. day 天，日\n7. week 星期，周\n8. month 月\n9. year 年\n\n【星期】\n10. Monday 星期一\n11. Tuesday 星期二\n12. Wednesday 星期三\n13. Thursday 星期四\n14. Friday 星期五\n15. Saturday 星期六\n16. Sunday 星期日\n17. weekday 工作日\n18. weekend 周末\n\n【月份】\n19. January 一月\n20. February 二月\n21. March 三月\n22. April 四月\n23. May 五月\n24. June 六月\n25. July 七月\n26. August 八月\n27. September 九月\n28. October 十月\n29. November 十一月\n30. December 十二月\n\n【其他】\n31. today 今天\n32. tomorrow 明天\n33. yesterday 昨天\n34. morning 早上\n35. afternoon 下午\n36. evening 晚上\n37. night 夜晚\n38. noon 中午\n39. o'clock 点钟\n40. half 一半","id":"g1_english_vocab_u007","semester":"upper"},{"chapter":"上册 Unit 8","name":"Unit 8 核心词汇","formula":"sunny, rainy, cloudy, windy, snowy, hot, cold, warm, cool, weather","explanation":"【Unit 8 核心词汇表】\n\n【天气形容词】\n1. sunny 晴朗的\n2. rainy 下雨的，多雨的\n3. cloudy 多云的，阴天的\n4. windy 有风的，多风的\n5. snowy 下雪的，多雪的\n6. foggy 有雾的\n\n【天气名词/动词】\n7. sun 太阳，阳光\n8. rain 雨，下雨\n9. cloud 云\n10. wind 风\n11. snow 雪，下雪\n12. fog 雾\n\n【温度描述】\n13. hot 热的\n14. cold 冷的\n15. warm 温暖的\n16. cool 凉爽的\n17. cool 凉快的\n18. temperature 温度\n\n【天气相关】\n19. weather 天气\n20. sky 天空\n21. sun 太阳\n22. moon 月亮\n23. star 星星\n24. rainbow 彩虹\n25. storm 暴风雨\n26. thunder 雷\n27. lightning 闪电\n28. ice 冰\n29. season 季节\n30. spring 春天\n31. summer 夏天\n32. autumn / fall 秋天\n33. winter 冬天\n\n【动词】\n34. shine 照耀\n35. blow 吹\n36. rain 下雨\n37. snow 下雪\n38. become 变得\n39. report 报告\n40. forecast 预报","id":"g1_english_vocab_u008","semester":"upper"},{"chapter":"上册 Unit 9","name":"Unit 9 核心词汇","formula":"English, math, Chinese, PE, music, art, science, teacher, student, classroom, playground, library","explanation":"【Unit 9 核心词汇表】\n\n【课程科目】\n1. English 英语\n2. math / maths 数学\n3. Chinese 语文，汉语\n4. PE / physical education 体育\n5. music 音乐\n6. art 美术，艺术\n7. science 科学\n8. history 历史\n9. geography 地理\n10. biology 生物\n11. politics 政治\n12. computer 计算机\n\n【学校人员】\n13. teacher 老师\n14. student 学生\n15. classmate 同学\n16. headmaster 校长\n17. monitor 班长\n\n【学校场所】\n18. classroom 教室\n19. playground 操场\n20. library 图书馆\n21. lab / laboratory 实验室\n22. canteen 食堂\n23. dining hall 食堂\n24. teachers' office 教师办公室\n25. gym 体育馆\n26. garden 花园\n27. hallway 走廊\n28. toilet 厕所\n29. office 办公室\n\n【学习活动】\n30. study 学习\n31. learn 学习\n32. read 读，阅读\n33. write 写\n34. listen 听\n35. speak 说\n36. recite 背诵\n37. practice 练习\n38. exam 考试\n39. test 测验\n40. homework 作业","id":"g1_english_vocab_u009","semester":"upper"},{"chapter":"上册 语法词汇1","name":"语法词汇1：词类","formula":"名词、动词、形容词、副词、代词、数词、介词、冠词、连词、感叹词","explanation":"【英语词类（十大词类）】\n\n1. 名词 (n. / noun)\n   表示人、事物、地点或抽象概念的名称\n   例：book, teacher, China, love\n\n2. 动词 (v. / verb)\n   表示动作或状态\n   例：run, eat, is, have, can\n\n3. 形容词 (adj. / adjective)\n   修饰名词，表示人或事物的特征\n   例：big, red, happy, good\n\n4. 副词 (adv. / adverb)\n   修饰动词、形容词或其他副词\n   例：fast, very, quickly, now\n\n5. 代词 (pron. / pronoun)\n   代替名词或起名词作用\n   例：I, you, he, this, who, my\n\n6. 数词 (num. / numeral)\n   表示数量或顺序\n   例：one, two, first, second\n\n7. 介词 (prep. / preposition)\n   用在名词、代词前，表示与其他词的关系\n   例：in, on, at, for, with\n\n8. 冠词 (art. / article)\n   用在名词前，帮助说明名词的含义\n   例：a, an, the\n\n9. 连词 (conj. / conjunction)\n   连接词与词、短语与短语或句子与句子\n   例：and, but, because, if\n\n10. 感叹词 (interj. / interjection)\n    表示说话时的感情或口气\n    例：oh, hello, ah, well","id":"g1_english_vocab_u010","semester":"upper"},{"chapter":"上册 语法词汇2","name":"语法词汇2：时态","formula":"一般现在时、现在进行时、一般将来时、一般过去时","explanation":"【英语八大时态（初一常见四种）】\n\n1. 一般现在时\n   表示经常性、习惯性的动作或存在的状态\n   构成：主语 + 动词原形 / 三单形式\n   标志词：always, usually, often, every day\n   例：I get up at 6 every day. 我每天6点起床。\n\n2. 现在进行时\n   表示现在正在进行的动作\n   构成：主语 + am/is/are + 动词ing\n   标志词：now, look, listen, at the moment\n   例：He is reading a book now. 他现在正在读书。\n\n3. 一般将来时\n   表示将来要发生的动作或存在的状态\n   构成：will + 动词原形 / be going to + 动词原形\n   标志词：tomorrow, next week, soon, in the future\n   例：I will go to Beijing tomorrow. 我明天要去北京。\n\n4. 一般过去时\n   表示过去某个时间发生的动作或状态\n   构成：主语 + 动词过去式\n   标志词：yesterday, last week, ago, just now\n   例：I went to park yesterday. 我昨天去了公园。\n\n【其他时态（了解）】\n5. 过去进行时\n6. 现在完成时\n7. 过去完成时\n8. 过去将来时","id":"g1_english_vocab_u011","semester":"upper"},{"chapter":"上册 语法词汇3","name":"语法词汇3：句子成分","formula":"主语、谓语、宾语、表语、定语、状语、补语","explanation":"【句子成分】\n\n1. 主语 (subject)\n   句子所说的人或事物，句子的主体\n   一般在句首，由名词、代词、数词等充当\n   例：The students are studying.（The students是主语）\n\n2. 谓语 (predicate)\n   说明主语的动作或状态\n   由动词充当\n   例：He runs fast.（runs是谓语）\n\n3. 宾语 (object)\n   动作的承受者或对象\n   放在及物动词或介词后面\n   例：I like English.（English是宾语）\n\n4. 表语 (predicative)\n   放在系动词后面，说明主语的性质、状态、身份等\n   系动词：be, look, sound, smell, taste, feel, become等\n   例：She is happy.（happy是表语）\n\n5. 定语 (attribute)\n   修饰名词或代词\n   形容词、名词、代词等都可以作定语\n   例：a red apple（red是定语，修饰apple）\n\n6. 状语 (adverbial)\n   修饰动词、形容词、副词或整个句子\n   表示时间、地点、方式、程度、原因等\n   例：He runs fast.（fast是方式状语）\n\n7. 补语 (complement)\n   补充说明宾语或主语\n   例：We call him Jack.（Jack是宾语补足语）","id":"g1_english_vocab_u012","semester":"upper"},{"chapter":"上册 语法词汇4","name":"语法词汇4：简单句五种基本句型","formula":"主谓、主谓宾、主系表、主谓双宾、主谓宾宾补","explanation":"【简单句五种基本句型】\n\n1. 主语 + 不及物动词 (S + V)\n   主语 + 谓语（不及物动词不能加宾语）\n   例：The sun rises. 太阳升起。\n   例：He runs fast. 他跑得快。\n\n2. 主语 + 及物动词 + 宾语 (S + V + O)\n   主语 + 谓语 + 宾语\n   例：I like music. 我喜欢音乐。\n   例：She reads English every day. 她每天读英语。\n\n3. 主语 + 系动词 + 表语 (S + V + P)\n   主语 + 系动词 + 表语\n   例：He is a student. 他是一名学生。\n   例：The flowers look beautiful. 花看起来很美。\n\n4. 主语 + 及物动词 + 间接宾语 + 直接宾语 (S + V + IO + DO)\n   双宾语结构：人（间宾）+ 物（直宾）\n   例：She gave me a book. 她给了我一本书。\n   例：My father bought me a bike. 我爸爸给我买了一辆自行车。\n\n5. 主语 + 及物动词 + 宾语 + 宾语补足语 (S + V + O + OC)\n   主谓宾宾补结构\n   例：We call him Tom. 我们叫他汤姆。\n   例：The teacher asked me to clean the classroom. 老师让我打扫教室。\n\n【There be句型】\n表示\"某地有某物\"：There is a book on the desk.","id":"g1_english_vocab_u013","semester":"upper"},{"chapter":"上册 短语1","name":"短语1：动词短语","formula":"get up, go to school, watch TV, do homework, look at, listen to","explanation":"【上册常见动词短语】\n\n【日常活动】\n1. get up 起床\n2. go to school 去上学\n3. go home 回家\n4. go to bed 睡觉\n5. eat breakfast 吃早饭\n6. have lunch 吃午饭\n7. have dinner 吃晚饭\n8. do homework 做作业\n9. watch TV 看电视\n10. read books 读书\n11. play sports 做运动\n12. play football 踢足球\n13. play basketball 打篮球\n14. play games 玩游戏\n15. listen to music 听音乐\n\n【look短语】\n16. look at 看...\n17. look for 寻找\n18. look after 照顾\n19. look like 看起来像\n20. look up 查阅（字典）\n\n【其他动词短语】\n21. listen to 听...\n22. talk about 谈论\n23. talk with 和...交谈\n24. think about 考虑\n25. think of 想起，认为\n26. wait for 等待\n27. come from 来自\n28. be from 来自\n29. help...with... 在...方面帮助...\n30. learn from 向...学习","id":"g1_english_vocab_u014","semester":"upper"},{"chapter":"上册 短语2","name":"短语2：介词短语","formula":"at home, at school, in the morning, on foot, by bus, in English","explanation":"【上册常见介词短语】\n\n【地点类】\n1. at home 在家\n2. at school 在学校\n3. at work 在工作\n4. in the classroom 在教室里\n5. on the desk 在书桌上\n6. under the bed 在床下\n7. near the door 在门附近\n8. next to the window 紧挨着窗户\n9. in front of the house 在房子前面\n10. behind the tree 在树后面\n\n【时间类】\n11. in the morning 在早上\n12. in the afternoon 在下午\n13. in the evening 在晚上\n14. at noon 在中午\n15. at night 在夜晚\n16. on Monday 在星期一\n17. on Sunday morning 在星期天早上\n18. at 7 o'clock 在7点钟\n19. in spring 在春天\n20. in June 在六月\n21. in 2024 在2024年\n\n【方式类】\n22. on foot 步行\n23. by bus 乘公共汽车\n24. by bike 骑自行车\n25. by car 乘小汽车\n26. by train 乘火车\n27. by plane / by air 乘飞机\n28. in English 用英语\n29. in Chinese 用汉语\n30. with a pen 用钢笔","id":"g1_english_vocab_u015","semester":"upper"},{"chapter":"下册 Unit 1","name":"Unit 1 核心词汇","formula":"ask, tell, way, go straight, turn left, turn right, bus, bike, foot, walk","explanation":"【Unit 1 核心词汇表】\n\n【交通方式】\n1. bus 公共汽车\n2. car 小汽车\n3. bike / bicycle 自行车\n4. train 火车\n5. plane 飞机\n6. ship 船\n7. subway 地铁\n8. taxi 出租车\n9. foot 脚（on foot 步行）\n10. walk 走路，步行\n\n【方向与指路】\n11. way 路，方式，方法\n12. go straight 直走\n13. turn left 向左转\n14. turn right 向右转\n15. crossing 十字路口\n16. corner 角落，拐角\n17. along 沿着\n18. across 穿过，横过\n19. past 经过\n20. between 在...之间\n\n【问路用语】\n21. ask 问\n22. tell 告诉\n23. excuse me 打扰一下\n24. where 在哪里\n25. how 怎样\n26. which 哪一个\n27. get to 到达\n28. find 找到\n29. miss 错过，想念\n30. thank 感谢\n31. thanks 谢谢\n\n【地点】\n32. station 车站\n33. stop 停车站\n34. airport 机场\n35. hospital 医院\n36. hotel 旅馆\n37. museum 博物馆\n38. park 公园\n39. zoo 动物园\n40. library 图书馆","id":"g1_english_vocab_l001","semester":"lower"},{"chapter":"下册 Unit 2","name":"Unit 2 核心词汇","formula":"weekend, visit, shopping, cinema, movie, sport, swim, clean, wash, tomorrow","explanation":"【Unit 2 核心词汇表】\n\n【周末活动】\n1. weekend 周末\n2. weekday 工作日\n3. Saturday 星期六\n4. Sunday 星期日\n5. visit 参观，拜访\n6. go shopping 去购物\n7. go swimming 去游泳\n8. go to the cinema 去看电影\n9. see a movie 看电影\n10. watch a movie 看电影\n11. play sports 做运动\n12. have a good time 玩得高兴\n13. enjoy oneself 玩得高兴\n14. have fun 玩得开心\n15. clean the room 打扫房间\n16. wash clothes 洗衣服\n17. do some washing 洗衣服\n18. do some cleaning 打扫卫生\n19. listen to music 听音乐\n20. draw pictures 画画\n\n【拜访人物】\n21. grandparent 祖父/母\n22. grandpa 爷爷\n23. grandma 奶奶\n24. friend 朋友\n25. relative 亲戚\n\n【时间】\n26. tomorrow 明天\n27. today 今天\n28. yesterday 昨天\n29. last week 上周\n30. next week 下周\n31. this morning 今天早上\n32. this afternoon 今天下午\n33. this evening 今天晚上\n34. soon 不久\n35. later 后来\n\n【动词】\n36. will 将要\n37. going to 打算\n38. plan 计划\n39. decide 决定\n40. invite 邀请","id":"g1_english_vocab_l002","semester":"lower"},{"chapter":"下册 Unit 3","name":"Unit 3 核心词汇","formula":"panda, tiger, lion, elephant, monkey, bear, rabbit, bird, fish, snake, big, small, long, short, tall","explanation":"【Unit 3 核心词汇表】\n\n【常见动物】\n1. panda 熊猫\n2. tiger 老虎\n3. lion 狮子\n4. elephant 大象\n5. monkey 猴子\n6. bear 熊\n7. wolf 狼\n8. fox 狐狸\n9. rabbit 兔子\n10. deer 鹿\n11. horse 马\n12. cow 奶牛\n13. sheep 绵羊\n14. pig 猪\n15. dog 狗\n16. cat 猫\n17. mouse 老鼠\n\n【鸟类】\n18. bird 鸟\n19. eagle 鹰\n20. parrot 鹦鹉\n21. chicken 鸡\n22. duck 鸭\n23. goose 鹅\n\n【其他动物】\n24. fish 鱼\n25. snake 蛇\n26. frog 青蛙\n27. turtle 乌龟\n28. butterfly 蝴蝶\n29. bee 蜜蜂\n30. ant 蚂蚁\n\n【动物特征】\n31. strong 强壮的\n32. weak 虚弱的\n33. fast 快的\n34. slow 慢的\n35. big 大的\n36. small 小的\n37. long 长的\n38. short 短的\n39. tall 高的\n40. smart 聪明的\n41. cute 可爱的\n42. dangerous 危险的\n43. friendly 友好的\n44. shy 害羞的\n45. heavy 重的","id":"g1_english_vocab_l003","semester":"lower"},{"chapter":"下册 Unit 4","name":"Unit 4 核心词汇","formula":"teacher, doctor, nurse, worker, farmer, driver, cook, policeman, engineer, scientist","explanation":"【Unit 4 核心词汇表】\n\n【常见职业】\n1. teacher 教师，老师\n2. doctor 医生\n3. nurse 护士\n4. worker 工人\n5. farmer 农民\n6. driver 司机\n7. cook 厨师\n8. policeman 警察\n9. policewoman 女警察\n10. soldier 士兵\n11. engineer 工程师\n12. scientist 科学家\n13. singer 歌手\n14. dancer 舞蹈家\n15. writer 作家，作者\n16. artist 艺术家，画家\n17. actor 演员（男）\n18. actress 演员（女）\n19. doctor 医生\n20. dentist 牙医\n21. lawyer 律师\n22. reporter 记者\n23. businessman 商人\n24. astronaut 宇航员\n25. pilot 飞行员\n26. waiter 服务员（男）\n27. waitress 服务员（女）\n28. manager 经理\n29. secretary 秘书\n30. student 学生\n\n【工作单位】\n31. school 学校\n32. hospital 医院\n33. factory 工厂\n34. farm 农场\n35. restaurant 餐馆\n36. company 公司\n37. office 办公室\n38. bank 银行\n39. police station 警察局\n40. lab / laboratory 实验室\n\n【工作相关】\n41. work 工作\n42. job 工作\n43. career 职业\n44. salary 工资\n45. hard 努力地","id":"g1_english_vocab_l004","semester":"lower"},{"chapter":"下册 Unit 5","name":"Unit 5 核心词汇","formula":"birthday, cake, gift, party, candle, celebrate, wish, Spring Festival, Christmas, Children's Day","explanation":"【Unit 5 核心词汇表】\n\n【生日相关】\n1. birthday 生日\n2. birthday cake 生日蛋糕\n3. gift 礼物\n4. present 礼物\n5. birthday party 生日派对\n6. candle 蜡烛\n7. wish 愿望，希望\n8. blow 吹\n9. blow out 吹灭\n10. celebrate 庆祝\n11. celebration 庆祝活动\n12. birthday card 生日卡片\n13. birthday song 生日歌\n14. invite 邀请\n15. happy birthday 生日快乐\n\n【中国节日】\n16. Spring Festival 春节\n17. Lantern Festival 元宵节\n18. Dragon Boat Festival 端午节\n19. Mid-Autumn Festival 中秋节\n20. National Day 国庆节\n21. New Year's Day 元旦\n22. Labor Day / May Day 劳动节\n23. Children's Day 儿童节\n24. Teachers' Day 教师节\n25. Tree Planting Day 植树节\n\n【西方节日】\n26. Christmas 圣诞节\n27. Halloween 万圣节\n28. Thanksgiving Day 感恩节\n29. Easter 复活节\n30. Valentine's Day 情人节\n31. April Fool's Day 愚人节\n32. Mother's Day 母亲节\n33. Father's Day 父亲节\n\n【节日活动】\n34. have a party 举办派对\n35. give gifts 送礼物\n36. get together 团聚\n37. have a big dinner 吃大餐\n38. watch fireworks 看烟花\n39. lucky money 压岁钱\n40. best wishes 最美好的祝愿","id":"g1_english_vocab_l005","semester":"lower"},{"chapter":"下册 Unit 6","name":"Unit 6 核心词汇","formula":"tall, short, fat, thin, strong, hair, eye, face, kind, friendly, shy, outgoing","explanation":"【Unit 6 核心词汇表】\n\n【外貌描述】\n1. tall 高的\n2. short 矮的，短的\n3. fat 胖的\n4. thin 瘦的\n5. heavy 重的\n6. slim 苗条的\n7. strong 强壮的\n8. weak 虚弱的\n9. of medium height 中等身高\n10. of medium build 中等体型\n\n【头部五官】\n11. hair 头发\n12. straight hair 直发\n13. curly hair 卷发\n14. long hair 长头发\n15. short hair 短头发\n16. black hair 黑头发\n17. eye 眼睛\n18. big eyes 大眼睛\n19. small eyes 小眼睛\n20. nose 鼻子\n21. mouth 嘴\n22. face 脸\n23. round face 圆脸\n24. long face 长脸\n25. ear 耳朵\n26. tooth / teeth 牙齿\n\n【性格描述】\n27. kind 善良的，和蔼的\n28. friendly 友好的\n29. shy 害羞的\n30. outgoing 外向的\n31. quiet 安静的\n32. active 活跃的\n33. clever 聪明的\n34. smart 聪明的\n35. lazy 懒惰的\n36. hard-working 勤奋的\n37. brave 勇敢的\n38. funny 有趣的，滑稽的\n39. honest 诚实的\n40. polite 有礼貌的","id":"g1_english_vocab_l006","semester":"lower"},{"chapter":"下册 Unit 7","name":"Unit 7 核心词汇","formula":"yesterday, last, ago, just now, was, were, went, did, had, came, went, saw","explanation":"【Unit 7 核心词汇表】\n\n【过去时间状语】\n1. yesterday 昨天\n2. yesterday morning 昨天早上\n3. yesterday afternoon 昨天下午\n4. yesterday evening 昨天晚上\n5. last week 上周\n6. last month 上个月\n7. last year 去年\n8. last night 昨晚\n9. ... ago ...以前\n10. just now 刚才\n11. at that time 在那时\n12. in the past 在过去\n13. once upon a time 从前\n14. the day before yesterday 前天\n15. last Monday 上周一\n\n【常见不规则动词过去式】\n16. am / is → was 是\n17. are → were 是\n18. go → went 去\n19. do → did 做\n20. have → had 有，吃\n21. come → came 来\n22. see → saw 看见\n23. say → said 说\n24. get → got 得到\n25. make → made 制作\n26. eat → ate 吃\n27. drink → drank 喝\n28. buy → bought 买\n29. take → took 拿走\n30. give → gave 给\n31. run → ran 跑\n32. swim → swam 游泳\n33. sing → sang 唱歌\n34. sit → sat 坐\n35. stand → stood 站\n36. sleep → slept 睡觉\n37. read → read 读\n38. write → wrote 写\n39. speak → spoke 说\n40. tell → told 告诉","id":"g1_english_vocab_l007","semester":"lower"},{"chapter":"下册 Unit 8","name":"Unit 8 核心词汇","formula":"plan, future, tomorrow, next, will, going to, want, hope, decide, dream","explanation":"【Unit 8 核心词汇表】\n\n【计划与打算】\n1. plan 计划，打算\n2. future 未来，将来\n3. tomorrow 明天\n4. next week 下周\n5. next month 下个月\n6. next year 明年\n7. will 将要\n8. be going to 打算，将要\n9. want 想要\n10. hope 希望\n11. wish 希望，愿望\n12. decide 决定\n13. decision 决定\n14. dream 梦想，做梦\n15. goal 目标\n16. prepare 准备\n17. ready 准备好的\n18. look forward to 期待\n19. expect 期待\n20. consider 考虑\n\n【将来时间】\n21. tomorrow 明天\n22. the day after tomorrow 后天\n23. next week 下周\n24. next month 下个月\n25. next year 明年\n26. soon 不久，很快\n27. in the future 在将来\n28. later 稍后，以后\n29. one day 有一天\n30. some day 某一天\n\n【动词短语】\n31. plan to do 计划做\n32. want to do 想要做\n33. hope to do 希望做\n34. wish to do 希望做\n35. decide to do 决定做\n36. would like to do 想要做\n37. be going to do 打算做\n38. will do 将要做\n39. prepare for 为...做准备\n40. dream of 梦想","id":"g1_english_vocab_l008","semester":"lower"},{"chapter":"下册 语法词汇1","name":"语法词汇1：比较级和最高级","formula":"比较级：加er/加more；最高级：加est/加most","explanation":"【比较级和最高级规则变化】\n\n1. 一般单音节词：加er / est\n   tall → taller → tallest\n   long → longer → longest\n   small → smaller → smallest\n\n2. 以不发音的e结尾：加r / st\n   nice → nicer → nicest\n   large → larger → largest\n   late → later → latest\n\n3. 以辅音字母+y结尾：变y为i加er / est\n   happy → happier → happiest\n   easy → easier → easiest\n   heavy → heavier → heaviest\n\n4. 重读闭音节（辅元辅）：双写最后字母加er / est\n   big → bigger → biggest\n   hot → hotter → hottest\n   thin → thinner → thinnest\n   fat → fatter → fattest\n\n5. 多音节词和部分双音节词：加more / most\n   beautiful → more beautiful → most beautiful\n   interesting → more interesting → most interesting\n   important → more important → most important\n\n【不规则变化】\n1. good / well → better → best\n2. bad / badly / ill → worse → worst\n3. many / much → more → most\n4. little → less → least\n5. far → farther / further → farthest / furthest\n\n【常用句型】\n1. 比较级 + than 比...更...\n2. the + 最高级 + of / in... 最...的\n3. as + 原级 + as 和...一样...\n4. not as / so + 原级 + as 不如...","id":"g1_english_vocab_l009","semester":"lower"},{"chapter":"下册 语法词汇2","name":"语法词汇2：被动语态","formula":"be + 过去分词，表示\"被...\"","explanation":"【被动语态】\n\n【定义】\n被动语态表示主语是动作的承受者，意思是\"被...\"。\n\n【基本构成】\nbe + 及物动词的过去分词\n\n【各种时态的被动语态】\n\n1. 一般现在时的被动\n   am / is / are + 过去分词\n   English is spoken in many countries.\n   许多国家说英语。\n\n2. 一般过去时的被动\n   was / were + 过去分词\n   The bridge was built in 1990.\n   这座桥建于1990年。\n\n3. 一般将来时的被动\n   will be + 过去分词 / be going to be + 过去分词\n   The work will be finished tomorrow.\n   这项工作明天将完成。\n\n4. 现在进行时的被动（了解）\n   am / is / are + being + 过去分词\n\n5. 现在完成时的被动（了解）\n   have / has + been + 过去分词\n\n【被动语态的用法】\n1. 不知道或没必要指出动作的执行者\n2. 强调动作的承受者\n3. 动作的执行者是泛指或不言自明\n\n【by短语】\n如果需要指出动作的执行者，用by短语：\nThe book was written by Lu Xun.\n这本书是鲁迅写的。","id":"g1_english_vocab_l010","semester":"lower"},{"chapter":"下册 语法词汇3","name":"语法词汇3：动词不定式","formula":"to + 动词原形，作宾语、状语、宾补等","explanation":"【动词不定式】\n\n【形式】\n基本形式：to + 动词原形\n否定形式：not + to + 动词原形\n\n【用法】\n\n1. 作宾语（某些动词后面只跟不定式）\n   want to do 想要做\n   hope to do 希望做\n   decide to do 决定做\n   plan to do 计划做\n   would like to do 想要做\n   learn to do 学习做\n   try to do 尽力做\n   forget to do 忘记要做\n   remember to do 记得要做\n\n2. 作宾语补足语\n   ask sb. to do sth. 让某人做某事\n   tell sb. to do sth. 告诉某人做某事\n   want sb. to do sth. 想要某人做某事\n   invite sb. to do sth. 邀请某人做某事\n   allow sb. to do sth. 允许某人做某事\n   help sb. (to) do sth. 帮助某人做某事\n\n3. 作目的状语\n   I come here to see you. 我来这儿看你。\n\n4. 作主语\n   To learn English well is important.\n   = It is important to learn English well.\n   学好英语很重要。\n\n5. 作表语\n   My dream is to be a doctor.\n   我的梦想是成为一名医生。\n\n【省略to的情况】\n使役动词 make, let, have 和感官动词 see, hear, watch, feel, notice 等后面，不定式要省略to。","id":"g1_english_vocab_l011","semester":"lower"},{"chapter":"下册 短语1","name":"短语1：动词短语（下）","formula":"look after, look for, look like, get on, get off, turn on, turn off, take off, put on, take care of","explanation":"【下册常见动词短语】\n\n【look短语】\n1. look at 看...\n2. look for 寻找\n3. look after 照顾，照看\n4. look like 看起来像\n5. look up 查阅，查找\n6. look over 检查\n7. look around 环顾四周\n8. look forward to 期待\n\n【get短语】\n9. get up 起床\n10. get on 上车\n11. get off 下车\n12. get to 到达\n13. get back 回来\n14. get ready 准备好\n15. get on well with 和...相处得好\n\n【turn短语】\n16. turn on 打开（电器）\n17. turn off 关掉（电器）\n18. turn up 调大（音量）\n19. turn down 调小（音量）\n20. turn left 向左转\n21. turn right 向右转\n\n【put短语】\n22. put on 穿上\n23. put off 推迟\n24. put up 张贴，举起\n25. put down 放下\n26. put away 收好，放好\n\n【take短语】\n27. take off 脱下，起飞\n28. take away 拿走\n29. take care of 照顾\n30. take part in 参加\n31. take place 发生\n32. take out 拿出\n\n【其他】\n33. give up 放弃\n34. give back 归还\n35. pick up 捡起\n36. think about 考虑\n37. agree with 同意\n38. wait for 等待","id":"g1_english_vocab_l012","semester":"lower"},{"chapter":"下册 短语2","name":"短语2：be动词短语","formula":"be good at, be interested in, be afraid of, be late for, be ready for","explanation":"【常见be动词短语】\n\n【be + 形容词 + 介词】\n1. be good at 擅长于\n2. be good for 对...有益\n3. be bad for 对...有害\n4. be interested in 对...感兴趣\n5. be afraid of 害怕\n6. be proud of 为...感到骄傲\n7. be full of 充满\n8. be busy with 忙于...\n9. be late for 迟到\n10. be ready for 为...准备好\n11. be different from 与...不同\n12. be the same as 和...一样\n13. be friendly to 对...友好\n14. be kind to 对...和蔼\n15. be strict with 对...严格\n16. be careful with 小心...\n17. be famous for 因...而著名\n18. be popular with 受...欢迎\n19. be angry with 对...生气\n20. be happy with 对...满意\n\n【be + 介词短语】\n21. be at home 在家\n22. be at school 在上学\n23. be at work 在工作\n24. be in hospital 住院\n25. be in bed 在床上，卧床\n26. be on duty 值日\n27. be on sale 出售\n28. be in danger 处于危险中\n29. be in trouble 处于困境中\n30. be on time 准时\n\n【be + 形容词 + 不定式】\n31. be able to 能够\n32. be glad to 很高兴...\n33. be sorry to 很抱歉...\n34. be sure to 一定会...\n35. be happy to 很高兴...","id":"g1_english_vocab_l013","semester":"lower"},{"chapter":"下册 词性转换","name":"词性转换常见规律","formula":"名词加ful变形容词，形容词加ly变副词，动词加er变名词","explanation":"【常见词性转换规律】\n\n【名词 → 形容词】\n1. 名词 + ful（充满...的）\n   care → careful 小心的\n   help → helpful 有帮助的\n   use → useful 有用的\n   beauty → beautiful 美丽的\n\n2. 名词 + less（没有...的）\n   care → careless 粗心的\n   help → helpless 无助的\n   use → useless 无用的\n\n3. 名词 + y（多...的）\n   sun → sunny 晴朗的\n   rain → rainy 下雨的\n   cloud → cloudy 多云的\n   wind → windy 有风的\n   snow → snowy 下雪的\n   health → healthy 健康的\n\n4. 名词 + ous（...的）\n   danger → dangerous 危险的\n   fame → famous 著名的\n\n【形容词 → 副词】\n1. 形容词 + ly\n   quick → quickly 快地\n   slow → slowly 慢地\n   careful → carefully 仔细地\n   happy → happily 高兴地\n   easy → easily 容易地\n\n【动词 → 名词】\n1. 动词 + er / or（做...的人）\n   teach → teacher 老师\n   work → worker 工人\n   drive → driver 司机\n   visit → visitor 游客\n   act → actor 演员\n\n2. 动词 + ing / tion / ment（动作或结果）\n   swim → swimming 游泳\n   build → building 建筑物\n   decide → decision 决定\n   develop → development 发展\n\n【形容词 → 名词】\n1. 形容词 + ness\n   happy → happiness 幸福\n   ill → illness 疾病\n   kind → kindness 善良\n\n2. 形容词 + ty\n   safe → safety 安全\n   difficult → difficulty 困难","id":"g1_english_vocab_l014","semester":"lower"},{"chapter":"下册 不规则动词","name":"不规则动词表","formula":"AAA型、ABB型、ABC型","explanation":"【常见不规则动词分类表】\n\n【AAA型（原形、过去式、过去分词相同）】\ncost → cost → cost 花费\ncut → cut → cut 切，割\nput → put → put 放\nread → read → read 读\nlet → let → let 让\nhit → hit → hit 击打\nset → set → set 安置\nhurt → hurt → hurt 受伤\n\n【ABB型（过去式和过去分词相同）】\n1. 词尾加t：\n   learn → learnt → learnt 学习\n   mean → meant → meant 意思是\n   sleep → slept → slept 睡觉\n   keep → kept → kept 保持\n   feel → felt → felt 感觉\n   spell → spelt → spelt 拼写\n\n2. 改d为t：\n   build → built → built 建造\n   lend → lent → lent 借出\n   send → sent → sent 发送\n   spend → spent → spent 花费\n\n3. 变中间元音：\n   sit → sat → sat 坐\n   win → won → won 赢\n   shine → shone → shone 照耀\n   dig → dug → dug 挖\n   hang → hung → hung 悬挂\n\n4. 其他：\n   have → had → had 有\n   hear → heard → heard 听见\n   make → made → made 制作\n   pay → paid → paid 付款\n   say → said → said 说\n   sell → sold → sold 卖\n   tell → told → told 告诉\n   stand → stood → stood 站\n   understand → understood → understood 理解\n\n【ABC型（三者都不同）】\n1. ow → ew → own:\n   blow → blew → blown 吹\n   know → knew → known 知道\n   grow → grew → grown 生长\n   throw → threw → thrown 扔\n\n2. i → a → u:\n   begin → began → begun 开始\n   drink → drank → drunk 喝\n   ring → rang → rung 响\n   sing → sang → sung 唱\n   swim → swam → swum 游泳\n\n3. 其他常见：\n   go → went → gone 去\n   do → did → done 做\n   see → saw → seen 看见\n   eat → ate → eaten 吃\n   give → gave → given 给\n   take → took → taken 拿走\n   speak → spoke → spoken 说\n   write → wrote → written 写\n   get → got → got / gotten 得到\n   forget → forgot → forgotten 忘记\n   come → came → come 来\n   run → ran → run 跑\n   be → was/were → been 是","id":"g1_english_vocab_l015","semester":"lower"}];
+
+        // ==================== 内嵌例题数据 ====================
+        const DATA_EXAMPLES = [];
+        const HAS_EXAMPLES = false;
+
+        // 错题本管理器
+        const WrongBookManager = {
+            STORAGE_KEY_PREFIX: 'wrongbook_',
+            getWrongBook(grade, subject) {
+                const key = this.STORAGE_KEY_PREFIX + grade + '_' + subject;
+                return JSON.parse(localStorage.getItem(key) || '[]');
+            },
+            addWrongBook(item) {
+                const key = this.STORAGE_KEY_PREFIX + item.grade + '_' + item.subject;
+                let wrongBook = this.getWrongBook(item.grade, item.subject);
+                const exists = wrongBook.some(w => w.question === item.question);
+                if (exists) return false;
+                wrongBook.push({...item, id: item.knowledgeId + '_' + Date.now(), addedAt: new Date().toISOString()});
+                localStorage.setItem(key, JSON.stringify(wrongBook));
+                return true;
+            }
+        };
+
+        // 学习进度管理器
+        const ProgressManager = {
+            STORAGE_KEY: 'study_progress',
+            
+            getProgress() {
+                try {
+                    return JSON.parse(localStorage.getItem(this.STORAGE_KEY) || '{}');
+                } catch(e) {
+                    return {};
+                }
+            },
+            
+            saveProgress(progress) {
+                localStorage.setItem(this.STORAGE_KEY, JSON.stringify(progress));
+            },
+            
+            recordStudy(grade, subject, subjectName, semester, semesterName, knowledgeId, knowledgeName) {
+                const progress = this.getProgress();
+                const now = new Date().toISOString();
+                const today = new Date().toISOString().split('T')[0];
+                
+                if (!progress.learnedKnowledge) progress.learnedKnowledge = {};
+                if (!progress.dailyStats) progress.dailyStats = {};
+                if (!progress.dailyStats[today]) {
+                    progress.dailyStats[today] = { learnedCount: 0, subjects: [] };
+                }
+                
+                const isNew = !progress.learnedKnowledge[knowledgeId];
+                progress.learnedKnowledge[knowledgeId] = { learnedAt: now };
+                
+                if (isNew) {
+                    progress.dailyStats[today].learnedCount++;
+                    if (!progress.dailyStats[today].subjects.includes(subject)) {
+                        progress.dailyStats[today].subjects.push(subject);
+                    }
+                }
+                
+                progress.lastStudy = {
+                    grade, subject, subjectName, semester, semesterName,
+                    knowledgeId, knowledgeName, timestamp: now
+                };
+                
+                this.saveProgress(progress);
+            },
+            
+            isLearned(knowledgeId) {
+                const progress = this.getProgress();
+                return !!(progress.learnedKnowledge && progress.learnedKnowledge[knowledgeId]);
+            },
+            
+            getLastStudy() {
+                const progress = this.getProgress();
+                return progress.lastStudy || null;
+            },
+            
+            getSubjectProgress(grade, subject) {
+                const progress = this.getProgress();
+                if (!progress.learnedKnowledge) return { learned: 0, total: 0, percent: 0 };
+                const prefix = grade + '_' + subject + '_';
+                const learned = Object.keys(progress.learnedKnowledge).filter(k => k.startsWith(prefix)).length;
+                const total = DATA_KNOWLEDGE.length;
+                const percent = total > 0 ? Math.round((learned / total) * 100) : 0;
+                return { learned, total, percent };
+            },
+            
+            clearSubjectProgress(grade, subject) {
+                const progress = this.getProgress();
+                const prefix = grade + '_' + subject + '_';
+                
+                if (progress.learnedKnowledge) {
+                    Object.keys(progress.learnedKnowledge).forEach(k => {
+                        if (k.startsWith(prefix)) {
+                            delete progress.learnedKnowledge[k];
+                        }
+                    });
+                }
+                
+                if (progress.lastStudy && progress.lastStudy.grade === grade && progress.lastStudy.subject === subject) {
+                    delete progress.lastStudy;
+                }
+                
+                this.saveProgress(progress);
+                return true;
+            }
+        };
+
+        // URL参数解析
+        function getUrlParams() {
+            const params = new URLSearchParams(window.location.search);
+            return {
+                grade: 'g1',
+                subject: 'english_vocab',
+                semester: params.get('semester') || 'upper'
+            };
+        }
+
+        const gradeNames = {'g1':'初一','g2':'初二','g3':'初三'};
+        const subjectNames = {'english_vocab':'英语词汇背诵'};
+        const semesterNames = {'upper':'上册','lower':'下册'};
+
+        let currentParams = getUrlParams();
+        let knowledgeList = [];
+        let expandedIds = new Set();
+        let currentExample = null;
+
+        const pageTitle = document.getElementById('page-title');
+        const pageSubtitle = document.getElementById('page-subtitle');
+        const knowledgeListEl = document.getElementById('knowledge-list');
+        const emptyStateEl = document.getElementById('empty-state');
+        const searchResultsInfo = document.getElementById('search-results-info');
+        const searchCountEl = document.getElementById('search-count');
+        const searchInput = document.getElementById('search-input');
+
+        function initPage() {
+            const {grade, subject, semester} = currentParams;
+            pageTitle.textContent = gradeNames[grade] + ' · ' + subjectNames[subject] + ' · ' + semesterNames[semester];
+            loadKnowledge();
+            updateProgressStat();
+            
+            const hash = window.location.hash.replace('#', '');
+            if (hash && knowledgeList.some(k => k.id === hash)) {
+                setTimeout(() => {
+                    toggleExpand(hash);
+                    const card = document.querySelector('[data-id="' + hash + '"]');
+                    if (card) {
+                        card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    }
+                }, 100);
+            }
+        }
+
+        function updateProgressStat() {
+            const {grade, subject} = currentParams;
+            const learnedInSemester = knowledgeList.filter(k => ProgressManager.isLearned(k.id)).length;
+            document.getElementById('progress-learned').textContent = learnedInSemester;
+            document.getElementById('progress-total').textContent = knowledgeList.length;
+        }
+
+        function loadKnowledge() {
+            const {grade, subject, semester} = currentParams;
+            knowledgeList = DATA_KNOWLEDGE.filter(k => {
+                return k.semester === semester;
+            });
+            renderKnowledgeList();
+        }
+
+        function renderKnowledgeList(items = knowledgeList) {
+            if (items.length === 0) {
+                knowledgeListEl.innerHTML = '';
+                emptyStateEl.classList.remove('hidden');
+                return;
+            }
+            emptyStateEl.classList.add('hidden');
+            knowledgeListEl.innerHTML = items.map(item => {
+                const isExpanded = expandedIds.has(item.id);
+                const isLearned = ProgressManager.isLearned(item.id);
+                return '<div class="card knowledge-card ' + (isLearned ? 'learned' : '') + '" data-id="' + item.id + '">' +
+                    '<div class="knowledge-header p-4 flex items-center justify-between" onclick="toggleExpand(\'' + item.id + '\')">' +
+                        '<div class="flex items-center gap-3 flex-1 min-w-0">' +
+                            '<div class="expand-icon ' + (isExpanded ? 'expanded' : 'collapsed') + '">' + (isExpanded ? '−' : '+') + '</div>' +
+                            '<div class="flex-1 min-w-0">' +
+                                '<h3 class="text-lg font-semibold text-gray-800 flex items-center gap-2">' + escapeHtml(item.name) + (isLearned ? '<span class="text-green-500 text-sm">✓ 已学习</span>' : '') + '</h3>' +
+                                '<p class="text-xs text-gray-500 mt-1">' + escapeHtml(item.chapter) + '</p>' +
+                            '</div>' +
+                        '</div>' +
+                        (HAS_EXAMPLES ? '<button class="btn btn-secondary text-sm px-3 py-1" onclick="event.stopPropagation(); showExample(\'' + item.id + '\', \'' + escapeHtml(item.name) + '\')">例题</button>' : '') +
+                    '</div>' +
+                    '<div id="content-' + item.id + '" class="px-6 pb-4 ' + (isExpanded ? '' : 'hidden') + '">' +
+                        (item.formula ? '<div class="mb-4"><h4 class="text-sm font-medium text-gray-500 mb-2">📐 公式</h4><p class="formula-box text-gray-800 text-lg bg-gray-50 p-3 rounded-lg">' + escapeHtml(item.formula) + '</p></div>' : '') +
+                        (item.explanation ? '<div><h4 class="text-sm font-medium text-gray-500 mb-2">📝 解释</h4><p class="text-gray-700 leading-relaxed whitespace-pre-wrap">' + escapeHtml(item.explanation) + '</p></div>' : '') +
+                    '</div>' +
+                '</div>';
+            }).join('');
+        }
+
+        function toggleExpand(id) {
+            const isNewLearn = !expandedIds.has(id) && !ProgressManager.isLearned(id);
+            if (expandedIds.has(id)) {
+                expandedIds.delete(id);
+            } else {
+                expandedIds.add(id);
+                const {grade, subject, semester} = currentParams;
+                const item = knowledgeList.find(k => k.id === id);
+                if (item) {
+                    ProgressManager.recordStudy(
+                        grade, subject, subjectNames[subject],
+                        semester, semesterNames[semester],
+                        id, item.name
+                    );
+                }
+            }
+            const card = document.querySelector('[data-id="' + id + '"]');
+            const content = document.getElementById('content-' + id);
+            const icon = card.querySelector('.expand-icon');
+            const header = card.querySelector('.knowledge-header');
+            const title = card.querySelector('h3');
+            if (expandedIds.has(id)) {
+                content.classList.remove('hidden');
+                icon.classList.remove('collapsed');
+                icon.classList.add('expanded');
+                icon.textContent = '−';
+                header.classList.add('expanded');
+            } else {
+                content.classList.add('hidden');
+                icon.classList.remove('expanded');
+                icon.classList.add('collapsed');
+                icon.textContent = '+';
+                header.classList.remove('expanded');
+            }
+            if (isNewLearn) {
+                card.classList.add('learned');
+                if (!title.querySelector('.text-green-500')) {
+                    title.innerHTML += '<span class="text-green-500 text-sm">✓ 已学习</span>';
+                }
+                updateProgressStat();
+            }
+        }
+
+        function expandAll() {
+            knowledgeList.forEach(item => expandedIds.add(item.id));
+            renderKnowledgeList();
+        }
+
+        function collapseAll() {
+            expandedIds.clear();
+            renderKnowledgeList();
+        }
+
+        function searchKnowledge(keyword, list) {
+            if (!keyword) return [];
+            const lower = keyword.toLowerCase();
+            return list.filter(k =>
+                k.name.toLowerCase().includes(lower) ||
+                k.chapter.toLowerCase().includes(lower)
+            );
+        }
+
+        function performSearch() {
+            const keyword = searchInput.value.trim();
+            if (!keyword) {
+                searchResultsInfo.classList.add('hidden');
+                renderKnowledgeList();
+                return;
+            }
+            const results = searchKnowledge(keyword, knowledgeList);
+            searchCountEl.textContent = results.length;
+            searchResultsInfo.classList.remove('hidden');
+            renderKnowledgeList(results);
+        }
+
+        function showExample(knowledgeId, knowledgeName) {
+            const examples = DATA_EXAMPLES.filter(e => e.knowledge_id === knowledgeId);
+            if (examples.length === 0) {
+                alert('暂无例题');
+                return;
+            }
+            const example = examples[Math.floor(Math.random() * examples.length)];
+            currentExample = {...example, knowledgeId, knowledgeName, ...currentParams};
+            document.getElementById('example-knowledge-name').textContent = knowledgeName;
+            document.getElementById('example-question').textContent = example.question;
+            document.getElementById('example-answer').textContent = example.answer;
+            document.getElementById('example-answer-section').classList.add('hidden');
+            document.getElementById('btn-show-answer').classList.remove('hidden');
+            document.getElementById('example-modal').classList.remove('hidden');
+        }
+
+        function nextExample() {
+            if (!currentExample) return;
+            const examples = DATA_EXAMPLES.filter(e => e.knowledge_id === currentExample.knowledgeId);
+            const otherExamples = examples.filter(e => e !== currentExample);
+            if (otherExamples.length === 0) {
+                alert('没有更多例题了');
+                return;
+            }
+            const example = otherExamples[Math.floor(Math.random() * otherExamples.length)];
+            currentExample = {...example, knowledgeId: currentExample.knowledgeId, knowledgeName: currentExample.knowledgeName, ...currentParams};
+            document.getElementById('example-question').textContent = example.question;
+            document.getElementById('example-answer').textContent = example.answer;
+            document.getElementById('example-answer-section').classList.add('hidden');
+            document.getElementById('btn-show-answer').classList.remove('hidden');
+        }
+
+        function addToWrongBook() {
+            if (!currentExample) return;
+            const item = {
+                knowledgeId: currentExample.knowledgeId,
+                knowledgeName: currentExample.knowledgeName,
+                question: currentExample.question,
+                answer: currentExample.answer,
+                grade: currentParams.grade,
+                subject: currentParams.subject
+            };
+            if (WrongBookManager.addWrongBook(item)) {
+                alert('已加入错题本！');
+            } else {
+                alert('该题目已在错题本中');
+            }
+        }
+
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function clearProgress() {
+            const {grade, subject} = currentParams;
+            const subjectName = subjectNames[subject];
+            var msg = '确定要清除【' + subjectName + '】科目的所有学习进度吗？';
+            msg += '\n\n';
+            msg += '此操作将清除该科目所有已学习标记，且不可恢复。';
+            if (!confirm(msg)) {
+                return;
+            }
+            ProgressManager.clearSubjectProgress(grade, subject);
+            updateProgressStat();
+            renderKnowledgeList();
+            alert('学习进度已清除');
+        }
+
+        document.getElementById('btn-expand-all').addEventListener('click', expandAll);
+        document.getElementById('btn-collapse-all').addEventListener('click', collapseAll);
+        document.getElementById('btn-clear-progress').addEventListener('click', clearProgress);
+        searchInput.addEventListener('keyup', e => { if (e.key === 'Enter') performSearch(); });
+        searchInput.addEventListener('input', () => { if (!searchInput.value) { searchResultsInfo.classList.add('hidden'); renderKnowledgeList(); }});
+        document.getElementById('close-example').addEventListener('click', () => document.getElementById('example-modal').classList.add('hidden'));
+        document.getElementById('btn-show-answer').addEventListener('click', () => {
+            document.getElementById('example-answer-section').classList.remove('hidden');
+            document.getElementById('btn-show-answer').classList.add('hidden');
+        });
+        document.getElementById('btn-next-example').addEventListener('click', nextExample);
+        document.getElementById('btn-add-wrong').addEventListener('click', addToWrongBook);
+        document.getElementById('example-modal').addEventListener('click', e => { if (e.target.id === 'example-modal') document.getElementById('example-modal').classList.add('hidden'); });
+
+        initPage();
+    </script>
+</body>
+</html>
