@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>英语词汇背诵知识点学习</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3B82F6',
+                        secondary: '#6366F1',
+                        accent: '#F59E0B',
+                        success: '#10B981',
+                        danger: '#EF4444',
+                        warning: '#F97316',
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div class="page-container">
+        <nav class="nav-bar">
+            <a href="index.html" class="nav-back-btn">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path>
+                </svg>
+                返回首页
+            </a>
+            <div class="flex-1"></div>
+            <a href="wrongbook.html" class="flex items-center gap-2 px-4 py-2 bg-red-50 text-red-600 rounded-lg hover:bg-red-100 transition-colors">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path>
+                </svg>
+                错题本
+            </a>
+        </nav>
+
+        <header class="page-header">
+            <h1 id="page-title" class="page-title">英语词汇背诵</h1>
+            <p id="page-subtitle" class="page-subtitle">点击卡片展开查看详细内容</p>
+        </header>
+
+        <div class="bg-white rounded-xl shadow-lg p-4 mb-6">
+            <div class="flex flex-wrap gap-4 items-center justify-between">
+                <div class="flex gap-2">
+                    <button id="btn-expand-all" class="btn btn-primary">全部展示</button>
+                    <button id="btn-collapse-all" class="btn btn-gray">全部收起</button>
+                </div>
+                <div id="progress-stat" class="text-sm text-gray-600 flex items-center gap-3">
+                    <span>学习进度：<span id="progress-learned" class="font-bold text-green-600">0</span> / <span id="progress-total">0</span> 个知识点</span>
+                    <button id="btn-clear-progress" class="text-xs px-2 py-1 text-red-600 bg-red-50 hover:bg-red-100 rounded transition-colors" title="清除当前科目学习进度">
+                        清除进度
+                    </button>
+                </div>
+                <div class="flex gap-2">
+                    <a href="knowledge_g2_english_vocab.html?semester=upper" class="btn btn-secondary">上册</a>
+                    <a href="knowledge_g2_english_vocab.html?semester=lower" class="btn btn-primary">下册</a>
+                </div>
+                <div class="flex-1 max-w-md">
+                    <div class="relative">
+                        <input id="search-input" type="text" placeholder="搜索知识点名称..." class="input w-full pl-10"/>
+                        <svg class="absolute left-3 top-1/2 transform -translate-y-1/2 w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="search-results-info" class="hidden mb-4 p-3 bg-yellow-50 border border-yellow-200 rounded-lg">
+            <p class="text-yellow-800 text-sm">🔍 搜索结果：找到 <span id="search-count" class="font-bold">0</span> 个匹配的知识点</p>
+        </div>
+
+        <div id="knowledge-list" class="space-y-4"></div>
+        <div id="empty-state" class="hidden empty-state">
+            <div class="empty-state-icon">📭</div>
+            <p class="empty-state-text">暂无知识点数据</p>
+        </div>
+    </div>
+
+    <div id="example-modal" class="hidden modal-overlay">
+        <div class="modal-content p-6">
+            <div class="flex items-center justify-between mb-4">
+                <h3 class="text-lg font-bold text-gray-800">例题练习</h3>
+                <button id="close-example" class="text-gray-400 hover:text-gray-600">
+                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                </button>
+            </div>
+            <div id="example-content">
+                <div class="mb-4">
+                    <span class="tag mb-2" id="example-knowledge-name"></span>
+                    <p id="example-question" class="text-gray-800 text-lg mb-4"></p>
+                </div>
+                <div id="example-answer-section" class="hidden mb-4">
+                    <div class="answer-box">
+                        <p id="example-answer" class="text-gray-700 whitespace-pre-wrap"></p>
+                    </div>
+                </div>
+                <div class="flex flex-wrap gap-2">
+                    <button id="btn-show-answer" class="btn btn-success">展示答案</button>
+                    <button id="btn-next-example" class="btn btn-secondary">换一题</button>
+                    <button id="btn-add-wrong" class="btn btn-danger">加入错题本</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // ==================== 内嵌知识点数据 ====================
+        const DATA_KNOWLEDGE = [{"id":"g2_english_vocab_u001","chapter":"上册 Unit 1 词汇","name":"Unit 1 重点词汇","formula":"anyone pron. 任何人\nanywhere adv. 在任何地方\nwonderful adj. 精彩的，绝妙的\nfew adj.&pron. 不多，很少\nquite a few 相当多，不少\nmost adj., adv.&pron. 最多，大多数\nsomething pron. 某事，某物\nnothing pron. 没有什么，没有一件东西\neveryone pron. 每人，人人，所有人\nof course 当然，自然\nmyself pron. 我自己，我本人\nyourself pron. 你自己，您自己\nhen n. 母鸡\npig n. 猪\nseem v. 好像，似乎，看来","explanation":"【词性分类】\n代词：anyone, anything, nothing, everyone, myself, yourself\n形容词：wonderful, few, most\n副词：anywhere\n动词：seem\n名词：hen, pig\n\n【重点搭配】\n- quite a few + 可数名词复数：相当多的...\n- of course：当然\n- seem to be/do：好像...","semester":"upper"},{"id":"g2_english_vocab_u002","chapter":"上册 Unit 1 词汇","name":"Unit 1 词汇（二）","formula":"bored adj. 厌倦的，烦闷的\nsomeone pron. 某人\ndiary n. 日记，日记簿\nenjoyable adj. 有乐趣的，令人愉快的\nactivity n. 活动\ndecide v. 决定，选定\ntry v.&n. 尝试，设法，努力\ntry to do sth. 尽力做某事\nparagliding n. 滑翔伞运动\nfeel like 感受到，给...的感觉\nbird n. 鸟\nbicycle n. 自行车，脚踏车\nbuilding n. 建筑物，房子\ntrader n. 商人\nwonder v. 想知道，琢磨","explanation":"【词性分类】\n形容词：bored, enjoyable\n名词：diary, activity, paragliding, bird, bicycle, building, trader\n动词：decide, try, wonder\n代词：someone\n\n【重点搭配】\n- feel like + 名词/动名词：感觉像...\n- decide to do sth.：决定做某事\n- try to do sth.：尽力做某事\n- try doing sth.：尝试做某事","semester":"upper"},{"id":"g2_english_vocab_u003","chapter":"上册 Unit 1 词汇","name":"Unit 1 词汇（三）","formula":"difference n. 差别，差异\ntop n. 顶部，表面\nwait v. 等待，等候\nwait for 等待\numbrella n. 伞，雨伞\nwet adj. 湿的，潮湿的\nbecause of 因为\nbelow prep.&adv. 在...下面，到...下面\nenough adj.&adv. 足够的（地），充足的（地）\nhungry adj. 饥饿的\nas adv. 像...一样，如同\nas...as... 和...一样...\nhill n. 小山，山丘\nduck n. 鸭\ndislike v.&n. 不喜欢（的事物），厌恶（的事物）","explanation":"【词性分类】\n名词：difference, top, umbrella, hill, duck, dislike\n形容词：wet, enough, hungry\n副词：below, enough, as\n介词：below\n动词：wait, dislike\n\n【重点搭配】\n- wait for sb./sth.：等待某人/某物\n- because of + 名词/动名词：因为\n- as + 形容词/副词原级 + as：和...一样...","semester":"upper"},{"id":"g2_english_vocab_u004","chapter":"上册 Unit 2 词汇","name":"Unit 2 重点词汇","formula":"housework n. 家务劳动，家务事\nhardly adv. 几乎不，几乎没有\never adv. 在任何时候，从来，曾经\nhardly ever 几乎从不\nonce adv. 一次，曾经\ntwice adv. 两次，两倍\nInternet n. （国际）互联网，因特网\nprogram n. 节目\nfull adj. 忙的，满的，充满的\nswing n. 摆动，秋千 v. （使）摆动，摇摆\nswing dance 摇摆舞\nmaybe adv. 大概，或许，可能\nleast adv. 最小，最少 adj.&pron. 最小的，最少的\nat least 至少，不少于，起码\njunk n. 无用的东西，无价值的东西\njunk food 垃圾食品","explanation":"【词性分类】\n名词：housework, Internet, program, swing, junk, junk food\n副词：hardly, ever, once, twice, maybe, least\n形容词：full, least\n\n【重点搭配】\n- hardly ever：几乎从不\n- at least：至少\n- be full of：充满...","semester":"upper"},{"id":"g2_english_vocab_u005","chapter":"上册 Unit 2 词汇","name":"Unit 2 词汇（二）","formula":"coffee n. 咖啡\nhealth n. 健康，人的身体（或精神）状态\nresult n. 结果，后果\npercent n. 百分之...\nonline adj.&adv. 在线（的），联网（的）\ntelevision n. 电视机，电视节目\nalthough conj. 虽然，尽管，即使\nthrough prep. 以，凭借，穿过\nmind n. 头脑，心智\nbody n. 身体\nsuch adj.&pron. 这样的，那样的，类似的\nsuch as 例如，像...这样\ntogether adv. 在一起，共同\ndie v. 消失，灭亡，死亡\nwriter n. 作者，作家","explanation":"【词性分类】\n名词：coffee, health, result, percent, television, mind, body, writer\n形容词：online, such\n副词：online, together\n介词：through\n连词：although\n动词：die\n\n【重点搭配】\n- such as + 名词/动名词：例如\n- although引导让步状语从句：虽然...（不能与but连用）\n- die of/from：死于...","semester":"upper"},{"id":"g2_english_vocab_u006","chapter":"上册 Unit 3 词汇","name":"Unit 3 重点词汇","formula":"outgoing adj. 爱交际的，友好的，外向的\nboth adj.&pron. 两个，两个都\nbetter adj.&adv. （good/well的比较级）较好的（地），更好的（地）\nloudly adv. 喧闹地，大声地，响亮地\nquietly adv. 轻声地，轻柔地，安静地\nhard-working adj. 工作努力的，辛勤的\ncompetition n. 比赛，竞赛，竞争\nfantastic adj. 极好的，了不起的\nwhich pron.&adj. 哪一个，哪一些\nclearly adv. 清楚地，清晰地，明白地\nwin v. 获胜，赢，赢得\nthough adv. 不过，可是，然而 conj. 虽然，尽管，不过\ntalented adj. 有才能的，有才干的\ntruly adv. 真正，确定\ncare v. 在意，担忧，关心","explanation":"【词性分类】\n形容词：outgoing, better, hard-working, fantastic, talented\n副词：better, loudly, quietly, clearly, though, truly\n代词：both, which\n名词：competition\n动词：win, care\n\n【重点搭配】\n- both...and...：两者都...\n- care about：关心，在意\n- though/although：虽然（不能与but连用）","semester":"upper"},{"id":"g2_english_vocab_u007","chapter":"上册 Unit 3 词汇","name":"Unit 3 词汇（二）","formula":"care about 关心，在意\nlaugh v. 笑，发笑 n. 笑声\nlaugh at 嘲笑\nserious adj. 严肃的，稳重的\nmirror n. 镜子\nkid n. 小孩，年轻人\nas long as 只要，既然\nnecessary adj. 必需的，必要的\nbe different from 与...不同，与...有差异\nboth...and... 两个都，既...又...\nbring out 使显现，使表现出\ngrade n. 成绩等级，评分等级，年级\nshould modal v. 应该，应当，可以\nthe same as 和...相同，与...一致\nsaying n. 谚语，格言，警句\nreach v. 伸手，到达，抵达","explanation":"【词性分类】\n名词：mirror, kid, grade, saying\n形容词：serious, necessary\n动词：laugh, reach\n情态动词：should\n\n【重点搭配】\n- as long as：只要（引导条件状语从句）\n- be different from：与...不同\n- the same as：和...一样\n- bring out：使显现\n- laugh at：嘲笑","semester":"upper"},{"id":"g2_english_vocab_u008","chapter":"上册 Unit 4 词汇","name":"Unit 4 重点词汇","formula":"theater n. 剧场，电影院\ncomfortable adj. 使人舒服的，舒适的\nseat n. 座位，坐处（如椅子等）\nscreen n. 银幕，屏幕\nclose adj. （在空间、时间上）接近\nclothes n. 衣服，服装\nclothing store 服装店\ncheaply adv. 便宜地，低廉地\nsong n. 歌，歌曲\nchoose v. 选择，挑选\ncarefully adv. 细致地，小心地，谨慎地\nreporter n. 记者\nso far 到目前为止，迄今为止\nfresh adj. 新鲜的，清新的\ncomfortably adv. 舒服地，舒适地","explanation":"【词性分类】\n名词：theater, seat, screen, clothes, song, reporter\n形容词：comfortable, close, fresh\n副词：cheaply, carefully, comfortably\n动词：choose\n\n【重点搭配】\n- so far：到目前为止（常与现在完成时连用）\n- choose to do sth.：选择做某事\n- close to：靠近...","semester":"upper"},{"id":"g2_english_vocab_u009","chapter":"上册 Unit 4 词汇","name":"Unit 4 词汇（二）","formula":"worse adj.&adv. （bad/badly的比较级）更差（的），更坏（的），更糟（的）\nservice n. 接待，服务\npretty adv. 相当，十分，很 adj. 漂亮的\nmenu n. 菜单\nact v. 扮演，表演者\nmeal n. 一餐所吃的食物，早（或午、晚）餐\ncreative adj. 有创造力的，创造性的\nperformer n. 表演者，演员\ntalent n. 天资，天赋\ncommon adj. 普通的，常见的\nmagician n. 魔术师\nbeautifully adv. 美好地，漂亮地\nrole n. 角色，作用\nrole model 榜样\nplay a role 发挥作用，有影响\nwinner n. 获胜者，优胜者","explanation":"【词性分类】\n名词：service, menu, meal, performer, talent, magician, role, winner\n形容词：worse, pretty, creative, common\n副词：worse, pretty, beautifully\n动词：act\n\n【重点搭配】\n- play a role in doing sth.：在做某事中发挥作用\n- common sense：常识\n- talent show：才艺表演","semester":"upper"},{"id":"g2_english_vocab_u010","chapter":"上册 Unit 5 词汇","name":"Unit 5 重点词汇","formula":"sitcom n. 情景喜剧\nnews n. 新闻节目，新闻\nsoap opera 肥皂剧\neducational adj. 教育的，有教育意义的\nplan v.&n. 打算，计划\nplan to do sth. 计划做某事\nhope v.&n. 希望\nfind out 查明，弄清\ndiscussion n. 讨论，商量\nstand v. 忍受，站立\nhappen v. 发生，出现\nmay modal v. 也许，可能，可以\nexpect v. 预料，期待，预计\nexpect to do sth. 期待做某事\njoke n. 笑话，玩笑 v. 说笑话，开玩笑\ncomedy n. 喜剧，喜剧片","explanation":"【词性分类】\n名词：sitcom, news, discussion, joke, comedy\n动词：plan, hope, stand, happen, expect, joke\n形容词：educational\n情态动词：may\n\n【重点搭配】\n- plan to do sth.：计划做某事\n- hope to do sth.：希望做某事\n- expect to do sth.：期待做某事\n- find out：查明，弄清\n- stand doing sth.：忍受做某事","semester":"upper"},{"id":"g2_english_vocab_u011","chapter":"上册 Unit 5 词汇","name":"Unit 5 词汇（二）","formula":"meaningless adj. 毫无意义的，意思不明确的\naction n. 行动\naction movie 动作影片\ncartoon n. 动画片，卡通片\nculture n. 文化，文明\nfamous adj. 著名的，出名的\nappear v. 出现\nbecome v. 开始变得，变成\nbecome good at 变得擅长\nrich adj. 富有的\nsuccessful adj. 获得成功的，有成就的\nmight modal v. 可能，可以\nmain adj. 主要的，最重要的\nreason n. 原因，理由\ncommon adj. 普通的，常见的\nunlucky adj. 不幸的，不吉利的","explanation":"【词性分类】\n名词：action, cartoon, culture, reason\n形容词：meaningless, famous, rich, successful, main, common, unlucky\n动词：appear, become\n情态动词：might\n\n【重点搭配】\n- become good at：变得擅长\n- be famous for：因...而著名\n- be famous as：作为...而著名\n- the reason for...：...的原因","semester":"upper"},{"id":"g2_english_vocab_u012","chapter":"上册 Unit 6 词汇","name":"Unit 6 重点词汇","formula":"grow up 长大，成熟，成长\ncomputer programmer 计算机程序设计员，编程人员\ncook n. 厨师 v. 烹饪，煮\ndoctor n. 医生，大夫\nengineer n. 工程师\nviolinist n. 小提琴手\ndriver n. 驾驶员，司机\npilot n. 飞行员\npianist n. 钢琴家\nscientist n. 科学家\nbe sure about 确信，对...有把握\nmake sure 确保，查明\ncollege n. 学院，大学，高等专科学校\neducation n. 教育\nmedicine n. 药，医学","explanation":"【词性分类】\n名词：computer programmer, cook, doctor, engineer, violinist, driver, pilot, pianist, scientist, college, education, medicine\n动词：cook\n\n【重点搭配】\n- grow up：长大\n- be sure about：对...有把握\n- make sure：确保\n- take medicine：吃药","semester":"upper"},{"id":"g2_english_vocab_u013","chapter":"上册 Unit 6 词汇","name":"Unit 6 词汇（二）","formula":"university n. （综合性）大学，高等学府\narticle n. 文章，论文\nsend v. 邮寄，发送\nsend...to... 把...发送到...\nresolution n. 决心，决定\nteam n. 队，组\nmake the soccer team 成为足球队的一员\nforeign adj. 外国的\nable adj. 能够\nbe able to 能够做某事\ndiscuss v. 讨论，商量\npromise n. 承诺，诺言 v. 许诺，承诺\nbeginning n. 开头，开端\nat the beginning of 在...开始\nimprove v. 改进，改善","explanation":"【词性分类】\n名词：university, article, resolution, team, promise, beginning\n形容词：foreign, able\n动词：send, discuss, improve\n\n【重点搭配】\n- be able to do sth.：能够做某事\n- at the beginning of：在...开始\n- promise to do sth.：承诺做某事\n- send sth. to sb.：把某物寄给某人","semester":"upper"},{"id":"g2_english_vocab_u014","chapter":"上册 Unit 7 词汇","name":"Unit 7 重点词汇","formula":"paper n. 纸，纸张\npollution n. 污染，污染物\nprediction n. 预言，预测\nfuture n. 将来，未来\npollute v. 污染\nenvironment n. 环境\nplanet n. 行星\nearth n. 地球，世界\nplant v. 种植 n. 植物\npart n. 部分\nplay a part 参与，发挥作用\npeace n. 和平\nsave v. 救，拯救\nsave the earth 拯救地球\nsilk n. 丝，丝绸","explanation":"【词性分类】\n名词：paper, pollution, prediction, future, environment, planet, earth, plant, part, peace, silk\n动词：pollute, plant, save\n\n【重点搭配】\n- play a part in (doing) sth.：参与（做）某事\n- save the earth：拯救地球\n- environmental protection：环境保护","semester":"upper"},{"id":"g2_english_vocab_u015","chapter":"上册 Unit 7 词汇","name":"Unit 7 词汇（二）","formula":"apartment n. 公寓套房\nspace n. 太空，空间\nspace station 太空站，宇宙空间站\nhuman adj. 人的 n. 人\nservant n. 仆人\ndangerous adj. 有危险的，不安全的\nalready adv. 已经，早已\nfactory n. 工厂\nover and over again 多次，反复地\nJapan 日本\nbelieve v. 相信，认为有可能\ndisagree v. 不同意，持不同意见，有分歧\neven adv. 甚至，连，愈加\nhundreds of 许多，大量\nshape n. 形状，外形","explanation":"【词性分类】\n名词：apartment, space, human, servant, factory, Japan, shape\n形容词：human, dangerous\n副词：already, even\n动词：believe, disagree\n\n【重点搭配】\n- hundreds of：成百上千的\n- over and over again：反复地\n- space station：太空站\n- disagree with：不同意...","semester":"upper"},{"id":"g2_english_vocab_l001","chapter":"下册 Unit 1 词汇","name":"Unit 1 重点词汇","formula":"matter n. 问题，事情\nWhat's the matter? 怎么了？出什么事了？\nsore adj. 疼痛的，酸痛的\nhave a cold 感冒\nstomachache n. 胃痛，腹痛\nhave a stomachache 胃痛\nfoot n. 脚，足\nneck n. 颈，脖子\nstomach n. 胃，腹部\nthroat n. 咽喉，喉咙\nfever n. 发烧，发热\nlie v. 躺，平躺\nlie down 躺下\nrest v.&n. 放松，休息\ncough n.&v. 咳嗽","explanation":"【词性分类】\n名词：matter, sore, stomachache, foot, neck, stomach, throat, fever, cough\n形容词：sore\n动词：lie, rest, cough\n\n【重点搭配】\n- What's the matter? = What's wrong? 怎么了？\n- have a cold：感冒\n- have a stomachache：胃痛\n- lie down：躺下","semester":"lower"},{"id":"g2_english_vocab_l002","chapter":"下册 Unit 1 词汇","name":"Unit 1 词汇（二）","formula":"X-ray n. X光，X射线\ntoothache n. 牙痛\ntake one's temperature 量体温\nheadache n. 头痛\nhave a fever 发烧\nbreak n. 间歇，休息\nhurt v. （使）疼痛，受伤\npassenger n. 乘客，旅客\noff adv.&prep. 离开（某处），不工作，从...去掉\nget off 下车\nonto prep. 向，朝\ntrouble n. 问题，苦恼\nhit v. （用手或器具）击，打\nright away 立即，马上\nget into 陷入，参与","explanation":"【词性分类】\n名词：X-ray, toothache, headache, break, passenger, trouble\n动词：hurt, hit\n副词：off\n介词：onto, off\n\n【重点搭配】\n- take one's temperature：量体温\n- get off：下车\n- right away：立刻，马上\n- get into trouble：陷入困境","semester":"lower"},{"id":"g2_english_vocab_l003","chapter":"下册 Unit 1 词汇","name":"Unit 1 词汇（三）","formula":"herself pron. （she的反身代词）她自己\nbandage n. 绷带 v. 用绷带包扎\nsick adj. 生病的，有病的\nknee n. 膝，膝盖\nnosebleed n. 鼻出血\nbreathe v. 呼吸\nsunburned adj. 晒伤的\nourselves pron. （we的反身代词）我们自己\nclimber n. 登山者，登山运动员\nbe used to 习惯于，适应于\nrisk n.&v. 危险，风险，冒险\ntake risks (take a risk) 冒险\naccident n. （交通）事故，意外遭遇\nsituation n. 情况，状况\nkilo n. 千克，公斤","explanation":"【词性分类】\n代词：herself, ourselves\n名词：bandage, knee, nosebleed, climber, risk, accident, situation, kilo\n形容词：sick, sunburned\n动词：breathe, risk\n\n【重点搭配】\n- be used to (doing) sth.：习惯于（做）某事\n- take risks / take a risk：冒险\n- by oneself：独自地","semester":"lower"},{"id":"g2_english_vocab_l004","chapter":"下册 Unit 2 词汇","name":"Unit 2 重点词汇","formula":"clean up 打扫（或清除）干净\ncheer v. 欢呼，喝彩\ncheer up （使）变得更高兴，振奋起来\ngive out 分发，散发\nvolunteer v. 义务做，自愿做 n. 志愿者\ncome up with 想出，提出（主意、计划、回答等）\nput off 推迟\nsign n. 标志，信号\nnotice n. 通知，通告，注意 v. 注意到，意识到\nused to 曾经...，过去...\nlonely adj. 孤独的，寂寞的\nseveral pron. 几个，数个，一些\nfeeling n. 感觉，感触，想法\nsatisfaction n. 满足，满意\njoy n. 高兴，愉快","explanation":"【词性分类】\n名词：volunteer, sign, notice, feeling, satisfaction, joy\n动词：cheer, volunteer, notice\n形容词：lonely\n代词：several\n\n【重点搭配】\n- clean up：打扫干净\n- cheer up：使振奋\n- give out：分发\n- come up with：想出，提出\n- put off (doing) sth.：推迟（做）某事\n- used to do sth.：过去常常做某事","semester":"lower"},{"id":"g2_english_vocab_l005","chapter":"下册 Unit 2 词汇","name":"Unit 2 词汇（二）","formula":"owner n. 所有者，物主\ntry out 参加...选拔，试用\njourney n. （尤指长途）旅行，行程\nraise v. 募集，征集，举起，抬起\nraise money 筹钱\nalone adv. 独自，单独\nrepair v. 修理，修补\nfix v. 修理，安装\nfix up 修理，装饰\ngive away 赠送，捐赠\ntake after （外貌或行为）像\nbroken adj. 破损的，残缺的\nwheel n. 车轮，轮子\nletter n. 信，函\nMiss n. 女士，小姐","explanation":"【词性分类】\n名词：owner, journey, letter, Miss, wheel\n动词：raise, repair, fix\n形容词：broken\n副词：alone\n\n【重点搭配】\n- try out：参加选拔\n- fix up：修理\n- give away：捐赠\n- take after：（在外貌、性格等方面）与（父母等）相像\n- raise money：筹钱","semester":"lower"},{"id":"g2_english_vocab_l006","chapter":"下册 Unit 3 词汇","name":"Unit 3 重点词汇","formula":"rubbish n. 垃圾，废弃物\ntake out the rubbish 倒垃圾\nfold v. 对折，折叠\nsweep v. 扫，打扫\nfloor n. 地板，地面\nmess n. 杂乱，不整洁\nthrow v. 扔，掷\nall the time 频繁，反复\nneither adv. 也不\nshirt n. 衬衫\nas soon as 一...就...\npass v. 给，递，走过，通过\nborrow v. 借，借用\nlend v. 借给，借出\nfinger n. 手指","explanation":"【词性分类】\n名词：rubbish, floor, mess, shirt, finger\n动词：fold, sweep, throw, pass, borrow, lend\n副词：neither\n\n【重点搭配】\n- take out the rubbish：倒垃圾\n- all the time：一直，频繁\n- as soon as：一...就...\n- borrow...from...：从...借...\n- lend...to...：把...借给...","semester":"lower"},{"id":"g2_english_vocab_l007","chapter":"下册 Unit 3 词汇","name":"Unit 3 词汇（二）","formula":"hate v. 厌恶，讨厌\nchore n. 杂务，乏味无聊的工作\nwhile conj. 与...同时，当...的时候，而，然而\nhowever adv. 然而，不过，可是\nanyway adv. 而且，加之，反正\nstress n. 精神压力，心理负担\nwaste n. 浪费，垃圾 v. 浪费，滥用\nin order to 目的是，为了\nprovide v. 提供，供应\nanyway adv. 而且，加之，反正\ndepend v. 依靠，信赖\ndepend on 依靠，信赖\ndevelop v. 发展，壮大，开发，研制\nfairness n. 公平性，公平合理性\nsince conj. 因为，既然 prep., conj.&adv. 从...以后，自...以来","explanation":"【词性分类】\n名词：chore, stress, waste, fairness\n动词：hate, waste, provide, develop, depend\n副词：however, anyway, since\n连词：while, since\n\n【重点搭配】\n- in order to：为了\n- depend on：依靠\n- provide sth. for sb. = provide sb. with sth.：为某人提供某物\n- develop an interest in：培养对...的兴趣","semester":"lower"},{"id":"g2_english_vocab_l008","chapter":"下册 Unit 4 词汇","name":"Unit 4 重点词汇","formula":"allow v. 允许，准许\nwrong adj. 有毛病的，错误的\nWhat's wrong? 哪儿不舒服？\nmidnight n. 子夜，午夜\nlook through 快速查看，浏览\nguess v. 猜测，估计\ndeal n. 协议，交易\nBig deal! 没什么大不了的！\nwork out 成功地发展，解决\nget on with 和睦相处，关系良好\nrelation n. 关系，联系，交往\ncommunication n. 交流，沟通\nargue v. 争吵，争论\ncloud n. 云，云朵\nelder adj. 年纪较长的","explanation":"【词性分类】\n名词：midnight, deal, relation, communication, cloud\n形容词：wrong, elder\n动词：allow, guess, argue\n\n【重点搭配】\n- allow sb. to do sth.：允许某人做某事\n- look through：浏览\n- work out：解决，算出\n- get on with sb.：与某人和睦相处\n- communicate with sb.：与某人交流","semester":"lower"},{"id":"g2_english_vocab_l009","chapter":"下册 Unit 4 词汇","name":"Unit 4 词汇（二）","formula":"instead adv. 代替，反而，却\nwhatever pron. 任何，每一，无论什么，不管什么\nnervous adj. 焦虑的，担忧的\noffer v. 主动提出，自愿给予\nproper adj. 正确的，恰当的\nsecondly adv. 第二，其次\ncommunicate v. 交流，沟通\nexplain v. 解释，说明\nclear adj. 清楚易懂的，晴朗的\ncopy v. 复制，复印，抄袭，仿造\nreturn v. 归还，回来，回去\nanymore adv. （常用于否定句和疑问句末）再也（不），（不）再\nmember n. 成员，会员\npressure n. 压力\ncompete v. 竞争，对抗","explanation":"【词性分类】\n代词：whatever\n名词：member, pressure\n形容词：nervous, proper, clear\n副词：instead, secondly, anymore\n动词：offer, communicate, explain, copy, return, compete\n\n【重点搭配】\n- instead of：代替，而不是\n- compete with：与...竞争\n- return sth. to sb.：把某物归还给某人\n- offer to do sth.：主动提出做某事","semester":"lower"},{"id":"g2_english_vocab_l010","chapter":"下册 Unit 5 词汇","name":"Unit 5 重点词汇","formula":"rainstorm n. 暴风雨\nalarm n. 闹钟\ngo off （闹钟）发出响声\nbegin v. 开始\nheavily adv. 在很大程度上，大量地，猛烈地\nsuddenly adv. 突然，忽然\npick up (=pick up the phone) 接电话\nstrange adj. 奇特的，奇怪的，陌生的\nstorm n. 暴风雨\nwind n. 风\nlight n. 光，光线，光亮\nreport v.&n. 报道，公布\narea n. 地域，地区\nwood n. 木，木头\nwindow n. 窗，窗户，窗口","explanation":"【词性分类】\n名词：rainstorm, alarm, storm, wind, light, report, area, wood, window\n形容词：strange\n副词：heavily, suddenly\n动词：begin, report\n\n【重点搭配】\n- go off：（闹钟）响\n- pick up：接电话\n- begin to do sth. = begin doing sth.：开始做某事\n- heavy rain：大雨","semester":"lower"},{"id":"g2_english_vocab_l011","chapter":"下册 Unit 5 词汇","name":"Unit 5 词汇（二）","formula":"flashlight n. 手电筒，火炬\nmatch n. 火柴，比赛\nbeat v. 敲打，打败，战胜\nagainst prep. 倚，碰，撞，反对，违反\nasleep adj. 睡着\nfall asleep 进入梦乡，睡着\ndie down 逐渐变弱，逐渐消失\nrise v.&n. 升起，增加，提高\nfallen adj. 倒下的，落下的\napart adv. 分离，分开\nhave a look 看一看\nicy adj. 覆盖着冰的，冰冷的\nkid v. 开玩笑，欺骗\nrealize v. 理解，领会，认识到，实现\nmake one's way 前往，费力地前进","explanation":"【词性分类】\n名词：flashlight, match, rise\n形容词：asleep, fallen, icy\n副词：apart\n介词：against\n动词：beat, rise, kid, realize\n\n【重点搭配】\n- fall asleep：入睡\n- die down：逐渐减弱\n- against：反对，违反\n- beat sb.：打败某人\n- make one's way to sp.：向某地前进","semester":"lower"},{"id":"g2_english_vocab_l012","chapter":"下册 Unit 6 词汇","name":"Unit 6 重点词汇","formula":"shoot v. 投篮，射击，发射\nstone n. 石头\nweak adj. 虚弱的，无力的，弱的\ngod n. 神，上帝\nremind v. 提醒，使想起\nremind sb. of sth. 使某人想起某事\nbit n. 一点，小块\na little bit 有点儿，稍微\nsilly adj. 愚蠢的，不明事理的\ninstead of 代替，反而\nturn...into 变成\nobject n. 物品，物体\nhide v. 隐蔽，躲藏，隐藏\ntail n. 尾巴\nmagic adj. 有魔力的，有神奇力量的","explanation":"【词性分类】\n名词：stone, god, bit, object, tail\n形容词：weak, silly, magic\n动词：shoot, remind, hide\n\n【重点搭配】\n- remind sb. of sth.：使某人想起某事\n- a little bit：有点儿\n- instead of：代替，而不是\n- turn...into...：把...变成...","semester":"lower"},{"id":"g2_english_vocab_l013","chapter":"下册 Unit 6 词汇","name":"Unit 6 词汇（二）","formula":"stick n. 棍，条\nfit v. 适合，合身\nfit sb. 适合某人\ncouple n. （尤指）夫妻，两人，两件事物\nsmile v.&n. 笑，微笑\nmarry v. 结婚\nget married 结婚\ngold n. 金，金币 adj. 金的，金色的\nunless conj. 除非，如果不\nas soon as 一...就...\nso...that... 如此...以至于...\nstepmother n. 继母\nwhole adj. 全部的，整体的\nstep by step 逐步地\nscene n. （戏剧或歌剧的）场，场景","explanation":"【词性分类】\n名词：stick, couple, gold, stepmother, scene\n形容词：gold, whole\n动词：fit, smile, marry\n连词：unless\n\n【重点搭配】\n- get married (to sb.)：（与某人）结婚\n- unless = if...not：除非，如果不\n- so...that...：如此...以至于...\n- step by step：逐步地","semester":"lower"},{"id":"g2_english_vocab_l014","chapter":"下册 Unit 7 词汇","name":"Unit 7 重点词汇","formula":"square n. 平方，正方形，广场\nmeter n. 米，公尺\ndeep adj. 深的，纵深的\ndesert n. 沙漠\npopulation n. 人口，人口数量\nAsia 亚洲\nfeel free （可以）随便（做某事）\ntour n.&v. 旅行，旅游\ntourist n. 旅行者，观光者\nwall n. 墙\namazing adj. 令人大为惊奇的，令人惊喜（或惊叹）的\nancient adj. 古代的，古老的\nprotect v. 保护，防护\nwide adj. 宽的，宽阔的\nas far as I know 据我所知","explanation":"【词性分类】\n名词：square, meter, desert, population, Asia, tour, tourist, wall\n形容词：deep, amazing, ancient, wide\n动词：tour, protect\n\n【重点搭配】\n- feel free to do sth.：随意做某事\n- protect...from/against...：保护...免受...\n- as far as I know：据我所知","semester":"lower"},{"id":"g2_english_vocab_l015","chapter":"下册 Unit 8 词汇","name":"Unit 8 重点词汇","formula":"treasure n. 珠宝，财富\nisland n. 岛\nfull of 满是...的，（有）大量的，（有）丰富的\nclassic n. 经典作品，名著\npage n. （书刊或纸张的）页，面，张\nhurry v. 匆忙，赶快\nhurry up 赶快，急忙（做某事）\ndue adj. 预期，预定\nship n. 船，舰\ntool n. 工具\ngun n. 枪，炮\nmark n. 迹象，记号，分数 v. 做记号，打分\nsand n. 沙滩，沙\ncannibal n. 食人肉者\ntowards prep. 朝，向，对着","explanation":"【词性分类】\n名词：treasure, island, classic, page, ship, tool, gun, mark, sand, cannibal\n形容词：due\n动词：hurry, mark\n介词：towards\n\n【重点搭配】\n- full of：充满\n- hurry up：赶快\n- be due to do sth.：预定做某事\n- leave a mark：留下痕迹","semester":"lower"}];
+
+        // ==================== 内嵌例题数据 ====================
+        const DATA_EXAMPLES = [];
+        const HAS_EXAMPLES = false;
+
+        // 错题本管理器
+        const WrongBookManager = {
+            STORAGE_KEY_PREFIX: 'wrongbook_',
+            getWrongBook(grade, subject) {
+                const key = this.STORAGE_KEY_PREFIX + grade + '_' + subject;
+                return JSON.parse(localStorage.getItem(key) || '[]');
+            },
+            addWrongBook(item) {
+                const key = this.STORAGE_KEY_PREFIX + item.grade + '_' + item.subject;
+                let wrongBook = this.getWrongBook(item.grade, item.subject);
+                const exists = wrongBook.some(w => w.question === item.question);
+                if (exists) return false;
+                wrongBook.push({...item, id: item.knowledgeId + '_' + Date.now(), addedAt: new Date().toISOString()});
+                localStorage.setItem(key, JSON.stringify(wrongBook));
+                return true;
+            }
+        };
+
+        // 学习进度管理器
+        const ProgressManager = {
+            STORAGE_KEY: 'study_progress',
+            
+            getProgress() {
+                try {
+                    return JSON.parse(localStorage.getItem(this.STORAGE_KEY) || '{}');
+                } catch(e) {
+                    return {};
+                }
+            },
+            
+            saveProgress(progress) {
+                localStorage.setItem(this.STORAGE_KEY, JSON.stringify(progress));
+            },
+            
+            recordStudy(grade, subject, subjectName, semester, semesterName, knowledgeId, knowledgeName) {
+                const progress = this.getProgress();
+                const now = new Date().toISOString();
+                const today = new Date().toISOString().split('T')[0];
+                
+                if (!progress.learnedKnowledge) progress.learnedKnowledge = {};
+                if (!progress.dailyStats) progress.dailyStats = {};
+                if (!progress.dailyStats[today]) {
+                    progress.dailyStats[today] = { learnedCount: 0, subjects: [] };
+                }
+                
+                const isNew = !progress.learnedKnowledge[knowledgeId];
+                progress.learnedKnowledge[knowledgeId] = { learnedAt: now };
+                
+                if (isNew) {
+                    progress.dailyStats[today].learnedCount++;
+                    if (!progress.dailyStats[today].subjects.includes(subject)) {
+                        progress.dailyStats[today].subjects.push(subject);
+                    }
+                }
+                
+                progress.lastStudy = {
+                    grade, subject, subjectName, semester, semesterName,
+                    knowledgeId, knowledgeName, timestamp: now
+                };
+                
+                this.saveProgress(progress);
+            },
+            
+            isLearned(knowledgeId) {
+                const progress = this.getProgress();
+                return !!(progress.learnedKnowledge && progress.learnedKnowledge[knowledgeId]);
+            },
+            
+            getLastStudy() {
+                const progress = this.getProgress();
+                return progress.lastStudy || null;
+            },
+            
+            getSubjectProgress(grade, subject) {
+                const progress = this.getProgress();
+                if (!progress.learnedKnowledge) return { learned: 0, total: 0, percent: 0 };
+                const prefix = grade + '_' + subject + '_';
+                const learned = Object.keys(progress.learnedKnowledge).filter(k => k.startsWith(prefix)).length;
+                const total = DATA_KNOWLEDGE.length;
+                const percent = total > 0 ? Math.round((learned / total) * 100) : 0;
+                return { learned, total, percent };
+            },
+            
+            clearSubjectProgress(grade, subject) {
+                const progress = this.getProgress();
+                const prefix = grade + '_' + subject + '_';
+                
+                if (progress.learnedKnowledge) {
+                    Object.keys(progress.learnedKnowledge).forEach(k => {
+                        if (k.startsWith(prefix)) {
+                            delete progress.learnedKnowledge[k];
+                        }
+                    });
+                }
+                
+                if (progress.lastStudy && progress.lastStudy.grade === grade && progress.lastStudy.subject === subject) {
+                    delete progress.lastStudy;
+                }
+                
+                this.saveProgress(progress);
+                return true;
+            }
+        };
+
+        // URL参数解析
+        function getUrlParams() {
+            const params = new URLSearchParams(window.location.search);
+            return {
+                grade: 'g2',
+                subject: 'english_vocab',
+                semester: params.get('semester') || 'upper'
+            };
+        }
+
+        const gradeNames = {'g1':'初一','g2':'初二','g3':'初三'};
+        const subjectNames = {'english_vocab':'英语词汇背诵'};
+        const semesterNames = {'upper':'上册','lower':'下册'};
+
+        let currentParams = getUrlParams();
+        let knowledgeList = [];
+        let expandedIds = new Set();
+        let currentExample = null;
+
+        const pageTitle = document.getElementById('page-title');
+        const pageSubtitle = document.getElementById('page-subtitle');
+        const knowledgeListEl = document.getElementById('knowledge-list');
+        const emptyStateEl = document.getElementById('empty-state');
+        const searchResultsInfo = document.getElementById('search-results-info');
+        const searchCountEl = document.getElementById('search-count');
+        const searchInput = document.getElementById('search-input');
+
+        function initPage() {
+            const {grade, subject, semester} = currentParams;
+            pageTitle.textContent = gradeNames[grade] + ' · ' + subjectNames[subject] + ' · ' + semesterNames[semester];
+            loadKnowledge();
+            updateProgressStat();
+            
+            const hash = window.location.hash.replace('#', '');
+            if (hash && knowledgeList.some(k => k.id === hash)) {
+                setTimeout(() => {
+                    toggleExpand(hash);
+                    const card = document.querySelector('[data-id="' + hash + '"]');
+                    if (card) {
+                        card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    }
+                }, 100);
+            }
+        }
+
+        function updateProgressStat() {
+            const {grade, subject} = currentParams;
+            const learnedInSemester = knowledgeList.filter(k => ProgressManager.isLearned(k.id)).length;
+            document.getElementById('progress-learned').textContent = learnedInSemester;
+            document.getElementById('progress-total').textContent = knowledgeList.length;
+        }
+
+        function loadKnowledge() {
+            const {grade, subject, semester} = currentParams;
+            knowledgeList = DATA_KNOWLEDGE.filter(k => {
+                return k.semester === semester;
+            });
+            renderKnowledgeList();
+        }
+
+        function renderKnowledgeList(items = knowledgeList) {
+            if (items.length === 0) {
+                knowledgeListEl.innerHTML = '';
+                emptyStateEl.classList.remove('hidden');
+                return;
+            }
+            emptyStateEl.classList.add('hidden');
+            knowledgeListEl.innerHTML = items.map(item => {
+                const isExpanded = expandedIds.has(item.id);
+                const isLearned = ProgressManager.isLearned(item.id);
+                return '<div class="card knowledge-card ' + (isLearned ? 'learned' : '') + '" data-id="' + item.id + '">' +
+                    '<div class="knowledge-header p-4 flex items-center justify-between" onclick="toggleExpand(\'' + item.id + '\')">' +
+                        '<div class="flex items-center gap-3 flex-1 min-w-0">' +
+                            '<div class="expand-icon ' + (isExpanded ? 'expanded' : 'collapsed') + '">' + (isExpanded ? '−' : '+') + '</div>' +
+                            '<div class="flex-1 min-w-0">' +
+                                '<h3 class="text-lg font-semibold text-gray-800 flex items-center gap-2">' + escapeHtml(item.name) + (isLearned ? '<span class="text-green-500 text-sm">✓ 已学习</span>' : '') + '</h3>' +
+                                '<p class="text-xs text-gray-500 mt-1">' + escapeHtml(item.chapter) + '</p>' +
+                            '</div>' +
+                        '</div>' +
+                        (HAS_EXAMPLES ? '<button class="btn btn-secondary text-sm px-3 py-1" onclick="event.stopPropagation(); showExample(\'' + item.id + '\', \'' + escapeHtml(item.name) + '\')">例题</button>' : '') +
+                    '</div>' +
+                    '<div id="content-' + item.id + '" class="px-6 pb-4 ' + (isExpanded ? '' : 'hidden') + '">' +
+                        (item.formula ? '<div class="mb-4"><h4 class="text-sm font-medium text-gray-500 mb-2">📐 公式</h4><p class="formula-box text-gray-800 text-lg bg-gray-50 p-3 rounded-lg">' + escapeHtml(item.formula) + '</p></div>' : '') +
+                        (item.explanation ? '<div><h4 class="text-sm font-medium text-gray-500 mb-2">📝 解释</h4><p class="text-gray-700 leading-relaxed whitespace-pre-wrap">' + escapeHtml(item.explanation) + '</p></div>' : '') +
+                    '</div>' +
+                '</div>';
+            }).join('');
+        }
+
+        function toggleExpand(id) {
+            const isNewLearn = !expandedIds.has(id) && !ProgressManager.isLearned(id);
+            if (expandedIds.has(id)) {
+                expandedIds.delete(id);
+            } else {
+                expandedIds.add(id);
+                const {grade, subject, semester} = currentParams;
+                const item = knowledgeList.find(k => k.id === id);
+                if (item) {
+                    ProgressManager.recordStudy(
+                        grade, subject, subjectNames[subject],
+                        semester, semesterNames[semester],
+                        id, item.name
+                    );
+                }
+            }
+            const card = document.querySelector('[data-id="' + id + '"]');
+            const content = document.getElementById('content-' + id);
+            const icon = card.querySelector('.expand-icon');
+            const header = card.querySelector('.knowledge-header');
+            const title = card.querySelector('h3');
+            if (expandedIds.has(id)) {
+                content.classList.remove('hidden');
+                icon.classList.remove('collapsed');
+                icon.classList.add('expanded');
+                icon.textContent = '−';
+                header.classList.add('expanded');
+            } else {
+                content.classList.add('hidden');
+                icon.classList.remove('expanded');
+                icon.classList.add('collapsed');
+                icon.textContent = '+';
+                header.classList.remove('expanded');
+            }
+            if (isNewLearn) {
+                card.classList.add('learned');
+                if (!title.querySelector('.text-green-500')) {
+                    title.innerHTML += '<span class="text-green-500 text-sm">✓ 已学习</span>';
+                }
+                updateProgressStat();
+            }
+        }
+
+        function expandAll() {
+            knowledgeList.forEach(item => expandedIds.add(item.id));
+            renderKnowledgeList();
+        }
+
+        function collapseAll() {
+            expandedIds.clear();
+            renderKnowledgeList();
+        }
+
+        function searchKnowledge(keyword, list) {
+            if (!keyword) return [];
+            const lower = keyword.toLowerCase();
+            return list.filter(k =>
+                k.name.toLowerCase().includes(lower) ||
+                k.chapter.toLowerCase().includes(lower)
+            );
+        }
+
+        function performSearch() {
+            const keyword = searchInput.value.trim();
+            if (!keyword) {
+                searchResultsInfo.classList.add('hidden');
+                renderKnowledgeList();
+                return;
+            }
+            const results = searchKnowledge(keyword, knowledgeList);
+            searchCountEl.textContent = results.length;
+            searchResultsInfo.classList.remove('hidden');
+            renderKnowledgeList(results);
+        }
+
+        function showExample(knowledgeId, knowledgeName) {
+            const examples = DATA_EXAMPLES.filter(e => e.knowledge_id === knowledgeId);
+            if (examples.length === 0) {
+                alert('暂无例题');
+                return;
+            }
+            const example = examples[Math.floor(Math.random() * examples.length)];
+            currentExample = {...example, knowledgeId, knowledgeName, ...currentParams};
+            document.getElementById('example-knowledge-name').textContent = knowledgeName;
+            document.getElementById('example-question').textContent = example.question;
+            document.getElementById('example-answer').textContent = example.answer;
+            document.getElementById('example-answer-section').classList.add('hidden');
+            document.getElementById('btn-show-answer').classList.remove('hidden');
+            document.getElementById('example-modal').classList.remove('hidden');
+        }
+
+        function nextExample() {
+            if (!currentExample) return;
+            const examples = DATA_EXAMPLES.filter(e => e.knowledge_id === currentExample.knowledgeId);
+            const otherExamples = examples.filter(e => e !== currentExample);
+            if (otherExamples.length === 0) {
+                alert('没有更多例题了');
+                return;
+            }
+            const example = otherExamples[Math.floor(Math.random() * otherExamples.length)];
+            currentExample = {...example, knowledgeId: currentExample.knowledgeId, knowledgeName: currentExample.knowledgeName, ...currentParams};
+            document.getElementById('example-question').textContent = example.question;
+            document.getElementById('example-answer').textContent = example.answer;
+            document.getElementById('example-answer-section').classList.add('hidden');
+            document.getElementById('btn-show-answer').classList.remove('hidden');
+        }
+
+        function addToWrongBook() {
+            if (!currentExample) return;
+            const item = {
+                knowledgeId: currentExample.knowledgeId,
+                knowledgeName: currentExample.knowledgeName,
+                question: currentExample.question,
+                answer: currentExample.answer,
+                grade: currentParams.grade,
+                subject: currentParams.subject
+            };
+            if (WrongBookManager.addWrongBook(item)) {
+                alert('已加入错题本！');
+            } else {
+                alert('该题目已在错题本中');
+            }
+        }
+
+        function escapeHtml(text) {
+            if (!text) return '';
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function clearProgress() {
+            const {grade, subject} = currentParams;
+            const subjectName = subjectNames[subject];
+            var msg = '确定要清除【' + subjectName + '】科目的所有学习进度吗？';
+            msg += '\n\n';
+            msg += '此操作将清除该科目所有已学习标记，且不可恢复。';
+            if (!confirm(msg)) {
+                return;
+            }
+            ProgressManager.clearSubjectProgress(grade, subject);
+            updateProgressStat();
+            renderKnowledgeList();
+            alert('学习进度已清除');
+        }
+
+        document.getElementById('btn-expand-all').addEventListener('click', expandAll);
+        document.getElementById('btn-collapse-all').addEventListener('click', collapseAll);
+        document.getElementById('btn-clear-progress').addEventListener('click', clearProgress);
+        searchInput.addEventListener('keyup', e => { if (e.key === 'Enter') performSearch(); });
+        searchInput.addEventListener('input', () => { if (!searchInput.value) { searchResultsInfo.classList.add('hidden'); renderKnowledgeList(); }});
+        document.getElementById('close-example').addEventListener('click', () => document.getElementById('example-modal').classList.add('hidden'));
+        document.getElementById('btn-show-answer').addEventListener('click', () => {
+            document.getElementById('example-answer-section').classList.remove('hidden');
+            document.getElementById('btn-show-answer').classList.add('hidden');
+        });
+        document.getElementById('btn-next-example').addEventListener('click', nextExample);
+        document.getElementById('btn-add-wrong').addEventListener('click', addToWrongBook);
+        document.getElementById('example-modal').addEventListener('click', e => { if (e.target.id === 'example-modal') document.getElementById('example-modal').classList.add('hidden'); });
+
+        initPage();
+    </script>
+</body>
+</html>
