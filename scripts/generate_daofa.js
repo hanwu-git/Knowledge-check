@@ -1,9 +1,10 @@
 const fs = require('fs');
 const path = require('path');
 
-const upperData = require('./data/knowledge/g2_daofa_upper.json');
-const lowerData = require('./data/knowledge/g2_daofa_lower.json');
-const outputDir = './data/examples/';
+const baseDir = path.resolve(__dirname, '..');
+const upperData = require(path.join(baseDir, 'data/knowledge/g2_daofa_upper.json'));
+const lowerData = require(path.join(baseDir, 'data/knowledge/g2_daofa_lower.json'));
+const outputDir = path.join(baseDir, 'data/examples/');
 
 function generateQuestions(knowledge, index, type) {
   const questions = [];
@@ -114,27 +115,28 @@ function generateShortAnswer(kid, name, formula, explanation, idx) {
 function generateCaseStudy(kid, name, formula, explanation, idx) {
   const id = `${kid}_ex${String(idx).padStart(2, '0')}`;
 
-  const cases = [
+  // 直接基于知识点名称生成题目，不再使用固定模板
+  const templates = [
     {
-      question: `【案例分析题】材料：小明在课间发现有同学摔倒了，他主动上前搀扶并帮助联系校医。\n请结合"${name}"的知识，分析小明的行为。`,
-      answer: `（1）小明的行为体现了${name}。\n（2）${formula}\n（3）${explanation}\n（4）启示：在日常生活中，我们也应该积极践行${name}，从帮助身边的人做起。`
+      question: `【理解应用题】在学习"${name}"时，有些同学存在困惑。请结合所学知识，谈谈你的认识。`,
+      answer: `（1）${formula}\n（2）${explanation}\n（3）学习${name}对于我们的健康成长和社会和谐都具有重要意义，我们应该在生活中积极践行这一理念。`
     },
     {
-      question: `【案例分析题】材料：某校初二学生在社会实践中发现，部分同学在公共场所大声喧哗、不遵守秩序。\n请运用"${name}"的知识，分析说明我们应该怎样做。`,
-      answer: `（1）${formula}\n（2）${explanation}\n（3）作为中学生，我们应该从身边小事做起，自觉践行${name}，为构建和谐社会贡献力量。`
+      question: `【理解应用题】有人说："${name}只是理论，与现实生活关系不大。"请运用所学知识，评析这一观点。`,
+      answer: `（1）这种观点是错误的。${formula}\n（2）${explanation}\n（3）${name}与我们的日常生活密切相关，对个人成长和社会进步都有重要作用。`
     },
     {
-      question: `【案例分析题】材料：王同学在小区里主动捡拾垃圾，并带动其他居民一起保护环境。\n请结合"${name}"的知识，评价王同学的行为。`,
-      answer: `（1）王同学的行为体现了${name}。\n（2）${formula}\n（3）${explanation}\n（4）我们应该向王同学学习，积极参与社会公益活动，服务社会，奉献社会。`
+      question: `【理解应用题】在班级讨论中，同学们对"${name}"有不同看法。请结合所学知识，谈谈你的理解。`,
+      answer: `（1）${formula}\n（2）${explanation}\n（3）在学习和生活中，我们应当正确认识和应用${name}，做到知行合一。`
     },
     {
-      question: `【案例分析题】材料：在网络时代，青少年小明经常在网上发表不当言论，忽视了自身素养的培养。\n请结合"${name}"的知识，谈谈你的看法。`,
-      answer: `（1）${formula}\n（2）${explanation}\n（3）我们应该增强${name}意识，在网络生活中同样要遵守规则，文明上网，依法上网。`
+      question: `【理解应用题】生活中，有些人对"${name}"不够重视。请结合所学知识，分析这种现象可能带来的影响。`,
+      answer: `（1）${formula}\n（2）如果忽视${name}，可能导致认知偏差或行为失当。${explanation}\n（3）我们应当重视并在生活中自觉践行${name}。`
     }
   ];
 
-  const c = cases[idx % cases.length];
-  return { id, knowledge_id: kid, question: c.question, answer: c.answer };
+  const t = templates[idx % templates.length];
+  return { id, knowledge_id: kid, question: t.question, answer: t.answer };
 }
 
 function generateAll() {

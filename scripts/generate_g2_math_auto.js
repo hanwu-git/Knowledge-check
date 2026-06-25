@@ -39,9 +39,10 @@ function generateQuestions(kp) {
             `答案：正确\n解析：${kp}`);
     }
 
-    // 4. 选择题 - 错误选项
-    add(`选择题：下列说法中，错误的是（  ）\nA. ${keyPoints[0] ? keyPoints[0].replace(/^\d+\.\s*/, '').substring(0, 30) : '正确说法A'}\nB. ${keyPoints[1] ? keyPoints[1].replace(/^\d+\.\s*/, '').substring(0, 30) : '正确说法B'}\nC. 明显错误的说法（与定义相反）\nD. ${keyPoints[2] ? keyPoints[2].replace(/^\d+\.\s*/, '').substring(0, 30) : '正确说法D'}`,
-        `答案：C\n解析：A、B、D都是正确的，C是错误的。`);
+    // 4. 选择题 - 正确说法
+    const correctStatement = keyPoints.length > 0 ? keyPoints[0].replace(/^\d+\.\s*/, '').substring(0, 40) : '这是一个关于数学知识的正确描述';
+    add(`选择题：下列关于${name}的说法，正确的是（  ）\nA. ${correctStatement}\nB. 关于这一知识点的其他正确说法\nC. 完全错误的说法\nD. 与知识点无关的说法`,
+        `答案：A\n解析：${correctStatement}`);
 
     // 5. 条件/意义题
     if (exp && exp.includes('条件')) {
