@@ -1,0 +1,1201 @@
+[
+  {
+    "id": "g1_geography_u001_ex01",
+    "knowledge_id": "g1_geography_u001",
+    "question": "选择题：地球的平均半径约为（  ）\nA. 6371千米\nB. 4万千米\nC. 5.1亿平方千米\nD. 6378千米",
+    "answer": "答案：A\n解析：地球平均半径约6371千米。"
+  },
+  {
+    "id": "g1_geography_u001_ex02",
+    "knowledge_id": "g1_geography_u001",
+    "question": "填空题：地球的表面积约为______平方千米。",
+    "answer": "答案：5.1亿\n解析：地球表面积约5.1亿平方千米。"
+  },
+  {
+    "id": "g1_geography_u001_ex03",
+    "knowledge_id": "g1_geography_u001",
+    "question": "判断题：地球是一个正球体。（  ）",
+    "answer": "答案：错误\n解析：地球是一个两极稍扁、赤道略鼓的不规则球体。"
+  },
+  {
+    "id": "g1_geography_u001_ex04",
+    "knowledge_id": "g1_geography_u001",
+    "question": "选择题：最先证明地球形状的事件是（  ）\nA. 麦哲伦环球航行\nB. 人造卫星上天\nC. 月食\nD. 登月",
+    "answer": "答案：A\n解析：麦哲伦环球航行从实践上证明地球是球体。"
+  },
+  {
+    "id": "g1_geography_u001_ex05",
+    "knowledge_id": "g1_geography_u001",
+    "question": "填空题：地球的赤道周长约为______万千米。",
+    "answer": "答案：4\n解析：地球赤道周长约4万千米。"
+  },
+  {
+    "id": "g1_geography_u002_ex01",
+    "knowledge_id": "g1_geography_u002",
+    "question": "选择题：纬线的特点是（  ）\nA. 所有纬线长度相等\nB. 所有纬线都是半圆\nC. 纬线指示东西方向\nD. 纬线有180条",
+    "answer": "答案：C\n解析：纬线长度不等，指示东西方向，纬线是圆圈。"
+  },
+  {
+    "id": "g1_geography_u002_ex02",
+    "knowledge_id": "g1_geography_u002",
+    "question": "填空题：赤道的纬度是______。",
+    "answer": "答案：0°\n解析：赤道是0°纬线。"
+  },
+  {
+    "id": "g1_geography_u002_ex03",
+    "knowledge_id": "g1_geography_u002",
+    "question": "选择题：低纬度地区的纬度范围是（  ）\nA. 0°～30°\nB. 30°～60°\nC. 60°～90°\nD. 0°～60°",
+    "answer": "答案：A\n解析：0°～30°为低纬度，30°～60°为中纬度，60°～90°为高纬度。"
+  },
+  {
+    "id": "g1_geography_u002_ex04",
+    "knowledge_id": "g1_geography_u002",
+    "question": "判断题：纬度越高，纬线越短。（  ）",
+    "answer": "答案：正确\n解析：纬线从赤道向两极越来越短，极点变成一个点。"
+  },
+  {
+    "id": "g1_geography_u002_ex05",
+    "knowledge_id": "g1_geography_u002",
+    "question": "填空题：北纬用字母______表示，南纬用字母______表示。",
+    "answer": "答案：N；S\n解析：N=North（北），S=South（南）。"
+  },
+  {
+    "id": "g1_geography_u003_ex01",
+    "knowledge_id": "g1_geography_u003",
+    "question": "选择题：经线的特点是（  ）\nA. 所有经线长度相等\nB. 所有经线都是圆圈\nC. 经线指示南北方向\nD. 经线有360条",
+    "answer": "答案：A\n解析：所有经线长度相等，都连接南北两极，是半圆。"
+  },
+  {
+    "id": "g1_geography_u003_ex02",
+    "knowledge_id": "g1_geography_u003",
+    "question": "填空题：本初子午线的经度是______。",
+    "answer": "答案：0°\n解析：本初子午线是0°经线。"
+  },
+  {
+    "id": "g1_geography_u003_ex03",
+    "knowledge_id": "g1_geography_u003",
+    "question": "选择题：东经用字母______表示，西经用字母______表示。\nA. E, W\nB. W, E\nC. N, S\nD. S, N",
+    "answer": "答案：A\n解析：E=East（东），W=West（西）。"
+  },
+  {
+    "id": "g1_geography_u003_ex04",
+    "knowledge_id": "g1_geography_u003",
+    "question": "判断题：东经度越往东越大，西经度越往西越大。（  ）",
+    "answer": "答案：错误\n解析：东经越往东越大，西经越往东越大（往东经方向走）。"
+  },
+  {
+    "id": "g1_geography_u003_ex05",
+    "knowledge_id": "g1_geography_u003",
+    "question": "填空题：经线圈是由______和它相对的另一条经线组成的。",
+    "answer": "答案：每一条经线\n解析：任意一条经线与它相差180°的经线组成经线圈。"
+  },
+  {
+    "id": "g1_geography_u004_ex01",
+    "knowledge_id": "g1_geography_u004",
+    "question": "选择题：经纬网可以确定（  ）\nA. 地球的大小\nB. 地球的形状\nC. 某点地理坐标\nD. 地球运动方向",
+    "answer": "答案：C\n解析：经纬网可以确定任意一点的地理坐标（经度和纬度）。"
+  },
+  {
+    "id": "g1_geography_u004_ex02",
+    "knowledge_id": "g1_geography_u004",
+    "question": "填空题：某点位于40°N、120°E，其坐标可写作______。",
+    "answer": "答案：40°N, 120°E\n解析：纬度在前，经度在后。"
+  },
+  {
+    "id": "g1_geography_u004_ex03",
+    "knowledge_id": "g1_geography_u004",
+    "question": "选择题：关于经纬网的说法，正确的是（  ）\nA. 经纬网在地球表面真实存在\nB. 经纬网用于军事、航海、航空等\nC. 经纬网是地球自转产生的\nD. 经纬网只有一种形式",
+    "answer": "答案：B\n解析：经纬网是人为划分的，用于定位和导航。"
+  },
+  {
+    "id": "g1_geography_u004_ex04",
+    "knowledge_id": "g1_geography_u004",
+    "question": "判断题：北京的坐标约为40°N、116°E。（  ）",
+    "answer": "答案：正确\n解析：北京位于华北平原北部，约40°N、116°E。"
+  },
+  {
+    "id": "g1_geography_u004_ex05",
+    "knowledge_id": "g1_geography_u004",
+    "question": "填空题：地球表面任何一点都可以用______和______来确定。",
+    "answer": "答案：经度；纬度\n解析：地理坐标由经度和纬度组成。"
+  },
+  {
+    "id": "g1_geography_u005_ex01",
+    "knowledge_id": "g1_geography_u005",
+    "question": "填空题：地球自转的方向是______。",
+    "answer": "答案：自西向东\n解析：地球自西向东自转，从北极上空看为逆时针方向。"
+  },
+  {
+    "id": "g1_geography_u005_ex02",
+    "knowledge_id": "g1_geography_u005",
+    "question": "选择题：地球自转一周所需的时间约为（  ）\nA. 24小时\nB. 一年\nC. 一个月\nD. 12小时",
+    "answer": "答案：A\n解析：地球自转一周约为24小时，形成昼夜交替。"
+  },
+  {
+    "id": "g1_geography_u005_ex03",
+    "knowledge_id": "g1_geography_u005",
+    "question": "判断题：地球自转产生昼夜更替。（  ）",
+    "answer": "答案：正确\n解析：地球不透明，地球自转产生昼夜更替现象。"
+  },
+  {
+    "id": "g1_geography_u005_ex04",
+    "knowledge_id": "g1_geography_u005",
+    "question": "选择题：下列现象由地球自转产生的是（  ）\nA. 四季变化\nB. 昼夜长短变化\nC. 太阳东升西落\nD. 五带划分",
+    "answer": "答案：C\n解析：太阳东升西落是由地球自转产生的。"
+  },
+  {
+    "id": "g1_geography_u005_ex05",
+    "knowledge_id": "g1_geography_u005",
+    "question": "填空题：地球自转产生的地理意义有：昼夜更替、______更替和产生时差。",
+    "answer": "答案：地方时\n解析：地球自西向东自转造成东边比西边先看到太阳，产生时差。"
+  },
+  {
+    "id": "g1_geography_u006_ex01",
+    "knowledge_id": "g1_geography_u006",
+    "question": "填空题：地球公转的方向是______。",
+    "answer": "答案：自西向东\n解析：地球公转方向也是自西向东。"
+  },
+  {
+    "id": "g1_geography_u006_ex02",
+    "knowledge_id": "g1_geography_u006",
+    "question": "选择题：地球公转一周的时间约为（  ）\nA. 24小时\nB. 一个月\nC. 一年\nD. 一周",
+    "answer": "答案：C\n解析：地球公转一周约为一年（365天或366天）。"
+  },
+  {
+    "id": "g1_geography_u006_ex03",
+    "knowledge_id": "g1_geography_u006",
+    "question": "判断题：地球公转产生了四季更替和昼夜长短变化。（  ）",
+    "answer": "答案：正确\n解析：地球公转时地轴倾斜导致太阳直射点变化，产生四季和昼夜长短变化。"
+  },
+  {
+    "id": "g1_geography_u006_ex04",
+    "knowledge_id": "g1_geography_u006",
+    "question": "填空题：地球公转的轨道形状是______。",
+    "answer": "答案：近似正圆的椭圆\n解析：地球公转轨道是近似正圆的椭圆。"
+  },
+  {
+    "id": "g1_geography_u006_ex05",
+    "knowledge_id": "g1_geography_u006",
+    "question": "选择题：地球公转时，地轴的空间指向（  ）\nA. 指向北极星附近\nB. 垂直于公转轨道面\nC. 随公转方向旋转\nD. 指向太阳",
+    "answer": "答案：A\n解析：地轴总是指向北极星附近，倾斜角度基本不变。"
+  },
+  {
+    "id": "g1_geography_u007_ex01",
+    "knowledge_id": "g1_geography_u007",
+    "question": "选择题：北半球夏至日，太阳直射点在（  ）\nA. 赤道\nB. 北回归线\nC. 南回归线\nD. 北极圈",
+    "answer": "答案：B\n解析：北半球夏至日，太阳直射北回归线（23.5°N）。"
+  },
+  {
+    "id": "g1_geography_u007_ex02",
+    "knowledge_id": "g1_geography_u007",
+    "question": "填空题：北半球冬至日，太阳直射点在______。",
+    "answer": "答案：南回归线\n解析：冬至日太阳直射南回归线（23.5°S）。"
+  },
+  {
+    "id": "g1_geography_u007_ex03",
+    "knowledge_id": "g1_geography_u007",
+    "question": "判断题：春分日和秋分日，太阳直射赤道。（  ）",
+    "answer": "答案：正确\n解析：春分和秋分时太阳直射赤道。"
+  },
+  {
+    "id": "g1_geography_u007_ex04",
+    "knowledge_id": "g1_geography_u007",
+    "question": "选择题：我国大部分地区处于五带中的（  ）\nA. 热带\nB. 北温带\nC. 南温带\nD. 北寒带",
+    "answer": "答案：B\n解析：中国大部分地区位于北回归线（23.5°N）到北极圈（66.5°N）之间，属北温带。"
+  },
+  {
+    "id": "g1_geography_u007_ex05",
+    "knowledge_id": "g1_geography_u007",
+    "question": "填空题：南北回归线之间是______带，北极圈到北极是______带。",
+    "answer": "答案：热；北寒\n解析：这是地球五带的划分。"
+  },
+  {
+    "id": "g1_geography_u008_ex01",
+    "knowledge_id": "g1_geography_u008",
+    "question": "选择题：地图的基本要素包括（  ）\nA. 方向、比例尺、图例\nB. 方向、颜色、图例\nC. 方向、比例尺、注记\nD. 颜色、比例尺、图例",
+    "answer": "答案：A\n解析：地图三要素是方向、比例尺、图例和注记。"
+  },
+  {
+    "id": "g1_geography_u008_ex02",
+    "knowledge_id": "g1_geography_u008",
+    "question": "填空题：地图上表示方向的方法有：一般定向法、______和指向标定向法。",
+    "answer": "答案：经纬网定向法\n解析：三种定向方法。"
+  },
+  {
+    "id": "g1_geography_u008_ex03",
+    "knowledge_id": "g1_geography_u008",
+    "question": "判断题：比例尺越大，表示的范围越大，内容越详细。（  ）",
+    "answer": "答案：错误\n解析：比例尺越大，表示的范围越小，内容越详细。"
+  },
+  {
+    "id": "g1_geography_u008_ex04",
+    "knowledge_id": "g1_geography_u008",
+    "question": "选择题：下列比例尺中，最大的是（  ）\nA. 1:1000000\nB. 1:100000\nC. 1:10000\nD. 1:100",
+    "answer": "答案：D\n解析：比例尺大小看分数大小，1:100最大，表示图上1厘米代表实际100厘米。"
+  },
+  {
+    "id": "g1_geography_u008_ex05",
+    "knowledge_id": "g1_geography_u008",
+    "question": "填空题：图例是地图上表示地理事物的______。",
+    "answer": "答案：符号\n解析：图例是地图上各种符号的含义说明。"
+  },
+  {
+    "id": "g1_geography_u009_ex01",
+    "knowledge_id": "g1_geography_u009",
+    "question": "填空题：地面高度的计算方法有两种：______和______。",
+    "answer": "答案：海拔；相对高度\n解析：海拔是地面某点到海平面的垂直距离，相对高度是两地的海拔之差。"
+  },
+  {
+    "id": "g1_geography_u009_ex02",
+    "knowledge_id": "g1_geography_u009",
+    "question": "选择题：海拔是指（  ）\nA. 某地到另一地的垂直距离\nB. 某地到海平面的垂直距离\nC. 山顶到山脚的垂直距离\nD. 任意两点间的距离",
+    "answer": "答案：B\n解析：海拔是地面某点高出海平面的垂直距离。"
+  },
+  {
+    "id": "g1_geography_u009_ex03",
+    "knowledge_id": "g1_geography_u009",
+    "question": "判断题：相对高度总是小于海拔高度。（  ）",
+    "answer": "答案：错误\n解析：相对高度可能大于其中一地的海拔。"
+  },
+  {
+    "id": "g1_geography_u009_ex04",
+    "knowledge_id": "g1_geography_u009",
+    "question": "填空题：甲地海拔1500米，乙地海拔500米，两地的相对高度是______米。",
+    "answer": "答案：1000\n解析：相对高度 = 1500 - 500 = 1000米。"
+  },
+  {
+    "id": "g1_geography_u009_ex05",
+    "knowledge_id": "g1_geography_u009",
+    "question": "选择题：表示地面起伏程度的指标是（  ）\nA. 海拔\nB. 相对高度\nC. 等高线疏密\nD. 等高线数值",
+    "answer": "答案：B\n解析：相对高度表示地面起伏程度。"
+  },
+  {
+    "id": "g1_geography_u010_ex01",
+    "knowledge_id": "g1_geography_u010",
+    "question": "填空题：等高线是______相等的点的连线。",
+    "answer": "答案：海拔\n解析：等高线是海拔相等的点的连线。"
+  },
+  {
+    "id": "g1_geography_u010_ex02",
+    "knowledge_id": "g1_geography_u010",
+    "question": "判断题：等高线越密集，表示坡度越陡。（  ）",
+    "answer": "答案：正确\n解析：等高线密集，水平距离小，坡度陡。"
+  },
+  {
+    "id": "g1_geography_u010_ex03",
+    "knowledge_id": "g1_geography_u010",
+    "question": "选择题：在等高线地形图上，山脊的等高线向哪个方向弯曲？（  ）\nA. 高处\nB. 低处\nC. 不弯曲\nD. 不确定",
+    "answer": "答案：B\n解析：山脊等高线向低处（山谷）方向弯曲。"
+  },
+  {
+    "id": "g1_geography_u010_ex04",
+    "knowledge_id": "g1_geography_u010",
+    "question": "填空题：等高线重叠的地方表示______。",
+    "answer": "答案：陡崖\n解析：等高线重叠表示陡崖（悬崖）。"
+  },
+  {
+    "id": "g1_geography_u010_ex05",
+    "knowledge_id": "g1_geography_u010",
+    "question": "选择题：相邻两条等高线之间的高度差叫做（  ）\nA. 等高距\nB. 相对高度\nC. 坡度\nD. 海拔差",
+    "answer": "答案：A\n解析：等高距是相邻两条等高线之间的高度差。"
+  },
+  {
+    "id": "g1_geography_u011_ex01",
+    "knowledge_id": "g1_geography_u011",
+    "question": "填空题：分层设色地形图上，绿色表示______，蓝色表示______，褐色表示______。",
+    "answer": "答案：平原；海洋或河流；高原和山地\n解析：这是分层设色地形图的颜色标准。"
+  },
+  {
+    "id": "g1_geography_u011_ex02",
+    "knowledge_id": "g1_geography_u011",
+    "question": "选择题：分层设色地形图中，平原的颜色通常是（  ）\nA. 蓝色\nB. 绿色\nC. 黄色\nD. 褐色",
+    "answer": "答案：B\n解析：平原海拔低，通常用绿色表示。"
+  },
+  {
+    "id": "g1_geography_u011_ex03",
+    "knowledge_id": "g1_geography_u011",
+    "question": "判断题：在分层设色地形图上，只能看出地形的类型，看不出海拔高度。（  ）",
+    "answer": "答案：错误\n解析：分层设色图可以结合颜色深浅判断大致海拔。"
+  },
+  {
+    "id": "g1_geography_u011_ex04",
+    "knowledge_id": "g1_geography_u011",
+    "question": "填空题：高原和山地通常用______色表示。",
+    "answer": "答案：褐\n解析：海拔越高，颜色越深。"
+  },
+  {
+    "id": "g1_geography_u011_ex05",
+    "knowledge_id": "g1_geography_u011",
+    "question": "选择题：下列地形中，在分层设色图上颜色最深的是（  ）\nA. 丘陵\nB. 平原\nC. 山地\nD. 高原",
+    "answer": "答案：C\n解析：山地海拔最高，颜色最深（褐色）。"
+  },
+  {
+    "id": "g1_geography_u012_ex01",
+    "knowledge_id": "g1_geography_u012",
+    "question": "填空题：五种主要地形类型是：平原、高原、______、______和盆地。",
+    "answer": "答案：山地；丘陵\n解析：五种基本地形类型。"
+  },
+  {
+    "id": "g1_geography_u012_ex02",
+    "knowledge_id": "g1_geography_u012",
+    "question": "选择题：海拔较低，地势起伏较小，地面有波状起伏的地形是（  ）\nA. 平原\nB. 高原\nC. 丘陵\nD. 山地",
+    "answer": "答案：C\n解析：丘陵海拔较低，地势起伏较小。"
+  },
+  {
+    "id": "g1_geography_u012_ex03",
+    "knowledge_id": "g1_geography_u012",
+    "question": "判断题：高原的特点是海拔高、地面坦荡、边缘陡峻。（  ）",
+    "answer": "答案：正确\n解析：高原的典型特征。"
+  },
+  {
+    "id": "g1_geography_u012_ex04",
+    "knowledge_id": "g1_geography_u012",
+    "question": "填空题：四周高、中间低的地形是______。",
+    "answer": "答案：盆地\n解析：盆地的特征。"
+  },
+  {
+    "id": "g1_geography_u012_ex05",
+    "knowledge_id": "g1_geography_u012",
+    "question": "选择题：海拔在500米以上，地势崎岖不平的地形是（  ）\nA. 高原\nB. 山地\nC. 丘陵\nD. 平原",
+    "answer": "答案：B\n解析：山地海拔500米以上，地势崎岖。"
+  },
+  {
+    "id": "g1_geography_u013_ex01",
+    "knowledge_id": "g1_geography_u013",
+    "question": "填空题：海底地形包括：大陆架、______、海岭、海沟等。",
+    "answer": "答案：大陆坡\n解析：主要海底地形类型。"
+  },
+  {
+    "id": "g1_geography_u013_ex02",
+    "knowledge_id": "g1_geography_u013",
+    "question": "选择题：海底地形中，坡度最陡的是（  ）\nA. 大陆架\nB. 大陆坡\nC. 洋盆\nD. 海岭",
+    "answer": "答案：B\n解析：大陆坡连接大陆架和大洋底，坡度较陡。"
+  },
+  {
+    "id": "g1_geography_u013_ex03",
+    "knowledge_id": "g1_geography_u013",
+    "question": "判断题：大陆架是陆地向海洋延伸的部分，坡度平缓。（  ）",
+    "answer": "答案：正确\n解析：大陆架是陆地延伸到海底的部分，水深一般不超过200米。"
+  },
+  {
+    "id": "g1_geography_u013_ex04",
+    "knowledge_id": "g1_geography_u013",
+    "question": "填空题：世界上最深的海沟是______，深度超过11000米。",
+    "answer": "答案：马里亚纳海沟\n解析：马里亚纳海沟位于太平洋西部。"
+  },
+  {
+    "id": "g1_geography_u013_ex05",
+    "knowledge_id": "g1_geography_u013",
+    "question": "选择题：海沟主要分布在（  ）\nA. 大洋中部\nB. 大陆边缘\nC. 海岭附近\nD. 任意位置",
+    "answer": "答案：B\n解析：海沟分布在大陆边缘，是大洋板块俯冲形成的。"
+  },
+  {
+    "id": "g1_geography_u014_ex01",
+    "knowledge_id": "g1_geography_u014",
+    "question": "填空题：地球表面陆地占______%，海洋占______%。",
+    "answer": "答案：29；71\n解析：地球表面三分陆地七分海洋。"
+  },
+  {
+    "id": "g1_geography_u014_ex02",
+    "knowledge_id": "g1_geography_u014",
+    "question": "选择题：世界上面积最大的大洲是（  ）\nA. 非洲\nB. 北美洲\nC. 亚洲\nD. 南美洲",
+    "answer": "答案：C\n解析：亚洲是面积最大的洲。"
+  },
+  {
+    "id": "g1_geography_u014_ex03",
+    "knowledge_id": "g1_geography_u014",
+    "question": "填空题：亚洲与欧洲的分界线是：乌拉尔山脉、乌拉尔河、______、土耳其海峡。",
+    "answer": "答案：大高加索山脉\n解析：这是亚欧两大洲的分界线。"
+  },
+  {
+    "id": "g1_geography_u014_ex04",
+    "knowledge_id": "g1_geography_u014",
+    "question": "判断题：赤道穿过的大洲有非洲、亚洲、大洋洲、南美洲。（  ）",
+    "answer": "答案：错误\n解析：赤道穿过非洲、亚洲、大洋洲、南美洲，没有穿过欧洲。"
+  },
+  {
+    "id": "g1_geography_u014_ex05",
+    "knowledge_id": "g1_geography_u014",
+    "question": "选择题：完全位于北半球的大洲有（  ）\nA. 亚洲、非洲\nB. 北美洲、南美洲\nC. 欧洲、北美洲\nD. 大洋洲、南极洲",
+    "answer": "答案：C\n解析：欧洲和北美洲完全位于北半球。"
+  },
+  {
+    "id": "g1_geography_u015_ex01",
+    "knowledge_id": "g1_geography_u015",
+    "question": "选择题：世界上面积最大的大洋是（  ）\nA. 大西洋\nB. 太平洋\nC. 印度洋\nD. 北冰洋",
+    "answer": "答案：B\n解析：太平洋是面积最大的大洋，约占世界海洋总面积的一半。"
+  },
+  {
+    "id": "g1_geography_u015_ex02",
+    "knowledge_id": "g1_geography_u015",
+    "question": "填空题：太平洋是世界上______的大洋。",
+    "answer": "答案：最深\n解析：太平洋平均深度最大，拥有世界最深的海沟马里亚纳海沟。"
+  },
+  {
+    "id": "g1_geography_u015_ex03",
+    "knowledge_id": "g1_geography_u015",
+    "question": "判断题：太平洋被亚洲、北美洲、南美洲、大洋洲和南极洲环绕。（  ）",
+    "answer": "答案：正确\n解析：太平洋的位置。"
+  },
+  {
+    "id": "g1_geography_u015_ex04",
+    "knowledge_id": "g1_geography_u015",
+    "question": "填空题：太平洋西部边缘有世界著名的火山地震带，称为______。",
+    "answer": "答案：环太平洋火山地震带\n解析：太平洋地区是世界主要的火山地震带分布区。"
+  },
+  {
+    "id": "g1_geography_u015_ex05",
+    "knowledge_id": "g1_geography_u015",
+    "question": "选择题：下列关于太平洋的说法，错误的是（  ）\nA. 面积最大\nB. 深度最深\nC. 岛屿最少\nD. 水温最高",
+    "answer": "答案：C\n解析：太平洋岛屿众多，如日本群岛、菲律宾群岛等。"
+  },
+  {
+    "id": "g1_geography_u016_ex01",
+    "knowledge_id": "g1_geography_u016",
+    "question": "填空题：海陆变迁的主要原因包括：地壳运动、______和人类活动。",
+    "answer": "答案：海平面升降\n解析：海陆变迁的主要自然原因。"
+  },
+  {
+    "id": "g1_geography_u016_ex02",
+    "knowledge_id": "g1_geography_u016",
+    "question": "选择题：下列事例中，能证明海陆变迁的是（  ）\nA. 四季更替\nB. 涨潮落潮\nC. 台湾海峡海底发现森林遗迹\nD. 地震",
+    "answer": "答案：C\n解析：台湾海峡海底发现森林遗迹，说明这里曾经是陆地。"
+  },
+  {
+    "id": "g1_geography_u016_ex03",
+    "knowledge_id": "g1_geography_u016",
+    "question": "判断题：喜马拉雅山上发现海洋生物化石，说明这里曾经是海洋。（  ）",
+    "answer": "答案：正确\n解析：海洋生物化石出现在高山上，说明海陆变迁。"
+  },
+  {
+    "id": "g1_geography_u016_ex04",
+    "knowledge_id": "g1_geography_u016",
+    "question": "填空题：我国东部海底发现的古河流遗迹，是由于______造成的。",
+    "answer": "答案：海平面下降（或地壳上升）\n解析：海平面下降或地壳上升使海底露出成为陆地。"
+  },
+  {
+    "id": "g1_geography_u016_ex05",
+    "knowledge_id": "g1_geography_u016",
+    "question": "选择题：荷兰的围海造陆工程属于（  ）\nA. 地壳运动\nB. 海平面升降\nC. 人类活动\nD. 自然原因",
+    "answer": "答案：C\n解析：人类活动直接改变了海陆分布。"
+  },
+  {
+    "id": "g1_geography_u017_ex01",
+    "knowledge_id": "g1_geography_u017",
+    "question": "填空题：板块构造学说认为，全球由______大板块组成。",
+    "answer": "答案：六\n解析：全球主要有六大板块。"
+  },
+  {
+    "id": "g1_geography_u017_ex02",
+    "knowledge_id": "g1_geography_u017",
+    "question": "选择题：地中海位于（  ）\nA. 亚欧板块与印度洋板块交界处\nB. 亚欧板块与非洲板块交界处\nC. 非洲板块与印度洋板块交界处\nD. 太平洋板块与亚欧板块交界处",
+    "answer": "答案：B\n解析：地中海位于亚欧板块和非洲板块交界处。"
+  },
+  {
+    "id": "g1_geography_u017_ex03",
+    "knowledge_id": "g1_geography_u017",
+    "question": "判断题：板块内部地壳稳定，板块交界处地壳活跃。（  ）",
+    "answer": "答案：正确\n解析：板块交界处是地壳活动活跃地带，多火山地震。"
+  },
+  {
+    "id": "g1_geography_u017_ex04",
+    "knowledge_id": "g1_geography_u017",
+    "question": "填空题：世界两大火山地震带是：环太平洋火山地震带和______火山地震带。",
+    "answer": "答案：地中海-喜马拉雅\n解析：两大主要火山地震带。"
+  },
+  {
+    "id": "g1_geography_u017_ex05",
+    "knowledge_id": "g1_geography_u017",
+    "question": "选择题：日本多火山地震，是因为日本位于（  ）\nA. 太平洋板块内部\nB. 亚欧板块与太平洋板块交界处\nC. 印度洋板块与亚欧板块交界处\nD. 非洲板块与亚欧板块交界处",
+    "answer": "答案：B\n解析：日本位于亚欧板块与太平洋板块交界处，地壳活跃。"
+  },
+  {
+    "id": "g1_geography_u018_ex01",
+    "knowledge_id": "g1_geography_u018",
+    "question": "填空题：天气是一个地方短时间内大气的______状况。",
+    "answer": "答案：阴晴、风雨、冷热\n解析：天气的特点。"
+  },
+  {
+    "id": "g1_geography_u018_ex02",
+    "knowledge_id": "g1_geography_u018",
+    "question": "选择题：下列词语中，描述天气的是（  ）\nA. 全年高温多雨\nB. 冬冷夏热\nC. 晴空万里\nD. 四季如春",
+    "answer": "答案：C\n解析：天气是短时间状况，晴空万里描述的是天气。"
+  },
+  {
+    "id": "g1_geography_u018_ex03",
+    "knowledge_id": "g1_geography_u018",
+    "question": "判断题：气候是一个地方多年的天气平均状况。（  ）",
+    "answer": "答案：正确\n解析：气候是多年平均状况，相对稳定。"
+  },
+  {
+    "id": "g1_geography_u018_ex04",
+    "knowledge_id": "g1_geography_u018",
+    "question": "填空题：天气预报通常包括：阴晴、______、风向、风力和______。",
+    "answer": "答案：温度；降水\n解析：天气预报的主要要素。"
+  },
+  {
+    "id": "g1_geography_u018_ex05",
+    "knowledge_id": "g1_geography_u018",
+    "question": "选择题：下列符号中，表示雾的是（  ）\nA. 三条横线\nB. 类似F的符号\nC. 三角形\nD. 云朵符号",
+    "answer": "答案：D\n解析：天气预报符号中，云朵表示雾。"
+  },
+  {
+    "id": "g1_geography_u019_ex01",
+    "knowledge_id": "g1_geography_u019",
+    "question": "填空题：一天中，最高气温出现在______左右，最低气温出现在______前后。",
+    "answer": "答案：14时；日出\n解析：陆地最高气温在14时左右，最低在日出前后。"
+  },
+  {
+    "id": "g1_geography_u019_ex02",
+    "knowledge_id": "g1_geography_u019",
+    "question": "选择题：等温线稀疏的地方，表示（  ）\nA. 气温差异大\nB. 气温差异小\nC. 温度高\nD. 温度低",
+    "answer": "答案：B\n解析：等温线稀疏表示气温差异小。"
+  },
+  {
+    "id": "g1_geography_u019_ex03",
+    "knowledge_id": "g1_geography_u019",
+    "question": "判断题：同纬度地区，夏季陆地气温高于海洋。（  ）",
+    "answer": "答案：正确\n解析：夏季陆地升温快，气温高于海洋。"
+  },
+  {
+    "id": "g1_geography_u019_ex04",
+    "knowledge_id": "g1_geography_u019",
+    "question": "填空题：北半球，等温线大致与纬线______（平行/垂直）。",
+    "answer": "答案：平行\n解析：北半球等温线大致沿纬线方向延伸。"
+  },
+  {
+    "id": "g1_geography_u019_ex05",
+    "knowledge_id": "g1_geography_u019",
+    "question": "选择题：一天中气温变化规律：日出前后气温______，午后2时气温______。\nA. 最高，最高\nB. 最低，最高\nC. 最低，最低\nD. 最高，最低",
+    "answer": "答案：B\n解析：日出前后最低，午后2时最高。"
+  },
+  {
+    "id": "g1_geography_u020_ex01",
+    "knowledge_id": "g1_geography_u020",
+    "question": "填空题：降水的三种主要类型是：______、地形雨和对流雨。",
+    "answer": "答案：锋面雨\n解析：三种主要降水类型。"
+  },
+  {
+    "id": "g1_geography_u020_ex02",
+    "knowledge_id": "g1_geography_u020",
+    "question": "选择题：赤道附近降水丰富，主要属于（  ）\nA. 地形雨\nB. 对流雨\nC. 锋面雨\nD. 无法确定",
+    "answer": "答案：B\n解析：赤道地区以对流雨为主。"
+  },
+  {
+    "id": "g1_geography_u020_ex03",
+    "knowledge_id": "g1_geography_u020",
+    "question": "判断题：山地的迎风坡降水多，背风坡降水少。（  ）",
+    "answer": "答案：正确\n解析：山地迎风坡暖湿气流抬升冷却，多降水。"
+  },
+  {
+    "id": "g1_geography_u020_ex04",
+    "knowledge_id": "g1_geography_u020",
+    "question": "填空题：测量降水量的基本工具是______。",
+    "answer": "答案：雨量器\n解析：雨量器用于测量降水量。"
+  },
+  {
+    "id": "g1_geography_u020_ex05",
+    "knowledge_id": "g1_geography_u020",
+    "question": "选择题：下列地区中，年降水量最多的是（  ）\nA. 撒哈拉沙漠\nB. 赤道地区\nC. 两极地区\nD. 地中海沿岸",
+    "answer": "答案：B\n解析：赤道地区终年受赤道低压控制，降水丰富。"
+  },
+  {
+    "id": "g1_geography_u021_ex01",
+    "knowledge_id": "g1_geography_u021",
+    "question": "填空题：热带雨林气候的特点是______。",
+    "answer": "答案：全年高温多雨\n解析：热带雨林气候的特征。"
+  },
+  {
+    "id": "g1_geography_u021_ex02",
+    "knowledge_id": "g1_geography_u021",
+    "question": "选择题：地中海气候主要分布在（  ）\nA. 赤道附近\nB. 南北纬30°-40°的大陆西岸\nC. 温带大陆内部\nD. 极地地区",
+    "answer": "答案：B\n解析：地中海气候分布在地中海沿岸及南北纬30°-40°大陆西岸。"
+  },
+  {
+    "id": "g1_geography_u021_ex03",
+    "knowledge_id": "g1_geography_u021",
+    "question": "判断题：温带季风气候夏季高温多雨，冬季寒冷干燥。（  ）",
+    "answer": "答案：正确\n解析：温带季风气候的特征。"
+  },
+  {
+    "id": "g1_geography_u021_ex04",
+    "knowledge_id": "g1_geography_u021",
+    "question": "填空题：热带草原气候的特征是______。",
+    "answer": "答案：全年高温，分干湿两季\n解析：热带草原气候的典型特征。"
+  },
+  {
+    "id": "g1_geography_u021_ex05",
+    "knowledge_id": "g1_geography_u021",
+    "question": "选择题：亚欧大陆内部最主要的气候类型是（  ）\nA. 温带季风气候\nB. 温带海洋性气候\nC. 温带大陆性气候\nD. 地中海气候",
+    "answer": "答案：C\n解析：温带大陆性气候分布在温带大陆内部。"
+  },
+  {
+    "id": "g1_geography_u022_ex01",
+    "knowledge_id": "g1_geography_u022",
+    "question": "填空题：世界人口数量约为______亿。",
+    "answer": "答案：80\n解析：世界人口约80亿。"
+  },
+  {
+    "id": "g1_geography_u022_ex02",
+    "knowledge_id": "g1_geography_u022",
+    "question": "选择题：世界三大人种是（  ）\nA. 白种人、黄种人、棕种人\nB. 白种人、黑种人、黄种人\nC. 白种人、黑种人、红种人\nD. 红种人、黄种人、黑种人",
+    "answer": "答案：B\n解析：世界三大人种是白色、黄色、黑色人种。"
+  },
+  {
+    "id": "g1_geography_u022_ex03",
+    "knowledge_id": "g1_geography_u022",
+    "question": "判断题：人种只有体质形态上的差异，没有优劣之分。（  ）",
+    "answer": "答案：正确\n解析：各人种平等，没有优劣之分。"
+  },
+  {
+    "id": "g1_geography_u022_ex04",
+    "knowledge_id": "g1_geography_u022",
+    "question": "填空题：黑色人种主要分布在______。",
+    "answer": "答案：非洲撒哈拉以南\n解析：黑种人主要分布在非洲中部和南部。"
+  },
+  {
+    "id": "g1_geography_u022_ex05",
+    "knowledge_id": "g1_geography_u022",
+    "question": "选择题：下列地区以白种人为主的是（  ）\nA. 东南亚\nB. 非洲北部\nC. 南亚\nD. 澳大利亚",
+    "answer": "答案：B\n解析：非洲北部以白色人种为主。"
+  },
+  {
+    "id": "g1_geography_u023_ex01",
+    "knowledge_id": "g1_geography_u023",
+    "question": "选择题：人口增长过快可能带来的问题有（  ）\nA. 劳动力短缺\nB. 国防兵源不足\nC. 就业困难、资源紧张\nD. 社会养老负担重",
+    "answer": "答案：C\n解析：人口增长过快会导致资源紧张、就业困难等问题。"
+  },
+  {
+    "id": "g1_geography_u023_ex02",
+    "knowledge_id": "g1_geography_u023",
+    "question": "填空题：人口增长过慢可能带来的问题有：劳动力不足、______等。",
+    "answer": "答案：社会养老负担重、国防兵源不足\n解析：人口负增长带来的问题。"
+  },
+  {
+    "id": "g1_geography_u023_ex03",
+    "knowledge_id": "g1_geography_u023",
+    "question": "判断题：人口增长应与资源、环境相协调，与社会经济发展相适应。（  ）",
+    "answer": "答案：正确\n解析：可持续发展理念。"
+  },
+  {
+    "id": "g1_geography_u023_ex04",
+    "knowledge_id": "g1_geography_u023",
+    "question": "填空题：人口稀疏区主要分布在极端干旱的沙漠地区、______、地势高峻的高原山地和原始的热带雨林地区。",
+    "answer": "答案：过于湿热的热带雨林、严寒的极地\n解析：人口稀疏区分布。"
+  },
+  {
+    "id": "g1_geography_u023_ex05",
+    "knowledge_id": "g1_geography_u023",
+    "question": "选择题：人口密度是指（  ）\nA. 单位面积的人口数\nB. 总人口数\nC. 人口出生率\nD. 人口死亡率",
+    "answer": "答案：A\n解析：人口密度 = 总人口/面积。"
+  },
+  {
+    "id": "g1_geography_u024_ex01",
+    "knowledge_id": "g1_geography_u024",
+    "question": "填空题：联合国工作语言包括：汉语、英语、法语、俄语、西班牙语和______语。",
+    "answer": "答案：阿拉伯\n解析：联合国六种工作语言。"
+  },
+  {
+    "id": "g1_geography_u024_ex02",
+    "knowledge_id": "g1_geography_u024",
+    "question": "选择题：世界上使用人数最多的语言是（  ）\nA. 英语\nB. 汉语\nC. 西班牙语\nD. 俄语",
+    "answer": "答案：B\n解析：汉语是世界上使用人数最多的语言。"
+  },
+  {
+    "id": "g1_geography_u024_ex03",
+    "knowledge_id": "g1_geography_u024",
+    "question": "填空题：三大宗教是：基督教、伊斯兰教和______。",
+    "answer": "答案：佛教\n解析：三大世界性宗教。"
+  },
+  {
+    "id": "g1_geography_u024_ex04",
+    "knowledge_id": "g1_geography_u024",
+    "question": "判断题：佛教主要分布在亚洲东部和东南部。（  ）",
+    "answer": "答案：正确\n解析：佛教主要分布在东亚、东南亚和南亚。"
+  },
+  {
+    "id": "g1_geography_u024_ex05",
+    "knowledge_id": "g1_geography_u024",
+    "question": "选择题：圣诞节与哪种宗教有关？（  ）\nA. 佛教\nB. 伊斯兰教\nC. 基督教\nD. 犹太教",
+    "answer": "答案：C\n解析：圣诞节是基督教纪念耶稣诞生的节日。"
+  },
+  {
+    "id": "g1_geography_u025_ex01",
+    "knowledge_id": "g1_geography_u025",
+    "question": "填空题：聚落分为______和城市两大类。",
+    "answer": "答案：乡村\n解析：聚落的基本分类。"
+  },
+  {
+    "id": "g1_geography_u025_ex02",
+    "knowledge_id": "g1_geography_u025",
+    "question": "选择题：乡村聚落与城市聚落的主要差异是（  ）\nA. 人口密度\nB. 生产方式\nC. 房屋结构\nD. 交通方式",
+    "answer": "答案：B\n解析：乡村以农业为主，城市以非农业为主，主要差异是生产方式。"
+  },
+  {
+    "id": "g1_geography_u025_ex03",
+    "knowledge_id": "g1_geography_u025",
+    "question": "判断题：聚落形成与发展的主要因素是水源充足、地形平坦、土壤肥沃、交通便利等。（  ）",
+    "answer": "答案：正确\n解析：聚落分布的自然和社会经济条件。"
+  },
+  {
+    "id": "g1_geography_u025_ex04",
+    "knowledge_id": "g1_geography_u025",
+    "question": "填空题：传统聚落是______文化的历史见证。",
+    "answer": "答案：人类\n解析：传统聚落反映人类历史和文化。"
+  },
+  {
+    "id": "g1_geography_u025_ex05",
+    "knowledge_id": "g1_geography_u025",
+    "question": "选择题：下列聚落中，已经列入《世界遗产名录》的是（  ）\nA. 北京\nB. 上海\nC. 云南丽江古城\nD. 深圳",
+    "answer": "答案：C\n解析：丽江古城是中国著名世界文化遗产。"
+  },
+  {
+    "id": "g1_geography_u026_ex01",
+    "knowledge_id": "g1_geography_u026",
+    "question": "填空题：世界上面积最大的国家是______，人口最多的国家是______。",
+    "answer": "答案：俄罗斯；中国\n解析：俄罗斯面积最大，中国人口最多。"
+  },
+  {
+    "id": "g1_geography_u026_ex02",
+    "knowledge_id": "g1_geography_u026",
+    "question": "选择题：发达国家主要分布在（  ）\nA. 亚洲、非洲、拉丁美洲\nB. 北美洲、欧洲、大洋洲\nC. 欧洲、亚洲、非洲\nD. 南美洲、非洲、大洋洲",
+    "answer": "答案：B\n解析：发达国家主要分布在北半球，如欧洲、北美、大洋洲。"
+  },
+  {
+    "id": "g1_geography_u026_ex03",
+    "knowledge_id": "g1_geography_u026",
+    "question": "判断题：\"南北对话\"是指发展中国家与发展中国家之间的合作。（  ）",
+    "answer": "答案：错误\n解析：\"南北对话\"是发达国家与发展中国家之间的对话。"
+  },
+  {
+    "id": "g1_geography_u026_ex04",
+    "knowledge_id": "g1_geography_u026",
+    "question": "填空题：\"南南合作\"是指______之间的合作。",
+    "answer": "答案：发展中国家\n解析：\"南\"指南半球发展中国家之间的合作。"
+  },
+  {
+    "id": "g1_geography_u026_ex05",
+    "knowledge_id": "g1_geography_u026",
+    "question": "选择题：下列国际组织中，最大的综合性组织是（  ）\nA. 世界贸易组织\nB. 联合国\nC. 国际奥委会\nD. 欧盟",
+    "answer": "答案：B\n解析：联合国是最大的综合性政府间国际组织。"
+  },
+  {
+    "id": "g1_geography_u027_ex01",
+    "knowledge_id": "g1_geography_u027",
+    "question": "填空题：亚洲绝大部分位于______半球和______半球。",
+    "answer": "答案：北；东\n解析：亚洲主要位于北半球和东半球。"
+  },
+  {
+    "id": "g1_geography_u027_ex02",
+    "knowledge_id": "g1_geography_u027",
+    "question": "选择题：亚洲濒临的大洋不包括（  ）\nA. 太平洋\nB. 印度洋\nC. 大西洋\nD. 北冰洋",
+    "answer": "答案：C\n解析：亚洲不直接濒临大西洋。"
+  },
+  {
+    "id": "g1_geography_u027_ex03",
+    "knowledge_id": "g1_geography_u027",
+    "question": "判断题：亚洲是世界上面积最大、跨纬度最广的大洲。（  ）",
+    "answer": "答案：正确\n解析：亚洲特点。"
+  },
+  {
+    "id": "g1_geography_u027_ex04",
+    "knowledge_id": "g1_geography_u027",
+    "question": "填空题：亚洲东临太平洋，北临______。",
+    "answer": "答案：北冰洋\n解析：亚洲北临北冰洋。"
+  },
+  {
+    "id": "g1_geography_u027_ex05",
+    "knowledge_id": "g1_geography_u027",
+    "question": "选择题：亚洲与非洲的分界线是（  ）\nA. 苏伊士运河\nB. 巴拿马运河\nC. 白令海峡\nD. 乌拉尔河",
+    "answer": "答案：A\n解析：苏伊士运河是亚洲与非洲的分界线。"
+  },
+  {
+    "id": "g1_geography_u028_ex01",
+    "knowledge_id": "g1_geography_u028",
+    "question": "填空题：亚洲地形特点：地形复杂多样，______广布，以______为主。",
+    "answer": "答案：山地高原；山地高原\n解析：亚洲地形以山地高原为主。"
+  },
+  {
+    "id": "g1_geography_u028_ex02",
+    "knowledge_id": "g1_geography_u028",
+    "question": "选择题：亚洲地势特点是（  ）\nA. 西高东低\nB. 中间高、四周低\nC. 北高南低\nD. 地形平坦",
+    "answer": "答案：B\n解析：亚洲地势中间高、四周低。"
+  },
+  {
+    "id": "g1_geography_u028_ex03",
+    "knowledge_id": "g1_geography_u028",
+    "question": "判断题：亚洲有世界最高峰珠穆朗玛峰。（  ）",
+    "answer": "答案：正确\n解析：珠穆朗玛峰海拔8848.86米，是世界最高峰。"
+  },
+  {
+    "id": "g1_geography_u028_ex04",
+    "knowledge_id": "g1_geography_u028",
+    "question": "填空题：亚洲最大的平原是______平原。",
+    "answer": "答案：西西伯利亚\n解析：西西伯利亚平原是亚洲最大平原。"
+  },
+  {
+    "id": "g1_geography_u028_ex05",
+    "knowledge_id": "g1_geography_u028",
+    "question": "选择题：亚洲最高的山脉是（  ）\nA. 昆仑山脉\nB. 喜马拉雅山脉\nC. 阿尔泰山脉\nD. 天山山脉",
+    "answer": "答案：B\n解析：喜马拉雅山脉是亚洲最高、世界最高的山脉。"
+  },
+  {
+    "id": "g1_geography_u029_ex01",
+    "knowledge_id": "g1_geography_u029",
+    "question": "填空题：亚洲气候特点：复杂多样、______气候分布广、______气候显著。",
+    "answer": "答案：季风；大陆性\n解析：亚洲气候两大特点。"
+  },
+  {
+    "id": "g1_geography_u029_ex02",
+    "knowledge_id": "g1_geography_u029",
+    "question": "选择题：亚洲季风气候显著，主要包括（  ）\nA. 热带季风、温带季风\nB. 热带季风、亚热带季风、温带季风\nC. 亚热带季风、地中海气候\nD. 温带季风、热带草原气候",
+    "answer": "答案：B\n解析：亚洲季风气候包括热带、亚热带和温带季风气候。"
+  },
+  {
+    "id": "g1_geography_u029_ex03",
+    "knowledge_id": "g1_geography_u029",
+    "question": "判断题：亚洲东部和南部受季风影响，容易发生旱涝灾害。（  ）",
+    "answer": "答案：正确\n解析：季风气候的不稳定性导致旱涝灾害。"
+  },
+  {
+    "id": "g1_geography_u029_ex04",
+    "knowledge_id": "g1_geography_u029",
+    "question": "填空题：亚洲分布最广的气候类型是______气候。",
+    "answer": "答案：温带大陆性\n解析：温带大陆性气候在亚洲分布最广。"
+  },
+  {
+    "id": "g1_geography_u029_ex05",
+    "knowledge_id": "g1_geography_u029",
+    "question": "选择题：下列亚洲气候类型中，属于热带季风气候的是（  ）\nA. 阿拉伯半岛\nB. 印度半岛\nC. 中南半岛\nD. 朝鲜半岛",
+    "answer": "答案：C\n解析：中南半岛属于热带季风气候。"
+  },
+  {
+    "id": "g1_geography_u030_ex01",
+    "knowledge_id": "g1_geography_u030",
+    "question": "填空题：日本由______、本州、四国、九州四大岛及其附近小岛组成。",
+    "answer": "答案：北海道\n解析：日本领土组成。"
+  },
+  {
+    "id": "g1_geography_u030_ex02",
+    "knowledge_id": "g1_geography_u030",
+    "question": "判断题：日本是亚洲唯一的发达国家。（  ）",
+    "answer": "答案：正确\n解析：日本是亚洲最发达的资本主义国家。"
+  },
+  {
+    "id": "g1_geography_u030_ex03",
+    "knowledge_id": "g1_geography_u030",
+    "question": "选择题：日本工业主要分布在太平洋沿岸和______沿岸。\nA. 日本海\nB. 东海\nC. 濑户内海\nD. 鄂霍次克海",
+    "answer": "答案：C\n解析：日本工业分布在太平洋沿岸和濑户内海沿岸。"
+  },
+  {
+    "id": "g1_geography_u030_ex04",
+    "knowledge_id": "g1_geography_u030",
+    "question": "填空题：日本多火山地震，主要是因为位于______板块与太平洋板块交界处。",
+    "answer": "答案：亚欧\n解析：日本位于板块交界处，地壳活跃。"
+  },
+  {
+    "id": "g1_geography_u030_ex05",
+    "knowledge_id": "g1_geography_u030",
+    "question": "选择题：日本经济发展的特点是（  ）\nA. 原料依赖进口，工业产品依赖出口\nB. 原料和产品都依赖进口\nC. 原料和产品都自给自足\nD. 原料和产品都以出口为主",
+    "answer": "答案：A\n解析：日本地狭人多、资源匮乏，依靠进口原料、出口工业品发展经济。"
+  },
+  {
+    "id": "g1_geography_l001_ex01",
+    "knowledge_id": "g1_geography_l001",
+    "question": "填空题：东南亚包括______和______两大部分。",
+    "answer": "答案：中南半岛；马来群岛\n解析：东南亚组成。"
+  },
+  {
+    "id": "g1_geography_l001_ex02",
+    "knowledge_id": "g1_geography_l001",
+    "question": "选择题：东南亚唯一的内陆国是（  ）\nA. 泰国\nB. 越南\nC. 老挝\nD. 柬埔寨",
+    "answer": "答案：C\n解析：老挝是东南亚唯一的内陆国。"
+  },
+  {
+    "id": "g1_geography_l001_ex03",
+    "knowledge_id": "g1_geography_l001",
+    "question": "判断题：东南亚位于亚洲东南部，包括中南半岛和马来群岛两大部分。（  ）",
+    "answer": "答案：正确\n解析：东南亚的地理位置和组成。"
+  },
+  {
+    "id": "g1_geography_l001_ex04",
+    "knowledge_id": "g1_geography_l001",
+    "question": "填空题：东南亚主要种植的粮食作物是______。",
+    "answer": "答案：水稻\n解析：东南亚气候湿热，适合种植水稻。"
+  },
+  {
+    "id": "g1_geography_l001_ex05",
+    "knowledge_id": "g1_geography_l001",
+    "question": "选择题：东南亚扼守马六甲海峡的国家是（  ）\nA. 印度尼西亚\nB. 马来西亚\nC. 新加坡\nD. 菲律宾",
+    "answer": "答案：B\n解析：马来西亚扼守马六甲海峡南端。"
+  },
+  {
+    "id": "g1_geography_l002_ex01",
+    "knowledge_id": "g1_geography_l002",
+    "question": "填空题：印度位于南亚，是世界第______人口大国。",
+    "answer": "答案：二\n解析：中国第一，印度第二。"
+  },
+  {
+    "id": "g1_geography_l002_ex02",
+    "knowledge_id": "g1_geography_l002",
+    "question": "选择题：印度的主要气候类型是（  ）\nA. 热带雨林气候\nB. 热带季风气候\nC. 亚热带季风气候\nD. 温带大陆性气候",
+    "answer": "答案：B\n解析：印度大部分地区属热带季风气候。"
+  },
+  {
+    "id": "g1_geography_l002_ex03",
+    "knowledge_id": "g1_geography_l002",
+    "question": "判断题：印度的\"绿色革命\"指的是推广杂交水稻。（  ）\n解析：绿色革命是指推广高产粮食作物品种和农业技术。"
+  },
+  {
+    "id": "g1_geography_l002_ex04",
+    "knowledge_id": "g1_geography_l002",
+    "question": "填空题：印度服务外包产业发达，被称为\"______\"。",
+    "answer": "答案：世界办公室\n解析：印度 IT 产业发达，被称为世界办公室。"
+  },
+  {
+    "id": "g1_geography_l002_ex05",
+    "knowledge_id": "g1_geography_l002",
+    "question": "选择题：印度软件出口量居世界第（  ）位。\nA. 1\nB. 2\nC. 3\nD. 4",
+    "answer": "答案：B\n解析：印度软件出口量居世界第二，仅次于美国。"
+  },
+  {
+    "id": "g1_geography_l003_ex01",
+    "knowledge_id": "g1_geography_l003",
+    "question": "填空题：俄罗斯是世界上面积______的国家。",
+    "answer": "答案：最大\n解析：俄罗斯面积约1709万平方千米，世界第一。"
+  },
+  {
+    "id": "g1_geography_l003_ex02",
+    "knowledge_id": "g1_geography_l003",
+    "question": "选择题：俄罗斯大部分地区属于（  ）\nA. 温带季风气候\nB. 温带大陆性气候\nC. 热带雨林气候\nD. 地中海气候",
+    "answer": "答案：B\n解析：俄罗斯大部分地区属温带大陆性气候。"
+  },
+  {
+    "id": "g1_geography_l003_ex03",
+    "knowledge_id": "g1_geography_l003",
+    "question": "判断题：俄罗斯的工业主要分布在原料产地附近。（  ）",
+    "answer": "答案：正确\n解析：俄罗斯工业靠近原料产地。"
+  },
+  {
+    "id": "g1_geography_l003_ex04",
+    "knowledge_id": "g1_geography_l003",
+    "question": "填空题：俄罗斯首都______，位于______洲。",
+    "answer": "答案：莫斯科；欧\n解析：莫斯科是俄罗斯首都，大部分领土在亚洲，但政治中心在欧洲。"
+  },
+  {
+    "id": "g1_geography_l003_ex05",
+    "knowledge_id": "g1_geography_l003",
+    "question": "选择题：俄罗斯最长的河流是（  ）\nA. 伏尔加河\nB. 鄂毕河\nC. 叶尼塞河\nD. 勒拿河",
+    "answer": "答案：B\n解析：鄂毕河是俄罗斯最长河流。"
+  },
+  {
+    "id": "g1_geography_l004_ex01",
+    "knowledge_id": "g1_geography_l004",
+    "question": "填空题：中东是______、______和______三洲交界之地。",
+    "answer": "答案：亚洲；非洲；欧洲\n解析：中东的地理位置。"
+  },
+  {
+    "id": "g1_geography_l004_ex02",
+    "knowledge_id": "g1_geography_l004",
+    "question": "选择题：中东地区最丰富的资源是（  ）\nA. 铁矿\nB. 森林\nC. 石油\nD. 水资源",
+    "answer": "答案：C\n解析：中东石油资源丰富，是世界最重要的石油产区。"
+  },
+  {
+    "id": "g1_geography_l004_ex03",
+    "knowledge_id": "g1_geography_l004",
+    "question": "判断题：中东地区主要信奉伊斯兰教。（  ）",
+    "answer": "答案：正确\n解析：中东居民主要信奉伊斯兰教。"
+  },
+  {
+    "id": "g1_geography_l004_ex04",
+    "knowledge_id": "g1_geography_l004",
+    "question": "填空题：中东地区气候______，______资源匮乏。",
+    "answer": "答案：炎热干燥；水\n解析：中东热带沙漠气候广布，水资源匮乏。"
+  },
+  {
+    "id": "g1_geography_l004_ex05",
+    "knowledge_id": "g1_geography_l004",
+    "question": "选择题：关于中东的叙述，错误的是（  ）\nA. 石油丰富\nB. 水资源丰富\nC. 宗教冲突频繁\nD. 战略位置重要",
+    "answer": "答案：B\n解析：中东水资源匮乏。"
+  },
+  {
+    "id": "g1_geography_l005_ex01",
+    "knowledge_id": "g1_geography_l005",
+    "question": "填空题：欧洲西部是指欧洲的______地区。",
+    "answer": "答案：西半部\n解析：欧洲西部的范围。"
+  },
+  {
+    "id": "g1_geography_l005_ex02",
+    "knowledge_id": "g1_geography_l005",
+    "question": "选择题：欧洲西部主要的气候类型是（  ）\nA. 温带大陆性气候\nB. 温带海洋性气候\nC. 地中海气候\nD. 热带雨林气候",
+    "answer": "答案：B\n解析：欧洲西部受北大西洋暖流影响，以温带海洋性气候为主。"
+  },
+  {
+    "id": "g1_geography_l005_ex03",
+    "knowledge_id": "g1_geography_l005",
+    "question": "判断题：欧洲西部是世界人口稠密区。（  ）",
+    "answer": "答案：正确\n解析：欧洲西部是世界人口最稠密地区之一。"
+  },
+  {
+    "id": "g1_geography_l005_ex04",
+    "knowledge_id": "g1_geography_l005",
+    "question": "填空题：欧洲西部多数国家以______经济为主。",
+    "answer": "答案：发达资本\n解析：欧洲西部多为发达国家。"
+  },
+  {
+    "id": "g1_geography_l005_ex05",
+    "knowledge_id": "g1_geography_l005",
+    "question": "选择题：欧洲西部最典型的农业类型是（  ）\nA. 水田农业\nB. 畜牧业\nC. 热带种植园\nD. 游牧业",
+    "answer": "答案：B\n解析：温带海洋性气候适合多汁牧草生长，畜牧业发达。"
+  },
+  {
+    "id": "g1_geography_l006_ex01",
+    "knowledge_id": "g1_geography_l006",
+    "question": "填空题：撒哈拉以南非洲以______人种为主。",
+    "answer": "答案：黑色\n解析：撒哈拉以南非洲以黑种人为主。"
+  },
+  {
+    "id": "g1_geography_l006_ex02",
+    "knowledge_id": "g1_geography_l006",
+    "question": "选择题：撒哈拉以南非洲面临的主要问题是（  ）\nA. 人口增长过慢\nB. 资源匮乏\nC. 人口、粮食与环境问题\nD. 工业化程度高",
+    "answer": "答案：C\n解析：人口增长快、粮食不足、环境恶化是主要问题。"
+  },
+  {
+    "id": "g1_geography_l006_ex03",
+    "knowledge_id": "g1_geography_l006",
+    "question": "判断题：撒哈拉以南非洲有\"热带大陆\"之称。（  ）",
+    "answer": "答案：正确\n解析：非洲大部分位于热带。"
+  },
+  {
+    "id": "g1_geography_l006_ex04",
+    "knowledge_id": "g1_geography_l006",
+    "question": "填空题：非洲最高峰是______，世界最大沙漠是______。",
+    "answer": "答案：乞力马扎罗山；撒哈拉沙漠\n解析：乞力马扎罗山海拔5895米，撒哈拉沙漠面积约900万平方千米。"
+  },
+  {
+    "id": "g1_geography_l006_ex05",
+    "knowledge_id": "g1_geography_l006",
+    "question": "选择题：非洲产量居世界首位的农产品是（  ）\nA. 咖啡、可可\nB. 香蕉、棕榈油\nC. 小麦、玉米\nD. 水稻、高粱",
+    "answer": "答案：A\n解析：非洲是咖啡、可可的最大产区。"
+  },
+  {
+    "id": "g1_geography_l007_ex01",
+    "knowledge_id": "g1_geography_l007",
+    "question": "填空题：澳大利亚是世界上唯一独占______大陆的国家。",
+    "answer": "答案：一\n解析：澳大利亚独占澳大利亚大陆。"
+  },
+  {
+    "id": "g1_geography_l007_ex02",
+    "knowledge_id": "g1_geography_l007",
+    "question": "选择题：澳大利亚的人口主要分布在（  ）\nA. 西部高原\nB. 中部平原\nC. 东南沿海\nD. 北部地区",
+    "answer": "答案：C\n解析：澳大利亚人口主要分布在东南沿海城市。"
+  },
+  {
+    "id": "g1_geography_l007_ex03",
+    "knowledge_id": "g1_geography_l007",
+    "question": "判断题：澳大利亚被称为\"坐在矿车上的国家\"。（  ）",
+    "answer": "答案：正确\n解析：澳大利亚矿产资源丰富。"
+  },
+  {
+    "id": "g1_geography_l007_ex04",
+    "knowledge_id": "g1_geography_l007",
+    "question": "填空题：澳大利亚特有的动物有______和______等。",
+    "answer": "答案：袋鼠；考拉\n解析：澳大利亚特有动物。"
+  },
+  {
+    "id": "g1_geography_l007_ex05",
+    "knowledge_id": "g1_geography_l007",
+    "question": "选择题：澳大利亚的首都（  ）\nA. 悉尼\nB. 墨尔本\nC. 堪培拉\nD. 珀斯",
+    "answer": "答案：C\n解析：堪培拉是澳大利亚首都。"
+  },
+  {
+    "id": "g1_geography_l008_ex01",
+    "knowledge_id": "g1_geography_l008",
+    "question": "填空题：美国地跨北美洲和______洲。",
+    "answer": "答案：大洋\n解析：美国地跨北美和大洋洲（夏威夷）。"
+  },
+  {
+    "id": "g1_geography_l008_ex02",
+    "knowledge_id": "g1_geography_l008",
+    "question": "选择题：美国居民中，比重最大的是（  ）\nA. 黑种人\nB. 黄种人\nC. 白种人\nD. 印第安人",
+    "answer": "答案：C\n解析：美国白种人占绝大多数。"
+  },
+  {
+    "id": "g1_geography_l008_ex03",
+    "knowledge_id": "g1_geography_l008",
+    "question": "判断题：美国是世界最大的移民国家。（  ）",
+    "answer": "答案：正确\n解析：美国被称为\"民族大熔炉\"。"
+  },
+  {
+    "id": "g1_geography_l008_ex04",
+    "knowledge_id": "g1_geography_l008",
+    "question": "填空题：美国农业实现了______化和______化。",
+    "answer": "答案：机械；专业\n解析：美国农业现代化特点。"
+  },
+  {
+    "id": "g1_geography_l008_ex05",
+    "knowledge_id": "g1_geography_l008",
+    "question": "选择题：美国兴起最早、规模最大的高新技术产业中心是（  ）\nA. 硅谷\nB. 好莱坞\nC. 底特律\nD. 休斯顿",
+    "answer": "答案：A\n解析：硅谷位于加州旧金山，是世界高新技术产业中心。"
+  },
+  {
+    "id": "g1_geography_l009_ex01",
+    "knowledge_id": "g1_geography_l009",
+    "question": "填空题：巴西是南美洲面积______的国家。",
+    "answer": "答案：最大\n解析：巴西是南美洲最大的国家。"
+  },
+  {
+    "id": "g1_geography_l009_ex02",
+    "knowledge_id": "g1_geography_l009",
+    "question": "选择题：巴西的官方语言是（  ）\nA. 英语\nB. 葡萄牙语\nC. 西班牙语\nD. 巴西语",
+    "answer": "答案：B\n解析：巴西曾是葡萄牙殖民地，使用葡萄牙语。"
+  },
+  {
+    "id": "g1_geography_l009_ex03",
+    "knowledge_id": "g1_geography_l009",
+    "question": "判断题：巴西境内拥有世界上面积最大的热带雨林——亚马逊雨林。（  ）",
+    "answer": "答案：正确\n解析：亚马逊雨林被称为\"地球之肺\"。"
+  },
+  {
+    "id": "g1_geography_l009_ex04",
+    "knowledge_id": "g1_geography_l009",
+    "question": "填空题：巴西人种复杂，以______人种为主。",
+    "answer": "答案：白种和混血\n解析：巴西白种人和混血种人占多数。"
+  },
+  {
+    "id": "g1_geography_l009_ex05",
+    "knowledge_id": "g1_geography_l009",
+    "question": "选择题：巴西首都是（  ）\nA. 圣保罗\nB. 里约热内卢\nC. 巴西利亚\nD. 萨尔瓦多",
+    "answer": "答案：C\n解析：巴西利亚是巴西首都。"
+  },
+  {
+    "id": "g1_geography_l010_ex01",
+    "knowledge_id": "g1_geography_l010",
+    "question": "填空题：两极地区气候______，平均气温在______℃以下。",
+    "answer": "答案：严寒；-50\n解析：两极地区终年寒冷，平均气温在-50℃以下。"
+  },
+  {
+    "id": "g1_geography_l010_ex02",
+    "knowledge_id": "g1_geography_l010",
+    "question": "选择题：北极地区主要居住的原住民是（  ）\nA. 因纽特人\nB. 印第安人\nC. 毛利人\nD. 印第安人",
+    "answer": "答案：A\n解析：北极地区原住民是因纽特人。"
+  },
+  {
+    "id": "g1_geography_l010_ex03",
+    "knowledge_id": "g1_geography_l010",
+    "question": "判断题：南极地区没有常住人口。（  ）",
+    "answer": "答案：正确\n解析：南极没有常住居民，只有科考人员。"
+  },
+  {
+    "id": "g1_geography_l010_ex04",
+    "knowledge_id": "g1_geography_l010",
+    "question": "填空题：南极地区代表性动物是______。",
+    "answer": "答案：企鹅\n解析：企鹅是南极代表性动物。"
+  },
+  {
+    "id": "g1_geography_l010_ex05",
+    "knowledge_id": "g1_geography_l010",
+    "question": "选择题：我国在南极建立的第一个科学考察站是（  ）\nA. 长城站\nB. 中山站\nC. 昆仑站\nD. 泰山站",
+    "answer": "答案：A\n解析：长城站建于1985年，是我国第一个南极科考站。"
+  }
+]

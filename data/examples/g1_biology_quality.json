@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "g1_biology_u001_ex01",
+    "knowledge_id": "g1_biology_u001",
+    "question": "选择题：显微镜中，靠近眼睛的镜头是（  ）\nA. 物镜\nB. 目镜\nC. 反光镜\nD. 载物台",
+    "answer": "答案：B\n解析：目镜靠近眼睛，物镜靠近观察物体。"
+  },
+  {
+    "id": "g1_biology_u001_ex02",
+    "knowledge_id": "g1_biology_u001",
+    "question": "填空题：显微镜的放大倍数 = ______×______。",
+    "answer": "答案：目镜放大倍数；物镜放大倍数\n解析：总放大倍数是目镜和物镜放大倍数的乘积。"
+  },
+  {
+    "id": "g1_biology_u001_ex03",
+    "knowledge_id": "g1_biology_u001",
+    "question": "判断题：显微镜下看到的像是倒立的。（  ）",
+    "answer": "答案：正确\n解析：显微镜成像是倒立（上下左右都颠倒）的虚像。"
+  },
+  {
+    "id": "g1_biology_u001_ex04",
+    "knowledge_id": "g1_biology_u001",
+    "question": "选择题：用显微镜观察时，若物像在视野左下方，应将玻片向______移动。\nA. 左下方\nB. 右上方\nC. 左上方\nD. 右下方",
+    "answer": "答案：A\n解析：物像偏向哪个方向，就向哪个方向移动玻片。"
+  },
+  {
+    "id": "g1_biology_u001_ex05",
+    "knowledge_id": "g1_biology_u001",
+    "question": "填空题：转动粗准焦螺旋时，镜筒升降范围______；转动细准焦螺旋时，镜筒升降范围______。（填\"大\"或\"小\"）",
+    "answer": "答案：大；小\n解析：粗准焦螺旋用于快速对焦，细准焦螺旋用于精细调节。"
+  },
+  {
+    "id": "g1_biology_u002_ex01",
+    "knowledge_id": "g1_biology_u002",
+    "question": "填空题：植物细胞的基本结构包括：细胞壁、细胞膜、细胞质、______和液泡。",
+    "answer": "答案：细胞核\n解析：植物细胞的基本结构。"
+  },
+  {
+    "id": "g1_biology_u002_ex02",
+    "knowledge_id": "g1_biology_u002",
+    "question": "选择题：植物细胞特有的结构是（  ）\nA. 细胞壁\nB. 细胞膜\nC. 细胞质\nD. 细胞核",
+    "answer": "答案：A\n解析：细胞壁是植物细胞特有的结构（植物、细菌、真菌都有细胞壁，但组成不同）。"
+  },
+  {
+    "id": "g1_biology_u002_ex03",
+    "knowledge_id": "g1_biology_u002",
+    "question": "判断题：细胞核是细胞的控制中心。（  ）",
+    "answer": "答案：正确\n解析：细胞核内含遗传物质，是细胞生命活动的控制中心。"
+  },
+  {
+    "id": "g1_biology_u002_ex04",
+    "knowledge_id": "g1_biology_u002",
+    "question": "填空题：细胞质中与光合作用有关的结构是______。",
+    "answer": "答案：叶绿体\n解析：叶绿体是光合作用的场所。"
+  },
+  {
+    "id": "g1_biology_u002_ex05",
+    "knowledge_id": "g1_biology_u002",
+    "question": "选择题：植物细胞的\"能量转换器\"是（  ）\nA. 细胞核\nB. 线粒体\nC. 叶绿体\nD. 液泡",
+    "answer": "答案：C\n解析：叶绿体将光能转化为化学能，是能量转换器。"
+  },
+  {
+    "id": "g1_biology_u003_ex01",
+    "knowledge_id": "g1_biology_u003",
+    "question": "填空题：动物细胞的基本结构包括：细胞膜、细胞质和______。",
+    "answer": "答案：细胞核\n解析：动物细胞的基本结构。"
+  },
+  {
+    "id": "g1_biology_u003_ex02",
+    "knowledge_id": "g1_biology_u003",
+    "question": "选择题：与植物细胞相比，动物细胞特有的结构是（  ）\nA. 细胞膜\nB. 细胞核\nC. 线粒体\nD. 细胞壁",
+    "answer": "答案：D\n解析：动物细胞没有细胞壁。"
+  },
+  {
+    "id": "g1_biology_u003_ex03",
+    "knowledge_id": "g1_biology_u003",
+    "question": "判断题：动物细胞也有线粒体，是呼吸作用的场所。（  ）",
+    "answer": "答案：正确\n解析：动物细胞有线粒体，进行呼吸作用释放能量。"
+  },
+  {
+    "id": "g1_biology_u003_ex04",
+    "knowledge_id": "g1_biology_u003",
+    "question": "填空题：制作人口腔上皮细胞临时装片时，用______染色，以便观察细胞核。",
+    "answer": "答案：碘液\n解析：常用碘液或龙胆紫对细胞进行染色。"
+  },
+  {
+    "id": "g1_biology_u003_ex05",
+    "knowledge_id": "g1_biology_u003",
+    "question": "选择题：动物细胞的能量转换器是（  ）\nA. 叶绿体\nB. 线粒体\nC. 细胞核\nD. 液泡",
+    "answer": "答案：B\n解析：动物细胞无线粒体，通过线粒体进行呼吸作用产生能量。"
+  },
+  {
+    "id": "g1_biology_u004_ex01",
+    "knowledge_id": "g1_biology_u004",
+    "question": "填空题：细胞的生活需要物质和______。",
+    "answer": "答案：能量\n解析：细胞需要物质提供营养，能量提供动力。"
+  },
+  {
+    "id": "g1_biology_u004_ex02",
+    "knowledge_id": "g1_biology_u004",
+    "question": "选择题：细胞膜的功能是（  ）\nA. 支持和保护\nB. 控制物质进出\nC. 储存遗传信息\nD. 合成有机物",
+    "answer": "答案：B\n解析：细胞膜具有控制物质进出的功能。"
+  },
+  {
+    "id": "g1_biology_u004_ex03",
+    "knowledge_id": "g1_biology_u004",
+    "question": "判断题：细胞中的有机物包括糖类、脂肪、蛋白质和维生素。（  ）",
+    "answer": "答案：错误\n解析：维生素不是有机物（但有些教材分类不同）。严格说，有机物包括糖类、脂肪、蛋白质。"
+  },
+  {
+    "id": "g1_biology_u004_ex04",
+    "knowledge_id": "g1_biology_u004",
+    "question": "填空题：细胞中的能量转换器包括线粒体和______。",
+    "answer": "答案：叶绿体\n解析：叶绿体和线粒体是细胞中的能量转换器。"
+  },
+  {
+    "id": "g1_biology_u004_ex05",
+    "knowledge_id": "g1_biology_u004",
+    "question": "选择题：下列物质中，能为生命活动提供能量的是（  ）\nA. 水\nB. 无机盐\nC. 糖类\nD. 维生素",
+    "answer": "答案：C\n解析：糖类是主要的能源物质。"
+  },
+  {
+    "id": "g1_biology_u005_ex01",
+    "knowledge_id": "g1_biology_u005",
+    "question": "填空题：细胞分裂是指一个细胞分成______个细胞的过程。",
+    "answer": "答案：两\n解析：细胞分裂使细胞数量增加。"
+  },
+  {
+    "id": "g1_biology_u005_ex02",
+    "knowledge_id": "g1_biology_u005",
+    "question": "判断题：细胞分裂过程中，染色体不需要复制。（  ）",
+    "answer": "答案：错误\n解析：细胞分裂时，染色体先复制再均分。"
+  },
+  {
+    "id": "g1_biology_u005_ex03",
+    "knowledge_id": "g1_biology_u005",
+    "question": "填空题：细胞分裂后，新细胞的染色体数目与原细胞______。",
+    "answer": "答案：相同\n解析：染色体在分裂过程中均分，数目不变。"
+  },
+  {
+    "id": "g1_biology_u005_ex04",
+    "knowledge_id": "g1_biology_u005",
+    "question": "选择题：细胞分化的结果是形成（  ）\nA. 更多的细胞\nB. 不同形态和功能的细胞\nC. 更大的细胞\nD. 死亡的细胞",
+    "answer": "答案：B\n解析：细胞分化使细胞形态、功能发生差异，形成不同组织。"
+  },
+  {
+    "id": "g1_biology_u005_ex05",
+    "knowledge_id": "g1_biology_u005",
+    "question": "判断题：细胞分裂使细胞数量增多，细胞分化使细胞种类增多。（  ）",
+    "answer": "答案：正确\n解析：分裂增加数量，分化增加种类。"
+  },
+  {
+    "id": "g1_biology_u006_ex01",
+    "knowledge_id": "g1_biology_u006",
+    "question": "填空题：植物体的结构层次：细胞→______→器官→植物体。",
+    "answer": "答案：组织\n解析：植物体由细胞构成组织，由组织构成器官，由器官构成植物体。"
+  },
+  {
+    "id": "g1_biology_u006_ex02",
+    "knowledge_id": "g1_biology_u006",
+    "question": "选择题：根尖的分生区属于（  ）\nA. 营养组织\nB. 分生组织\nC. 保护组织\nD. 输导组织",
+    "answer": "答案：B\n解析：分生区细胞分裂旺盛，属于分生组织。"
+  },
+  {
+    "id": "g1_biology_u006_ex03",
+    "knowledge_id": "g1_biology_u006",
+    "question": "判断题：植物的叶是器官。（  ）",
+    "answer": "答案：正确\n解析：叶是由不同组织组成的器官。"
+  },
+  {
+    "id": "g1_biology_u006_ex04",
+    "knowledge_id": "g1_biology_u006",
+    "question": "填空题：植物的主要组织包括：分生组织、保护组织、输导组织、营养组织和______。",
+    "answer": "答案：机械组织\n解析：植物的基本组织类型。"
+  },
+  {
+    "id": "g1_biology_u006_ex05",
+    "knowledge_id": "g1_biology_u006",
+    "question": "选择题：下列植物器官中，属于营养器官的是（  ）\nA. 花\nB. 果实\nC. 种子\nD. 根",
+    "answer": "答案：D\n解析：根、茎、叶是营养器官，花、果实、种子是生殖器官。"
+  },
+  {
+    "id": "g1_biology_u007_ex01",
+    "knowledge_id": "g1_biology_u007",
+    "question": "填空题：动物体的结构层次：细胞→______→器官→系统→动物体。",
+    "answer": "答案：组织\n解析：动物体比植物体多了系统层次。"
+  },
+  {
+    "id": "g1_biology_u007_ex02",
+    "knowledge_id": "g1_biology_u007",
+    "question": "选择题：人体的四种基本组织是（  ）\nA. 上皮组织、肌肉组织、神经组织、结缔组织\nB. 保护组织、营养组织、分生组织、输导组织\nC. 肌肉组织、神经组织、结缔组织、肌肉组织\nD. 上皮组织、肌肉组织、神经组织、保护组织",
+    "answer": "答案：A\n解析：人体四种基本组织是上皮、肌肉、神经、结缔组织。"
+  },
+  {
+    "id": "g1_biology_u007_ex03",
+    "knowledge_id": "g1_biology_u007",
+    "question": "判断题：人体的胃属于器官。（  ）",
+    "answer": "答案：正确\n解析：胃是由多种组织组成的器官。"
+  },
+  {
+    "id": "g1_biology_u007_ex04",
+    "knowledge_id": "g1_biology_u007",
+    "question": "填空题：人体消化系统由消化道和______两大部分组成。",
+    "answer": "答案：消化腺\n解析：消化系统包括消化道（管）和消化腺（腺体）。"
+  },
+  {
+    "id": "g1_biology_u007_ex05",
+    "knowledge_id": "g1_biology_u007",
+    "question": "选择题：心脏主要由哪种组织构成？（  ）\nA. 上皮组织\nB. 肌肉组织\nC. 神经组织\nD. 结缔组织",
+    "answer": "答案：B\n解析：心脏主要由心肌构成。"
+  },
+  {
+    "id": "g1_biology_u008_ex01",
+    "knowledge_id": "g1_biology_u008",
+    "question": "填空题：单细胞生物如______，整个身体由一个细胞构成。",
+    "answer": "答案：草履虫\n解析：草履虫是常见的单细胞生物。"
+  },
+  {
+    "id": "g1_biology_u008_ex02",
+    "knowledge_id": "g1_biology_u008",
+    "question": "选择题：草履虫进行气体交换的结构是（  ）\nA. 伸缩泡\nB. 表膜\nC. 收集管\nD. 纤毛",
+    "answer": "答案：B\n解析：草履虫通过表膜进行气体交换。"
+  },
+  {
+    "id": "g1_biology_u008_ex03",
+    "knowledge_id": "g1_biology_u008",
+    "question": "判断题：单细胞生物能独立完成呼吸、排泄、运动等多种生命活动。（  ）",
+    "answer": "答案：正确\n解析：单细胞生物依靠细胞器完成各种生命活动。"
+  },
+  {
+    "id": "g1_biology_u008_ex04",
+    "knowledge_id": "g1_biology_u008",
+    "question": "填空题：草履虫靠______的摆动进行运动。",
+    "answer": "答案：纤毛\n解析：纤毛是草履虫的运动器官。"
+  },
+  {
+    "id": "g1_biology_u008_ex05",
+    "knowledge_id": "g1_biology_u008",
+    "question": "选择题：下列生物中，属于单细胞生物的是（  ）\nA. 蘑菇\nB. 酵母菌\nC. 青霉\nD. 木耳",
+    "answer": "答案：B\n解析：酵母菌是单细胞真菌。"
+  },
+  {
+    "id": "g1_biology_u009_ex01",
+    "knowledge_id": "g1_biology_u009",
+    "question": "填空题：藻类植物没有______、______和______的分化。",
+    "answer": "答案：根；茎；叶\n解析：藻类是最低等的植物，没有根茎叶的分化。"
+  },
+  {
+    "id": "g1_biology_u009_ex02",
+    "knowledge_id": "g1_biology_u009",
+    "question": "判断题：藻类植物全部生活在水中。（  ）",
+    "answer": "答案：错误\n解析：多数藻类生活在水中，但有些藻类也生活在潮湿的地面、岩石或树皮上。"
+  },
+  {
+    "id": "g1_biology_u009_ex03",
+    "knowledge_id": "g1_biology_u009",
+    "question": "填空题：藻类植物能进行______作用，释放氧气。",
+    "answer": "答案：光合\n解析：藻类植物含有叶绿体，能进行光合作用。"
+  },
+  {
+    "id": "g1_biology_u009_ex04",
+    "knowledge_id": "g1_biology_u009",
+    "question": "选择题：海带、紫菜等藻类植物的结构特点是（  ）\nA. 有根茎叶\nB. 有果实\nC. 无根茎叶，有叶绿素\nD. 有种子",
+    "answer": "答案：C\n解析：藻类植物没有根茎叶，但有叶绿素。"
+  },
+  {
+    "id": "g1_biology_u009_ex05",
+    "knowledge_id": "g1_biology_u009",
+    "question": "填空题：藻类植物在生物圈中的作用：提供氧气、食用、药用和______。",
+    "answer": "答案：维持生态平衡\n解析：藻类是生态系统的重要生产者。"
+  },
+  {
+    "id": "g1_biology_u010_ex01",
+    "knowledge_id": "g1_biology_u010",
+    "question": "填空题：苔藓植物没有真正的______，只有假根。",
+    "answer": "答案：根\n解析：苔藓植物的假根只有固定作用，没有吸收功能。"
+  },
+  {
+    "id": "g1_biology_u010_ex02",
+    "knowledge_id": "g1_biology_u010",
+    "question": "判断题：苔藓植物可以作为监测空气污染程度的指示植物。（  ）",
+    "answer": "答案：正确\n解析：苔藓植物对二氧化硫等污染物敏感。"
+  },
+  {
+    "id": "g1_biology_u010_ex03",
+    "knowledge_id": "g1_biology_u010",
+    "question": "填空题：苔藓植物叶片很薄，只有一层细胞，对有毒气体敏感，因此可以用于______。",
+    "answer": "答案：监测空气污染\n解析：苔藓植物是监测空气污染的指示植物。"
+  },
+  {
+    "id": "g1_biology_u010_ex04",
+    "knowledge_id": "g1_biology_u010",
+    "question": "选择题：葫芦藓的植物体分为（  ）\nA. 根、茎、叶\nB. 茎、叶\nC. 假根、茎、叶\nD. 根、茎",
+    "answer": "答案：C\n解析：苔藓植物有假根、茎、叶的分化。"
+  },
+  {
+    "id": "g1_biology_u010_ex05",
+    "knowledge_id": "g1_biology_u010",
+    "question": "填空题：苔藓植物喜欢生活在______的环境中。",
+    "answer": "答案：阴湿\n解析：苔藓植物喜阴湿环境。"
+  },
+  {
+    "id": "g1_biology_u011_ex01",
+    "knowledge_id": "g1_biology_u011",
+    "question": "填空题：蕨类植物有真正的______、______和______的分化。",
+    "answer": "答案：根；茎；叶\n解析：蕨类植物有了根茎叶的分化，比苔藓植物高等。"
+  },
+  {
+    "id": "g1_biology_u011_ex02",
+    "knowledge_id": "g1_biology_u011",
+    "question": "判断题：蕨类植物用孢子繁殖后代。（  ）",
+    "answer": "答案：正确\n解析：蕨类植物用孢子繁殖，是孢子植物。"
+  },
+  {
+    "id": "g1_biology_u011_ex03",
+    "knowledge_id": "g1_biology_u011",
+    "question": "填空题：蕨类植物的叶片背面有褐色的______，内含孢子。",
+    "answer": "答案：孢子囊\n解析：孢子囊群是蕨类植物的特征。"
+  },
+  {
+    "id": "g1_biology_u011_ex04",
+    "knowledge_id": "g1_biology_u011",
+    "question": "选择题：下列植物中，属于蕨类植物的是（  ）\nA. 菊花\nB. 肾蕨\nC. 水仙\nD. 辣椒",
+    "answer": "答案：B\n解析：肾蕨是常见的蕨类植物。"
+  },
+  {
+    "id": "g1_biology_u011_ex05",
+    "knowledge_id": "g1_biology_u011",
+    "question": "填空题：古代蕨类植物形成现在的______燃料。",
+    "answer": "答案：煤炭\n解析：古代蕨类植物埋藏地下形成煤炭。"
+  },
+  {
+    "id": "g1_biology_u012_ex01",
+    "knowledge_id": "g1_biology_u012",
+    "question": "填空题：种子植物包括______植物和被子植物。",
+    "answer": "答案：裸子\n解析：种子植物分为裸子植物和被子植物。"
+  },
+  {
+    "id": "g1_biology_u012_ex02",
+    "knowledge_id": "g1_biology_u012",
+    "question": "选择题：下列植物中，属于裸子植物的是（  ）\nA. 苹果\nB. 水稻\nC. 松树\nD. 玫瑰",
+    "answer": "答案：C\n解析：松、柏、杉等是裸子植物。"
+  },
+  {
+    "id": "g1_biology_u012_ex03",
+    "knowledge_id": "g1_biology_u012",
+    "question": "判断题：被子植物的种子外面有果皮包被。（  ）",
+    "answer": "答案：正确\n解析：果皮包被是被子植物的特征。"
+  },
+  {
+    "id": "g1_biology_u012_ex04",
+    "knowledge_id": "g1_biology_u012",
+    "question": "填空题：菜豆种子的子叶数目是______片，玉米种子的子叶数目是______片。",
+    "answer": "答案：两；一\n解析：双子叶植物子叶2片，单子叶植物子叶1片。"
+  },
+  {
+    "id": "g1_biology_u012_ex05",
+    "knowledge_id": "g1_biology_u012",
+    "question": "选择题：松子没有果皮包被，属于（  ）\nA. 被子植物\nB. 裸子植物\nC. 蕨类植物\nD. 苔藓植物",
+    "answer": "答案：B\n解析：种子裸露，没有果皮包被是裸子植物。"
+  },
+  {
+    "id": "g1_biology_u013_ex01",
+    "knowledge_id": "g1_biology_u013",
+    "question": "填空题：种子萌发的外界条件：充足的空气、______和适宜的______。",
+    "answer": "答案：适量的水分；温度\n解析：种子萌发需要水、空气、温度。"
+  },
+  {
+    "id": "g1_biology_u013_ex02",
+    "knowledge_id": "g1_biology_u013",
+    "question": "判断题：种子萌发时，最先突破种皮的是胚芽。（  ）",
+    "answer": "答案：错误\n解析：最先突破种皮的是胚根。"
+  },
+  {
+    "id": "g1_biology_u013_ex03",
+    "knowledge_id": "g1_biology_u013",
+    "question": "填空题：种子萌发过程中，胚发育成______。",
+    "answer": "答案：幼苗\n解析：胚是种子的主要部分，将来发育成新植物体。"
+  },
+  {
+    "id": "g1_biology_u013_ex04",
+    "knowledge_id": "g1_biology_u013",
+    "question": "选择题：种子萌发时，子叶的作用是（  ）\nA. 发育成茎和叶\nB. 发育成根\nC. 提供营养\nD. 保护胚",
+    "answer": "答案：C\n解析：子叶储存营养，供种子萌发。"
+  },
+  {
+    "id": "g1_biology_u013_ex05",
+    "knowledge_id": "g1_biology_u013",
+    "question": "填空题：种子萌发自身条件：胚是______的，胚结构完整，且种子不在休眠期。",
+    "answer": "答案：活\n解析：种子萌发需要具有活力的胚。"
+  },
+  {
+    "id": "g1_biology_u014_ex01",
+    "knowledge_id": "g1_biology_u014",
+    "question": "填空题：根尖的结构从顶端向上依次是：分生区、______、伸长区、成熟区。",
+    "answer": "答案：根冠\n解析：根尖结构从尖端向上。"
+  },
+  {
+    "id": "g1_biology_u014_ex02",
+    "knowledge_id": "g1_biology_u014",
+    "question": "选择题：根生长最快的部位是（  ）\nA. 成熟区\nB. 伸长区\nC. 分生区\nD. 根冠",
+    "answer": "答案：B\n解析：伸长区是根生长最快的部位。"
+  },
+  {
+    "id": "g1_biology_u014_ex03",
+    "knowledge_id": "g1_biology_u014",
+    "question": "判断题：根的生长只靠分生区的细胞分裂。（  ）",
+    "answer": "答案：错误\n解析：根的生长靠分生区细胞分裂增加数量，伸长区细胞生长使根伸长。"
+  },
+  {
+    "id": "g1_biology_u014_ex04",
+    "knowledge_id": "g1_biology_u014",
+    "question": "填空题：枝条是由______发育来的。",
+    "answer": "答案：芽\n解析：芽可以发育成枝条。"
+  },
+  {
+    "id": "g1_biology_u014_ex05",
+    "knowledge_id": "g1_biology_u014",
+    "question": "填空题：植物生长需要最多的无机盐是含______、含______和含______的无机盐。",
+    "answer": "答案：氮；磷；钾\n解析：氮磷钾是植物需要最多的三种无机盐。"
+  },
+  {
+    "id": "g1_biology_u015_ex01",
+    "knowledge_id": "g1_biology_u015",
+    "question": "填空题：花的主要结构是______和______。",
+    "answer": "答案：雄蕊；雌蕊\n解析：花的主要结构是雄蕊和雌蕊，与繁殖有关。"
+  },
+  {
+    "id": "g1_biology_u015_ex02",
+    "knowledge_id": "g1_biology_u015",
+    "question": "选择题：花中最主要的结构是（  ）\nA. 花瓣\nB. 花萼\nC. 雄蕊和雌蕊\nD. 花托",
+    "answer": "答案：C\n解析：雄蕊和雌蕊是花的主要结构，与生殖有关。"
+  },
+  {
+    "id": "g1_biology_u015_ex03",
+    "knowledge_id": "g1_biology_u015",
+    "question": "判断题：果实是由子房发育来的。（  ）",
+    "answer": "答案：正确\n解析：子房发育成果实，胚珠发育成种子。"
+  },
+  {
+    "id": "g1_biology_u015_ex04",
+    "knowledge_id": "g1_biology_u015",
+    "question": "填空题：果实中种子数目多少取决于______的数目。",
+    "answer": "答案：胚珠\n解析：每个胚珠发育成一个种子。"
+  },
+  {
+    "id": "g1_biology_u015_ex05",
+    "knowledge_id": "g1_biology_u015",
+    "question": "选择题：一朵花中，能产生花粉的结构是（  ）\nA. 雌蕊\nB. 雄蕊\nC. 花瓣\nD. 花托",
+    "answer": "答案：B\n解析：雄蕊的花药产生花粉。"
+  },
+  {
+    "id": "g1_biology_u016_ex01",
+    "knowledge_id": "g1_biology_u016",
+    "question": "填空题：蒸腾作用是指水分从活的植物体表面以______状态散失到大气中的过程。",
+    "answer": "答案：水蒸气\n解析：蒸腾作用是水分以水蒸气形式散失。"
+  },
+  {
+    "id": "g1_biology_u016_ex02",
+    "knowledge_id": "g1_biology_u016",
+    "question": "选择题：植物蒸腾作用的主要器官是（  ）\nA. 根\nB. 茎\nC. 叶\nD. 花",
+    "answer": "答案：C\n解析：叶是蒸腾作用的主要器官。"
+  },
+  {
+    "id": "g1_biology_u016_ex03",
+    "knowledge_id": "g1_biology_u016",
+    "question": "判断题：蒸腾作用能降低植物体的温度。（  ）",
+    "answer": "答案：正确\n解析：蒸腾作用带走热量，降低植物体温度。"
+  },
+  {
+    "id": "g1_biology_u016_ex04",
+    "knowledge_id": "g1_biology_u016",
+    "question": "填空题：蒸腾作用促进了植物对______和______的吸收和运输。",
+    "answer": "答案：水；无机盐\n解析：蒸腾作用产生的拉力促进水分和无机盐的运输。"
+  },
+  {
+    "id": "g1_biology_u016_ex04",
+    "knowledge_id": "g1_biology_u016",
+    "question": "选择题：叶片的气孔主要分布在（  ）\nA. 上表皮\nB. 下表皮\nC. 叶脉\nD. 叶肉",
+    "answer": "答案：B\n解析：大多数植物叶片下表皮气孔较多。"
+  },
+  {
+    "id": "g1_biology_u017_ex01",
+    "knowledge_id": "g1_biology_u017",
+    "question": "填空题：植物通过蒸腾作用参与生物圈的______循环。",
+    "answer": "答案：水\n解析：蒸腾作用是水循环的重要环节。"
+  },
+  {
+    "id": "g1_biology_u017_ex02",
+    "knowledge_id": "g1_biology_u017",
+    "question": "判断题：植物的蒸腾作用对当地的水循环没有影响。（  ）",
+    "answer": "答案：错误\n解析：蒸腾作用是水循环的重要环节，增加大气降水。"
+  },
+  {
+    "id": "g1_biology_u017_ex03",
+    "knowledge_id": "g1_biology_u017",
+    "question": "填空题：植物吸收的水分，大约______%用于光合作用等生理活动，其余大部分通过蒸腾作用散失。",
+    "answer": "答案：1\n解析：大部分水分用于蒸腾作用，只有约1%用于光合作用。"
+  },
+  {
+    "id": "g1_biology_u017_ex04",
+    "knowledge_id": "g1_biology_u017",
+    "question": "选择题：绿色植物在自然界水循环中的作用是（  ）\nA. 吸收水分\nB. 释放水分\nC. 参与水循环，蒸腾作用促进降水\nD. 储存水分",
+    "answer": "答案：C\n解析：绿色植物通过蒸腾作用参与水循环。"
+  },
+  {
+    "id": "g1_biology_u018_ex01",
+    "knowledge_id": "g1_biology_u018",
+    "question": "填空题：光合作用的公式：二氧化碳 + 水 → 有机物 + 氧气（储存能量）。",
+    "answer": "答案：正确\n解析：光合作用是制造有机物、释放氧气的过程。"
+  },
+  {
+    "id": "g1_biology_u018_ex02",
+    "knowledge_id": "g1_biology_u018",
+    "question": "选择题：光合作用的场所是（  ）\nA. 线粒体\nB. 叶绿体\nC. 细胞核\nD. 细胞膜",
+    "answer": "答案：B\n解析：叶绿体是光合作用的场所。"
+  },
+  {
+    "id": "g1_biology_u018_ex03",
+    "knowledge_id": "g1_biology_u018",
+    "question": "判断题：光是光合作用不可缺少的条件。（  ）",
+    "answer": "答案：正确\n解析：光是光合作用的能量来源。"
+  },
+  {
+    "id": "g1_biology_u018_ex04",
+    "knowledge_id": "g1_biology_u018",
+    "question": "填空题：光合作用的实质是：制造有机物，储存______。",
+    "answer": "答案：能量\n解析：光合作用将光能转化为化学能储存在有机物中。"
+  },
+  {
+    "id": "g1_biology_u018_ex05",
+    "knowledge_id": "g1_biology_u018",
+    "question": "选择题：金鱼藻的光合作用产物是（  ）\nA. 二氧化碳和水\nB. 有机物和氧气\nC. 二氧化碳和有机物\nD. 氧气和二氧化碳",
+    "answer": "答案：B\n解析：光合作用产物是有机物和氧气。"
+  },
+  {
+    "id": "g1_biology_u019_ex01",
+    "knowledge_id": "g1_biology_u019",
+    "question": "填空题：呼吸作用的公式：有机物 + 氧气 → 二氧化碳 + 水 + ______。",
+    "answer": "答案：能量\n解析：呼吸作用释放能量。"
+  },
+  {
+    "id": "g1_biology_u019_ex02",
+    "knowledge_id": "g1_biology_u019",
+    "question": "判断题：呼吸作用是吸收氧气，释放二氧化碳。（  ）",
+    "answer": "答案：正确\n解析：呼吸作用吸收氧气，释放二氧化碳。"
+  },
+  {
+    "id": "g1_biology_u019_ex03",
+    "knowledge_id": "g1_biology_u019",
+    "question": "选择题：呼吸作用主要在细胞的哪个结构进行？（  ）\nA. 叶绿体\nB. 线粒体\nC. 细胞核\nD. 细胞膜",
+    "answer": "答案：B\n解析：线粒体是呼吸作用的主要场所。"
+  },
+  {
+    "id": "g1_biology_u019_ex04",
+    "knowledge_id": "g1_biology_u019",
+    "question": "填空题：呼吸作用的实质是：分解有机物，______能量。",
+    "answer": "答案：释放\n解析：呼吸作用分解有机物释放能量。"
+  },
+  {
+    "id": "g1_biology_u019_ex05",
+    "knowledge_id": "g1_biology_u019",
+    "question": "选择题：呼吸作用对植物自身的意义是（  ）\nA. 制造有机物\nB. 释放氧气\nC. 为生命活动提供能量\nD. 吸收二氧化碳",
+    "answer": "答案：C\n解析：呼吸作用为植物生命活动提供能量。"
+  },
+  {
+    "id": "g1_biology_u020_ex01",
+    "knowledge_id": "g1_biology_u020",
+    "question": "填空题：光合作用和呼吸作用的区别：光合作用合成有机物储存能量，呼吸作用______有机物释放能量。",
+    "answer": "答案：分解\n解析：两者关系：相互对立又相互依存。"
+  },
+  {
+    "id": "g1_biology_u020_ex02",
+    "knowledge_id": "g1_biology_u020",
+    "question": "判断题：植物白天只进行光合作用，夜晚只进行呼吸作用。（  ）",
+    "answer": "答案：错误\n解析：植物白天同时进行光合作用和呼吸作用，夜晚主要进行呼吸作用。"
+  },
+  {
+    "id": "g1_biology_u020_ex03",
+    "knowledge_id": "g1_biology_u020",
+    "question": "选择题：新鲜水果用保鲜袋装起来，主要是为了（  ）\nA. 防止水分散失\nB. 降低呼吸作用\nC. 增加温度\nD. 防止虫咬",
+    "answer": "答案：B\n解析：降低氧气浓度，抑制呼吸作用，延长保存时间。"
+  },
+  {
+    "id": "g1_biology_u020_ex04",
+    "knowledge_id": "g1_biology_u020",
+    "question": "填空题：光合作用和呼吸作用的联系：光合作用为呼吸作用提供______，呼吸作用为光合作用提供______。",
+    "answer": "答案：有机物；二氧化碳\n解析：两者相互依存。"
+  },
+  {
+    "id": "g1_biology_u020_ex05",
+    "knowledge_id": "g1_biology_u020",
+    "question": "选择题：提高温室蔬菜产量，可以采取的措施是（  ）\nA. 增加二氧化碳浓度\nB. 减少光照\nC. 增加氧气浓度\nD. 降低温度",
+    "answer": "答案：A\n解析：增加二氧化碳可增强光合作用，提高产量。"
+  },
+  {
+    "id": "g1_biology_l001_ex01",
+    "knowledge_id": "g1_biology_l001",
+    "question": "填空题：人类起源于______。",
+    "answer": "答案：森林古猿\n解析：人类和类人猿有共同的原始祖先——森林古猿。"
+  },
+  {
+    "id": "g1_biology_l001_ex02",
+    "knowledge_id": "g1_biology_l001",
+    "question": "判断题：人类和类人猿有亲缘关系。（  ）",
+    "answer": "答案：正确\n解析：人类和类人猿有共同的原始祖先。"
+  },
+  {
+    "id": "g1_biology_l001_ex03",
+    "knowledge_id": "g1_biology_l001",
+    "question": "填空题：现代类人猿包括：长臂猿、猩猩、______和______。",
+    "answer": "答案：大猩猩；黑猩猩\n解析：现代类人猿包括四种。"
+  },
+  {
+    "id": "g1_biology_l001_ex04",
+    "knowledge_id": "g1_biology_l001",
+    "question": "选择题：人类进化过程中，最早用火的是（  ）\nA. 南方古猿\nB. 能人\nC. 直立人\nD. 智人",
+    "answer": "答案：C\n解析：直立人会使用火。"
+  },
+  {
+    "id": "g1_biology_l001_ex05",
+    "knowledge_id": "g1_biology_l001",
+    "question": "填空题：人类进化历程：南方古猿→能人→______→智人。",
+    "answer": "答案：直立人\n解析：人类进化的四个阶段。"
+  },
+  {
+    "id": "g1_biology_l002_ex01",
+    "knowledge_id": "g1_biology_l002",
+    "question": "填空题：男性的主要生殖器官是______，女性的主要生殖器官是______。",
+    "answer": "答案：睾丸；卵巢\n解析：主要生殖器官产生生殖细胞。"
+  },
+  {
+    "id": "g1_biology_l002_ex02",
+    "knowledge_id": "g1_biology_l002",
+    "question": "选择题：产生卵细胞和分泌雌性激素的器官是（  ）\nA. 子宫\nB. 输卵管\nC. 卵巢\nD. 阴道",
+    "answer": "答案：C\n解析：卵巢产生卵细胞并分泌雌性激素。"
+  },
+  {
+    "id": "g1_biology_l002_ex03",
+    "knowledge_id": "g1_biology_l002",
+    "question": "判断题：受精卵的分裂标志着胚胎发育的开始。（  ）",
+    "answer": "答案：正确\n解析：受精卵分裂开始胚胎发育。"
+  },
+  {
+    "id": "g1_biology_l002_ex04",
+    "knowledge_id": "g1_biology_l002",
+    "question": "填空题：胎儿通过______和胎盘从母体获得营养和氧气。",
+    "answer": "答案：脐带\n解析：脐带连接胎儿和胎盘。"
+  },
+  {
+    "id": "g1_biology_l002_ex05",
+    "knowledge_id": "g1_biology_l002",
+    "question": "选择题：胚胎发育的场所是（  ）\nA. 卵巢\nB. 输卵管\nC. 子宫\nD. 阴道",
+    "answer": "答案：C\n解析：子宫是胚胎发育的场所。"
+  },
+  {
+    "id": "g1_biology_l003_ex01",
+    "knowledge_id": "g1_biology_l003",
+    "question": "填空题：青春期是从______到______的过渡阶段。",
+    "answer": "答案：童年；成年\n解析：青春期是生长发育的重要时期。"
+  },
+  {
+    "id": "g1_biology_l003_ex02",
+    "knowledge_id": "g1_biology_l003",
+    "question": "判断题：青春期是身体发育和智力发展的黄金时期。（  ）",
+    "answer": "答案：正确\n解析：青春期身体和智力快速发展。"
+  },
+  {
+    "id": "g1_biology_l003_ex03",
+    "knowledge_id": "g1_biology_l003",
+    "question": "填空题：青春期的第一个生理特点是______的萌发。",
+    "answer": "答案：身高突增\n解析：青春期身高快速增长。"
+  },
+  {
+    "id": "g1_biology_l003_ex04",
+    "knowledge_id": "g1_biology_l003",
+    "question": "选择题：进入青春期后，男孩和女孩都会出现（  ）\nA. 遗精\nB. 月经\nC. 身高突增\nD. 怀孕",
+    "answer": "答案：C\n解析：身高突增是男女共同的青春期特点。"
+  },
+  {
+    "id": "g1_biology_l003_ex05",
+    "knowledge_id": "g1_biology_l003",
+    "question": "填空题：青春期心理变化：独立意识增强，______意识增强，有性意识。",
+    "answer": "答案：成人\n解析：青春期心理变化。"
+  },
+  {
+    "id": "g1_biology_l004_ex01",
+    "knowledge_id": "g1_biology_l004",
+    "question": "填空题：六大营养物质：糖类、脂肪、蛋白质、维生素、水和无机盐。",
+    "answer": "答案：正确\n解析：六大营养物质。"
+  },
+  {
+    "id": "g1_biology_l004_ex02",
+    "knowledge_id": "g1_biology_l004",
+    "question": "选择题：人体生命活动的主要供能物质是（  ）\nA. 脂肪\nB. 蛋白质\nC. 糖类\nD. 维生素",
+    "answer": "答案：C\n解析：糖类是主要能源物质。"
+  },
+  {
+    "id": "g1_biology_l004_ex03",
+    "knowledge_id": "g1_biology_l004",
+    "question": "填空题：______是人体备用的能源物质。",
+    "answer": "答案：脂肪\n解析：脂肪是储能物质。"
+  },
+  {
+    "id": "g1_biology_l004_ex04",
+    "knowledge_id": "g1_biology_l004",
+    "question": "选择题：夜盲症是由于缺乏（  ）\nA. 维生素A\nB. 维生素B\nC. 维生素C\nD. 维生素D",
+    "answer": "答案：A\n解析：缺乏维生素A导致夜盲症。"
+  },
+  {
+    "id": "g1_biology_l004_ex05",
+    "knowledge_id": "g1_biology_l004",
+    "question": "填空题：缺少含钙的无机盐，儿童会患______，老年人会患______。",
+    "answer": "答案：佝偻病；骨质疏松症\n解析：钙是骨骼和牙齿的组成成分。"
+  },
+  {
+    "id": "g1_biology_l005_ex01",
+    "knowledge_id": "g1_biology_l005",
+    "question": "填空题：消化道包括：口腔、咽、食道、______、小肠、大肠和肛门。",
+    "answer": "答案：胃\n解析：消化道的组成。"
+  },
+  {
+    "id": "g1_biology_l005_ex02",
+    "knowledge_id": "g1_biology_l005",
+    "question": "选择题：淀粉消化的起始部位是（  ）\nA. 口腔\nB. 胃\nC. 小肠\nD. 大肠",
+    "answer": "答案：A\n解析：口腔中有唾液淀粉酶消化淀粉。"
+  },
+  {
+    "id": "g1_biology_l005_ex03",
+    "knowledge_id": "g1_biology_l005",
+    "question": "判断题：小肠是消化和吸收的主要场所。（  ）",
+    "answer": "答案：正确\n解析：小肠长约5-6米，有环形皱襞和小肠绒毛。"
+  },
+  {
+    "id": "g1_biology_l005_ex04",
+    "knowledge_id": "g1_biology_l005",
+    "question": "填空题：肝脏分泌的______不含消化酶，但能乳化脂肪。",
+    "answer": "答案：胆汁\n解析：胆汁是唯一不含消化酶的消化液。"
+  },
+  {
+    "id": "g1_biology_l005_ex05",
+    "knowledge_id": "g1_biology_l005",
+    "question": "选择题：脂肪消化的产物是（  ）\nA. 氨基酸\nB. 葡萄糖\nC. 甘油和脂肪酸\nD. 麦芽糖",
+    "answer": "答案：C\n解析：脂肪消化成甘油和脂肪酸。"
+  },
+  {
+    "id": "g1_biology_l006_ex01",
+    "knowledge_id": "g1_biology_l006",
+    "question": "填空题：合理营养指全面而平衡的营养，要求各种营养物质种类齐全、______合理、与身体的需要保持平衡。",
+    "answer": "答案：比例\n解析：合理营养的要求。"
+  },
+  {
+    "id": "g1_biology_l006_ex02",
+    "knowledge_id": "g1_biology_l006",
+    "question": "判断题：青少年应多吃保健品，少吃主食。（  ）",
+    "answer": "答案：错误\n解析：青少年应以均衡膳食为主，不依赖保健品。"
+  },
+  {
+    "id": "g1_biology_l006_ex03",
+    "knowledge_id": "g1_biology_l006",
+    "question": "填空题：\"平衡膳食宝塔\"从下到上，各类食物的摄入量逐渐______。",
+    "answer": "答案：减少\n解析：底层食物摄入最多，顶层摄入最少。"
+  },
+  {
+    "id": "g1_biology_l006_ex04",
+    "knowledge_id": "g1_biology_l006",
+    "question": "填空题：购买食品时，应关注食品包装上的______、生产日期和保质期等信息。",
+    "answer": "答案：配料表\n解析：关注食品标签信息。"
+  },
+  {
+    "id": "g1_biology_l006_ex05",
+    "knowledge_id": "g1_biology_l006",
+    "question": "选择题：下列做法中，不符合食品安全的是（  ）\nA. 购买经过检疫的肉制品\nB. 生的蔬菜水果要洗净\nC. 吃发芽的土豆\nD. 保持厨房清洁",
+    "answer": "答案：C\n解析：发芽的土豆含有龙葵素，有毒。"
+  },
+  {
+    "id": "g1_biology_l007_ex01",
+    "knowledge_id": "g1_biology_l007",
+    "question": "填空题：呼吸系统由______和肺组成。",
+    "answer": "答案：呼吸道\n解析：呼吸系统包括呼吸道和肺。"
+  },
+  {
+    "id": "g1_biology_l007_ex02",
+    "knowledge_id": "g1_biology_l007",
+    "question": "选择题：呼吸道的作用不包括（  ）\nA. 温暖空气\nB. 清洁空气\nC. 湿润空气\nD. 气体交换",
+    "answer": "答案：D\n解析：气体交换发生在肺泡，不是呼吸道。"
+  },
+  {
+    "id": "g1_biology_l007_ex03",
+    "knowledge_id": "g1_biology_l007",
+    "question": "填空题：痰是在______和支气管形成的。",
+    "answer": "答案：气管\n解析：气管内表面有纤毛摆动排出痰液。"
+  },
+  {
+    "id": "g1_biology_l007_ex04",
+    "knowledge_id": "g1_biology_l007",
+    "question": "判断题：鼻腔中有鼻毛，能阻挡灰尘和细菌。（  ）",
+    "answer": "答案：正确\n解析：鼻毛是呼吸道的防御结构。"
+  },
+  {
+    "id": "g1_biology_l007_ex05",
+    "knowledge_id": "g1_biology_l007",
+    "question": "选择题：组成肺的结构单位是（  ）\nA. 支气管\nB. 细支气管\nC. 肺泡\nD. 气管",
+    "answer": "答案：C\n解析：肺泡是气体交换的场所。"
+  },
+  {
+    "id": "g1_biology_l008_ex01",
+    "knowledge_id": "g1_biology_l008",
+    "question": "填空题：肺与外界的气体交换是通过______实现的。",
+    "answer": "答案：呼吸运动\n解析：呼吸运动使胸廓容积变化。"
+  },
+  {
+    "id": "g1_biology_l008_ex02",
+    "knowledge_id": "g1_biology_l008",
+    "question": "判断题：吸气时，肋骨向下向内运动，膈顶部下降。（  ）",
+    "answer": "答案：错误\n解析：吸气时肋骨向上向外运动，膈顶部下降。"
+  },
+  {
+    "id": "g1_biology_l008_ex03",
+    "knowledge_id": "g1_biology_l008",
+    "question": "填空题：气体交换的原理是______。",
+    "answer": "答案：气体扩散\n解析：气体由高浓度向低浓度扩散。"
+  },
+  {
+    "id": "g1_biology_l008_ex04",
+    "knowledge_id": "g1_biology_l008",
+    "question": "选择题：肺泡与血液的气体交换，氧气由肺泡进入血液，原因是（  ）\nA. 肺泡压力高\nB. 血液氧气浓度低\nC. 两者无关\nD. 肺泡主动运输",
+    "answer": "答案：B\n解析：氧气扩散到血液中是因为血液中氧气浓度低。"
+  },
+  {
+    "id": "g1_biology_l008_ex05",
+    "knowledge_id": "g1_biology_l008",
+    "question": "填空题：氧气与血红蛋白结合的部位是______。",
+    "answer": "答案：毛细血管\n解析：氧气在肺部毛细血管与血红蛋白结合。"
+  },
+  {
+    "id": "g1_biology_l009_ex01",
+    "knowledge_id": "g1_biology_l009",
+    "question": "填空题：空气污染会导致______系统疾病。",
+    "answer": "答案：呼吸\n解析：空气污染首先影响呼吸系统。"
+  },
+  {
+    "id": "g1_biology_l009_ex02",
+    "knowledge_id": "g1_biology_l009",
+    "question": "判断题：植树造林可以改善空气质量。（  ）",
+    "answer": "答案：正确\n解析：绿色植物吸收有害气体、滞尘、释放氧气。"
+  },
+  {
+    "id": "g1_biology_l009_ex03",
+    "knowledge_id": "g1_biology_l009",
+    "question": "填空题：监测空气质量常用的生物指标植物是______。",
+    "answer": "答案：苔藓植物\n解析：苔藓对空气污染敏感。"
+  },
+  {
+    "id": "g1_biology_l009_ex04",
+    "knowledge_id": "g1_biology_l009",
+    "question": "选择题：与空气质量相关的疾病是（  ）\nA. 肺结核\nB. 肺癌\nC. 心脏病\nD. 糖尿病",
+    "answer": "答案：B\n解析：空气污染与肺癌相关。"
+  },
+  {
+    "id": "g1_biology_l010_ex01",
+    "knowledge_id": "g1_biology_l010",
+    "question": "填空题：血液由血浆和血细胞组成，血细胞包括红细胞、白细胞和______。",
+    "answer": "答案：血小板\n解析：血液组成。"
+  },
+  {
+    "id": "g1_biology_l010_ex02",
+    "knowledge_id": "g1_biology_l010",
+    "question": "选择题：红细胞的主要功能是（  ）\nA. 吞噬病菌\nB. 运输氧气\nC. 止血凝血\nD. 运输二氧化碳",
+    "answer": "答案：B\n解析：红细胞含血红蛋白运输氧气。"
+  },
+  {
+    "id": "g1_biology_l010_ex03",
+    "knowledge_id": "g1_biology_l010",
+    "question": "填空题：人体患急性炎症时，______数量会明显增多。",
+    "answer": "答案：白细胞\n解析：白细胞有防御功能，炎症时数量增多。"
+  },
+  {
+    "id": "g1_biology_l010_ex04",
+    "knowledge_id": "g1_biology_l010",
+    "question": "判断题：血小板有细胞核。（  ）",
+    "answer": "答案：错误\n解析：血小板没有细胞核，是细胞碎片。"
+  },
+  {
+    "id": "g1_biology_l010_ex05",
+    "knowledge_id": "g1_biology_l010",
+    "question": "填空题：血浆的主要功能是运载血细胞、运输______和______。",
+    "answer": "答案：营养物质；废物\n解析：血浆的功能。"
+  },
+  {
+    "id": "g1_biology_l011_ex01",
+    "knowledge_id": "g1_biology_l011",
+    "question": "填空题：血管包括动脉、静脉和______三种。",
+    "answer": "答案：毛细血管\n解析：三种血管类型。"
+  },
+  {
+    "id": "g1_biology_l011_ex02",
+    "knowledge_id": "g1_biology_l011",
+    "question": "选择题：动脉的特点是（  ）\nA. 管壁薄、弹性小\nB. 管壁厚、弹性大\nC. 血流速度慢\nD. 多数分布于皮肤下",
+    "answer": "答案：B\n解析：动脉管壁厚、弹性大，血流速度快。"
+  },
+  {
+    "id": "g1_biology_l011_ex03",
+    "knowledge_id": "g1_biology_l011",
+    "question": "判断题：毛细血管是物质交换的场所。（  ）",
+    "answer": "答案：正确\n解析：毛细血管壁薄，只有一层细胞，便于物质交换。"
+  },
+  {
+    "id": "g1_biology_l011_ex04",
+    "knowledge_id": "g1_biology_l011",
+    "question": "填空题：手臂上的\"青筋\"是______。",
+    "answer": "答案：静脉\n解析：静脉分布浅，皮肤下可见。"
+  },
+  {
+    "id": "g1_biology_l011_ex05",
+    "knowledge_id": "g1_biology_l011",
+    "question": "选择题：抽血或输液时，针刺入的血管是（  ）\nA. 动脉\nB. 静脉\nC. 毛细血管\nD. 以上都可以",
+    "answer": "答案：B\n解析：静脉分布浅，压力小，便于抽血输液。"
+  },
+  {
+    "id": "g1_biology_l012_ex01",
+    "knowledge_id": "g1_biology_l012",
+    "question": "填空题：心脏有四个腔：左心房、左心室、______和______。",
+    "answer": "答案：右心房；右心室\n解析：心脏四腔。"
+  },
+  {
+    "id": "g1_biology_l012_ex02",
+    "knowledge_id": "g1_biology_l012",
+    "question": "选择题：心脏壁最厚的腔是（  ）\nA. 左心房\nB. 右心房\nC. 左心室\nD. 右心室",
+    "answer": "答案：C\n解析：左心室需要泵血到全身，壁最厚。"
+  },
+  {
+    "id": "g1_biology_l012_ex03",
+    "knowledge_id": "g1_biology_l012",
+    "question": "判断题：体循环的起点是左心室，终点是右心房。（  ）",
+    "answer": "答案：正确\n解析：体循环途径：左心室→主动脉→全身→上、下腔静脉→右心房。"
+  },
+  {
+    "id": "g1_biology_l012_ex04",
+    "knowledge_id": "g1_biology_l012",
+    "question": "填空题：肺循环的起点是______，终点是左心房。",
+    "answer": "答案：右心室\n解析：肺循环：右心室→肺动脉→肺部→肺静脉→左心房。"
+  },
+  {
+    "id": "g1_biology_l012_ex05",
+    "knowledge_id": "g1_biology_l012",
+    "question": "选择题：保证血液单向流动的结构是（  ）\nA. 动脉\nB. 静脉\nC. 瓣膜\nD. 毛细血管",
+    "answer": "答案：C\n解析：瓣膜防止血液倒流。"
+  },
+  {
+    "id": "g1_biology_l013_ex01",
+    "knowledge_id": "g1_biology_l013",
+    "question": "填空题：ABO血型系统分为A型、B型、AB型和______型。",
+    "answer": "答案：O\n解析：ABO血型系统四种血型。"
+  },
+  {
+    "id": "g1_biology_l013_ex02",
+    "knowledge_id": "g1_biology_l013",
+    "question": "判断题：O型血是万能输血者。（  ）",
+    "answer": "答案：错误\n解析：O型血的红细胞不含凝集原，可输给任何人，但血清中有凝集素，需慎重。"
+  },
+  {
+    "id": "g1_biology_l013_ex03",
+    "knowledge_id": "g1_biology_l013",
+    "question": "填空题：输血时，应以输入______血为原则。",
+    "answer": "答案：同型\n解析：输血原则是同型血相输。"
+  },
+  {
+    "id": "g1_biology_l013_ex04",
+    "knowledge_id": "g1_biology_l013",
+    "question": "选择题：某人血型为A型，其红细胞膜上的凝集原是（  ）\nA. A凝集原\nB. B凝集原\nC. A和B凝集原\nD. 无凝集原",
+    "answer": "答案：A\n解析：A型血含A凝集原。"
+  },
+  {
+    "id": "g1_biology_l013_ex05",
+    "knowledge_id": "g1_biology_l013",
+    "question": "填空题：一个健康成年人一次献血______ml不影响健康。",
+    "answer": "答案：200-300\n解析：健康成年人每次献血200-300ml为宜。"
+  },
+  {
+    "id": "g1_biology_l014_ex01",
+    "knowledge_id": "g1_biology_l014",
+    "question": "填空题：排泄是指人体将二氧化碳、尿素和多余的水等______排出体外的过程。",
+    "answer": "答案：代谢废物\n解析：排泄的定义。"
+  },
+  {
+    "id": "g1_biology_l014_ex02",
+    "knowledge_id": "g1_biology_l014",
+    "question": "填空题：泌尿系统由肾脏、输尿管、膀胱和______组成。",
+    "answer": "答案：尿道\n解析：泌尿系统组成。"
+  },
+  {
+    "id": "g1_biology_l014_ex03",
+    "knowledge_id": "g1_biology_l014",
+    "question": "判断题：肾单位是肾脏结构和功能的基本单位。（  ）",
+    "answer": "答案：正确\n解析：肾单位由肾小球、肾小囊、肾小管组成。"
+  },
+  {
+    "id": "g1_biology_l014_ex04",
+    "knowledge_id": "g1_biology_u014",
+    "question": "选择题：形成尿液的部位是（  ）\nA. 肾小球\nB. 肾小囊\nC. 肾小管\nD. 集合管",
+    "answer": "答案：C\n解析：肾小管形成尿液。"
+  },
+  {
+    "id": "g1_biology_l014_ex05",
+    "knowledge_id": "g1_biology_l014",
+    "question": "填空题：原尿与血液相比，原尿不含______和______。",
+    "answer": "答案：血细胞；大分子蛋白质\n解析：肾小球滤过作用形成原尿。"
+  },
+  {
+    "id": "g1_biology_l015_ex01",
+    "knowledge_id": "g1_biology_l015",
+    "question": "填空题：眼是视觉器官，主要结构包括眼球壁和______。",
+    "answer": "答案：内容物\n解析：眼球由眼球壁和内容物组成。"
+  },
+  {
+    "id": "g1_biology_l015_ex02",
+    "knowledge_id": "g1_biology_l015",
+    "question": "填空题：眼球壁的中膜包括虹膜、睫状体和______。",
+    "answer": "答案：脉络膜\n解析：眼球壁结构。"
+  },
+  {
+    "id": "g1_biology_l015_ex03",
+    "knowledge_id": "g1_biology_l015",
+    "question": "判断题：视觉形成的部位是大脑皮层视觉中枢。（  ）",
+    "answer": "答案：正确\n解析：视网膜形成物像，视觉中枢产生视觉。"
+  },
+  {
+    "id": "g1_biology_l015_ex04",
+    "knowledge_id": "g1_biology_l015",
+    "question": "填空题：耳分为外耳、中耳和______三部分。",
+    "answer": "答案：内耳\n解析：耳的结构。"
+  },
+  {
+    "id": "g1_biology_l015_ex05",
+    "knowledge_id": "g1_biology_l015",
+    "question": "选择题：晕车、晕船与身体哪个结构有关？（  ）\nA. 外耳\nB. 中耳\nC. 内耳的前庭\nD. 耳蜗",
+    "answer": "答案：C\n解析：前庭有位置感受器，敏感会导致晕车。"
+  },
+  {
+    "id": "g1_biology_l016_ex01",
+    "knowledge_id": "g1_biology_l016",
+    "question": "填空题：神经系统包括中枢神经系统和周围神经系统，中枢神经系统包括______和脊髓。",
+    "answer": "答案：脑\n解析：神经系统组成。"
+  },
+  {
+    "id": "g1_biology_l016_ex02",
+    "knowledge_id": "g1_biology_l016",
+    "question": "选择题：神经系统结构和功能的基本单位是（  ）\nA. 细胞体\nB. 突起\nC. 神经元\nD. 轴突",
+    "answer": "答案：C\n解析：神经元是神经系统的基本结构和功能单位。"
+  },
+  {
+    "id": "g1_biology_l016_ex03",
+    "knowledge_id": "g1_biology_l016",
+    "question": "判断题：神经纤维末端的细小分支叫神经末梢。（  ）",
+    "answer": "答案：正确\n解析：神经末梢分布全身。"
+  },
+  {
+    "id": "g1_biology_l016_ex04",
+    "knowledge_id": "g1_biology_l016",
+    "question": "填空题：大脑皮层是调节人体生命活动的______中枢。",
+    "answer": "答案：最高\n解析：大脑皮层是高级中枢。"
+  },
+  {
+    "id": "g1_biology_l016_ex05",
+    "knowledge_id": "g1_biology_l016",
+    "question": "选择题：小脑的主要功能是（  ）\nA. 感觉中枢\nB. 运动中枢\nC. 平衡和协调运动\nD. 呼吸中枢",
+    "answer": "答案：C\n解析：小脑协调运动，维持平衡。"
+  },
+  {
+    "id": "g1_biology_l017_ex01",
+    "knowledge_id": "g1_biology_l017",
+    "question": "填空题：神经调节的基本方式是______。",
+    "answer": "答案：反射\n解析：反射是神经调节的基本方式。"
+  },
+  {
+    "id": "g1_biology_l017_ex02",
+    "knowledge_id": "g1_biology_l017",
+    "question": "填空题：反射弧包括：感受器、传入神经、______、传出神经和效应器。",
+    "answer": "答案：神经中枢\n解析：反射弧五部分。"
+  },
+  {
+    "id": "g1_biology_l017_ex03",
+    "knowledge_id": "g1_biology_l017",
+    "question": "判断题：缩手反射是简单反射，眨眼反射是复杂反射。（  ）",
+    "answer": "答案：错误\n解析：两者都是简单反射（非条件反射）。"
+  },
+  {
+    "id": "g1_biology_l017_ex04",
+    "knowledge_id": "g1_biology_l017",
+    "question": "填空题：与语言文字有关的反射是______反射，是人类特有的。",
+    "answer": "答案：复杂\n解析：人类特有的复杂反射与语言文字有关。"
+  },
+  {
+    "id": "g1_biology_l017_ex05",
+    "knowledge_id": "g1_biology_l017",
+    "question": "选择题：膝跳反射的感受器是（  ）\nA. 大腿肌肉\nB. 膝盖韧带\nC. 脊髓\nD. 膝跳反射没有感受器",
+    "answer": "答案：B\n解析：膝跳反射的感受器是膝盖韧带。"
+  },
+  {
+    "id": "g1_biology_l018_ex01",
+    "knowledge_id": "g1_biology_l018",
+    "question": "填空题：内分泌腺没有导管，分泌物______直接进入血液。",
+    "answer": "答案：激素\n解析：内分泌腺分泌激素进入血液。"
+  },
+  {
+    "id": "g1_biology_l018_ex02",
+    "knowledge_id": "g1_biology_l018",
+    "question": "选择题：幼年时期生长激素分泌不足，会患（  ）\nA. 巨人症\nB. 肢端肥大症\nC. 侏儒症\nD. 甲状腺功能亢进",
+    "answer": "答案：C\n解析：幼年生长激素不足导致侏儒症。"
+  },
+  {
+    "id": "g1_biology_l018_ex03",
+    "knowledge_id": "g1_biology_l018",
+    "question": "填空题：胰岛素的主要功能是调节______的代谢，降低血糖浓度。",
+    "answer": "答案：糖\n解析：胰岛素调节糖代谢。"
+  },
+  {
+    "id": "g1_biology_l018_ex04",
+    "knowledge_id": "g1_biology_l018",
+    "question": "判断题：糖尿病患者可以通过口服胰岛素来治疗。（  ）",
+    "answer": "答案：错误\n解析：胰岛素是蛋白质，口服会被消化，不能口服。"
+  },
+  {
+    "id": "g1_biology_l018_ex05",
+    "knowledge_id": "g1_biology_l018",
+    "question": "填空题：激素在血液中含量______，但作用很大。",
+    "answer": "答案：很少\n解析：激素含量虽少但作用显著。"
+  },
+  {
+    "id": "g1_biology_l019_ex01",
+    "knowledge_id": "g1_biology_l019",
+    "question": "填空题：人类活动对生物圈的影响包括环境污染和______。",
+    "answer": "答案：生态破坏\n解析：两方面影响。"
+  },
+  {
+    "id": "g1_biology_l019_ex02",
+    "knowledge_id": "g1_biology_l019",
+    "question": "填空题：温室效应是由于大气中______气体含量增加导致的。",
+    "answer": "答案：二氧化碳\n解析：二氧化碳是温室气体。"
+  },
+  {
+    "id": "g1_biology_l019_ex03",
+    "knowledge_id": "g1_biology_l019",
+    "question": "判断题：酸雨是由于空气中二氧化硫过多造成的。（  ）",
+    "answer": "答案：正确\n解析：硫氧化物和氮氧化物形成酸雨。"
+  },
+  {
+    "id": "g1_biology_l019_ex04",
+    "knowledge_id": "g1_biology_l019",
+    "question": "填空题：保护生物多样性最有效的措施是建立______。",
+    "answer": "答案：自然保护区\n解析：自然保护区是就地保护。"
+  },
+  {
+    "id": "g1_biology_l019_ex05",
+    "knowledge_id": "g1_biology_l019",
+    "question": "选择题：下列做法中，不符合可持续发展理念的是（  ）\nA. 垃圾分类回收\nB. 使用一次性筷子\nC. 节约用水用电\nD. 植树造林",
+    "answer": "答案：B\n解析：使用一次性筷子浪费资源，不环保。"
+  },
+  {
+    "id": "g1_biology_l020_ex01",
+    "knowledge_id": "g1_biology_l020",
+    "question": "填空题：可持续发展是指既满足当代人的需求，又不损害______满足其需求的能力的发展方式。",
+    "answer": "答案：后代人\n解析：可持续发展的定义。"
+  },
+  {
+    "id": "g1_biology_l020_ex02",
+    "knowledge_id": "g1_biology_l020",
+    "question": "判断题：垃圾分类可以减少环境污染。（  ）",
+    "answer": "答案：正确\n解析：垃圾分类处理减少污染。"
+  },
+  {
+    "id": "g1_biology_l020_ex03",
+    "knowledge_id": "g1_biology_l020",
+    "question": "填空题：低碳生活可以减少______排放，缓解温室效应。",
+    "answer": "答案：二氧化碳\n解析：低碳生活减少碳排放。"
+  },
+  {
+    "id": "g1_biology_l020_ex04",
+    "knowledge_id": "g1_biology_l020",
+    "question": "填空题：保护生物圈需要我们每个人从______做起。",
+    "answer": "答案：身边小事\n解析：环境保护需要实际行动。"
+  },
+  {
+    "id": "g1_biology_l020_ex05",
+    "knowledge_id": "g1_biology_l020",
+    "question": "选择题：以下哪种行为属于绿色消费？（  ）\nA. 购买过度包装的商品\nB. 使用一次性塑料袋\nC. 购买节能产品\nD. 追求时尚浪费",
+    "answer": "答案：C\n解析：购买节能产品是绿色消费。"
+  }
+]
