@@ -32,8 +32,8 @@
   {
     "id": "g2_english_l016_ex06",
     "knowledge_id": "g2_english_l016",
-    "question": "单项选择：He asked me _____ to the party. A. if I will go  B. if will I go  C. if I go  D. if do I go",
-    "answer": "答案：A. if I will go。解析：if引导宾语从句用陈述语序。主句asked是过去时，从句用will go（受主句过去时影响应改为would go，但选项A也符合基础语法）。"
+    "question": "单项选择：He asked me _____ to the party. A. if I would go  B. if will I go  C. if I go  D. if do I go",
+    "answer": "答案：A. if I would go。解析：if引导宾语从句用陈述语序。主句asked是过去时，从句要用相应的过去时态，所以用would go而不是will go。"
   },
   {
     "id": "g2_english_l016_ex07",

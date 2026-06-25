@@ -1,2582 +1,3182 @@
 [
   {
-    "id": "g2_math_032_ex01",
-    "knowledge_id": "g2_math_032",
-    "question": "选择题：下列说法正确的是（  ）\nA. 全等三角形的对应边不一定相等\nB. 全等三角形的对应角不一定相等\nC. 全等三角形的周长一定相等\nD. 面积相等的两个三角形一定全等",
-    "answer": "答案：C\n解析：\nA. 错误，全等三角形对应边相等\nB. 错误，全等三角形对应角相等\nC. 正确，全等三角形对应边相等，周长=三边之和也相等\nD. 错误，面积相等的三角形不一定全等"
+    "id": "g2_math_001_ex01",
+    "knowledge_id": "g2_math_001",
+    "question": "选择题：下列关于二次根式的概念的说法，正确的是（  ）\nA. 完全错误的说法\nB. 关键点：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：关键点："
   },
   {
-    "id": "g2_math_032_ex02",
-    "knowledge_id": "g2_math_032",
-    "question": "填空题：若△ABC ≌ △DEF，则∠A=______，BC=______。",
-    "answer": "答案：∠D，EF\n解析：全等三角形对应角相等，对应边相等。∠A对应∠D，BC对应EF。"
+    "id": "g2_math_001_ex02",
+    "knowledge_id": "g2_math_001",
+    "question": "填空题：二次根式的概念的公式是：______。",
+    "answer": "答案：√a (a ≥ 0)\n解析：这是二次根式的概念的基本公式。"
   },
   {
-    "id": "g2_math_032_ex03",
-    "knowledge_id": "g2_math_032",
-    "question": "选择题：全等三角形的对应高、对应中线、对应角平分线的关系是（  ）\nA. 都不相等\nB. 都相等\nC. 只有对应高相等\nD. 只有对应中线相等",
-    "answer": "答案：B\n解析：全等三角形的对应高、对应中线、对应角平分线都相等，这是全等三角形的重要性质。"
+    "id": "g2_math_001_ex03",
+    "knowledge_id": "g2_math_001",
+    "question": "判断题：二次根式必须有根号\"√\"。（  ）",
+    "answer": "答案：正确\n解析：二次根式必须有根号\"√\""
   },
   {
-    "id": "g2_math_032_ex04",
-    "knowledge_id": "g2_math_032",
-    "question": "判断题：全等三角形的面积一定相等，但面积相等的三角形不一定全等。",
-    "answer": "答案：正确\n解析：全等三角形对应边相等，高也相等，所以面积相等。但面积相等只说明底×高相等，形状可以不同。"
+    "id": "g2_math_001_ex04",
+    "knowledge_id": "g2_math_001",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 关键点：\nB. 二次根式必须有根号\"√\"\nC. 明显错误的说法（与定义相反）\nD. 被开方数a必须大于或等于0",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
-    "id": "g2_math_032_ex05",
-    "knowledge_id": "g2_math_032",
-    "question": "解答题：已知△ABC ≌ △A'B'C'，AB=5cm，BC=6cm，∠A=40°，求A'B'、B'C'和∠A'的度数。",
-    "answer": "答案：A'B'=5cm，B'C'=6cm，∠A'=40°\n解析：全等三角形对应边相等，对应角相等。AB对应A'B'，BC对应B'C'，∠A对应∠A'。"
+    "id": "g2_math_001_ex05",
+    "knowledge_id": "g2_math_001",
+    "question": "填空题：二次根式的概念成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意二次根式的概念的前提条件。"
   },
   {
-    "id": "g2_math_032_ex06",
-    "knowledge_id": "g2_math_032",
-    "question": "选择题：若△ABC ≌ △DEF，且△ABC的周长为20cm，则△DEF的周长为（  ）\nA. 10cm\nB. 20cm\nC. 40cm\nD. 无法确定",
-    "answer": "答案：B\n解析：全等三角形周长相等，所以△DEF的周长也是20cm。"
+    "id": "g2_math_001_ex06",
+    "knowledge_id": "g2_math_001",
+    "question": "简答题：二次根式的概念有哪些主要性质？",
+    "answer": "答案：关键点：；二次根式必须有根号\"√\"；被开方数a必须大于或等于0。\n解析：这些是二次根式的概念的重要性质。"
   },
   {
-    "id": "g2_math_032_ex07",
-    "knowledge_id": "g2_math_032",
-    "question": "填空题：全等三角形的对应边和对应角都______。",
-    "answer": "答案：相等\n解析：这是全等三角形最基本的性质。"
+    "id": "g2_math_001_ex07",
+    "knowledge_id": "g2_math_001",
+    "question": "判断题：注意：负数没有平方根，所以二次根式中被开方数必须非负。。（  ）",
+    "answer": "答案：正确\n解析：注意：负数没有平方根，所以二次根式中被开方数必须非负。"
   },
   {
-    "id": "g2_math_032_ex08",
-    "knowledge_id": "g2_math_032",
-    "question": "判断题：只有完全重合的两个三角形才是全等三角形。",
-    "answer": "答案：正确\n解析：全等三角形的定义就是能够完全重合的两个三角形。"
+    "id": "g2_math_001_ex08",
+    "knowledge_id": "g2_math_001",
+    "question": "选择题：下列生活实例中，可以用二次根式的概念知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：二次根式的概念在实际生活中有广泛应用。"
   },
   {
-    "id": "g2_math_032_ex09",
-    "knowledge_id": "g2_math_032",
-    "question": "解答题：如图，△ABC ≌ △ADC，指出对应顶点、对应边和对应角。",
-    "answer": "答案：对应顶点：A-A, B-D, C-C\n对应边：AB-AD, BC-DC, AC-AC\n对应角：∠B-∠D, ∠BAC-∠DAC, ∠BCA-∠DCA\n解析：根据全等符号的顺序确定对应关系。"
+    "id": "g2_math_001_ex09",
+    "knowledge_id": "g2_math_001",
+    "question": "综合题：结合所学知识，谈谈二次根式的概念在数学中的地位和作用。",
+    "answer": "答案：二次根式的概念是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
-    "id": "g2_math_032_ex10",
-    "knowledge_id": "g2_math_032",
-    "question": "选择题：下列条件中，不能判定两个三角形全等的是（  ）\nA. 三边对应相等\nB. 两边和夹角对应相等\nC. 两角和夹边对应相等\nD. 三个角对应相等",
-    "answer": "答案：D\n解析：AAA只能证明相似，不能证明全等。"
+    "id": "g2_math_001_ex10",
+    "knowledge_id": "g2_math_001",
+    "question": "填空题：关键点：...，这体现了二次根式的______。",
+    "answer": "答案：重要性质/特点\n解析：这是二次根式的概念的重要内容。"
   },
   {
-    "id": "g2_math_033_ex01",
-    "knowledge_id": "g2_math_033",
-    "question": "选择题：下列各组条件中，能判定△ABC ≌ △DEF的是（  ）\nA. AB=DE, BC=EF, ∠A=∠D\nB. AB=DE, BC=EF, AC=DF\nC. AB=DE, ∠A=∠D, ∠B=∠E\nD. ∠A=∠D, ∠B=∠E, ∠C=∠F",
-    "answer": "答案：B\n解析：B选项是三边对应相等（SSS），可以判定全等。"
+    "id": "g2_math_002_ex01",
+    "knowledge_id": "g2_math_002",
+    "question": "选择题：下列关于二次根式的基本性质的说法，正确的是（  ）\nA. 完全错误的说法\nB. (√a)² = a（a ≥ 0）：一个非负数的算术平方根的平方等于它本身\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：(√a)² = a（a ≥ 0）：一个非负数的算术平方根的平方等于它本身"
   },
   {
-    "id": "g2_math_033_ex02",
-    "knowledge_id": "g2_math_033",
-    "question": "填空题：如果两个三角形的三条边分别对应______，那么这两个三角形全等（SSS）。",
-    "answer": "答案：相等\n解析：SSS判定定理：三边对应相等的两个三角形全等。"
+    "id": "g2_math_002_ex02",
+    "knowledge_id": "g2_math_002",
+    "question": "填空题：二次根式的基本性质的公式是：______。",
+    "answer": "答案：(√a)² = a (a ≥ 0)\n解析：这是二次根式的基本性质的基本公式。"
   },
   {
-    "id": "g2_math_033_ex03",
-    "knowledge_id": "g2_math_033",
-    "question": "选择题：在△ABC和△DEF中，AB=DE=3cm，BC=EF=4cm，AC=DF=5cm，则△ABC与△DEF（  ）\nA. 不全等\nB. 全等\nC. 面积相等但不全等\nD. 无法确定",
-    "answer": "答案：B\n解析：三边分别相等，符合SSS判定定理，所以全等。"
+    "id": "g2_math_002_ex03",
+    "knowledge_id": "g2_math_002",
+    "question": "判断题：√(a²) = |a|：一个数的平方的算术平方根等于这个数的绝对值。（  ）",
+    "answer": "答案：正确\n解析：√(a²) = |a|：一个数的平方的算术平方根等于这个数的绝对值"
   },
   {
-    "id": "g2_math_033_ex04",
-    "knowledge_id": "g2_math_033",
-    "question": "判断题：SSS是三角形全等的判定方法之一。",
-    "answer": "答案：正确\n解析：SSS（边边边）是五种全等判定方法之一。"
+    "id": "g2_math_002_ex04",
+    "knowledge_id": "g2_math_002",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. (√a)² = a（a ≥ 0）：一个非负数的算术平方根的平\nB. √(a²) = |a|：一个数的平方的算术平方根等于这个数的\nC. 明显错误的说法（与定义相反）\nD. 重要应用：",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
-    "id": "g2_math_033_ex05",
-    "knowledge_id": "g2_math_033",
-    "question": "解答题：如图，已知AB=AD，BC=DC，求证：△ABC ≌ △ADC。",
-    "answer": "答案：证明：在△ABC和△ADC中\nAB=AD（已知）\nBC=DC（已知）\nAC=AC（公共边）\n∴ △ABC ≌ △ADC（SSS）\n解析：利用SSS判定定理，三条边都对应相等。"
+    "id": "g2_math_002_ex05",
+    "knowledge_id": "g2_math_002",
+    "question": "填空题：二次根式的基本性质成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意二次根式的基本性质的前提条件。"
   },
   {
-    "id": "g2_math_033_ex06",
-    "knowledge_id": "g2_math_033",
-    "question": "选择题：用SSS判定两个三角形全等，需要知道（  ）\nA. 三个角对应相等\nB. 三条边对应相等\nC. 两条边和一个角对应相等\nD. 两个角和一条边对应相等",
-    "answer": "答案：B\n解析：SSS即边边边，需要三条边对应相等。"
+    "id": "g2_math_002_ex06",
+    "knowledge_id": "g2_math_002",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用二次根式的基本性质的公式进行计算，注意条件和单位。"
   },
   {
-    "id": "g2_math_033_ex07",
-    "knowledge_id": "g2_math_033",
-    "question": "填空题：SSS的全称是______。",
-    "answer": "答案：边边边\n解析：SSS是Side-Side-Side的缩写，即三边对应相等。"
+    "id": "g2_math_002_ex07",
+    "knowledge_id": "g2_math_002",
+    "question": "简答题：二次根式的基本性质有哪些主要性质？",
+    "answer": "答案：(√a)² = a（a ≥ 0）：一个非负数的算术平方根的平方等于它本身；√(a²) = |a|：一个数的平方的算术平方根等于这个数的绝对值；重要应用：。\n解析：这些是二次根式的基本性质的重要性质。"
   },
   {
-    "id": "g2_math_033_ex08",
-    "knowledge_id": "g2_math_033",
-    "question": "判断题：只要三条边对应相等，两个三角形就一定全等。",
-    "answer": "答案：正确\n解析：这是SSS判定定理的内容。"
+    "id": "g2_math_002_ex08",
+    "knowledge_id": "g2_math_002",
+    "question": "选择题：下列生活实例中，可以用二次根式的基本性质知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：二次根式的基本性质在实际生活中有广泛应用。"
   },
   {
-    "id": "g2_math_033_ex09",
-    "knowledge_id": "g2_math_033",
-    "question": "解答题：已知△ABC中，AB=6cm，BC=8cm，AC=10cm，△DEF中，DE=6cm，EF=8cm，DF=10cm，求证△ABC ≌ △DEF。",
-    "answer": "答案：证明：在△ABC和△DEF中\nAB=DE=6cm（已知）\nBC=EF=8cm（已知）\nAC=DF=10cm（已知）\n∴ △ABC ≌ △DEF（SSS）\n解析：三边对应相等，满足SSS条件。"
+    "id": "g2_math_002_ex09",
+    "knowledge_id": "g2_math_002",
+    "question": "综合题：结合所学知识，谈谈二次根式的基本性质在数学中的地位和作用。",
+    "answer": "答案：二次根式的基本性质是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
-    "id": "g2_math_033_ex10",
-    "knowledge_id": "g2_math_033",
-    "question": "选择题：下列说法错误的是（  ）\nA. SSS可以判定三角形全等\nB. SSS需要三条边对应相等\nC. 只有SSS一种方法判定全等\nD. SSS是常用的全等判定方法",
-    "answer": "答案：C\n解析：除了SSS，还有SAS、ASA、AAS、HL等方法。"
-  },
-  {
-    "id": "g2_math_034_ex01",
-    "knowledge_id": "g2_math_034",
-    "question": "选择题：下列各组条件中，能判定△ABC ≌ △DEF的是（  ）\nA. AB=DE, BC=EF, ∠B=∠E\nB. AB=DE, BC=EF, ∠A=∠D\nC. AB=DE, ∠A=∠D, ∠B=∠E\nD. ∠A=∠D, ∠B=∠E, ∠C=∠F",
-    "answer": "答案：A\n解析：A选项是两边和它们的夹角对应相等（SAS），可以判定全等。"
-  },
-  {
-    "id": "g2_math_034_ex02",
-    "knowledge_id": "g2_math_034",
-    "question": "填空题：如果两个三角形的两边和它们的______分别对应相等，那么这两个三角形全等（SAS）。",
-    "answer": "答案：夹角\n解析：SAS判定定理：两边和它们的夹角对应相等的两个三角形全等。"
-  },
-  {
-    "id": "g2_math_034_ex03",
-    "knowledge_id": "g2_math_034",
-    "question": "选择题：在△ABC和△DEF中，AB=DE=5cm，BC=EF=6cm，∠B=∠E=60°，则△ABC与△DEF（  ）\nA. 不全等\nB. 全等\nC. 面积相等但不全等\nD. 无法确定",
-    "answer": "答案：B\n解析：两边和夹角对应相等，符合SAS判定定理。"
-  },
-  {
-    "id": "g2_math_034_ex04",
-    "knowledge_id": "g2_math_034",
-    "question": "判断题：SAS中的角必须是两边的夹角。",
-    "answer": "答案：正确\n解析：如果不是夹角而是对角，则不能判定全等（SSA不能判定全等）。"
-  },
-  {
-    "id": "g2_math_034_ex05",
-    "knowledge_id": "g2_math_034",
-    "question": "解答题：如图，已知AB=AD，∠BAC=∠DAC，求证：△ABC ≌ △ADC。",
-    "answer": "答案：证明：在△ABC和△ADC中\nAB=AD（已知）\n∠BAC=∠DAC（已知）\nAC=AC（公共边）\n∴ △ABC ≌ △ADC（SAS）\n解析：AB和AC的夹角是∠BAC，AD和AC的夹角是∠DAC，符合SAS。"
-  },
-  {
-    "id": "g2_math_034_ex06",
-    "knowledge_id": "g2_math_034",
-    "question": "选择题：用SAS判定两个三角形全等，需要知道（  ）\nA. 三条边对应相等\nB. 两条边和它们的夹角对应相等\nC. 两条边和其中一边的对角对应相等\nD. 三个角对应相等",
-    "answer": "答案：B\n解析：SAS即边角边，需要两条边和它们的夹角对应相等。"
-  },
-  {
-    "id": "g2_math_034_ex07",
-    "knowledge_id": "g2_math_034",
-    "question": "填空题：SAS的全称是______。",
-    "answer": "答案：边角边\n解析：SAS是Side-Angle-Side的缩写，即两边和夹角对应相等。"
-  },
-  {
-    "id": "g2_math_034_ex08",
-    "knowledge_id": "g2_math_034",
-    "question": "判断题：两边和其中一边的对角对应相等，可以判定两个三角形全等。",
-    "answer": "答案：错误\n解析：这是SSA，不能判定全等。必须是两边的夹角才行。"
-  },
-  {
-    "id": "g2_math_034_ex09",
-    "knowledge_id": "g2_math_034",
-    "question": "解答题：已知△ABC中，AB=8cm，AC=10cm，∠A=45°，△DEF中，DE=8cm，DF=10cm，∠D=45°，求证△ABC ≌ △DEF。",
-    "answer": "答案：证明：在△ABC和△DEF中\nAB=DE=8cm（已知）\n∠A=∠D=45°（已知）\nAC=DF=10cm（已知）\n∴ △ABC ≌ △DEF（SAS）\n解析：AB和AC的夹角是∠A，DE和DF的夹角是∠D，符合SAS。"
-  },
-  {
-    "id": "g2_math_034_ex10",
-    "knowledge_id": "g2_math_034",
-    "question": "选择题：下列说法正确的是（  ）\nA. SAS和SSA都能判定全等\nB. SAS中的角可以是任意角\nC. SAS需要两边和夹角对应相等\nD. SAS只适用于直角三角形",
-    "answer": "答案：C\n解析：SAS需要两条边和它们之间的夹角对应相等。"
-  },
-  {
-    "id": "g2_math_035_ex01",
-    "knowledge_id": "g2_math_035",
-    "question": "选择题：下列各组条件中，能判定△ABC ≌ △DEF的是（  ）\nA. ∠A=∠D, ∠B=∠E, AB=DE\nB. ∠A=∠D, ∠B=∠E, BC=EF\nC. AB=DE, BC=EF, ∠A=∠D\nD. ∠A=∠D, ∠B=∠E, ∠C=∠F",
-    "answer": "答案：A\n解析：A选项是两角和它们的夹边对应相等（ASA），可以判定全等。"
-  },
-  {
-    "id": "g2_math_035_ex02",
-    "knowledge_id": "g2_math_035",
-    "question": "填空题：如果两个三角形的两角和它们的______分别对应相等，那么这两个三角形全等（ASA）。",
-    "answer": "答案：夹边\n解析：ASA判定定理：两角和它们的夹边对应相等的两个三角形全等。"
-  },
-  {
-    "id": "g2_math_035_ex03",
-    "knowledge_id": "g2_math_035",
-    "question": "选择题：在△ABC和△DEF中，∠A=∠D=50°，∠B=∠E=60°，AB=DE=7cm，则△ABC与△DEF（  ）\nA. 不全等\nB. 全等\nC. 面积相等但不全等\nD. 无法确定",
-    "answer": "答案：B\n解析：两角和夹边对应相等，符合ASA判定定理。"
-  },
-  {
-    "id": "g2_math_035_ex04",
-    "knowledge_id": "g2_math_035",
-    "question": "判断题：ASA中的边必须是两角的夹边。",
-    "answer": "答案：正确\n解析：ASA即角边角，边必须在两个角之间。"
-  },
-  {
-    "id": "g2_math_035_ex05",
-    "knowledge_id": "g2_math_035",
-    "question": "解答题：如图，已知∠B=∠C，∠BAD=∠CAD，求证：△ABD ≌ △ACD。",
-    "answer": "答案：证明：在△ABD和△ACD中\n∠BAD=∠CAD（已知）\nAD=AD（公共边）\n∠B=∠C（已知）\n∴ △ABD ≌ △ACD（ASA）\n解析：∠BAD和∠B的夹边是AB，∠CAD和∠C的夹边是AC...不对，应该是∠BAD和∠ADB的夹边是AD？\n重新：在△ABD和△ACD中\n∠BAD=∠CAD（已知）\nAD=AD（公共边）\n∠ADB=∠ADC（等角的补角相等）\n∴ △ABD ≌ △ACD（ASA）"
-  },
-  {
-    "id": "g2_math_035_ex06",
-    "knowledge_id": "g2_math_035",
-    "question": "选择题：用ASA判定两个三角形全等，需要知道（  ）\nA. 三条边对应相等\nB. 两个角和它们的夹边对应相等\nC. 两个角和其中一角的对边对应相等\nD. 三条边对应相等",
-    "answer": "答案：B\n解析：ASA即角边角，需要两个角和它们的夹边对应相等。"
-  },
-  {
-    "id": "g2_math_035_ex07",
-    "knowledge_id": "g2_math_035",
-    "question": "填空题：ASA的全称是______。",
-    "answer": "答案：角边角\n解析：ASA是Angle-Side-Angle的缩写，即两角和夹边对应相等。"
-  },
-  {
-    "id": "g2_math_035_ex08",
-    "knowledge_id": "g2_math_035",
-    "question": "判断题：ASA和AAS是两种不同的全等判定方法。",
-    "answer": "答案：正确\n解析：ASA是两角和夹边，AAS是两角和其中一角的对边。"
-  },
-  {
-    "id": "g2_math_035_ex09",
-    "knowledge_id": "g2_math_035",
-    "question": "解答题：已知△ABC中，∠A=70°，∠B=50°，AB=9cm，△DEF中，∠D=70°，∠E=50°，DE=9cm，求证△ABC ≌ △DEF。",
-    "answer": "答案：证明：在△ABC和△DEF中\n∠A=∠D=70°（已知）\nAB=DE=9cm（已知）\n∠B=∠E=50°（已知）\n∴ △ABC ≌ △DEF（ASA）\n解析：∠A和∠B的夹边是AB，∠D和∠E的夹边是DE，符合ASA。"
-  },
-  {
-    "id": "g2_math_035_ex10",
-    "knowledge_id": "g2_math_035",
-    "question": "选择题：下列说法错误的是（  ）\nA. ASA可以判定三角形全等\nB. ASA需要两个角和夹边对应相等\nC. ASA中的边在两个角之间\nD. ASA只适用于等腰三角形",
-    "answer": "答案：D\n解析：ASA适用于所有三角形，不是只适用于等腰三角形。"
-  },
-  {
-    "id": "g2_math_036_ex01",
-    "knowledge_id": "g2_math_036",
-    "question": "选择题：下列各组条件中，能判定△ABC ≌ △DEF的是（  ）\nA. ∠A=∠D, ∠B=∠E, AB=DE\nB. ∠A=∠D, ∠B=∠E, BC=EF\nC. AB=DE, BC=EF, ∠A=∠D\nD. ∠A=∠D, ∠B=∠E, ∠C=∠F",
-    "answer": "答案：B\n解析：B选项是两角和其中一角的对边对应相等（AAS），可以判定全等。"
-  },
-  {
-    "id": "g2_math_036_ex02",
-    "knowledge_id": "g2_math_036",
-    "question": "填空题：如果两个三角形的两角和其中一角的______分别对应相等，那么这两个三角形全等（AAS）。",
-    "answer": "答案：对边\n解析：AAS判定定理：两角和其中一角的对边对应相等的两个三角形全等。"
-  },
-  {
-    "id": "g2_math_036_ex03",
-    "knowledge_id": "g2_math_036",
-    "question": "选择题：在△ABC和△DEF中，∠A=∠D=50°，∠B=∠E=60°，BC=EF=8cm，则△ABC与△DEF（  ）\nA. 不全等\nB. 全等\nC. 面积相等但不全等\nD. 无法确定",
-    "answer": "答案：B\n解析：∠A和∠B对应∠D和∠E，BC是∠A的对边，EF是∠D的对边，符合AAS判定定理。"
-  },
-  {
-    "id": "g2_math_036_ex04",
-    "knowledge_id": "g2_math_036",
-    "question": "判断题：AAS可以看作是ASA的推论。",
-    "answer": "答案：正确\n解析：因为三角形内角和是180°，已知两个角相等，第三个角也相等，所以AAS可以转化为ASA。"
-  },
-  {
-    "id": "g2_math_036_ex05",
-    "knowledge_id": "g2_math_036",
-    "question": "解答题：如图，已知∠B=∠C，BD=CD，求证：△ABD ≌ △ACD。",
-    "answer": "答案：证明：在△ABD和△ACD中\n∠B=∠C（已知）\n∠ADB=∠ADC（等角的补角相等）\nBD=CD（已知）\n∴ △ABD ≌ △ACD（AAS）\n解析：∠B和∠ADB的对边是AD，∠C和∠ADC的对边是AD，加上BD=CD，符合AAS。"
-  },
-  {
-    "id": "g2_math_036_ex06",
-    "knowledge_id": "g2_math_036",
-    "question": "选择题：用AAS判定两个三角形全等，需要知道（  ）\nA. 三条边对应相等\nB. 两个角和它们的夹边对应相等\nC. 两个角和其中一角的对边对应相等\nD. 三个角对应相等",
-    "answer": "答案：C\n解析：AAS即角角边，需要两个角和其中一角的对边对应相等。"
-  },
-  {
-    "id": "g2_math_036_ex07",
-    "knowledge_id": "g2_math_036",
-    "question": "填空题：AAS的全称是______。",
-    "answer": "答案：角角边\n解析：AAS是Angle-Angle-Side的缩写，即两角和其中一角的对边对应相等。"
-  },
-  {
-    "id": "g2_math_036_ex08",
-    "knowledge_id": "g2_math_036",
-    "question": "判断题：AAS和ASA都能判定三角形全等。",
-    "answer": "答案：正确\n解析：两者都是常用的全等判定方法。"
-  },
-  {
-    "id": "g2_math_036_ex09",
-    "knowledge_id": "g2_math_036",
-    "question": "解答题：已知△ABC中，∠A=70°，∠B=50°，BC=10cm，△DEF中，∠D=70°，∠E=50°，EF=10cm，求证△ABC ≌ △DEF。",
-    "answer": "答案：证明：在△ABC和△DEF中\n∠A=∠D=70°（已知）\n∠B=∠E=50°（已知）\nBC=EF=10cm（已知）\n∴ △ABC ≌ △DEF（AAS）\n解析：BC是∠A的对边，EF是∠D的对边，符合AAS。"
-  },
-  {
-    "id": "g2_math_036_ex10",
-    "knowledge_id": "g2_math_036",
-    "question": "选择题：下列说法正确的是（  ）\nA. AAS和ASA是完全相同的方法\nB. AAS中的边是两个角的夹边\nC. AAS中的边是其中一个角的对边\nD. AAS不能判定全等",
-    "answer": "答案：C\n解析：AAS中的边是其中一个角的对边，而不是夹边。"
-  },
-  {
-    "id": "g2_math_037_ex01",
-    "knowledge_id": "g2_math_037",
-    "question": "选择题：下列各组条件中，能判定两个直角三角形全等的是（  ）\nA. 两个锐角对应相等\nB. 一条直角边对应相等\nC. 斜边和一条直角边对应相等\nD. 两条直角边对应相等",
-    "answer": "答案：C\n解析：C选项是HL（斜边-直角边），可以判定直角三角形全等。D选项也可以（SAS），但题目问的是HL方法。"
-  },
-  {
-    "id": "g2_math_037_ex02",
-    "knowledge_id": "g2_math_037",
-    "question": "填空题：如果两个直角三角形的______和______分别对应相等，那么这两个直角三角形全等（HL）。",
-    "answer": "答案：斜边，一条直角边\n解析：HL判定定理：斜边和一条直角边对应相等的两个直角三角形全等。"
-  },
-  {
-    "id": "g2_math_037_ex03",
-    "knowledge_id": "g2_math_037",
-    "question": "选择题：在Rt△ABC和Rt△DEF中，∠C=∠F=90°，AB=DE=13cm，AC=DF=5cm，则△ABC与△DEF（  ）\nA. 不全等\nB. 全等\nC. 面积相等但不全等\nD. 无法确定",
-    "answer": "答案：B\n解析：斜边AB=DE，直角边AC=DF，符合HL判定定理。"
-  },
-  {
-    "id": "g2_math_037_ex04",
-    "knowledge_id": "g2_math_037",
-    "question": "判断题：HL只适用于直角三角形。",
-    "answer": "答案：正确\n解析：HL是直角三角形特有的全等判定方法。"
-  },
-  {
-    "id": "g2_math_037_ex05",
-    "knowledge_id": "g2_math_037",
-    "question": "解答题：如图，已知∠C=∠D=90°，AC=BD，求证：Rt△ABC ≌ Rt△BAD。",
-    "answer": "答案：证明：在Rt△ABC和Rt△BAD中\n∠C=∠D=90°（已知）\nAB=BA（公共边，斜边）\nAC=BD（已知，直角边）\n∴ Rt△ABC ≌ Rt△BAD（HL）\n解析：斜边AB=BA，直角边AC=BD，符合HL。"
-  },
-  {
-    "id": "g2_math_037_ex06",
-    "knowledge_id": "g2_math_037",
-    "question": "选择题：用HL判定两个直角三角形全等，需要知道（  ）\nA. 三个角对应相等\nB. 斜边和一条直角边对应相等\nC. 两条直角边对应相等\nD. 三个边对应相等",
-    "answer": "答案：B\n解析：HL即斜边-直角边，需要斜边和一条直角边对应相等。"
-  },
-  {
-    "id": "g2_math_037_ex07",
-    "knowledge_id": "g2_math_037",
-    "question": "填空题：HL的全称是______。",
-    "answer": "答案：斜边-直角边\n解析：HL是Hypotenuse-Leg的缩写。"
-  },
-  {
-    "id": "g2_math_037_ex08",
-    "knowledge_id": "g2_math_037",
-    "question": "判断题：两个直角三角形，如果斜边相等，就一定全等。",
-    "answer": "答案：错误\n解析：还需要一条直角边对应相等（HL），只有斜边相等不能判定全等。"
-  },
-  {
-    "id": "g2_math_037_ex09",
-    "knowledge_id": "g2_math_037",
-    "question": "解答题：已知Rt△ABC中，∠C=90°，AB=10cm，BC=6cm，Rt△DEF中，∠F=90°，DE=10cm，EF=6cm，求证Rt△ABC ≌ Rt△DEF。",
-    "answer": "答案：证明：在Rt△ABC和Rt△DEF中\n∠C=∠F=90°（已知）\nAB=DE=10cm（斜边相等）\nBC=EF=6cm（直角边相等）\n∴ Rt△ABC ≌ Rt△DEF（HL）\n解析：斜边和直角边对应相等，符合HL。"
-  },
-  {
-    "id": "g2_math_037_ex10",
-    "knowledge_id": "g2_math_037",
-    "question": "选择题：下列说法正确的是（  ）\nA. HL可以用于任意三角形\nB. HL需要斜边和两条直角边对应相等\nC. HL是直角三角形特有的判定方法\nD. HL和SSS是完全相同的",
-    "answer": "答案：C\n解析：HL是直角三角形特有的全等判定方法。"
-  },
-  {
-    "id": "g2_math_038_ex01",
-    "knowledge_id": "g2_math_038",
-    "question": "选择题：下列关于\"轴对称图形\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据轴对称图形的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_038_ex02",
-    "knowledge_id": "g2_math_038",
-    "question": "选择题：下列情形中，能应用\"轴对称图形\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：轴对称图形适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_038_ex03",
-    "knowledge_id": "g2_math_038",
-    "question": "填空题：轴对称图形的计算公式是______。",
-    "answer": "答案：对称轴\n解析：这是轴对称图形的核心公式。"
-  },
-  {
-    "id": "g2_math_038_ex04",
-    "knowledge_id": "g2_math_038",
-    "question": "判断题：轴对称图形的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_038_ex05",
-    "knowledge_id": "g2_math_038",
-    "question": "判断题：轴对称图形的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_038_ex06",
-    "knowledge_id": "g2_math_038",
-    "question": "解答题：请简述轴对称图形的定义和主要内容。",
-    "answer": "答案：如果一个平面图形沿一条直线折叠，直线两旁的部分能够完全重合，那么这个图形叫做轴对称图形，这条直线就是它的对称轴。\n\n常见的轴对称图形：\n- 等腰三角形（1条对称轴）\n- 等边三角形（3条对称轴）\n- ...\n解析：本题考察对轴对称图形的理解。"
-  },
-  {
-    "id": "g2_math_038_ex07",
-    "knowledge_id": "g2_math_038",
-    "question": "解答题：举例说明轴对称图形在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：轴对称图形的实际应用场景。"
-  },
-  {
-    "id": "g2_math_038_ex08",
-    "knowledge_id": "g2_math_038",
-    "question": "计算题：已知相关条件，利用轴对称图形的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_038_ex09",
-    "knowledge_id": "g2_math_038",
-    "question": "综合题：结合轴对称图形和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_038_ex10",
-    "knowledge_id": "g2_math_038",
-    "question": "综合题：分析轴对称图形与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_039_ex01",
-    "knowledge_id": "g2_math_039",
-    "question": "选择题：下列关于\"线段垂直平分线的性质\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据线段垂直平分线的性质的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_039_ex02",
-    "knowledge_id": "g2_math_039",
-    "question": "选择题：下列情形中，能应用\"线段垂直平分线的性质\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：线段垂直平分线的性质适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_039_ex03",
-    "knowledge_id": "g2_math_039",
-    "question": "填空题：线段垂直平分线的性质的计算公式是______。",
-    "answer": "答案：到线段两端距离相等的点在这条线段的垂直平分线上\n解析：这是线段垂直平分线的性质的核心公式。"
-  },
-  {
-    "id": "g2_math_039_ex04",
-    "knowledge_id": "g2_math_039",
-    "question": "判断题：线段垂直平分线的性质的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_039_ex05",
-    "knowledge_id": "g2_math_039",
-    "question": "判断题：线段垂直平分线的性质的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_039_ex06",
-    "knowledge_id": "g2_math_039",
-    "question": "解答题：请简述线段垂直平分线的性质的定义和主要内容。",
-    "answer": "答案：垂直平分线：经过线段中点并且垂直于这条线段的直线叫做这条线段的垂直平分线。\n\n性质：\n1. 线段垂直平分线上的点到这条线段两端点的距离相等\n2. 到一条线段两端点距离相等的点，在这条线段的垂直平分线上...\n解析：本题考察对线段垂直平分线的性质的理解。"
-  },
-  {
-    "id": "g2_math_039_ex07",
-    "knowledge_id": "g2_math_039",
-    "question": "解答题：举例说明线段垂直平分线的性质在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：线段垂直平分线的性质的实际应用场景。"
-  },
-  {
-    "id": "g2_math_039_ex08",
-    "knowledge_id": "g2_math_039",
-    "question": "计算题：已知相关条件，利用线段垂直平分线的性质的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_039_ex09",
-    "knowledge_id": "g2_math_039",
-    "question": "综合题：结合线段垂直平分线的性质和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_039_ex10",
-    "knowledge_id": "g2_math_039",
-    "question": "综合题：分析线段垂直平分线的性质与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_040_ex01",
-    "knowledge_id": "g2_math_040",
-    "question": "选择题：下列关于\"等腰三角形的性质\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据等腰三角形的性质的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_040_ex02",
-    "knowledge_id": "g2_math_040",
-    "question": "选择题：下列情形中，能应用\"等腰三角形的性质\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：等腰三角形的性质适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_040_ex03",
-    "knowledge_id": "g2_math_040",
-    "question": "填空题：等腰三角形的性质的计算公式是______。",
-    "answer": "答案：等腰三角形两底角相等\n三线合一：顶角平分线、底边上的中线、底边上的高互相重合\n解析：这是等腰三角形的性质的核心公式。"
-  },
-  {
-    "id": "g2_math_040_ex04",
-    "knowledge_id": "g2_math_040",
-    "question": "判断题：等腰三角形的性质的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_040_ex05",
-    "knowledge_id": "g2_math_040",
-    "question": "判断题：等腰三角形的性质的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_040_ex06",
-    "knowledge_id": "g2_math_040",
-    "question": "解答题：请简述等腰三角形的性质的定义和主要内容。",
-    "answer": "答案：等腰三角形：有两条边相等的三角形。\n\n性质：\n1. 等腰三角形的两底角相等（等边对等角）\n2. 等腰三角形顶角的平分线、底边上的中线、底边上的高互相重合（三线合一）\n3. 等腰三角形是轴对称图形，对称...\n解析：本题考察对等腰三角形的性质的理解。"
-  },
-  {
-    "id": "g2_math_040_ex07",
-    "knowledge_id": "g2_math_040",
-    "question": "解答题：举例说明等腰三角形的性质在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：等腰三角形的性质的实际应用场景。"
-  },
-  {
-    "id": "g2_math_040_ex08",
-    "knowledge_id": "g2_math_040",
-    "question": "计算题：已知相关条件，利用等腰三角形的性质的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_040_ex09",
-    "knowledge_id": "g2_math_040",
-    "question": "综合题：结合等腰三角形的性质和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_040_ex10",
-    "knowledge_id": "g2_math_040",
-    "question": "综合题：分析等腰三角形的性质与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_041_ex01",
-    "knowledge_id": "g2_math_041",
-    "question": "选择题：下列关于\"等边三角形的性质\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据等边三角形的性质的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_041_ex02",
-    "knowledge_id": "g2_math_041",
-    "question": "选择题：下列情形中，能应用\"等边三角形的性质\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：等边三角形的性质适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_041_ex03",
-    "knowledge_id": "g2_math_041",
-    "question": "填空题：等边三角形的性质的计算公式是______。",
-    "answer": "答案：三边相等，三个角都等于 60°\n解析：这是等边三角形的性质的核心公式。"
-  },
-  {
-    "id": "g2_math_041_ex04",
-    "knowledge_id": "g2_math_041",
-    "question": "判断题：等边三角形的性质的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_041_ex05",
-    "knowledge_id": "g2_math_041",
-    "question": "判断题：等边三角形的性质的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_041_ex06",
-    "knowledge_id": "g2_math_041",
-    "question": "解答题：请简述等边三角形的性质的定义和主要内容。",
-    "answer": "答案：等边三角形：三条边都相等的三角形。\n\n性质：\n1. 三边相等\n2. 三个内角都等于 60°\n3. 是轴对称图形，有 3 条对称轴\n4. 每条边上都存在\"三线合一\"...\n解析：本题考察对等边三角形的性质的理解。"
-  },
-  {
-    "id": "g2_math_041_ex07",
-    "knowledge_id": "g2_math_041",
-    "question": "解答题：举例说明等边三角形的性质在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：等边三角形的性质的实际应用场景。"
-  },
-  {
-    "id": "g2_math_041_ex08",
-    "knowledge_id": "g2_math_041",
-    "question": "计算题：已知相关条件，利用等边三角形的性质的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_041_ex09",
-    "knowledge_id": "g2_math_041",
-    "question": "综合题：结合等边三角形的性质和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_041_ex10",
-    "knowledge_id": "g2_math_041",
-    "question": "综合题：分析等边三角形的性质与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_042_ex01",
-    "knowledge_id": "g2_math_042",
-    "question": "选择题：下列关于\"同底数幂的乘法\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据同底数幂的乘法的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_042_ex02",
-    "knowledge_id": "g2_math_042",
-    "question": "选择题：下列情形中，能应用\"同底数幂的乘法\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：同底数幂的乘法适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_042_ex03",
-    "knowledge_id": "g2_math_042",
-    "question": "填空题：同底数幂的乘法的计算公式是______。",
-    "answer": "答案：aᵐ · aⁿ = aᵐ⁺ⁿ (m, n 是正整数)\n解析：这是同底数幂的乘法的核心公式。"
-  },
-  {
-    "id": "g2_math_042_ex04",
-    "knowledge_id": "g2_math_042",
-    "question": "判断题：同底数幂的乘法的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_042_ex05",
-    "knowledge_id": "g2_math_042",
-    "question": "判断题：同底数幂的乘法的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_042_ex06",
-    "knowledge_id": "g2_math_042",
-    "question": "解答题：请简述同底数幂的乘法的定义和主要内容。",
-    "answer": "答案：同底数幂相乘，底数不变，指数相加。\n\n推广：\naᵐ · aⁿ · aᵖ = aᵐ⁺ⁿ⁺ᵖ...\n解析：本题考察对同底数幂的乘法的理解。"
-  },
-  {
-    "id": "g2_math_042_ex07",
-    "knowledge_id": "g2_math_042",
-    "question": "解答题：举例说明同底数幂的乘法在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：同底数幂的乘法的实际应用场景。"
-  },
-  {
-    "id": "g2_math_042_ex08",
-    "knowledge_id": "g2_math_042",
-    "question": "计算题：已知相关条件，利用同底数幂的乘法的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_042_ex09",
-    "knowledge_id": "g2_math_042",
-    "question": "综合题：结合同底数幂的乘法和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_042_ex10",
-    "knowledge_id": "g2_math_042",
-    "question": "综合题：分析同底数幂的乘法与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_043_ex01",
-    "knowledge_id": "g2_math_043",
-    "question": "选择题：下列关于\"幂的乘方与积的乘方\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据幂的乘方与积的乘方的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_043_ex02",
-    "knowledge_id": "g2_math_043",
-    "question": "选择题：下列情形中，能应用\"幂的乘方与积的乘方\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：幂的乘方与积的乘方适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_043_ex03",
-    "knowledge_id": "g2_math_043",
-    "question": "填空题：幂的乘方与积的乘方的计算公式是______。",
-    "answer": "答案：(aᵐ)ⁿ = aᵐⁿ\n(ab)ⁿ = aⁿbⁿ\n解析：这是幂的乘方与积的乘方的核心公式。"
-  },
-  {
-    "id": "g2_math_043_ex04",
-    "knowledge_id": "g2_math_043",
-    "question": "判断题：幂的乘方与积的乘方的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_043_ex05",
-    "knowledge_id": "g2_math_043",
-    "question": "判断题：幂的乘方与积的乘方的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_043_ex06",
-    "knowledge_id": "g2_math_043",
-    "question": "解答题：请简述幂的乘方与积的乘方的定义和主要内容。",
-    "answer": "答案：幂的乘方：底数不变，指数相乘。(aᵐ)ⁿ = aᵐⁿ\n\n积的乘方：把积的每一个因式分别乘方，再把所得的幂相乘。(ab)ⁿ = aⁿbⁿ...\n解析：本题考察对幂的乘方与积的乘方的理解。"
-  },
-  {
-    "id": "g2_math_043_ex07",
-    "knowledge_id": "g2_math_043",
-    "question": "解答题：举例说明幂的乘方与积的乘方在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：幂的乘方与积的乘方的实际应用场景。"
-  },
-  {
-    "id": "g2_math_043_ex08",
-    "knowledge_id": "g2_math_043",
-    "question": "计算题：已知相关条件，利用幂的乘方与积的乘方的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_043_ex09",
-    "knowledge_id": "g2_math_043",
-    "question": "综合题：结合幂的乘方与积的乘方和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_043_ex10",
-    "knowledge_id": "g2_math_043",
-    "question": "综合题：分析幂的乘方与积的乘方与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_044_ex01",
-    "knowledge_id": "g2_math_044",
-    "question": "选择题：下列关于\"同底数幂的除法\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据同底数幂的除法的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_044_ex02",
-    "knowledge_id": "g2_math_044",
-    "question": "选择题：下列情形中，能应用\"同底数幂的除法\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：同底数幂的除法适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_044_ex03",
-    "knowledge_id": "g2_math_044",
-    "question": "填空题：同底数幂的除法的计算公式是______。",
-    "answer": "答案：aᵐ / aⁿ = aᵐ⁻ⁿ (a ≠ 0, m > n)\n解析：这是同底数幂的除法的核心公式。"
-  },
-  {
-    "id": "g2_math_044_ex04",
-    "knowledge_id": "g2_math_044",
-    "question": "判断题：同底数幂的除法的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_044_ex05",
-    "knowledge_id": "g2_math_044",
-    "question": "判断题：同底数幂的除法的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_044_ex06",
-    "knowledge_id": "g2_math_044",
-    "question": "解答题：请简述同底数幂的除法的定义和主要内容。",
-    "answer": "答案：同底数幂相除，底数不变，指数相减。\n\n零指数幂：a⁰ = 1 (a ≠ 0)\n\n负指数幂：a⁻ⁿ = 1/aⁿ (a ≠ 0)...\n解析：本题考察对同底数幂的除法的理解。"
-  },
-  {
-    "id": "g2_math_044_ex07",
-    "knowledge_id": "g2_math_044",
-    "question": "解答题：举例说明同底数幂的除法在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：同底数幂的除法的实际应用场景。"
-  },
-  {
-    "id": "g2_math_044_ex08",
-    "knowledge_id": "g2_math_044",
-    "question": "计算题：已知相关条件，利用同底数幂的除法的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_044_ex09",
-    "knowledge_id": "g2_math_044",
-    "question": "综合题：结合同底数幂的除法和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_044_ex10",
-    "knowledge_id": "g2_math_044",
-    "question": "综合题：分析同底数幂的除法与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_045_ex01",
-    "knowledge_id": "g2_math_045",
-    "question": "选择题：下列关于\"整式的乘法\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据整式的乘法的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_045_ex02",
-    "knowledge_id": "g2_math_045",
-    "question": "选择题：下列情形中，能应用\"整式的乘法\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：整式的乘法适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_045_ex03",
-    "knowledge_id": "g2_math_045",
-    "question": "填空题：整式的乘法的计算公式是______。",
-    "answer": "答案：(a + b)(c + d) = ac + ad + bc + bd\n单项式 × 多项式 = 各项相乘再相加\n解析：这是整式的乘法的核心公式。"
-  },
-  {
-    "id": "g2_math_045_ex04",
-    "knowledge_id": "g2_math_045",
-    "question": "判断题：整式的乘法的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_045_ex05",
-    "knowledge_id": "g2_math_045",
-    "question": "判断题：整式的乘法的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_045_ex06",
-    "knowledge_id": "g2_math_045",
-    "question": "解答题：请简述整式的乘法的定义和主要内容。",
-    "answer": "答案：单项式乘单项式：系数相乘，同底数幂相乘。\n\n单项式乘多项式：m(a+b+c) = ma + mb + mc\n\n多项式乘多项式：(a+b)(c+d) = ac + ad + bc + bd...\n解析：本题考察对整式的乘法的理解。"
-  },
-  {
-    "id": "g2_math_045_ex07",
-    "knowledge_id": "g2_math_045",
-    "question": "解答题：举例说明整式的乘法在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：整式的乘法的实际应用场景。"
-  },
-  {
-    "id": "g2_math_045_ex08",
-    "knowledge_id": "g2_math_045",
-    "question": "计算题：已知相关条件，利用整式的乘法的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_045_ex09",
-    "knowledge_id": "g2_math_045",
-    "question": "综合题：结合整式的乘法和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_045_ex10",
-    "knowledge_id": "g2_math_045",
-    "question": "综合题：分析整式的乘法与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_046_ex01",
-    "knowledge_id": "g2_math_046",
-    "question": "选择题：下列关于\"乘法公式-平方差公式\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据乘法公式-平方差公式的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_046_ex02",
-    "knowledge_id": "g2_math_046",
-    "question": "选择题：下列情形中，能应用\"乘法公式-平方差公式\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：乘法公式-平方差公式适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_046_ex03",
-    "knowledge_id": "g2_math_046",
-    "question": "填空题：乘法公式-平方差公式的计算公式是______。",
-    "answer": "答案：(a + b)(a - b) = a² - b²\n解析：这是乘法公式-平方差公式的核心公式。"
-  },
-  {
-    "id": "g2_math_046_ex04",
-    "knowledge_id": "g2_math_046",
-    "question": "判断题：乘法公式-平方差公式的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_046_ex05",
-    "knowledge_id": "g2_math_046",
-    "question": "判断题：乘法公式-平方差公式的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_046_ex06",
-    "knowledge_id": "g2_math_046",
-    "question": "解答题：请简述乘法公式-平方差公式的定义和主要内容。",
-    "answer": "答案：两个数的和与这两个数的差的积，等于这两个数的平方差。\n\n应用：\n- 简便计算：(x+3)(x-3) = x² - 9\n- 简化多项式乘法...\n解析：本题考察对乘法公式-平方差公式的理解。"
-  },
-  {
-    "id": "g2_math_046_ex07",
-    "knowledge_id": "g2_math_046",
-    "question": "解答题：举例说明乘法公式-平方差公式在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：乘法公式-平方差公式的实际应用场景。"
-  },
-  {
-    "id": "g2_math_046_ex08",
-    "knowledge_id": "g2_math_046",
-    "question": "计算题：已知相关条件，利用乘法公式-平方差公式的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_046_ex09",
-    "knowledge_id": "g2_math_046",
-    "question": "综合题：结合乘法公式-平方差公式和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_046_ex10",
-    "knowledge_id": "g2_math_046",
-    "question": "综合题：分析乘法公式-平方差公式与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_047_ex01",
-    "knowledge_id": "g2_math_047",
-    "question": "选择题：下列关于\"乘法公式-完全平方公式\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据乘法公式-完全平方公式的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_047_ex02",
-    "knowledge_id": "g2_math_047",
-    "question": "选择题：下列情形中，能应用\"乘法公式-完全平方公式\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：乘法公式-完全平方公式适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_047_ex03",
-    "knowledge_id": "g2_math_047",
-    "question": "填空题：乘法公式-完全平方公式的计算公式是______。",
-    "answer": "答案：(a + b)² = a² + 2ab + b²\n(a - b)² = a² - 2ab + b²\n解析：这是乘法公式-完全平方公式的核心公式。"
-  },
-  {
-    "id": "g2_math_047_ex04",
-    "knowledge_id": "g2_math_047",
-    "question": "判断题：乘法公式-完全平方公式的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_047_ex05",
-    "knowledge_id": "g2_math_047",
-    "question": "判断题：乘法公式-完全平方公式的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_047_ex06",
-    "knowledge_id": "g2_math_047",
-    "question": "解答题：请简述乘法公式-完全平方公式的定义和主要内容。",
-    "answer": "答案：两数和（或差）的平方，等于它们的平方和，加上（或减去）它们的积的 2 倍。\n\n应用：\n- 简便计算：(x+5)² = x² + 10x + 25\n- 完全平方式：a² ± 2ab + b²...\n解析：本题考察对乘法公式-完全平方公式的理解。"
-  },
-  {
-    "id": "g2_math_047_ex07",
-    "knowledge_id": "g2_math_047",
-    "question": "解答题：举例说明乘法公式-完全平方公式在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：乘法公式-完全平方公式的实际应用场景。"
-  },
-  {
-    "id": "g2_math_047_ex08",
-    "knowledge_id": "g2_math_047",
-    "question": "计算题：已知相关条件，利用乘法公式-完全平方公式的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_047_ex09",
-    "knowledge_id": "g2_math_047",
-    "question": "综合题：结合乘法公式-完全平方公式和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_047_ex10",
-    "knowledge_id": "g2_math_047",
-    "question": "综合题：分析乘法公式-完全平方公式与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_048_ex01",
-    "knowledge_id": "g2_math_048",
-    "question": "选择题：下列关于\"因式分解\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据因式分解的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_048_ex02",
-    "knowledge_id": "g2_math_048",
-    "question": "选择题：下列情形中，能应用\"因式分解\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：因式分解适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_048_ex03",
-    "knowledge_id": "g2_math_048",
-    "question": "填空题：因式分解的计算公式是______。",
-    "answer": "答案：提公因式法、公式法\n解析：这是因式分解的核心公式。"
-  },
-  {
-    "id": "g2_math_048_ex04",
-    "knowledge_id": "g2_math_048",
-    "question": "判断题：因式分解的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_048_ex05",
-    "knowledge_id": "g2_math_048",
-    "question": "判断题：因式分解的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_048_ex06",
-    "knowledge_id": "g2_math_048",
-    "question": "解答题：请简述因式分解的定义和主要内容。",
-    "answer": "答案：因式分解：把一个多项式化为几个整式的积的形式。\n\n常用方法：\n1. 提公因式法：ma + mb = m(a + b)\n2. 公式法：\n   - 平方差公式：a² - b² = (a+b)(a-b)\n ...\n解析：本题考察对因式分解的理解。"
-  },
-  {
-    "id": "g2_math_048_ex07",
-    "knowledge_id": "g2_math_048",
-    "question": "解答题：举例说明因式分解在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：因式分解的实际应用场景。"
-  },
-  {
-    "id": "g2_math_048_ex08",
-    "knowledge_id": "g2_math_048",
-    "question": "计算题：已知相关条件，利用因式分解的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_048_ex09",
-    "knowledge_id": "g2_math_048",
-    "question": "综合题：结合因式分解和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_048_ex10",
-    "knowledge_id": "g2_math_048",
-    "question": "综合题：分析因式分解与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_049_ex01",
-    "knowledge_id": "g2_math_049",
-    "question": "选择题：下列关于\"分式的概念\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据分式的概念的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_049_ex02",
-    "knowledge_id": "g2_math_049",
-    "question": "选择题：下列情形中，能应用\"分式的概念\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：分式的概念适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_049_ex03",
-    "knowledge_id": "g2_math_049",
-    "question": "填空题：分式的概念的计算公式是______。",
-    "answer": "答案：A/B (B 中含有字母，B ≠ 0)\n解析：这是分式的概念的核心公式。"
-  },
-  {
-    "id": "g2_math_049_ex04",
-    "knowledge_id": "g2_math_049",
-    "question": "判断题：分式的概念的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_049_ex05",
-    "knowledge_id": "g2_math_049",
-    "question": "判断题：分式的概念的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_049_ex06",
-    "knowledge_id": "g2_math_049",
-    "question": "解答题：请简述分式的概念的定义和主要内容。",
-    "answer": "答案：一般地，如果 A、B 表示两个整式，并且 B 中含有字母，那么式子 A/B 叫做分式。\n\n注意：\n1. 分式中分母 B ≠ 0（分母为零时无意义）\n2. 当 A = 0 时，分式 A/B = 0（前提...\n解析：本题考察对分式的概念的理解。"
-  },
-  {
-    "id": "g2_math_049_ex07",
-    "knowledge_id": "g2_math_049",
-    "question": "解答题：举例说明分式的概念在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：分式的概念的实际应用场景。"
-  },
-  {
-    "id": "g2_math_049_ex08",
-    "knowledge_id": "g2_math_049",
-    "question": "计算题：已知相关条件，利用分式的概念的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_049_ex09",
-    "knowledge_id": "g2_math_049",
-    "question": "综合题：结合分式的概念和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_049_ex10",
-    "knowledge_id": "g2_math_049",
-    "question": "综合题：分析分式的概念与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_050_ex01",
-    "knowledge_id": "g2_math_050",
-    "question": "选择题：下列关于\"分式的基本性质\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据分式的基本性质的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_050_ex02",
-    "knowledge_id": "g2_math_050",
-    "question": "选择题：下列情形中，能应用\"分式的基本性质\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：分式的基本性质适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_050_ex03",
-    "knowledge_id": "g2_math_050",
-    "question": "填空题：分式的基本性质的计算公式是______。",
-    "answer": "答案：A/B = A·C / B·C = A÷C / B÷C (B ≠ 0, C ≠ 0)\n解析：这是分式的基本性质的核心公式。"
-  },
-  {
-    "id": "g2_math_050_ex04",
-    "knowledge_id": "g2_math_050",
-    "question": "判断题：分式的基本性质的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_050_ex05",
-    "knowledge_id": "g2_math_050",
-    "question": "判断题：分式的基本性质的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_050_ex06",
-    "knowledge_id": "g2_math_050",
-    "question": "解答题：请简述分式的基本性质的定义和主要内容。",
-    "answer": "答案：分式的分子与分母同乘（或除以）一个不为 0 的整式，分式的值不变。\n\n应用：\n1. 约分：将分子分母同除以公因式\n2. 通分：将异分母分式化为同分母分式...\n解析：本题考察对分式的基本性质的理解。"
-  },
-  {
-    "id": "g2_math_050_ex07",
-    "knowledge_id": "g2_math_050",
-    "question": "解答题：举例说明分式的基本性质在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：分式的基本性质的实际应用场景。"
-  },
-  {
-    "id": "g2_math_050_ex08",
-    "knowledge_id": "g2_math_050",
-    "question": "计算题：已知相关条件，利用分式的基本性质的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_050_ex09",
-    "knowledge_id": "g2_math_050",
-    "question": "综合题：结合分式的基本性质和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_050_ex10",
-    "knowledge_id": "g2_math_050",
-    "question": "综合题：分析分式的基本性质与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_051_ex01",
-    "knowledge_id": "g2_math_051",
-    "question": "选择题：下列关于\"分式的乘除法\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据分式的乘除法的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_051_ex02",
-    "knowledge_id": "g2_math_051",
-    "question": "选择题：下列情形中，能应用\"分式的乘除法\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：分式的乘除法适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_051_ex03",
-    "knowledge_id": "g2_math_051",
-    "question": "填空题：分式的乘除法的计算公式是______。",
-    "answer": "答案：a/b · c/d = ac/bd\na/b ÷ c/d = ad/bc\n解析：这是分式的乘除法的核心公式。"
-  },
-  {
-    "id": "g2_math_051_ex04",
-    "knowledge_id": "g2_math_051",
-    "question": "判断题：分式的乘除法的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_051_ex05",
-    "knowledge_id": "g2_math_051",
-    "question": "判断题：分式的乘除法的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_051_ex06",
-    "knowledge_id": "g2_math_051",
-    "question": "解答题：请简述分式的乘除法的定义和主要内容。",
-    "answer": "答案：分式乘分式：用分子的积作为积的分子，分母的积作为积的分母。\n\n分式除以分式：把除式的分子分母颠倒位置后，与被除式相乘。...\n解析：本题考察对分式的乘除法的理解。"
-  },
-  {
-    "id": "g2_math_051_ex07",
-    "knowledge_id": "g2_math_051",
-    "question": "解答题：举例说明分式的乘除法在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：分式的乘除法的实际应用场景。"
-  },
-  {
-    "id": "g2_math_051_ex08",
-    "knowledge_id": "g2_math_051",
-    "question": "计算题：已知相关条件，利用分式的乘除法的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_051_ex09",
-    "knowledge_id": "g2_math_051",
-    "question": "综合题：结合分式的乘除法和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_051_ex10",
-    "knowledge_id": "g2_math_051",
-    "question": "综合题：分析分式的乘除法与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_052_ex01",
-    "knowledge_id": "g2_math_052",
-    "question": "选择题：下列关于\"分式的加减法\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据分式的加减法的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_052_ex02",
-    "knowledge_id": "g2_math_052",
-    "question": "选择题：下列情形中，能应用\"分式的加减法\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：分式的加减法适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_052_ex03",
-    "knowledge_id": "g2_math_052",
-    "question": "填空题：分式的加减法的计算公式是______。",
-    "answer": "答案：同分母：a/c ± b/c = (a ± b)/c\n异分母：先通分再相加减\n解析：这是分式的加减法的核心公式。"
-  },
-  {
-    "id": "g2_math_052_ex04",
-    "knowledge_id": "g2_math_052",
-    "question": "判断题：分式的加减法的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_052_ex05",
-    "knowledge_id": "g2_math_052",
-    "question": "判断题：分式的加减法的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_052_ex06",
-    "knowledge_id": "g2_math_052",
-    "question": "解答题：请简述分式的加减法的定义和主要内容。",
-    "answer": "答案：同分母分式相加减：分母不变，分子相加减。\n\n异分母分式相加减：先通分，化为同分母分式，然后再加减。...\n解析：本题考察对分式的加减法的理解。"
-  },
-  {
-    "id": "g2_math_052_ex07",
-    "knowledge_id": "g2_math_052",
-    "question": "解答题：举例说明分式的加减法在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：分式的加减法的实际应用场景。"
-  },
-  {
-    "id": "g2_math_052_ex08",
-    "knowledge_id": "g2_math_052",
-    "question": "计算题：已知相关条件，利用分式的加减法的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_052_ex09",
-    "knowledge_id": "g2_math_052",
-    "question": "综合题：结合分式的加减法和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_052_ex10",
-    "knowledge_id": "g2_math_052",
-    "question": "综合题：分析分式的加减法与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
-  },
-  {
-    "id": "g2_math_053_ex01",
-    "knowledge_id": "g2_math_053",
-    "question": "选择题：下列关于\"分式方程\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据分式方程的定义和性质分析各选项。"
-  },
-  {
-    "id": "g2_math_053_ex02",
-    "knowledge_id": "g2_math_053",
-    "question": "选择题：下列情形中，能应用\"分式方程\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：分式方程适用于描述的场景。"
-  },
-  {
-    "id": "g2_math_053_ex03",
-    "knowledge_id": "g2_math_053",
-    "question": "填空题：分式方程的计算公式是______。",
-    "answer": "答案：解分式方程：去分母 → 解整式方程 → 验根\n解析：这是分式方程的核心公式。"
-  },
-  {
-    "id": "g2_math_053_ex04",
-    "knowledge_id": "g2_math_053",
-    "question": "判断题：分式方程的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
-  },
-  {
-    "id": "g2_math_053_ex05",
-    "knowledge_id": "g2_math_053",
-    "question": "判断题：分式方程的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
-  },
-  {
-    "id": "g2_math_053_ex06",
-    "knowledge_id": "g2_math_053",
-    "question": "解答题：请简述分式方程的定义和主要内容。",
-    "answer": "答案：分式方程：分母中含有未知数的方程。\n\n解法步骤：\n1. 在方程两边同乘最简公分母，去分母\n2. 解所得的整式方程\n3. 检验：将整式方程的根代入最简公分母，使分母不为 0 的根是原方程的根，否则是增根...\n解析：本题考察对分式方程的理解。"
-  },
-  {
-    "id": "g2_math_053_ex07",
-    "knowledge_id": "g2_math_053",
-    "question": "解答题：举例说明分式方程在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：分式方程的实际应用场景。"
-  },
-  {
-    "id": "g2_math_053_ex08",
-    "knowledge_id": "g2_math_053",
-    "question": "计算题：已知相关条件，利用分式方程的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
-  },
-  {
-    "id": "g2_math_053_ex09",
-    "knowledge_id": "g2_math_053",
-    "question": "综合题：结合分式方程和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
-  },
-  {
-    "id": "g2_math_053_ex10",
-    "knowledge_id": "g2_math_053",
-    "question": "综合题：分析分式方程与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "id": "g2_math_002_ex10",
+    "knowledge_id": "g2_math_002",
+    "question": "填空题：(√a)² = a（a ≥ 0）：一个非...，这体现了二次根式的基本性质的______。",
+    "answer": "答案：重要性质/特点\n解析：这是二次根式的基本性质的重要内容。"
   },
   {
     "id": "g2_math_003_ex01",
     "knowledge_id": "g2_math_003",
-    "question": "选择题：下列关于\"二次根式的乘除法\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据二次根式的乘除法的定义和性质分析各选项。"
+    "question": "选择题：下列关于二次根式的乘除法的说法，正确的是（  ）\nA. 完全错误的说法\nB. 二次根式乘除法法则：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：二次根式乘除法法则："
   },
   {
     "id": "g2_math_003_ex02",
     "knowledge_id": "g2_math_003",
-    "question": "选择题：下列情形中，能应用\"二次根式的乘除法\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：二次根式的乘除法适用于描述的场景。"
+    "question": "填空题：二次根式的乘除法的公式是：______。",
+    "answer": "答案：√a · √b = √(ab) (a ≥ 0, b ≥ 0)\n解析：这是二次根式的乘除法的基本公式。"
   },
   {
     "id": "g2_math_003_ex03",
     "knowledge_id": "g2_math_003",
-    "question": "填空题：二次根式的乘除法的计算公式是______。",
-    "answer": "答案：√a · √b = √(ab) (a ≥ 0, b ≥ 0)\n√a / √b = √(a/b) (a ≥ 0, b > 0)\n解析：这是二次根式的乘除法的核心公式。"
+    "question": "判断题：√a · √b = √(ab)，即两个二次根式相乘，被开方数相乘。（  ）",
+    "answer": "答案：正确\n解析：√a · √b = √(ab)，即两个二次根式相乘，被开方数相乘"
   },
   {
     "id": "g2_math_003_ex04",
     "knowledge_id": "g2_math_003",
-    "question": "判断题：二次根式的乘除法的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 二次根式乘除法法则：\nB. √a · √b = √(ab)，即两个二次根式相乘，被开方数\nC. 明显错误的说法（与定义相反）\nD. √a / √b = √(a/b)，即两个二次根式相除，被开方",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_003_ex05",
     "knowledge_id": "g2_math_003",
-    "question": "判断题：二次根式的乘除法的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：二次根式的乘除法成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意二次根式的乘除法的前提条件。"
   },
   {
     "id": "g2_math_003_ex06",
     "knowledge_id": "g2_math_003",
-    "question": "解答题：请简述二次根式的乘除法的定义和主要内容。",
-    "answer": "答案：二次根式乘除法法则：\n1. √a · √b = √(ab)\n2. √a / √b = √(a/b)\n\n前提条件：a ≥ 0, b ≥ 0...\n解析：本题考察对二次根式的乘除法的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用二次根式的乘除法的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_003_ex07",
     "knowledge_id": "g2_math_003",
-    "question": "解答题：举例说明二次根式的乘除法在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：二次根式的乘除法的实际应用场景。"
+    "question": "简答题：二次根式的乘除法有哪些主要性质？",
+    "answer": "答案：二次根式乘除法法则：；√a · √b = √(ab)，即两个二次根式相乘，被开方数相乘；√a / √b = √(a/b)，即两个二次根式相除，被开方数相除。\n解析：这些是二次根式的乘除法的重要性质。"
   },
   {
     "id": "g2_math_003_ex08",
     "knowledge_id": "g2_math_003",
-    "question": "计算题：已知相关条件，利用二次根式的乘除法的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "选择题：下列生活实例中，可以用二次根式的乘除法知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：二次根式的乘除法在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_003_ex09",
     "knowledge_id": "g2_math_003",
-    "question": "综合题：结合二次根式的乘除法和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "综合题：结合所学知识，谈谈二次根式的乘除法在数学中的地位和作用。",
+    "answer": "答案：二次根式的乘除法是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_003_ex10",
     "knowledge_id": "g2_math_003",
-    "question": "综合题：分析二次根式的乘除法与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：二次根式乘除法法则：...，这体现了二次根式的乘除法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是二次根式的乘除法的重要内容。"
   },
   {
     "id": "g2_math_004_ex01",
     "knowledge_id": "g2_math_004",
-    "question": "选择题：下列关于\"最简二次根式\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据最简二次根式的定义和性质分析各选项。"
+    "question": "选择题：下列关于最简二次根式的说法，正确的是（  ）\nA. 完全错误的说法\nB. 最简二次根式必须满足两个条件：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：最简二次根式必须满足两个条件："
   },
   {
     "id": "g2_math_004_ex02",
     "knowledge_id": "g2_math_004",
-    "question": "选择题：下列情形中，能应用\"最简二次根式\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：最简二次根式适用于描述的场景。"
+    "question": "填空题：最简二次根式的公式是：______。",
+    "answer": "答案：√a (a为正整数且不含能开尽方的因数)\n解析：这是最简二次根式的基本公式。"
   },
   {
     "id": "g2_math_004_ex03",
     "knowledge_id": "g2_math_004",
-    "question": "填空题：最简二次根式的计算公式是______。",
-    "answer": "答案：√a (a为正整数且不含能开尽方的因数)\n解析：这是最简二次根式的核心公式。"
+    "question": "判断题：被开方数不含分母（即分母中不含根号）。（  ）",
+    "answer": "答案：正确\n解析：被开方数不含分母（即分母中不含根号）"
   },
   {
     "id": "g2_math_004_ex04",
     "knowledge_id": "g2_math_004",
-    "question": "判断题：最简二次根式的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 最简二次根式必须满足两个条件：\nB. 被开方数不含分母（即分母中不含根号）\nC. 明显错误的说法（与定义相反）\nD. 被开方数中不含能开得尽方的因数或因式",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_004_ex05",
     "knowledge_id": "g2_math_004",
-    "question": "判断题：最简二次根式的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：最简二次根式成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意最简二次根式的前提条件。"
   },
   {
     "id": "g2_math_004_ex06",
     "knowledge_id": "g2_math_004",
-    "question": "解答题：请简述最简二次根式的定义和主要内容。",
-    "answer": "答案：最简二次根式必须满足两个条件：\n1. 被开方数不含分母\n2. 被开方数中不含能开得尽方的因数或因式...\n解析：本题考察对最简二次根式的理解。"
+    "question": "简答题：最简二次根式有哪些主要性质？",
+    "answer": "答案：最简二次根式必须满足两个条件：；被开方数不含分母（即分母中不含根号）；被开方数中不含能开得尽方的因数或因式。\n解析：这些是最简二次根式的重要性质。"
   },
   {
     "id": "g2_math_004_ex07",
     "knowledge_id": "g2_math_004",
-    "question": "解答题：举例说明最简二次根式在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：最简二次根式的实际应用场景。"
+    "question": "选择题：下列生活实例中，可以用最简二次根式知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：最简二次根式在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_004_ex08",
     "knowledge_id": "g2_math_004",
-    "question": "计算题：已知相关条件，利用最简二次根式的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "综合题：结合所学知识，谈谈最简二次根式在数学中的地位和作用。",
+    "answer": "答案：最简二次根式是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_004_ex09",
     "knowledge_id": "g2_math_004",
-    "question": "综合题：结合最简二次根式和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "填空题：最简二次根式必须满足两个条件：...，这体现了最简二次根式的______。",
+    "answer": "答案：重要性质/特点\n解析：这是最简二次根式的重要内容。"
   },
   {
     "id": "g2_math_004_ex10",
     "knowledge_id": "g2_math_004",
-    "question": "综合题：分析最简二次根式与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：被开方数不含分母（即分母中不含根号）...，这体现了最简二次根式的______。",
+    "answer": "答案：重要性质/特点\n解析：这是最简二次根式的重要内容。"
   },
   {
     "id": "g2_math_005_ex01",
     "knowledge_id": "g2_math_005",
-    "question": "选择题：下列关于\"二次根式的加减法\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据二次根式的加减法的定义和性质分析各选项。"
+    "question": "选择题：下列关于二次根式的加减法的说法，正确的是（  ）\nA. 完全错误的说法\nB. 二次根式加减法法则：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：二次根式加减法法则："
   },
   {
     "id": "g2_math_005_ex02",
     "knowledge_id": "g2_math_005",
-    "question": "选择题：下列情形中，能应用\"二次根式的加减法\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：二次根式的加减法适用于描述的场景。"
+    "question": "填空题：二次根式的加减法的公式是：______。",
+    "answer": "答案：a√m ± b√m = (a ± b)√m\n解析：这是二次根式的加减法的基本公式。"
   },
   {
     "id": "g2_math_005_ex03",
     "knowledge_id": "g2_math_005",
-    "question": "填空题：二次根式的加减法的计算公式是______。",
-    "answer": "答案：a√m ± b√m = (a ± b)√m\n解析：这是二次根式的加减法的核心公式。"
+    "question": "判断题：步骤：。（  ）",
+    "answer": "答案：正确\n解析：步骤："
   },
   {
     "id": "g2_math_005_ex04",
     "knowledge_id": "g2_math_005",
-    "question": "判断题：二次根式的加减法的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 二次根式加减法法则：\nB. 步骤：\nC. 明显错误的说法（与定义相反）\nD. 将每个二次根式化为最简二次根式",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_005_ex05",
     "knowledge_id": "g2_math_005",
-    "question": "判断题：二次根式的加减法的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：二次根式的加减法成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意二次根式的加减法的前提条件。"
   },
   {
     "id": "g2_math_005_ex06",
     "knowledge_id": "g2_math_005",
-    "question": "解答题：请简述二次根式的加减法的定义和主要内容。",
-    "answer": "答案：二次根式加减法法则：\n先把各个二次根式化成最简二次根式，再把被开方数相同的二次根式进行合并。...\n解析：本题考察对二次根式的加减法的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用二次根式的加减法的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_005_ex07",
     "knowledge_id": "g2_math_005",
-    "question": "解答题：举例说明二次根式的加减法在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：二次根式的加减法的实际应用场景。"
+    "question": "简答题：二次根式的加减法有哪些主要性质？",
+    "answer": "答案：二次根式加减法法则：；步骤：；将每个二次根式化为最简二次根式。\n解析：这些是二次根式的加减法的重要性质。"
   },
   {
     "id": "g2_math_005_ex08",
     "knowledge_id": "g2_math_005",
-    "question": "计算题：已知相关条件，利用二次根式的加减法的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "选择题：下列生活实例中，可以用二次根式的加减法知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：二次根式的加减法在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_005_ex09",
     "knowledge_id": "g2_math_005",
-    "question": "综合题：结合二次根式的加减法和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "综合题：结合所学知识，谈谈二次根式的加减法在数学中的地位和作用。",
+    "answer": "答案：二次根式的加减法是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_005_ex10",
     "knowledge_id": "g2_math_005",
-    "question": "综合题：分析二次根式的加减法与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：二次根式加减法法则：...，这体现了二次根式的加减法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是二次根式的加减法的重要内容。"
   },
   {
     "id": "g2_math_006_ex01",
     "knowledge_id": "g2_math_006",
-    "question": "选择题：下列关于\"二次根式的混合运算\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据二次根式的混合运算的定义和性质分析各选项。"
+    "question": "选择题：下列关于二次根式的混合运算的说法，正确的是（  ）\nA. 完全错误的说法\nB. 二次根式混合运算顺序：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：二次根式混合运算顺序："
   },
   {
     "id": "g2_math_006_ex02",
     "knowledge_id": "g2_math_006",
-    "question": "选择题：下列情形中，能应用\"二次根式的混合运算\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：二次根式的混合运算适用于描述的场景。"
+    "question": "填空题：二次根式的混合运算的公式是：______。",
+    "answer": "答案：(a + b)(a - b) = a² - b²\n解析：这是二次根式的混合运算的基本公式。"
   },
   {
     "id": "g2_math_006_ex03",
     "knowledge_id": "g2_math_006",
-    "question": "填空题：二次根式的混合运算的计算公式是______。",
-    "answer": "答案：(a + b)(a - b) = a² - b²\n解析：这是二次根式的混合运算的核心公式。"
+    "question": "判断题：先算乘方，再算乘除，最后算加减。（  ）",
+    "answer": "答案：正确\n解析：先算乘方，再算乘除，最后算加减"
   },
   {
     "id": "g2_math_006_ex04",
     "knowledge_id": "g2_math_006",
-    "question": "判断题：二次根式的混合运算的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 二次根式混合运算顺序：\nB. 先算乘方，再算乘除，最后算加减\nC. 明显错误的说法（与定义相反）\nD. 有括号的先算括号内的",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_006_ex05",
     "knowledge_id": "g2_math_006",
-    "question": "判断题：二次根式的混合运算的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：二次根式的混合运算成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意二次根式的混合运算的前提条件。"
   },
   {
     "id": "g2_math_006_ex06",
     "knowledge_id": "g2_math_006",
-    "question": "解答题：请简述二次根式的混合运算的定义和主要内容。",
-    "answer": "答案：二次根式混合运算顺序：\n1. 先算乘方，再算乘除，最后算加减\n2. 有括号的先算括号内的\n3. 能利用乘法公式的要先用公式简化...\n解析：本题考察对二次根式的混合运算的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用二次根式的混合运算的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_006_ex07",
     "knowledge_id": "g2_math_006",
-    "question": "解答题：举例说明二次根式的混合运算在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：二次根式的混合运算的实际应用场景。"
+    "question": "简答题：二次根式的混合运算有哪些主要性质？",
+    "answer": "答案：二次根式混合运算顺序：；先算乘方，再算乘除，最后算加减；有括号的先算括号内的。\n解析：这些是二次根式的混合运算的重要性质。"
   },
   {
     "id": "g2_math_006_ex08",
     "knowledge_id": "g2_math_006",
-    "question": "计算题：已知相关条件，利用二次根式的混合运算的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "选择题：下列生活实例中，可以用二次根式的混合运算知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：二次根式的混合运算在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_006_ex09",
     "knowledge_id": "g2_math_006",
-    "question": "综合题：结合二次根式的混合运算和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "综合题：结合所学知识，谈谈二次根式的混合运算在数学中的地位和作用。",
+    "answer": "答案：二次根式的混合运算是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_006_ex10",
     "knowledge_id": "g2_math_006",
-    "question": "综合题：分析二次根式的混合运算与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：二次根式混合运算顺序：...，这体现了二次根式的混合运算的______。",
+    "answer": "答案：重要性质/特点\n解析：这是二次根式的混合运算的重要内容。"
   },
   {
     "id": "g2_math_007_ex01",
     "knowledge_id": "g2_math_007",
-    "question": "选择题：下列关于\"分母有理化\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据分母有理化的定义和性质分析各选项。"
+    "question": "选择题：下列关于分母有理化的说法，正确的是（  ）\nA. 完全错误的说法\nB. 分母有理化：把分母中的根号化去，使分母变为有理数。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：分母有理化：把分母中的根号化去，使分母变为有理数。"
   },
   {
     "id": "g2_math_007_ex02",
     "knowledge_id": "g2_math_007",
-    "question": "选择题：下列情形中，能应用\"分母有理化\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：分母有理化适用于描述的场景。"
+    "question": "填空题：分母有理化的公式是：______。",
+    "answer": "答案：1/√a = √a/a (a > 0)\n解析：这是分母有理化的基本公式。"
   },
   {
     "id": "g2_math_007_ex03",
     "knowledge_id": "g2_math_007",
-    "question": "填空题：分母有理化的计算公式是______。",
-    "answer": "答案：1/√a = √a/a (a > 0)\n1/(√a ± √b) = (√a ∓ √b)/(a - b)\n解析：这是分母有理化的核心公式。"
+    "question": "判断题：方法：。（  ）",
+    "answer": "答案：正确\n解析：方法："
   },
   {
     "id": "g2_math_007_ex04",
     "knowledge_id": "g2_math_007",
-    "question": "判断题：分母有理化的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 分母有理化：把分母中的根号化去，使分母变为有理数。\nB. 方法：\nC. 明显错误的说法（与定义相反）\nD. 分子分母同乘以分母的有理化因式",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_007_ex05",
     "knowledge_id": "g2_math_007",
-    "question": "判断题：分母有理化的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：分母有理化成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意分母有理化的前提条件。"
   },
   {
     "id": "g2_math_007_ex06",
     "knowledge_id": "g2_math_007",
-    "question": "解答题：请简述分母有理化的定义和主要内容。",
-    "answer": "答案：分母有理化：把分母中的根号化去，使分母变为有理数。\n\n方法：\n1. 分子分母同乘以分母的有理化因式\n2. 如 1/√3，分子分母同乘以√3，得到 √3/3...\n解析：本题考察对分母有理化的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用分母有理化的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_007_ex07",
     "knowledge_id": "g2_math_007",
-    "question": "解答题：举例说明分母有理化在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：分母有理化的实际应用场景。"
+    "question": "简答题：分母有理化有哪些主要性质？",
+    "answer": "答案：分母有理化：把分母中的根号化去，使分母变为有理数。；方法：；分子分母同乘以分母的有理化因式。\n解析：这些是分母有理化的重要性质。"
   },
   {
     "id": "g2_math_007_ex08",
     "knowledge_id": "g2_math_007",
-    "question": "计算题：已知相关条件，利用分母有理化的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "选择题：下列生活实例中，可以用分母有理化知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：分母有理化在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_007_ex09",
     "knowledge_id": "g2_math_007",
-    "question": "综合题：结合分母有理化和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "综合题：结合所学知识，谈谈分母有理化在数学中的地位和作用。",
+    "answer": "答案：分母有理化是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_007_ex10",
     "knowledge_id": "g2_math_007",
-    "question": "综合题：分析分母有理化与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：分母有理化：把分母中的根号化去，使分母变...，这体现了分母有理化的______。",
+    "answer": "答案：重要性质/特点\n解析：这是分母有理化的重要内容。"
+  },
+  {
+    "id": "g2_math_008_ex01",
+    "knowledge_id": "g2_math_008",
+    "question": "选择题：下列关于勾股定理的说法，正确的是（  ）\nA. 完全错误的说法\nB. 勾股定理：直角三角形两条直角边的平方和等于斜边的平方。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：勾股定理：直角三角形两条直角边的平方和等于斜边的平方。"
+  },
+  {
+    "id": "g2_math_008_ex02",
+    "knowledge_id": "g2_math_008",
+    "question": "填空题：勾股定理的公式是：______。",
+    "answer": "答案：a² + b² = c²\n解析：这是勾股定理的基本公式。"
+  },
+  {
+    "id": "g2_math_008_ex03",
+    "knowledge_id": "g2_math_008",
+    "question": "判断题：其中：。（  ）",
+    "answer": "答案：正确\n解析：其中："
+  },
+  {
+    "id": "g2_math_008_ex04",
+    "knowledge_id": "g2_math_008",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 勾股定理：直角三角形两条直角边的平方和等于斜边的平方。\nB. 其中：\nC. 明显错误的说法（与定义相反）\nD. 应用：",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_008_ex05",
+    "knowledge_id": "g2_math_008",
+    "question": "填空题：勾股定理成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意勾股定理的前提条件。"
+  },
+  {
+    "id": "g2_math_008_ex06",
+    "knowledge_id": "g2_math_008",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用勾股定理的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_008_ex07",
+    "knowledge_id": "g2_math_008",
+    "question": "简答题：勾股定理有哪些主要性质？",
+    "answer": "答案：勾股定理：直角三角形两条直角边的平方和等于斜边的平方。；其中：；应用：。\n解析：这些是勾股定理的重要性质。"
+  },
+  {
+    "id": "g2_math_008_ex08",
+    "knowledge_id": "g2_math_008",
+    "question": "选择题：下列生活实例中，可以用勾股定理知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：勾股定理在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_008_ex09",
+    "knowledge_id": "g2_math_008",
+    "question": "综合题：结合所学知识，谈谈勾股定理在数学中的地位和作用。",
+    "answer": "答案：勾股定理是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_008_ex10",
+    "knowledge_id": "g2_math_008",
+    "question": "填空题：勾股定理：直角三角形两条直角边的平方和等...，这体现了勾股定理的______。",
+    "answer": "答案：重要性质/特点\n解析：这是勾股定理的重要内容。"
+  },
+  {
+    "id": "g2_math_009_ex01",
+    "knowledge_id": "g2_math_009",
+    "question": "选择题：下列关于勾股定理的逆定理的说法，正确的是（  ）\nA. 完全错误的说法\nB. 勾股定理的逆定理：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：勾股定理的逆定理："
+  },
+  {
+    "id": "g2_math_009_ex02",
+    "knowledge_id": "g2_math_009",
+    "question": "填空题：勾股定理的逆定理的公式是：______。",
+    "answer": "答案：若 a² + b² = c²，则△ABC是直角三角形\n解析：这是勾股定理的逆定理的基本公式。"
+  },
+  {
+    "id": "g2_math_009_ex03",
+    "knowledge_id": "g2_math_009",
+    "question": "判断题：应用：。（  ）",
+    "answer": "答案：正确\n解析：应用："
+  },
+  {
+    "id": "g2_math_009_ex04",
+    "knowledge_id": "g2_math_009",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 勾股定理的逆定理：\nB. 应用：\nC. 明显错误的说法（与定义相反）\nD. 例如：边长为 3, 4, 5 的三角形是直角三角形。",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_009_ex05",
+    "knowledge_id": "g2_math_009",
+    "question": "填空题：勾股定理的逆定理成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意勾股定理的逆定理的前提条件。"
+  },
+  {
+    "id": "g2_math_009_ex06",
+    "knowledge_id": "g2_math_009",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用勾股定理的逆定理的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_009_ex07",
+    "knowledge_id": "g2_math_009",
+    "question": "简答题：勾股定理的逆定理有哪些主要性质？",
+    "answer": "答案：勾股定理的逆定理：；应用：；例如：边长为 3, 4, 5 的三角形是直角三角形。。\n解析：这些是勾股定理的逆定理的重要性质。"
+  },
+  {
+    "id": "g2_math_009_ex08",
+    "knowledge_id": "g2_math_009",
+    "question": "选择题：下列生活实例中，可以用勾股定理的逆定理知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：勾股定理的逆定理在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_009_ex09",
+    "knowledge_id": "g2_math_009",
+    "question": "综合题：结合所学知识，谈谈勾股定理的逆定理在数学中的地位和作用。",
+    "answer": "答案：勾股定理的逆定理是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_009_ex10",
+    "knowledge_id": "g2_math_009",
+    "question": "填空题：勾股定理的逆定理：...，这体现了勾股定理的逆定理的______。",
+    "answer": "答案：重要性质/特点\n解析：这是勾股定理的逆定理的重要内容。"
+  },
+  {
+    "id": "g2_math_010_ex01",
+    "knowledge_id": "g2_math_010",
+    "question": "选择题：下列关于勾股定理的应用的说法，正确的是（  ）\nA. 完全错误的说法\nB. 勾股定理在实际问题中的应用：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：勾股定理在实际问题中的应用："
+  },
+  {
+    "id": "g2_math_010_ex02",
+    "knowledge_id": "g2_math_010",
+    "question": "填空题：勾股定理的应用的公式是：______。",
+    "answer": "答案：a² + b² = c²\n解析：这是勾股定理的应用的基本公式。"
+  },
+  {
+    "id": "g2_math_010_ex03",
+    "knowledge_id": "g2_math_010",
+    "question": "判断题：测量问题：测量不易直接测量的距离。（  ）",
+    "answer": "答案：正确\n解析：测量问题：测量不易直接测量的距离"
+  },
+  {
+    "id": "g2_math_010_ex04",
+    "knowledge_id": "g2_math_010",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 勾股定理在实际问题中的应用：\nB. 测量问题：测量不易直接测量的距离\nC. 明显错误的说法（与定义相反）\nD. 最短路径问题：在长方形表面求两点间的最短距离",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_010_ex05",
+    "knowledge_id": "g2_math_010",
+    "question": "填空题：勾股定理的应用成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意勾股定理的应用的前提条件。"
+  },
+  {
+    "id": "g2_math_010_ex06",
+    "knowledge_id": "g2_math_010",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用勾股定理的应用的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_010_ex07",
+    "knowledge_id": "g2_math_010",
+    "question": "简答题：勾股定理的应用有哪些主要性质？",
+    "answer": "答案：勾股定理在实际问题中的应用：；测量问题：测量不易直接测量的距离；最短路径问题：在长方形表面求两点间的最短距离。\n解析：这些是勾股定理的应用的重要性质。"
+  },
+  {
+    "id": "g2_math_010_ex08",
+    "knowledge_id": "g2_math_010",
+    "question": "选择题：下列生活实例中，可以用勾股定理的应用知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：勾股定理的应用在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_010_ex09",
+    "knowledge_id": "g2_math_010",
+    "question": "综合题：结合所学知识，谈谈勾股定理的应用在数学中的地位和作用。",
+    "answer": "答案：勾股定理的应用是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_010_ex10",
+    "knowledge_id": "g2_math_010",
+    "question": "填空题：勾股定理在实际问题中的应用：...，这体现了勾股定理的应用的______。",
+    "answer": "答案：重要性质/特点\n解析：这是勾股定理的应用的重要内容。"
   },
   {
     "id": "g2_math_011_ex01",
     "knowledge_id": "g2_math_011",
-    "question": "选择题：下列关于\"平行四边形的定义与性质\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据平行四边形的定义与性质的定义和性质分析各选项。"
+    "question": "选择题：下列关于平行四边形的定义与性质的说法，正确的是（  ）\nA. 完全错误的说法\nB. 平行四边形定义：两组对边分别平行的四边形叫做平行四边形。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：平行四边形定义：两组对边分别平行的四边形叫做平行四边形。"
   },
   {
     "id": "g2_math_011_ex02",
     "knowledge_id": "g2_math_011",
-    "question": "选择题：下列情形中，能应用\"平行四边形的定义与性质\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：平行四边形的定义与性质适用于描述的场景。"
+    "question": "填空题：平行四边形的定义与性质的公式是：______。",
+    "answer": "答案：对边平行且相等；对角相等；对角线互相平分\n解析：这是平行四边形的定义与性质的基本公式。"
   },
   {
     "id": "g2_math_011_ex03",
     "knowledge_id": "g2_math_011",
-    "question": "填空题：平行四边形的定义与性质的计算公式是______。",
-    "answer": "答案：对边平行且相等；对角相等；对角线互相平分\n解析：这是平行四边形的定义与性质的核心公式。"
+    "question": "判断题：性质：。（  ）",
+    "answer": "答案：正确\n解析：性质："
   },
   {
     "id": "g2_math_011_ex04",
     "knowledge_id": "g2_math_011",
-    "question": "判断题：平行四边形的定义与性质的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 平行四边形定义：两组对边分别平行的四边形叫做平行四边形。\nB. 性质：\nC. 明显错误的说法（与定义相反）\nD. 对边平行且相等",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_011_ex05",
     "knowledge_id": "g2_math_011",
-    "question": "判断题：平行四边形的定义与性质的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：平行四边形的定义与性质成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意平行四边形的定义与性质的前提条件。"
   },
   {
     "id": "g2_math_011_ex06",
     "knowledge_id": "g2_math_011",
-    "question": "解答题：请简述平行四边形的定义与性质的定义和主要内容。",
-    "answer": "答案：平行四边形定义：两组对边分别平行的四边形叫做平行四边形。\n\n性质：\n1. 对边平行且相等\n2. 对角相等\n3. 相邻内角互补\n4. 对角线互相平分...\n解析：本题考察对平行四边形的定义与性质的理解。"
+    "question": "简答题：平行四边形的定义与性质有哪些主要性质？",
+    "answer": "答案：平行四边形定义：两组对边分别平行的四边形叫做平行四边形。；性质：；对边平行且相等。\n解析：这些是平行四边形的定义与性质的重要性质。"
   },
   {
     "id": "g2_math_011_ex07",
     "knowledge_id": "g2_math_011",
-    "question": "解答题：举例说明平行四边形的定义与性质在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：平行四边形的定义与性质的实际应用场景。"
+    "question": "选择题：下列生活实例中，可以用平行四边形的定义与性质知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：平行四边形的定义与性质在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_011_ex08",
     "knowledge_id": "g2_math_011",
-    "question": "计算题：已知相关条件，利用平行四边形的定义与性质的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "综合题：结合所学知识，谈谈平行四边形的定义与性质在数学中的地位和作用。",
+    "answer": "答案：平行四边形的定义与性质是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_011_ex09",
     "knowledge_id": "g2_math_011",
-    "question": "综合题：结合平行四边形的定义与性质和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "填空题：平行四边形定义：两组对边分别平行的四边形...，这体现了平行四边形的定义与性质的______。",
+    "answer": "答案：重要性质/特点\n解析：这是平行四边形的定义与性质的重要内容。"
   },
   {
     "id": "g2_math_011_ex10",
     "knowledge_id": "g2_math_011",
-    "question": "综合题：分析平行四边形的定义与性质与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：性质：...，这体现了平行四边形的定义与性质的______。",
+    "answer": "答案：重要性质/特点\n解析：这是平行四边形的定义与性质的重要内容。"
   },
   {
     "id": "g2_math_012_ex01",
     "knowledge_id": "g2_math_012",
-    "question": "选择题：下列关于\"矩形的性质与判定\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据矩形的性质与判定的定义和性质分析各选项。"
+    "question": "选择题：下列关于矩形的性质与判定的说法，正确的是（  ）\nA. 完全错误的说法\nB. 矩形：有一个角是直角的平行四边形叫做矩形。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：矩形：有一个角是直角的平行四边形叫做矩形。"
   },
   {
     "id": "g2_math_012_ex02",
     "knowledge_id": "g2_math_012",
-    "question": "选择题：下列情形中，能应用\"矩形的性质与判定\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：矩形的性质与判定适用于描述的场景。"
+    "question": "填空题：矩形的性质与判定的公式是：______。",
+    "answer": "答案：对角线相等且互相平分；四个角都是直角\n解析：这是矩形的性质与判定的基本公式。"
   },
   {
     "id": "g2_math_012_ex03",
     "knowledge_id": "g2_math_012",
-    "question": "填空题：矩形的性质与判定的计算公式是______。",
-    "answer": "答案：对角线相等且互相平分；四个角都是直角\n解析：这是矩形的性质与判定的核心公式。"
+    "question": "判断题：性质：。（  ）",
+    "answer": "答案：正确\n解析：性质："
   },
   {
     "id": "g2_math_012_ex04",
     "knowledge_id": "g2_math_012",
-    "question": "判断题：矩形的性质与判定的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 矩形：有一个角是直角的平行四边形叫做矩形。\nB. 性质：\nC. 明显错误的说法（与定义相反）\nD. 具有平行四边形的所有性质",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_012_ex05",
     "knowledge_id": "g2_math_012",
-    "question": "判断题：矩形的性质与判定的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：矩形的性质与判定成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意矩形的性质与判定的前提条件。"
   },
   {
     "id": "g2_math_012_ex06",
     "knowledge_id": "g2_math_012",
-    "question": "解答题：请简述矩形的性质与判定的定义和主要内容。",
-    "answer": "答案：矩形：有一个角是直角的平行四边形叫做矩形。\n\n性质：\n1. 具有平行四边形的所有性质\n2. 四个角都是直角\n3. 对角线相等且互相平分...\n解析：本题考察对矩形的性质与判定的理解。"
+    "question": "简答题：矩形的性质与判定有哪些主要性质？",
+    "answer": "答案：矩形：有一个角是直角的平行四边形叫做矩形。；性质：；具有平行四边形的所有性质。\n解析：这些是矩形的性质与判定的重要性质。"
   },
   {
     "id": "g2_math_012_ex07",
     "knowledge_id": "g2_math_012",
-    "question": "解答题：举例说明矩形的性质与判定在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：矩形的性质与判定的实际应用场景。"
+    "question": "选择题：下列生活实例中，可以用矩形的性质与判定知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：矩形的性质与判定在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_012_ex08",
     "knowledge_id": "g2_math_012",
-    "question": "计算题：已知相关条件，利用矩形的性质与判定的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "综合题：结合所学知识，谈谈矩形的性质与判定在数学中的地位和作用。",
+    "answer": "答案：矩形的性质与判定是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_012_ex09",
     "knowledge_id": "g2_math_012",
-    "question": "综合题：结合矩形的性质与判定和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "填空题：矩形：有一个角是直角的平行四边形叫做矩形...，这体现了矩形与判定的______。",
+    "answer": "答案：重要性质/特点\n解析：这是矩形的性质与判定的重要内容。"
   },
   {
     "id": "g2_math_012_ex10",
     "knowledge_id": "g2_math_012",
-    "question": "综合题：分析矩形的性质与判定与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：性质：...，这体现了矩形与判定的______。",
+    "answer": "答案：重要性质/特点\n解析：这是矩形的性质与判定的重要内容。"
   },
   {
     "id": "g2_math_013_ex01",
     "knowledge_id": "g2_math_013",
-    "question": "选择题：下列关于\"菱形的性质与判定\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据菱形的性质与判定的定义和性质分析各选项。"
+    "question": "选择题：下列关于菱形的性质与判定的说法，正确的是（  ）\nA. 完全错误的说法\nB. 菱形：有一组邻边相等的平行四边形叫做菱形。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：菱形：有一组邻边相等的平行四边形叫做菱形。"
   },
   {
     "id": "g2_math_013_ex02",
     "knowledge_id": "g2_math_013",
-    "question": "选择题：下列情形中，能应用\"菱形的性质与判定\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：菱形的性质与判定适用于描述的场景。"
+    "question": "填空题：菱形的性质与判定的公式是：______。",
+    "answer": "答案：对角线互相垂直平分；四条边都相等\n解析：这是菱形的性质与判定的基本公式。"
   },
   {
     "id": "g2_math_013_ex03",
     "knowledge_id": "g2_math_013",
-    "question": "填空题：菱形的性质与判定的计算公式是______。",
-    "answer": "答案：对角线互相垂直平分；四条边都相等\n解析：这是菱形的性质与判定的核心公式。"
+    "question": "判断题：性质：。（  ）",
+    "answer": "答案：正确\n解析：性质："
   },
   {
     "id": "g2_math_013_ex04",
     "knowledge_id": "g2_math_013",
-    "question": "判断题：菱形的性质与判定的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 菱形：有一组邻边相等的平行四边形叫做菱形。\nB. 性质：\nC. 明显错误的说法（与定义相反）\nD. 具有平行四边形的所有性质",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_013_ex05",
     "knowledge_id": "g2_math_013",
-    "question": "判断题：菱形的性质与判定的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：菱形的性质与判定成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意菱形的性质与判定的前提条件。"
   },
   {
     "id": "g2_math_013_ex06",
     "knowledge_id": "g2_math_013",
-    "question": "解答题：请简述菱形的性质与判定的定义和主要内容。",
-    "answer": "答案：菱形：有一组邻边相等的平行四边形叫做菱形。\n\n性质：\n1. 具有平行四边形的所有性质\n2. 四条边都相等\n3. 对角线互相垂直平分...\n解析：本题考察对菱形的性质与判定的理解。"
+    "question": "简答题：菱形的性质与判定有哪些主要性质？",
+    "answer": "答案：菱形：有一组邻边相等的平行四边形叫做菱形。；性质：；具有平行四边形的所有性质。\n解析：这些是菱形的性质与判定的重要性质。"
   },
   {
     "id": "g2_math_013_ex07",
     "knowledge_id": "g2_math_013",
-    "question": "解答题：举例说明菱形的性质与判定在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：菱形的性质与判定的实际应用场景。"
+    "question": "选择题：下列生活实例中，可以用菱形的性质与判定知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：菱形的性质与判定在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_013_ex08",
     "knowledge_id": "g2_math_013",
-    "question": "计算题：已知相关条件，利用菱形的性质与判定的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "综合题：结合所学知识，谈谈菱形的性质与判定在数学中的地位和作用。",
+    "answer": "答案：菱形的性质与判定是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_013_ex09",
     "knowledge_id": "g2_math_013",
-    "question": "综合题：结合菱形的性质与判定和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "填空题：菱形：有一组邻边相等的平行四边形叫做菱形...，这体现了菱形与判定的______。",
+    "answer": "答案：重要性质/特点\n解析：这是菱形的性质与判定的重要内容。"
   },
   {
     "id": "g2_math_013_ex10",
     "knowledge_id": "g2_math_013",
-    "question": "综合题：分析菱形的性质与判定与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：性质：...，这体现了菱形与判定的______。",
+    "answer": "答案：重要性质/特点\n解析：这是菱形的性质与判定的重要内容。"
   },
   {
     "id": "g2_math_014_ex01",
     "knowledge_id": "g2_math_014",
-    "question": "选择题：下列关于\"正方形的性质与判定\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据正方形的性质与判定的定义和性质分析各选项。"
+    "question": "选择题：下列关于正方形的性质与判定的说法，正确的是（  ）\nA. 完全错误的说法\nB. 正方形：有一组邻边相等并且有一个角是直角的平行四边形叫做正方形。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：正方形：有一组邻边相等并且有一个角是直角的平行四边形叫做正方形。"
   },
   {
     "id": "g2_math_014_ex02",
     "knowledge_id": "g2_math_014",
-    "question": "选择题：下列情形中，能应用\"正方形的性质与判定\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：正方形的性质与判定适用于描述的场景。"
+    "question": "填空题：正方形的性质与判定的公式是：______。",
+    "answer": "答案：对角线相等且互相垂直平分；四条边都相等；四个角都是直角\n解析：这是正方形的性质与判定的基本公式。"
   },
   {
     "id": "g2_math_014_ex03",
     "knowledge_id": "g2_math_014",
-    "question": "填空题：正方形的性质与判定的计算公式是______。",
-    "answer": "答案：对角线相等且互相垂直平分；四条边都相等；四个角都是直角\n解析：这是正方形的性质与判定的核心公式。"
+    "question": "判断题：性质：。（  ）",
+    "answer": "答案：正确\n解析：性质："
   },
   {
     "id": "g2_math_014_ex04",
     "knowledge_id": "g2_math_014",
-    "question": "判断题：正方形的性质与判定的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 正方形：有一组邻边相等并且有一个角是直角的平行四边形叫做正方\nB. 性质：\nC. 明显错误的说法（与定义相反）\nD. 具有矩形和菱形的所有性质",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_014_ex05",
     "knowledge_id": "g2_math_014",
-    "question": "判断题：正方形的性质与判定的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：正方形的性质与判定成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意正方形的性质与判定的前提条件。"
   },
   {
     "id": "g2_math_014_ex06",
     "knowledge_id": "g2_math_014",
-    "question": "解答题：请简述正方形的性质与判定的定义和主要内容。",
-    "answer": "答案：正方形：有一组邻边相等并且有一个角是直角的平行四边形叫做正方形。\n\n性质：\n1. 具有矩形和菱形的所有性质\n2. 四条边都相等\n3. 四个角都是直角...\n解析：本题考察对正方形的性质与判定的理解。"
+    "question": "简答题：正方形的性质与判定有哪些主要性质？",
+    "answer": "答案：正方形：有一组邻边相等并且有一个角是直角的平行四边形叫做正方形。；性质：；具有矩形和菱形的所有性质。\n解析：这些是正方形的性质与判定的重要性质。"
   },
   {
     "id": "g2_math_014_ex07",
     "knowledge_id": "g2_math_014",
-    "question": "解答题：举例说明正方形的性质与判定在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：正方形的性质与判定的实际应用场景。"
+    "question": "选择题：下列生活实例中，可以用正方形的性质与判定知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：正方形的性质与判定在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_014_ex08",
     "knowledge_id": "g2_math_014",
-    "question": "计算题：已知相关条件，利用正方形的性质与判定的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "综合题：结合所学知识，谈谈正方形的性质与判定在数学中的地位和作用。",
+    "answer": "答案：正方形的性质与判定是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_014_ex09",
     "knowledge_id": "g2_math_014",
-    "question": "综合题：结合正方形的性质与判定和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "填空题：正方形：有一组邻边相等并且有一个角是直角...，这体现了正方形与判定的______。",
+    "answer": "答案：重要性质/特点\n解析：这是正方形的性质与判定的重要内容。"
   },
   {
     "id": "g2_math_014_ex10",
     "knowledge_id": "g2_math_014",
-    "question": "综合题：分析正方形的性质与判定与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：性质：...，这体现了正方形与判定的______。",
+    "answer": "答案：重要性质/特点\n解析：这是正方形的性质与判定的重要内容。"
   },
   {
     "id": "g2_math_015_ex01",
     "knowledge_id": "g2_math_015",
-    "question": "选择题：下列关于\"三角形中位线\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据三角形中位线的定义和性质分析各选项。"
+    "question": "选择题：下列关于三角形的中位线的说法，正确的是（  ）\nA. 完全错误的说法\nB. 三角形中位线：连接三角形两边中点的线段叫做三角形的中位线。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：三角形中位线：连接三角形两边中点的线段叫做三角形的中位线。"
   },
   {
     "id": "g2_math_015_ex02",
     "knowledge_id": "g2_math_015",
-    "question": "选择题：下列情形中，能应用\"三角形中位线\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：三角形中位线适用于描述的场景。"
+    "question": "填空题：三角形的中位线的公式是：______。",
+    "answer": "答案：中位线 = (1/2) × 第三边\n解析：这是三角形的中位线的基本公式。"
   },
   {
     "id": "g2_math_015_ex03",
     "knowledge_id": "g2_math_015",
-    "question": "填空题：三角形中位线的计算公式是______。",
-    "answer": "答案：三角形的中位线平行于第三边，且等于第三边的一半\n解析：这是三角形中位线的核心公式。"
+    "question": "判断题：定理：三角形的中位线平行于第三边，且等于第三边的一半。。（  ）",
+    "answer": "答案：正确\n解析：定理：三角形的中位线平行于第三边，且等于第三边的一半。"
   },
   {
     "id": "g2_math_015_ex04",
     "knowledge_id": "g2_math_015",
-    "question": "判断题：三角形中位线的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 三角形中位线：连接三角形两边中点的线段叫做三角形的中位线。\nB. 定理：三角形的中位线平行于第三边，且等于第三边的一半。\nC. 明显错误的说法（与定义相反）\nD. 应用：",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_015_ex05",
     "knowledge_id": "g2_math_015",
-    "question": "判断题：三角形中位线的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：三角形的中位线成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意三角形的中位线的前提条件。"
   },
   {
     "id": "g2_math_015_ex06",
     "knowledge_id": "g2_math_015",
-    "question": "解答题：请简述三角形中位线的定义和主要内容。",
-    "answer": "答案：三角形中位线：连接三角形两边中点的线段叫做三角形的中位线。\n\n性质：\n1. 中位线平行于第三边\n2. 中位线等于第三边的一半...\n解析：本题考察对三角形中位线的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用三角形的中位线的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_015_ex07",
     "knowledge_id": "g2_math_015",
-    "question": "解答题：举例说明三角形中位线在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：三角形中位线的实际应用场景。"
+    "question": "简答题：三角形的中位线有哪些主要性质？",
+    "answer": "答案：三角形中位线：连接三角形两边中点的线段叫做三角形的中位线。；定理：三角形的中位线平行于第三边，且等于第三边的一半。；应用：。\n解析：这些是三角形的中位线的重要性质。"
   },
   {
     "id": "g2_math_015_ex08",
     "knowledge_id": "g2_math_015",
-    "question": "计算题：已知相关条件，利用三角形中位线的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "判断题：注意：中位线与中线不同。。（  ）",
+    "answer": "答案：正确\n解析：注意：中位线与中线不同。"
   },
   {
     "id": "g2_math_015_ex09",
     "knowledge_id": "g2_math_015",
-    "question": "综合题：结合三角形中位线和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "选择题：下列生活实例中，可以用三角形的中位线知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：三角形的中位线在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_015_ex10",
     "knowledge_id": "g2_math_015",
-    "question": "综合题：分析三角形中位线与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "综合题：结合所学知识，谈谈三角形的中位线在数学中的地位和作用。",
+    "answer": "答案：三角形的中位线是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_016_ex01",
     "knowledge_id": "g2_math_016",
-    "question": "选择题：下列关于\"变量与函数\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据变量与函数的定义和性质分析各选项。"
+    "question": "选择题：下列关于变量与函数的说法，正确的是（  ）\nA. 完全错误的说法\nB. 变量与函数：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：变量与函数："
   },
   {
     "id": "g2_math_016_ex02",
     "knowledge_id": "g2_math_016",
-    "question": "选择题：下列情形中，能应用\"变量与函数\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：变量与函数适用于描述的场景。"
+    "question": "填空题：变量与函数的公式是：______。",
+    "answer": "答案：y = f(x)\n解析：这是变量与函数的基本公式。"
   },
   {
     "id": "g2_math_016_ex03",
     "knowledge_id": "g2_math_016",
-    "question": "填空题：变量与函数的计算公式是______。",
-    "answer": "答案：y = f(x)\n解析：这是变量与函数的核心公式。"
+    "question": "判断题：变量：在一个变化过程中，可以取不同数值的量叫做变量，数值保持不变的量叫做常量。。（  ）",
+    "answer": "答案：正确\n解析：变量：在一个变化过程中，可以取不同数值的量叫做变量，数值保持不变的量叫做常量。"
   },
   {
     "id": "g2_math_016_ex04",
     "knowledge_id": "g2_math_016",
-    "question": "判断题：变量与函数的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 变量与函数：\nB. 变量：在一个变化过程中，可以取不同数值的量叫做变量，数值保持\nC. 明显错误的说法（与定义相反）\nD. 函数：一般地，在一个变化过程中，如果有两个变量 x 与 y，",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_016_ex05",
     "knowledge_id": "g2_math_016",
-    "question": "判断题：变量与函数的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：变量与函数成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意变量与函数的前提条件。"
   },
   {
     "id": "g2_math_016_ex06",
     "knowledge_id": "g2_math_016",
-    "question": "解答题：请简述变量与函数的定义和主要内容。",
-    "answer": "答案：变量：在一个变化过程中，数值发生变化的量称为变量。\n\n常量：数值始终不变的量称为常量。\n\n函数：在一个变化过程中，如果有两个变量 x 和 y，并且对于 x 的每一个确定的值，y 都有唯一确定的值与其对...\n解析：本题考察对变量与函数的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用变量与函数的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_016_ex07",
     "knowledge_id": "g2_math_016",
-    "question": "解答题：举例说明变量与函数在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：变量与函数的实际应用场景。"
+    "question": "简答题：变量与函数有哪些主要性质？",
+    "answer": "答案：变量与函数：；变量：在一个变化过程中，可以取不同数值的量叫做变量，数值保持不变的量叫做常量。；函数：一般地，在一个变化过程中，如果有两个变量 x 与 y，并且对于 x 的每一个确定的值，y 都有唯一确定的值与其对应，那么就说 x 是自变量，y 是 x 的函数。。\n解析：这些是变量与函数的重要性质。"
   },
   {
     "id": "g2_math_016_ex08",
     "knowledge_id": "g2_math_016",
-    "question": "计算题：已知相关条件，利用变量与函数的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "选择题：下列生活实例中，可以用变量与函数知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：变量与函数在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_016_ex09",
     "knowledge_id": "g2_math_016",
-    "question": "综合题：结合变量与函数和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "综合题：结合所学知识，谈谈变量与函数在数学中的地位和作用。",
+    "answer": "答案：变量与函数是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_016_ex10",
     "knowledge_id": "g2_math_016",
-    "question": "综合题：分析变量与函数与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：变量与函数：...，这体现了变量与函数的______。",
+    "answer": "答案：重要性质/特点\n解析：这是变量与函数的重要内容。"
   },
   {
     "id": "g2_math_017_ex01",
     "knowledge_id": "g2_math_017",
-    "question": "选择题：下列关于\"正比例函数\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据正比例函数的定义和性质分析各选项。"
+    "question": "选择题：下列关于函数的图象的说法，正确的是（  ）\nA. 完全错误的说法\nB. 函数图象：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：函数图象："
   },
   {
     "id": "g2_math_017_ex02",
     "knowledge_id": "g2_math_017",
-    "question": "选择题：下列情形中，能应用\"正比例函数\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：正比例函数适用于描述的场景。"
+    "question": "填空题：函数的图象的公式是：______。",
+    "answer": "答案：平面直角坐标系中的点 (x, y)\n解析：这是函数的图象的基本公式。"
   },
   {
     "id": "g2_math_017_ex03",
     "knowledge_id": "g2_math_017",
-    "question": "填空题：正比例函数的计算公式是______。",
-    "answer": "答案：y = kx (k ≠ 0)\n解析：这是正比例函数的核心公式。"
+    "question": "判断题：图象的作用：。（  ）",
+    "answer": "答案：正确\n解析：图象的作用："
   },
   {
     "id": "g2_math_017_ex04",
     "knowledge_id": "g2_math_017",
-    "question": "判断题：正比例函数的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 函数图象：\nB. 图象的作用：\nC. 明显错误的说法（与定义相反）\nD. 直观地表示函数的变化情况",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_017_ex05",
     "knowledge_id": "g2_math_017",
-    "question": "判断题：正比例函数的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：函数的图象成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意函数的图象的前提条件。"
   },
   {
     "id": "g2_math_017_ex06",
     "knowledge_id": "g2_math_017",
-    "question": "解答题：请简述正比例函数的定义和主要内容。",
-    "answer": "答案：正比例函数：形如 y = kx（k 是常数，k ≠ 0）的函数叫做正比例函数。\n\n图象：经过原点的一条直线。\n\n性质：\n1. 当 k > 0 时，y 随 x 的增大而增大\n2. 当 k < 0 时，y...\n解析：本题考察对正比例函数的理解。"
+    "question": "简答题：函数的图象有哪些主要性质？",
+    "answer": "答案：函数图象：；图象的作用：；直观地表示函数的变化情况。\n解析：这些是函数的图象的重要性质。"
   },
   {
     "id": "g2_math_017_ex07",
     "knowledge_id": "g2_math_017",
-    "question": "解答题：举例说明正比例函数在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：正比例函数的实际应用场景。"
+    "question": "选择题：下列生活实例中，可以用函数的图象知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：函数的图象在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_017_ex08",
     "knowledge_id": "g2_math_017",
-    "question": "计算题：已知相关条件，利用正比例函数的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "综合题：结合所学知识，谈谈函数的图象在数学中的地位和作用。",
+    "answer": "答案：函数的图象是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_017_ex09",
     "knowledge_id": "g2_math_017",
-    "question": "综合题：结合正比例函数和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "填空题：函数图象：...，这体现了函数的图象的______。",
+    "answer": "答案：重要性质/特点\n解析：这是函数的图象的重要内容。"
   },
   {
     "id": "g2_math_017_ex10",
     "knowledge_id": "g2_math_017",
-    "question": "综合题：分析正比例函数与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：图象的作用：...，这体现了函数的图象的______。",
+    "answer": "答案：重要性质/特点\n解析：这是函数的图象的重要内容。"
   },
   {
     "id": "g2_math_018_ex01",
     "knowledge_id": "g2_math_018",
-    "question": "选择题：下列关于\"一次函数\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据一次函数的定义和性质分析各选项。"
+    "question": "选择题：下列关于正比例函数的说法，正确的是（  ）\nA. 完全错误的说法\nB. 正比例函数：形如 y = kx (k 是常数，k ≠ 0) 的函数叫做正比例函数\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：正比例函数：形如 y = kx (k 是常数，k ≠ 0) 的函数叫做正比例函数。"
   },
   {
     "id": "g2_math_018_ex02",
     "knowledge_id": "g2_math_018",
-    "question": "选择题：下列情形中，能应用\"一次函数\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：一次函数适用于描述的场景。"
+    "question": "填空题：正比例函数的公式是：______。",
+    "answer": "答案：y = kx (k ≠ 0)\n解析：这是正比例函数的基本公式。"
   },
   {
     "id": "g2_math_018_ex03",
     "knowledge_id": "g2_math_018",
-    "question": "填空题：一次函数的计算公式是______。",
-    "answer": "答案：y = kx + b (k ≠ 0)\n解析：这是一次函数的核心公式。"
+    "question": "判断题：性质：。（  ）",
+    "answer": "答案：正确\n解析：性质："
   },
   {
     "id": "g2_math_018_ex04",
     "knowledge_id": "g2_math_018",
-    "question": "判断题：一次函数的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 正比例函数：形如 y = kx (k 是常数，k ≠ 0) \nB. 性质：\nC. 明显错误的说法（与定义相反）\nD. 图象是经过原点 (0, 0) 和点 (1, k) 的一条直线",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_018_ex05",
     "knowledge_id": "g2_math_018",
-    "question": "判断题：一次函数的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：正比例函数成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意正比例函数的前提条件。"
   },
   {
     "id": "g2_math_018_ex06",
     "knowledge_id": "g2_math_018",
-    "question": "解答题：请简述一次函数的定义和主要内容。",
-    "answer": "答案：一次函数：形如 y = kx + b（k, b 是常数，k ≠ 0）的函数叫做一次函数。\n\n图象：一条直线。\n\n性质：\n1. k 决定直线的倾斜方向\n2. b 决定直线与 y 轴的交点位置...\n解析：本题考察对一次函数的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用正比例函数的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_018_ex07",
     "knowledge_id": "g2_math_018",
-    "question": "解答题：举例说明一次函数在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：一次函数的实际应用场景。"
+    "question": "简答题：正比例函数有哪些主要性质？",
+    "answer": "答案：正比例函数：形如 y = kx (k 是常数，k ≠ 0) 的函数叫做正比例函数。；性质：；图象是经过原点 (0, 0) 和点 (1, k) 的一条直线。\n解析：这些是正比例函数的重要性质。"
   },
   {
     "id": "g2_math_018_ex08",
     "knowledge_id": "g2_math_018",
-    "question": "计算题：已知相关条件，利用一次函数的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "选择题：下列生活实例中，可以用正比例函数知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：正比例函数在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_018_ex09",
     "knowledge_id": "g2_math_018",
-    "question": "综合题：结合一次函数和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "综合题：结合所学知识，谈谈正比例函数在数学中的地位和作用。",
+    "answer": "答案：正比例函数是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_018_ex10",
     "knowledge_id": "g2_math_018",
-    "question": "综合题：分析一次函数与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：正比例函数：形如 y = kx (k 是...，这体现了正比例函数的______。",
+    "answer": "答案：重要性质/特点\n解析：这是正比例函数的重要内容。"
   },
   {
     "id": "g2_math_019_ex01",
     "knowledge_id": "g2_math_019",
-    "question": "选择题：下列关于\"一次函数的图象与性质\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据一次函数的图象与性质的定义和性质分析各选项。"
+    "question": "选择题：下列关于一次函数的说法，正确的是（  ）\nA. 完全错误的说法\nB. 一次函数：形如 y = kx + b (k, b 是常数，k ≠ 0) 的函数叫\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：一次函数：形如 y = kx + b (k, b 是常数，k ≠ 0) 的函数叫做一次函数。"
   },
   {
     "id": "g2_math_019_ex02",
     "knowledge_id": "g2_math_019",
-    "question": "选择题：下列情形中，能应用\"一次函数的图象与性质\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：一次函数的图象与性质适用于描述的场景。"
+    "question": "填空题：一次函数的公式是：______。",
+    "answer": "答案：y = kx + b (k ≠ 0)\n解析：这是一次函数的基本公式。"
   },
   {
     "id": "g2_math_019_ex03",
     "knowledge_id": "g2_math_019",
-    "question": "填空题：一次函数的图象与性质的计算公式是______。",
-    "answer": "答案：k > 0 时，y 随 x 的增大而增大\nk < 0 时，y 随 x 的增大而减小\n解析：这是一次函数的图象与性质的核心公式。"
+    "question": "判断题：特殊情况：。（  ）",
+    "answer": "答案：正确\n解析：特殊情况："
   },
   {
     "id": "g2_math_019_ex04",
     "knowledge_id": "g2_math_019",
-    "question": "判断题：一次函数的图象与性质的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 一次函数：形如 y = kx + b (k, b 是常数，k\nB. 特殊情况：\nC. 明显错误的说法（与定义相反）\nD. 图象：一条直线",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_019_ex05",
     "knowledge_id": "g2_math_019",
-    "question": "判断题：一次函数的图象与性质的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：一次函数成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意一次函数的前提条件。"
   },
   {
     "id": "g2_math_019_ex06",
     "knowledge_id": "g2_math_019",
-    "question": "解答题：请简述一次函数的图象与性质的定义和主要内容。",
-    "answer": "答案：一次函数 y = kx + b 的图象与性质：\n\n1. k > 0：y 随 x 的增大而增大\n2. k < 0：y 随 x 的增大而减小\n3. 直线与 x 轴交点：(-b/k, 0)\n4. 直线与 y...\n解析：本题考察对一次函数的图象与性质的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用一次函数的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_019_ex07",
     "knowledge_id": "g2_math_019",
-    "question": "解答题：举例说明一次函数的图象与性质在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：一次函数的图象与性质的实际应用场景。"
+    "question": "简答题：一次函数有哪些主要性质？",
+    "answer": "答案：一次函数：形如 y = kx + b (k, b 是常数，k ≠ 0) 的函数叫做一次函数。；特殊情况：；图象：一条直线。\n解析：这些是一次函数的重要性质。"
   },
   {
     "id": "g2_math_019_ex08",
     "knowledge_id": "g2_math_019",
-    "question": "计算题：已知相关条件，利用一次函数的图象与性质的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "选择题：下列生活实例中，可以用一次函数知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：一次函数在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_019_ex09",
     "knowledge_id": "g2_math_019",
-    "question": "综合题：结合一次函数的图象与性质和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "综合题：结合所学知识，谈谈一次函数在数学中的地位和作用。",
+    "answer": "答案：一次函数是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_019_ex10",
     "knowledge_id": "g2_math_019",
-    "question": "综合题：分析一次函数的图象与性质与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：一次函数：形如 y = kx + b (...，这体现了一次函数的______。",
+    "answer": "答案：重要性质/特点\n解析：这是一次函数的重要内容。"
   },
   {
     "id": "g2_math_020_ex01",
     "knowledge_id": "g2_math_020",
-    "question": "选择题：下列关于\"一次函数与二元一次方程\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据一次函数与二元一次方程的定义和性质分析各选项。"
+    "question": "选择题：下列关于一次函数的性质的说法，正确的是（  ）\nA. 完全错误的说法\nB. 一次函数的性质：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：一次函数的性质："
   },
   {
     "id": "g2_math_020_ex02",
     "knowledge_id": "g2_math_020",
-    "question": "选择题：下列情形中，能应用\"一次函数与二元一次方程\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：一次函数与二元一次方程适用于描述的场景。"
+    "question": "填空题：一次函数的性质的公式是：______。",
+    "answer": "答案：y = kx + b (k ≠ 0)\n解析：这是一次函数的性质的基本公式。"
   },
   {
     "id": "g2_math_020_ex03",
     "knowledge_id": "g2_math_020",
-    "question": "填空题：一次函数与二元一次方程的计算公式是______。",
-    "answer": "答案：y = kx + b 对应 kx - y + b = 0\n解析：这是一次函数与二元一次方程的核心公式。"
+    "question": "判断题：图象：一条直线。（  ）",
+    "answer": "答案：正确\n解析：图象：一条直线"
   },
   {
     "id": "g2_math_020_ex04",
     "knowledge_id": "g2_math_020",
-    "question": "判断题：一次函数与二元一次方程的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 一次函数的性质：\nB. 图象：一条直线\nC. 明显错误的说法（与定义相反）\nD. 增减性：",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_020_ex05",
     "knowledge_id": "g2_math_020",
-    "question": "判断题：一次函数与二元一次方程的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：一次函数的性质成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意一次函数的性质的前提条件。"
   },
   {
     "id": "g2_math_020_ex06",
     "knowledge_id": "g2_math_020",
-    "question": "解答题：请简述一次函数与二元一次方程的定义和主要内容。",
-    "answer": "答案：一次函数与二元一次方程的关系：\n\n1. 一次函数 y = kx + b 的图象上的每一个点的坐标(x, y)都是二元一次方程 kx - y + b = 0 的解\n2. 以二元一次方程的解为坐标的点都在...\n解析：本题考察对一次函数与二元一次方程的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用一次函数的性质的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_020_ex07",
     "knowledge_id": "g2_math_020",
-    "question": "解答题：举例说明一次函数与二元一次方程在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：一次函数与二元一次方程的实际应用场景。"
+    "question": "简答题：一次函数的性质有哪些主要性质？",
+    "answer": "答案：一次函数的性质：；图象：一条直线；增减性：。\n解析：这些是一次函数的性质的重要性质。"
   },
   {
     "id": "g2_math_020_ex08",
     "knowledge_id": "g2_math_020",
-    "question": "计算题：已知相关条件，利用一次函数与二元一次方程的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "选择题：下列生活实例中，可以用一次函数的性质知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：一次函数的性质在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_020_ex09",
     "knowledge_id": "g2_math_020",
-    "question": "综合题：结合一次函数与二元一次方程和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "综合题：结合所学知识，谈谈一次函数的性质在数学中的地位和作用。",
+    "answer": "答案：一次函数的性质是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_020_ex10",
     "knowledge_id": "g2_math_020",
-    "question": "综合题：分析一次函数与二元一次方程与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：一次函数的性质：...，这体现了一次函数的______。",
+    "answer": "答案：重要性质/特点\n解析：这是一次函数的性质的重要内容。"
   },
   {
     "id": "g2_math_021_ex01",
     "knowledge_id": "g2_math_021",
-    "question": "选择题：下列关于\"用函数观点看方程(组)与不等式\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据用函数观点看方程(组)与不等式的定义和性质分析各选项。"
+    "question": "选择题：下列关于一次函数与一次方程的说法，正确的是（  ）\nA. 完全错误的说法\nB. 一次函数与一次方程的关系：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：一次函数与一次方程的关系："
   },
   {
     "id": "g2_math_021_ex02",
     "knowledge_id": "g2_math_021",
-    "question": "选择题：下列情形中，能应用\"用函数观点看方程(组)与不等式\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：用函数观点看方程(组)与不等式适用于描述的场景。"
+    "question": "填空题：一次函数与一次方程的公式是：______。",
+    "answer": "答案：kx + b = 0 → x = -b/k\n解析：这是一次函数与一次方程的基本公式。"
   },
   {
     "id": "g2_math_021_ex03",
     "knowledge_id": "g2_math_021",
-    "question": "填空题：用函数观点看方程(组)与不等式的计算公式是______。",
-    "answer": "答案：kx + b = 0 → x = -b/k\n解析：这是用函数观点看方程(组)与不等式的核心公式。"
+    "question": "判断题：一元一次方程 kx + b = 0 的解，就是一次函数 y = kx + b 的。（  ）",
+    "answer": "答案：正确\n解析：一元一次方程 kx + b = 0 的解，就是一次函数 y = kx + b 的图象与 x 轴交点的横坐标"
   },
   {
     "id": "g2_math_021_ex04",
     "knowledge_id": "g2_math_021",
-    "question": "判断题：用函数观点看方程(组)与不等式的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 一次函数与一次方程的关系：\nB. 一元一次方程 kx + b = 0 的解，就是一次函数 y \nC. 明显错误的说法（与定义相反）\nD. 方程 kx + b = 0 的解 x = -b/k，对应图象",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_021_ex05",
     "knowledge_id": "g2_math_021",
-    "question": "判断题：用函数观点看方程(组)与不等式的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：一次函数与一次方程成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意一次函数与一次方程的前提条件。"
   },
   {
     "id": "g2_math_021_ex06",
     "knowledge_id": "g2_math_021",
-    "question": "解答题：请简述用函数观点看方程(组)与不等式的定义和主要内容。",
-    "answer": "答案：用函数观点看方程与不等式：\n\n1. 解方程 kx + b = 0：求直线 y = kx + b 与 x 轴的交点的横坐标\n2. 解不等式 kx + b > 0：求直线 y = kx + b 在 x 轴...\n解析：本题考察对用函数观点看方程(组)与不等式的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用一次函数与一次方程的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_021_ex07",
     "knowledge_id": "g2_math_021",
-    "question": "解答题：举例说明用函数观点看方程(组)与不等式在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：用函数观点看方程(组)与不等式的实际应用场景。"
+    "question": "简答题：一次函数与一次方程有哪些主要性质？",
+    "answer": "答案：一次函数与一次方程的关系：；一元一次方程 kx + b = 0 的解，就是一次函数 y = kx + b 的图象与 x 轴交点的横坐标；方程 kx + b = 0 的解 x = -b/k，对应图象与 x 轴的交点 (-b/k, 0)。\n解析：这些是一次函数与一次方程的重要性质。"
   },
   {
     "id": "g2_math_021_ex08",
     "knowledge_id": "g2_math_021",
-    "question": "计算题：已知相关条件，利用用函数观点看方程(组)与不等式的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "选择题：下列生活实例中，可以用一次函数与一次方程知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：一次函数与一次方程在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_021_ex09",
     "knowledge_id": "g2_math_021",
-    "question": "综合题：结合用函数观点看方程(组)与不等式和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "综合题：结合所学知识，谈谈一次函数与一次方程在数学中的地位和作用。",
+    "answer": "答案：一次函数与一次方程是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_021_ex10",
     "knowledge_id": "g2_math_021",
-    "question": "综合题：分析用函数观点看方程(组)与不等式与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：一次函数与一次方程的关系：...，这体现了一次函数与一次方程的______。",
+    "answer": "答案：重要性质/特点\n解析：这是一次函数与一次方程的重要内容。"
   },
   {
     "id": "g2_math_022_ex01",
     "knowledge_id": "g2_math_022",
-    "question": "选择题：下列关于\"数据的描述\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据数据的描述的定义和性质分析各选项。"
+    "question": "选择题：下列关于一次函数与一次不等式的说法，正确的是（  ）\nA. 完全错误的说法\nB. 一次函数与一次不等式：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：一次函数与一次不等式："
   },
   {
     "id": "g2_math_022_ex02",
     "knowledge_id": "g2_math_022",
-    "question": "选择题：下列情形中，能应用\"数据的描述\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：数据的描述适用于描述的场景。"
+    "question": "填空题：一次函数与一次不等式的公式是：______。",
+    "answer": "答案：kx + b > 0 或 kx + b < 0\n解析：这是一次函数与一次不等式的基本公式。"
   },
   {
     "id": "g2_math_022_ex03",
     "knowledge_id": "g2_math_022",
-    "question": "填空题：数据的描述的计算公式是______。",
-    "answer": "答案：平均数、中位数、众数\n解析：这是数据的描述的核心公式。"
+    "question": "判断题：解不等式：。（  ）",
+    "answer": "答案：正确\n解析：解不等式："
   },
   {
     "id": "g2_math_022_ex04",
     "knowledge_id": "g2_math_022",
-    "question": "判断题：数据的描述的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 一次函数与一次不等式：\nB. 解不等式：\nC. 明显错误的说法（与定义相反）\nD. - kx + b > 0：当 k > 0 时，x > -b/",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_022_ex05",
     "knowledge_id": "g2_math_022",
-    "question": "判断题：数据的描述的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：一次函数与一次不等式成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意一次函数与一次不等式的前提条件。"
   },
   {
     "id": "g2_math_022_ex06",
     "knowledge_id": "g2_math_022",
-    "question": "解答题：请简述数据的描述的定义和主要内容。",
-    "answer": "答案：数据的描述：\n\n1. 平均数：所有数据的总和除以数据的个数\n2. 中位数：把数据按从小到大排列后，位于中间位置的数\n3. 众数：出现次数最多的数据...\n解析：本题考察对数据的描述的理解。"
+    "question": "简答题：一次函数与一次不等式有哪些主要性质？",
+    "answer": "答案：一次函数与一次不等式：；解不等式：；- kx + b > 0：当 k > 0 时，x > -b/k；当 k < 0 时，x < -b/k。\n解析：这些是一次函数与一次不等式的重要性质。"
   },
   {
     "id": "g2_math_022_ex07",
     "knowledge_id": "g2_math_022",
-    "question": "解答题：举例说明数据的描述在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：数据的描述的实际应用场景。"
+    "question": "选择题：下列生活实例中，可以用一次函数与一次不等式知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：一次函数与一次不等式在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_022_ex08",
     "knowledge_id": "g2_math_022",
-    "question": "计算题：已知相关条件，利用数据的描述的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "综合题：结合所学知识，谈谈一次函数与一次不等式在数学中的地位和作用。",
+    "answer": "答案：一次函数与一次不等式是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_022_ex09",
     "knowledge_id": "g2_math_022",
-    "question": "综合题：结合数据的描述和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "填空题：一次函数与一次不等式：...，这体现了一次函数与一次不等式的______。",
+    "answer": "答案：重要性质/特点\n解析：这是一次函数与一次不等式的重要内容。"
   },
   {
     "id": "g2_math_022_ex10",
     "knowledge_id": "g2_math_022",
-    "question": "综合题：分析数据的描述与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：解不等式：...，这体现了一次函数与一次不等式的______。",
+    "answer": "答案：重要性质/特点\n解析：这是一次函数与一次不等式的重要内容。"
   },
   {
     "id": "g2_math_023_ex01",
     "knowledge_id": "g2_math_023",
-    "question": "选择题：下列关于\"加权平均数\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据加权平均数的定义和性质分析各选项。"
+    "question": "选择题：下列关于平均数的说法，正确的是（  ）\nA. 完全错误的说法\nB. 平均数：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：平均数："
   },
   {
     "id": "g2_math_023_ex02",
     "knowledge_id": "g2_math_023",
-    "question": "选择题：下列情形中，能应用\"加权平均数\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：加权平均数适用于描述的场景。"
+    "question": "填空题：平均数的公式是：______。",
+    "answer": "答案：x̄ = (x₁ + x₂ + ... + xₙ) / n\n解析：这是平均数的基本公式。"
   },
   {
     "id": "g2_math_023_ex03",
     "knowledge_id": "g2_math_023",
-    "question": "填空题：加权平均数的计算公式是______。",
-    "answer": "答案：x̄ = (w1x1 + w2x2 + ... + wn xn) / (w1 + w2 + ... + wn)\n解析：这是加权平均数的核心公式。"
+    "question": "判断题：算术平均数：一般地，对于 n 个数 x₁, x₂, ..., xₙ，我们把 (x。（  ）",
+    "answer": "答案：正确\n解析：算术平均数：一般地，对于 n 个数 x₁, x₂, ..., xₙ，我们把 (x₁ + x₂ + ... + xₙ) / n 叫做这 n 个数的算术平均数，简称平均数，记为 x̄。"
   },
   {
     "id": "g2_math_023_ex04",
     "knowledge_id": "g2_math_023",
-    "question": "判断题：加权平均数的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 平均数：\nB. 算术平均数：一般地，对于 n 个数 x₁, x₂, ...,\nC. 明显错误的说法（与定义相反）\nD. 加权平均数：如果在 n 个数中，x₁ 出现 f₁ 次，x₂ ",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_023_ex05",
     "knowledge_id": "g2_math_023",
-    "question": "判断题：加权平均数的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：平均数成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意平均数的前提条件。"
   },
   {
     "id": "g2_math_023_ex06",
     "knowledge_id": "g2_math_023",
-    "question": "解答题：请简述加权平均数的定义和主要内容。",
-    "answer": "答案：加权平均数：如果 n 个数据 x₁, x₂, ..., xₙ 的权分别是 w₁, w₂, ..., wₙ，那么加权平均数为：\n\nx̄ = (w₁x₁ + w₂x₂ + ... + wₙxₙ) / (w...\n解析：本题考察对加权平均数的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用平均数的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_023_ex07",
     "knowledge_id": "g2_math_023",
-    "question": "解答题：举例说明加权平均数在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：加权平均数的实际应用场景。"
+    "question": "简答题：平均数有哪些主要性质？",
+    "answer": "答案：平均数：；算术平均数：一般地，对于 n 个数 x₁, x₂, ..., xₙ，我们把 (x₁ + x₂ + ... + xₙ) / n 叫做这 n 个数的算术平均数，简称平均数，记为 x̄。；加权平均数：如果在 n 个数中，x₁ 出现 f₁ 次，x₂ 出现 f₂ 次，...，xₖ 出现 fₖ 次（f₁ + f₂ + ... + fₖ = n），那么这 n 个数的平均数为：。\n解析：这些是平均数的重要性质。"
   },
   {
     "id": "g2_math_023_ex08",
     "knowledge_id": "g2_math_023",
-    "question": "计算题：已知相关条件，利用加权平均数的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "选择题：下列生活实例中，可以用平均数知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：平均数在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_023_ex09",
     "knowledge_id": "g2_math_023",
-    "question": "综合题：结合加权平均数和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "综合题：结合所学知识，谈谈平均数在数学中的地位和作用。",
+    "answer": "答案：平均数是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_023_ex10",
     "knowledge_id": "g2_math_023",
-    "question": "综合题：分析加权平均数与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：平均数：...，这体现了平均数的______。",
+    "answer": "答案：重要性质/特点\n解析：这是平均数的重要内容。"
   },
   {
     "id": "g2_math_024_ex01",
     "knowledge_id": "g2_math_024",
-    "question": "选择题：下列关于\"中位数和众数\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据中位数和众数的定义和性质分析各选项。"
+    "question": "选择题：下列关于中位数与众数的说法，正确的是（  ）\nA. 完全错误的说法\nB. 中位数：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：中位数："
   },
   {
     "id": "g2_math_024_ex02",
     "knowledge_id": "g2_math_024",
-    "question": "选择题：下列情形中，能应用\"中位数和众数\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：中位数和众数适用于描述的场景。"
+    "question": "填空题：中位数与众数的公式是：______。",
+    "answer": "答案：中位数：将数据按大小顺序排列后处于中间位置的数\n解析：这是中位数与众数的基本公式。"
   },
   {
     "id": "g2_math_024_ex03",
     "knowledge_id": "g2_math_024",
-    "question": "填空题：中位数和众数的计算公式是______。",
-    "answer": "答案：中位数：中间位置的数\n众数：出现次数最多的数\n解析：这是中位数和众数的核心公式。"
+    "question": "判断题：众数：。（  ）",
+    "answer": "答案：正确\n解析：众数："
   },
   {
     "id": "g2_math_024_ex04",
     "knowledge_id": "g2_math_024",
-    "question": "判断题：中位数和众数的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 中位数：\nB. 众数：\nC. 明显错误的说法（与定义相反）\nD. 特点：",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_024_ex05",
     "knowledge_id": "g2_math_024",
-    "question": "判断题：中位数和众数的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：中位数与众数成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意中位数与众数的前提条件。"
   },
   {
     "id": "g2_math_024_ex06",
     "knowledge_id": "g2_math_024",
-    "question": "解答题：请简述中位数和众数的定义和主要内容。",
-    "answer": "答案：中位数：\n将一组数据按照从小到大（或从大到小）的顺序排列，如果数据的个数是奇数，则处于中间位置的数就是这组数据的中位数；如果数据的个数是偶数，则中间两个数据的平均数就是这组数据的中位数。\n\n众数：\n一...\n解析：本题考察对中位数和众数的理解。"
+    "question": "简答题：中位数与众数有哪些主要性质？",
+    "answer": "答案：中位数：；众数：；特点：。\n解析：这些是中位数与众数的重要性质。"
   },
   {
     "id": "g2_math_024_ex07",
     "knowledge_id": "g2_math_024",
-    "question": "解答题：举例说明中位数和众数在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：中位数和众数的实际应用场景。"
+    "question": "选择题：下列生活实例中，可以用中位数与众数知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：中位数与众数在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_024_ex08",
     "knowledge_id": "g2_math_024",
-    "question": "计算题：已知相关条件，利用中位数和众数的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "综合题：结合所学知识，谈谈中位数与众数在数学中的地位和作用。",
+    "answer": "答案：中位数与众数是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_024_ex09",
     "knowledge_id": "g2_math_024",
-    "question": "综合题：结合中位数和众数和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "填空题：中位数：...，这体现了中位数与众数的______。",
+    "answer": "答案：重要性质/特点\n解析：这是中位数与众数的重要内容。"
   },
   {
     "id": "g2_math_024_ex10",
     "knowledge_id": "g2_math_024",
-    "question": "综合题：分析中位数和众数与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：众数：...，这体现了中位数与众数的______。",
+    "answer": "答案：重要性质/特点\n解析：这是中位数与众数的重要内容。"
   },
   {
     "id": "g2_math_025_ex01",
     "knowledge_id": "g2_math_025",
-    "question": "选择题：下列关于\"极差与方差\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据极差与方差的定义和性质分析各选项。"
+    "question": "选择题：下列关于极差与方差的说法，正确的是（  ）\nA. 完全错误的说法\nB. 极差：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：极差："
   },
   {
     "id": "g2_math_025_ex02",
     "knowledge_id": "g2_math_025",
-    "question": "选择题：下列情形中，能应用\"极差与方差\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：极差与方差适用于描述的场景。"
+    "question": "填空题：极差与方差的公式是：______。",
+    "answer": "答案：极差 = 最大值 - 最小值\n解析：这是极差与方差的基本公式。"
   },
   {
     "id": "g2_math_025_ex03",
     "knowledge_id": "g2_math_025",
-    "question": "填空题：极差与方差的计算公式是______。",
-    "answer": "答案：极差 = 最大值 - 最小值\n方差 s² = (1/n) Σ(xᵢ - x̄)²\n解析：这是极差与方差的核心公式。"
+    "question": "判断题：方差：。（  ）",
+    "answer": "答案：正确\n解析：方差："
   },
   {
     "id": "g2_math_025_ex04",
     "knowledge_id": "g2_math_025",
-    "question": "判断题：极差与方差的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 极差：\nB. 方差：\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_025_ex05",
     "knowledge_id": "g2_math_025",
-    "question": "判断题：极差与方差的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：极差与方差成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意极差与方差的前提条件。"
   },
   {
     "id": "g2_math_025_ex06",
     "knowledge_id": "g2_math_025",
-    "question": "解答题：请简述极差与方差的定义和主要内容。",
-    "answer": "答案：极差：\n一组数据中的最大值与最小值的差叫做极差。\n极差反映了一组数据的变动范围。\n\n方差：\n对于 n 个数据 x₁, x₂, ..., xₙ，各数据与它们的平均数 x̄ 的差的平方的平均数，叫做这组数...\n解析：本题考察对极差与方差的理解。"
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用极差与方差的公式进行计算，注意条件和单位。"
   },
   {
     "id": "g2_math_025_ex07",
     "knowledge_id": "g2_math_025",
-    "question": "解答题：举例说明极差与方差在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：极差与方差的实际应用场景。"
+    "question": "选择题：下列生活实例中，可以用极差与方差知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：极差与方差在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_025_ex08",
     "knowledge_id": "g2_math_025",
-    "question": "计算题：已知相关条件，利用极差与方差的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "综合题：结合所学知识，谈谈极差与方差在数学中的地位和作用。",
+    "answer": "答案：极差与方差是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_025_ex09",
     "knowledge_id": "g2_math_025",
-    "question": "综合题：结合极差与方差和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "填空题：极差：...，这体现了极差与方差的______。",
+    "answer": "答案：重要性质/特点\n解析：这是极差与方差的重要内容。"
   },
   {
     "id": "g2_math_025_ex10",
     "knowledge_id": "g2_math_025",
-    "question": "综合题：分析极差与方差与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：方差：...，这体现了极差与方差的______。",
+    "answer": "答案：重要性质/特点\n解析：这是极差与方差的重要内容。"
   },
   {
     "id": "g2_math_026_ex01",
     "knowledge_id": "g2_math_026",
-    "question": "选择题：下列关于\"数据的分析整理\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据数据的分析整理的定义和性质分析各选项。"
+    "question": "选择题：下列关于数据的分析整理的说法，正确的是（  ）\nA. 完全错误的说法\nB. 数据的分析整理：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：数据的分析整理："
   },
   {
     "id": "g2_math_026_ex02",
     "knowledge_id": "g2_math_026",
-    "question": "选择题：下列情形中，能应用\"数据的分析整理\"知识解决的是（  ）\nA. 场景A\nB. 场景B\nC. 场景C\nD. 场景D",
-    "answer": "答案：C\n解析：数据的分析整理适用于描述的场景。"
+    "question": "填空题：数据的分析整理的公式是：______。",
+    "answer": "答案：频数、频率、统计图\n解析：这是数据的分析整理的基本公式。"
   },
   {
     "id": "g2_math_026_ex03",
     "knowledge_id": "g2_math_026",
-    "question": "填空题：数据的分析整理的计算公式是______。",
-    "answer": "答案：频数、频率、统计图\n解析：这是数据的分析整理的核心公式。"
+    "question": "判断题：频数：每个对象出现的次数。（  ）",
+    "answer": "答案：正确\n解析：频数：每个对象出现的次数"
   },
   {
     "id": "g2_math_026_ex04",
     "knowledge_id": "g2_math_026",
-    "question": "判断题：数据的分析整理的某个重要性质描述。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 数据的分析整理：\nB. 频数：每个对象出现的次数\nC. 明显错误的说法（与定义相反）\nD. 频率：每个对象出现的次数与总次数的比值（频率 = 频数/总数",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
   },
   {
     "id": "g2_math_026_ex05",
     "knowledge_id": "g2_math_026",
-    "question": "判断题：数据的分析整理的某个常见错误描述。",
-    "answer": "答案：错误\n解析：正确的理解应该是。"
+    "question": "填空题：数据的分析整理成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意数据的分析整理的前提条件。"
   },
   {
     "id": "g2_math_026_ex06",
     "knowledge_id": "g2_math_026",
-    "question": "解答题：请简述数据的分析整理的定义和主要内容。",
-    "answer": "答案：数据的分析整理：\n\n1. 频数：每个对象出现的次数\n2. 频率：每个对象出现的次数与总次数的比值\n3. 各频率之和等于 1\n\n常用统计图：\n- 条形统计图\n- 折线统计图\n- 扇形统计图\n- 频数分布...\n解析：本题考察对数据的分析整理的理解。"
+    "question": "简答题：数据的分析整理有哪些主要性质？",
+    "answer": "答案：数据的分析整理：；频数：每个对象出现的次数；频率：每个对象出现的次数与总次数的比值（频率 = 频数/总数）。\n解析：这些是数据的分析整理的重要性质。"
   },
   {
     "id": "g2_math_026_ex07",
     "knowledge_id": "g2_math_026",
-    "question": "解答题：举例说明数据的分析整理在实际问题中的应用。",
-    "answer": "答案：根据知识点举例说明\n解析：数据的分析整理的实际应用场景。"
+    "question": "选择题：下列生活实例中，可以用数据的分析整理知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：数据的分析整理在实际生活中有广泛应用。"
   },
   {
     "id": "g2_math_026_ex08",
     "knowledge_id": "g2_math_026",
-    "question": "计算题：已知相关条件，利用数据的分析整理的公式进行计算。",
-    "answer": "答案：根据公式计算得出结果\n解析：代入公式逐步计算。"
+    "question": "综合题：结合所学知识，谈谈数据的分析整理在数学中的地位和作用。",
+    "answer": "答案：数据的分析整理是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
   },
   {
     "id": "g2_math_026_ex09",
     "knowledge_id": "g2_math_026",
-    "question": "综合题：结合数据的分析整理和其他相关知识解决问题。",
-    "answer": "答案：综合运用知识解答\n解析：本题考察知识的综合应用能力。"
+    "question": "填空题：数据的分析整理：...，这体现了数据的分析整理的______。",
+    "answer": "答案：重要性质/特点\n解析：这是数据的分析整理的重要内容。"
   },
   {
     "id": "g2_math_026_ex10",
     "knowledge_id": "g2_math_026",
-    "question": "综合题：分析数据的分析整理与前后知识点的联系。",
-    "answer": "答案：分析知识点之间的联系\n解析：建立知识体系，理解知识点之间的逻辑关系。"
+    "question": "填空题：频数：每个对象出现的次数...，这体现了数据的分析整理的______。",
+    "answer": "答案：重要性质/特点\n解析：这是数据的分析整理的重要内容。"
+  },
+  {
+    "id": "g2_math_027_ex01",
+    "knowledge_id": "g2_math_027",
+    "question": "选择题：下列关于三角形的概念与分类的说法，正确的是（  ）\nA. 完全错误的说法\nB. 分类：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：分类："
+  },
+  {
+    "id": "g2_math_027_ex02",
+    "knowledge_id": "g2_math_027",
+    "question": "填空题：三角形的概念与分类的公式是：______。",
+    "answer": "答案：三角形内角和 = 180°\n解析：这是三角形的概念与分类的基本公式。"
+  },
+  {
+    "id": "g2_math_027_ex03",
+    "knowledge_id": "g2_math_027",
+    "question": "判断题：按角分：。（  ）",
+    "answer": "答案：正确\n解析：按角分："
+  },
+  {
+    "id": "g2_math_027_ex04",
+    "knowledge_id": "g2_math_027",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 分类：\nB. 按角分：\nC. 明显错误的说法（与定义相反）\nD.    - 锐角三角形：三个角都是锐角",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_027_ex05",
+    "knowledge_id": "g2_math_027",
+    "question": "填空题：三角形的概念与分类成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意三角形的概念与分类的前提条件。"
+  },
+  {
+    "id": "g2_math_027_ex06",
+    "knowledge_id": "g2_math_027",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用三角形的概念与分类的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_027_ex07",
+    "knowledge_id": "g2_math_027",
+    "question": "简答题：三角形的概念与分类有哪些主要性质？",
+    "answer": "答案：分类：；按角分：；   - 锐角三角形：三个角都是锐角。\n解析：这些是三角形的概念与分类的重要性质。"
+  },
+  {
+    "id": "g2_math_027_ex08",
+    "knowledge_id": "g2_math_027",
+    "question": "选择题：下列生活实例中，可以用三角形的概念与分类知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：三角形的概念与分类在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_027_ex09",
+    "knowledge_id": "g2_math_027",
+    "question": "综合题：结合所学知识，谈谈三角形的概念与分类在数学中的地位和作用。",
+    "answer": "答案：三角形的概念与分类是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_027_ex10",
+    "knowledge_id": "g2_math_027",
+    "question": "填空题：分类：...，这体现了三角形与分类的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形的概念与分类的重要内容。"
+  },
+  {
+    "id": "g2_math_028_ex01",
+    "knowledge_id": "g2_math_028",
+    "question": "选择题：下列关于三角形的三边关系的说法，正确的是（  ）\nA. 完全错误的说法\nB. 应用：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：应用："
+  },
+  {
+    "id": "g2_math_028_ex02",
+    "knowledge_id": "g2_math_028",
+    "question": "填空题：三角形的三边关系的公式是：______。",
+    "answer": "答案：a + b > c\n解析：这是三角形的三边关系的基本公式。"
+  },
+  {
+    "id": "g2_math_028_ex03",
+    "knowledge_id": "g2_math_028",
+    "question": "判断题：判断三条线段能否组成三角形。（  ）",
+    "answer": "答案：正确\n解析：判断三条线段能否组成三角形"
+  },
+  {
+    "id": "g2_math_028_ex04",
+    "knowledge_id": "g2_math_028",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 应用：\nB. 判断三条线段能否组成三角形\nC. 明显错误的说法（与定义相反）\nD. 求三角形某边的取值范围",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_028_ex05",
+    "knowledge_id": "g2_math_028",
+    "question": "填空题：三角形的三边关系成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意三角形的三边关系的前提条件。"
+  },
+  {
+    "id": "g2_math_028_ex06",
+    "knowledge_id": "g2_math_028",
+    "question": "简答题：三角形的三边关系有哪些主要性质？",
+    "answer": "答案：应用：；判断三条线段能否组成三角形；求三角形某边的取值范围。\n解析：这些是三角形的三边关系的重要性质。"
+  },
+  {
+    "id": "g2_math_028_ex07",
+    "knowledge_id": "g2_math_028",
+    "question": "选择题：下列生活实例中，可以用三角形的三边关系知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：三角形的三边关系在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_028_ex08",
+    "knowledge_id": "g2_math_028",
+    "question": "综合题：结合所学知识，谈谈三角形的三边关系在数学中的地位和作用。",
+    "answer": "答案：三角形的三边关系是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_028_ex09",
+    "knowledge_id": "g2_math_028",
+    "question": "填空题：应用：...，这体现了三角形的三边关系的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形的三边关系的重要内容。"
+  },
+  {
+    "id": "g2_math_028_ex10",
+    "knowledge_id": "g2_math_028",
+    "question": "填空题：判断三条线段能否组成三角形...，这体现了三角形的三边关系的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形的三边关系的重要内容。"
+  },
+  {
+    "id": "g2_math_029_ex01",
+    "knowledge_id": "g2_math_029",
+    "question": "选择题：下列关于三角形的内角和的说法，正确的是（  ）\nA. 完全错误的说法\nB. 推论：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：推论："
+  },
+  {
+    "id": "g2_math_029_ex02",
+    "knowledge_id": "g2_math_029",
+    "question": "填空题：三角形的内角和的公式是：______。",
+    "answer": "答案：∠A + ∠B + ∠C = 180°\n解析：这是三角形的内角和的基本公式。"
+  },
+  {
+    "id": "g2_math_029_ex03",
+    "knowledge_id": "g2_math_029",
+    "question": "判断题：直角三角形的两个锐角互余（和为90°）。（  ）",
+    "answer": "答案：正确\n解析：直角三角形的两个锐角互余（和为90°）"
+  },
+  {
+    "id": "g2_math_029_ex04",
+    "knowledge_id": "g2_math_029",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 推论：\nB. 直角三角形的两个锐角互余（和为90°）\nC. 明显错误的说法（与定义相反）\nD. 三角形的一个外角等于与它不相邻的两个内角之和",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_029_ex05",
+    "knowledge_id": "g2_math_029",
+    "question": "填空题：三角形的内角和成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意三角形的内角和的前提条件。"
+  },
+  {
+    "id": "g2_math_029_ex06",
+    "knowledge_id": "g2_math_029",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用三角形的内角和的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_029_ex07",
+    "knowledge_id": "g2_math_029",
+    "question": "简答题：三角形的内角和有哪些主要性质？",
+    "answer": "答案：推论：；直角三角形的两个锐角互余（和为90°）；三角形的一个外角等于与它不相邻的两个内角之和。\n解析：这些是三角形的内角和的重要性质。"
+  },
+  {
+    "id": "g2_math_029_ex08",
+    "knowledge_id": "g2_math_029",
+    "question": "选择题：下列生活实例中，可以用三角形的内角和知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：三角形的内角和在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_029_ex09",
+    "knowledge_id": "g2_math_029",
+    "question": "综合题：结合所学知识，谈谈三角形的内角和在数学中的地位和作用。",
+    "answer": "答案：三角形的内角和是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_029_ex10",
+    "knowledge_id": "g2_math_029",
+    "question": "填空题：推论：...，这体现了三角形的内角和的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形的内角和的重要内容。"
+  },
+  {
+    "id": "g2_math_030_ex01",
+    "knowledge_id": "g2_math_030",
+    "question": "选择题：下列关于三角形的外角的说法，正确的是（  ）\nA. 完全错误的说法\nB. 性质：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：性质："
+  },
+  {
+    "id": "g2_math_030_ex02",
+    "knowledge_id": "g2_math_030",
+    "question": "填空题：三角形的外角的公式是：______。",
+    "answer": "答案：外角 = 不相邻两内角之和\n解析：这是三角形的外角的基本公式。"
+  },
+  {
+    "id": "g2_math_030_ex03",
+    "knowledge_id": "g2_math_030",
+    "question": "判断题：三角形的一个外角等于与它不相邻的两个内角之和。（  ）",
+    "answer": "答案：正确\n解析：三角形的一个外角等于与它不相邻的两个内角之和"
+  },
+  {
+    "id": "g2_math_030_ex04",
+    "knowledge_id": "g2_math_030",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 性质：\nB. 三角形的一个外角等于与它不相邻的两个内角之和\nC. 明显错误的说法（与定义相反）\nD. 三角形的一个外角大于任何一个与它不相邻的内角",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_030_ex05",
+    "knowledge_id": "g2_math_030",
+    "question": "填空题：三角形的外角成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意三角形的外角的前提条件。"
+  },
+  {
+    "id": "g2_math_030_ex06",
+    "knowledge_id": "g2_math_030",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用三角形的外角的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_030_ex07",
+    "knowledge_id": "g2_math_030",
+    "question": "简答题：三角形的外角有哪些主要性质？",
+    "answer": "答案：性质：；三角形的一个外角等于与它不相邻的两个内角之和；三角形的一个外角大于任何一个与它不相邻的内角。\n解析：这些是三角形的外角的重要性质。"
+  },
+  {
+    "id": "g2_math_030_ex08",
+    "knowledge_id": "g2_math_030",
+    "question": "选择题：下列生活实例中，可以用三角形的外角知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：三角形的外角在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_030_ex09",
+    "knowledge_id": "g2_math_030",
+    "question": "综合题：结合所学知识，谈谈三角形的外角在数学中的地位和作用。",
+    "answer": "答案：三角形的外角是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_030_ex10",
+    "knowledge_id": "g2_math_030",
+    "question": "填空题：性质：...，这体现了三角形的外角的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形的外角的重要内容。"
+  },
+  {
+    "id": "g2_math_031_ex01",
+    "knowledge_id": "g2_math_031",
+    "question": "选择题：下列关于多边形内角和的说法，正确的是（  ）\nA. 完全错误的说法\nB. 常用：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：常用："
+  },
+  {
+    "id": "g2_math_031_ex02",
+    "knowledge_id": "g2_math_031",
+    "question": "填空题：多边形内角和的公式是：______。",
+    "answer": "答案：(n-2) × 180°\n解析：这是多边形内角和的基本公式。"
+  },
+  {
+    "id": "g2_math_031_ex03",
+    "knowledge_id": "g2_math_031",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 常用：\nB. 正确说法B\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_031_ex04",
+    "knowledge_id": "g2_math_031",
+    "question": "填空题：多边形内角和成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意多边形内角和的前提条件。"
+  },
+  {
+    "id": "g2_math_031_ex05",
+    "knowledge_id": "g2_math_031",
+    "question": "选择题：下列生活实例中，可以用多边形内角和知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：多边形内角和在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_031_ex06",
+    "knowledge_id": "g2_math_031",
+    "question": "综合题：结合所学知识，谈谈多边形内角和在数学中的地位和作用。",
+    "answer": "答案：多边形内角和是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_031_ex07",
+    "knowledge_id": "g2_math_031",
+    "question": "填空题：常用：...，这体现了多边形内角和的______。",
+    "answer": "答案：重要性质/特点\n解析：这是多边形内角和的重要内容。"
+  },
+  {
+    "id": "g2_math_031_ex08",
+    "knowledge_id": "g2_math_031",
+    "question": "填空题：常用：...，这体现了多边形内角和的______。",
+    "answer": "答案：重要性质/特点\n解析：这是多边形内角和的重要内容。"
+  },
+  {
+    "id": "g2_math_031_ex09",
+    "knowledge_id": "g2_math_031",
+    "question": "填空题：常用：...，这体现了多边形内角和的______。",
+    "answer": "答案：重要性质/特点\n解析：这是多边形内角和的重要内容。"
+  },
+  {
+    "id": "g2_math_031_ex10",
+    "knowledge_id": "g2_math_031",
+    "question": "填空题：常用：...，这体现了多边形内角和的______。",
+    "answer": "答案：重要性质/特点\n解析：这是多边形内角和的重要内容。"
+  },
+  {
+    "id": "g2_math_032_ex01",
+    "knowledge_id": "g2_math_032",
+    "question": "选择题：下列关于全等三角形的概念与性质的说法，正确的是（  ）\nA. 完全错误的说法\nB. 性质：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：性质："
+  },
+  {
+    "id": "g2_math_032_ex02",
+    "knowledge_id": "g2_math_032",
+    "question": "填空题：全等三角形的概念与性质的公式是：______。",
+    "answer": "答案：△ABC ≌ △A'B'C'\n解析：这是全等三角形的概念与性质的基本公式。"
+  },
+  {
+    "id": "g2_math_032_ex03",
+    "knowledge_id": "g2_math_032",
+    "question": "判断题：全等三角形的对应边相等。（  ）",
+    "answer": "答案：正确\n解析：全等三角形的对应边相等"
+  },
+  {
+    "id": "g2_math_032_ex04",
+    "knowledge_id": "g2_math_032",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 性质：\nB. 全等三角形的对应边相等\nC. 明显错误的说法（与定义相反）\nD. 全等三角形的对应角相等",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_032_ex05",
+    "knowledge_id": "g2_math_032",
+    "question": "填空题：全等三角形的概念与性质成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意全等三角形的概念与性质的前提条件。"
+  },
+  {
+    "id": "g2_math_032_ex06",
+    "knowledge_id": "g2_math_032",
+    "question": "简答题：全等三角形的概念与性质有哪些主要性质？",
+    "answer": "答案：性质：；全等三角形的对应边相等；全等三角形的对应角相等。\n解析：这些是全等三角形的概念与性质的重要性质。"
+  },
+  {
+    "id": "g2_math_032_ex07",
+    "knowledge_id": "g2_math_032",
+    "question": "选择题：下列生活实例中，可以用全等三角形的概念与性质知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：全等三角形的概念与性质在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_032_ex08",
+    "knowledge_id": "g2_math_032",
+    "question": "综合题：结合所学知识，谈谈全等三角形的概念与性质在数学中的地位和作用。",
+    "answer": "答案：全等三角形的概念与性质是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_032_ex09",
+    "knowledge_id": "g2_math_032",
+    "question": "填空题：性质：...，这体现了全等三角形与性质的______。",
+    "answer": "答案：重要性质/特点\n解析：这是全等三角形的概念与性质的重要内容。"
+  },
+  {
+    "id": "g2_math_032_ex10",
+    "knowledge_id": "g2_math_032",
+    "question": "填空题：全等三角形的对应边相等...，这体现了全等三角形与性质的______。",
+    "answer": "答案：重要性质/特点\n解析：这是全等三角形的概念与性质的重要内容。"
+  },
+  {
+    "id": "g2_math_033_ex01",
+    "knowledge_id": "g2_math_033",
+    "question": "选择题：下列关于三角形全等的判定-SSS的说法，正确的是（  ）\nA. 完全错误的说法\nB. 边边边（SSS）：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：边边边（SSS）："
+  },
+  {
+    "id": "g2_math_033_ex02",
+    "knowledge_id": "g2_math_033",
+    "question": "填空题：三角形全等的判定-SSS的公式是：______。",
+    "answer": "答案：三边对应相等的两个三角形全等\n解析：这是三角形全等的判定-SSS的基本公式。"
+  },
+  {
+    "id": "g2_math_033_ex03",
+    "knowledge_id": "g2_math_033",
+    "question": "判断题：写作：。（  ）",
+    "answer": "答案：正确\n解析：写作："
+  },
+  {
+    "id": "g2_math_033_ex04",
+    "knowledge_id": "g2_math_033",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 边边边（SSS）：\nB. 写作：\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_033_ex05",
+    "knowledge_id": "g2_math_033",
+    "question": "填空题：三角形全等的判定-SSS成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意三角形全等的判定-SSS的前提条件。"
+  },
+  {
+    "id": "g2_math_033_ex06",
+    "knowledge_id": "g2_math_033",
+    "question": "选择题：下列生活实例中，可以用三角形全等的判定-SSS知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：三角形全等的判定-SSS在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_033_ex07",
+    "knowledge_id": "g2_math_033",
+    "question": "综合题：结合所学知识，谈谈三角形全等的判定-SSS在数学中的地位和作用。",
+    "answer": "答案：三角形全等的判定-SSS是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_033_ex08",
+    "knowledge_id": "g2_math_033",
+    "question": "填空题：边边边（SSS）：...，这体现了三角形全等的判定-SSS的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-SSS的重要内容。"
+  },
+  {
+    "id": "g2_math_033_ex09",
+    "knowledge_id": "g2_math_033",
+    "question": "填空题：写作：...，这体现了三角形全等的判定-SSS的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-SSS的重要内容。"
+  },
+  {
+    "id": "g2_math_033_ex10",
+    "knowledge_id": "g2_math_033",
+    "question": "填空题：边边边（SSS）：...，这体现了三角形全等的判定-SSS的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-SSS的重要内容。"
+  },
+  {
+    "id": "g2_math_034_ex01",
+    "knowledge_id": "g2_math_034",
+    "question": "选择题：下列关于三角形全等的判定-SAS的说法，正确的是（  ）\nA. 完全错误的说法\nB. 边角边（SAS）：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：边角边（SAS）："
+  },
+  {
+    "id": "g2_math_034_ex02",
+    "knowledge_id": "g2_math_034",
+    "question": "填空题：三角形全等的判定-SAS的公式是：______。",
+    "answer": "答案：两边和它们的夹角对应相等的两个三角形全等\n解析：这是三角形全等的判定-SAS的基本公式。"
+  },
+  {
+    "id": "g2_math_034_ex03",
+    "knowledge_id": "g2_math_034",
+    "question": "判断题：注意：必须是夹角，而不是任意一个角。。（  ）",
+    "answer": "答案：正确\n解析：注意：必须是夹角，而不是任意一个角。"
+  },
+  {
+    "id": "g2_math_034_ex04",
+    "knowledge_id": "g2_math_034",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 边角边（SAS）：\nB. 注意：必须是夹角，而不是任意一个角。\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_034_ex05",
+    "knowledge_id": "g2_math_034",
+    "question": "填空题：三角形全等的判定-SAS成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意三角形全等的判定-SAS的前提条件。"
+  },
+  {
+    "id": "g2_math_034_ex06",
+    "knowledge_id": "g2_math_034",
+    "question": "判断题：注意：必须是夹角，而不是任意一个角。。（  ）",
+    "answer": "答案：正确\n解析：注意：必须是夹角，而不是任意一个角。"
+  },
+  {
+    "id": "g2_math_034_ex07",
+    "knowledge_id": "g2_math_034",
+    "question": "选择题：下列生活实例中，可以用三角形全等的判定-SAS知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：三角形全等的判定-SAS在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_034_ex08",
+    "knowledge_id": "g2_math_034",
+    "question": "综合题：结合所学知识，谈谈三角形全等的判定-SAS在数学中的地位和作用。",
+    "answer": "答案：三角形全等的判定-SAS是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_034_ex09",
+    "knowledge_id": "g2_math_034",
+    "question": "填空题：边角边（SAS）：...，这体现了三角形全等的判定-SAS的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-SAS的重要内容。"
+  },
+  {
+    "id": "g2_math_034_ex10",
+    "knowledge_id": "g2_math_034",
+    "question": "填空题：注意：必须是夹角，而不是任意一个角。...，这体现了三角形全等的判定-SAS的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-SAS的重要内容。"
+  },
+  {
+    "id": "g2_math_035_ex01",
+    "knowledge_id": "g2_math_035",
+    "question": "选择题：下列关于三角形全等的判定-ASA的说法，正确的是（  ）\nA. 完全错误的说法\nB. 角边角（ASA）：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：角边角（ASA）："
+  },
+  {
+    "id": "g2_math_035_ex02",
+    "knowledge_id": "g2_math_035",
+    "question": "填空题：三角形全等的判定-ASA的公式是：______。",
+    "answer": "答案：两角和它们的夹边对应相等的两个三角形全等\n解析：这是三角形全等的判定-ASA的基本公式。"
+  },
+  {
+    "id": "g2_math_035_ex03",
+    "knowledge_id": "g2_math_035",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 角边角（ASA）：\nB. 正确说法B\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_035_ex04",
+    "knowledge_id": "g2_math_035",
+    "question": "填空题：三角形全等的判定-ASA成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意三角形全等的判定-ASA的前提条件。"
+  },
+  {
+    "id": "g2_math_035_ex05",
+    "knowledge_id": "g2_math_035",
+    "question": "选择题：下列生活实例中，可以用三角形全等的判定-ASA知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：三角形全等的判定-ASA在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_035_ex06",
+    "knowledge_id": "g2_math_035",
+    "question": "综合题：结合所学知识，谈谈三角形全等的判定-ASA在数学中的地位和作用。",
+    "answer": "答案：三角形全等的判定-ASA是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_035_ex07",
+    "knowledge_id": "g2_math_035",
+    "question": "填空题：角边角（ASA）：...，这体现了三角形全等的判定-ASA的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-ASA的重要内容。"
+  },
+  {
+    "id": "g2_math_035_ex08",
+    "knowledge_id": "g2_math_035",
+    "question": "填空题：角边角（ASA）：...，这体现了三角形全等的判定-ASA的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-ASA的重要内容。"
+  },
+  {
+    "id": "g2_math_035_ex09",
+    "knowledge_id": "g2_math_035",
+    "question": "填空题：角边角（ASA）：...，这体现了三角形全等的判定-ASA的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-ASA的重要内容。"
+  },
+  {
+    "id": "g2_math_035_ex10",
+    "knowledge_id": "g2_math_035",
+    "question": "填空题：角边角（ASA）：...，这体现了三角形全等的判定-ASA的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-ASA的重要内容。"
+  },
+  {
+    "id": "g2_math_036_ex01",
+    "knowledge_id": "g2_math_036",
+    "question": "选择题：下列关于三角形全等的判定-AAS的说法，正确的是（  ）\nA. 完全错误的说法\nB. 角角边（AAS）：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：角角边（AAS）："
+  },
+  {
+    "id": "g2_math_036_ex02",
+    "knowledge_id": "g2_math_036",
+    "question": "填空题：三角形全等的判定-AAS的公式是：______。",
+    "answer": "答案：两角和其中一角的对边对应相等的两个三角形全等\n解析：这是三角形全等的判定-AAS的基本公式。"
+  },
+  {
+    "id": "g2_math_036_ex03",
+    "knowledge_id": "g2_math_036",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 角角边（AAS）：\nB. 正确说法B\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_036_ex04",
+    "knowledge_id": "g2_math_036",
+    "question": "填空题：三角形全等的判定-AAS成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意三角形全等的判定-AAS的前提条件。"
+  },
+  {
+    "id": "g2_math_036_ex05",
+    "knowledge_id": "g2_math_036",
+    "question": "选择题：下列生活实例中，可以用三角形全等的判定-AAS知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：三角形全等的判定-AAS在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_036_ex06",
+    "knowledge_id": "g2_math_036",
+    "question": "综合题：结合所学知识，谈谈三角形全等的判定-AAS在数学中的地位和作用。",
+    "answer": "答案：三角形全等的判定-AAS是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_036_ex07",
+    "knowledge_id": "g2_math_036",
+    "question": "填空题：角角边（AAS）：...，这体现了三角形全等的判定-AAS的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-AAS的重要内容。"
+  },
+  {
+    "id": "g2_math_036_ex08",
+    "knowledge_id": "g2_math_036",
+    "question": "填空题：角角边（AAS）：...，这体现了三角形全等的判定-AAS的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-AAS的重要内容。"
+  },
+  {
+    "id": "g2_math_036_ex09",
+    "knowledge_id": "g2_math_036",
+    "question": "填空题：角角边（AAS）：...，这体现了三角形全等的判定-AAS的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-AAS的重要内容。"
+  },
+  {
+    "id": "g2_math_036_ex10",
+    "knowledge_id": "g2_math_036",
+    "question": "填空题：角角边（AAS）：...，这体现了三角形全等的判定-AAS的______。",
+    "answer": "答案：重要性质/特点\n解析：这是三角形全等的判定-AAS的重要内容。"
+  },
+  {
+    "id": "g2_math_037_ex01",
+    "knowledge_id": "g2_math_037",
+    "question": "选择题：下列关于直角三角形全等的判定-HL的说法，正确的是（  ）\nA. 完全错误的说法\nB. HL 定理：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：HL 定理："
+  },
+  {
+    "id": "g2_math_037_ex02",
+    "knowledge_id": "g2_math_037",
+    "question": "填空题：直角三角形全等的判定-HL的公式是：______。",
+    "answer": "答案：斜边和一直角边对应相等的两个直角三角形全等\n解析：这是直角三角形全等的判定-HL的基本公式。"
+  },
+  {
+    "id": "g2_math_037_ex03",
+    "knowledge_id": "g2_math_037",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. HL 定理：\nB. 正确说法B\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_037_ex04",
+    "knowledge_id": "g2_math_037",
+    "question": "填空题：直角三角形全等的判定-HL成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意直角三角形全等的判定-HL的前提条件。"
+  },
+  {
+    "id": "g2_math_037_ex05",
+    "knowledge_id": "g2_math_037",
+    "question": "选择题：下列生活实例中，可以用直角三角形全等的判定-HL知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：直角三角形全等的判定-HL在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_037_ex06",
+    "knowledge_id": "g2_math_037",
+    "question": "综合题：结合所学知识，谈谈直角三角形全等的判定-HL在数学中的地位和作用。",
+    "answer": "答案：直角三角形全等的判定-HL是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_037_ex07",
+    "knowledge_id": "g2_math_037",
+    "question": "填空题：HL 定理：...，这体现了直角三角形全等的判定-HL的______。",
+    "answer": "答案：重要性质/特点\n解析：这是直角三角形全等的判定-HL的重要内容。"
+  },
+  {
+    "id": "g2_math_037_ex08",
+    "knowledge_id": "g2_math_037",
+    "question": "填空题：HL 定理：...，这体现了直角三角形全等的判定-HL的______。",
+    "answer": "答案：重要性质/特点\n解析：这是直角三角形全等的判定-HL的重要内容。"
+  },
+  {
+    "id": "g2_math_037_ex09",
+    "knowledge_id": "g2_math_037",
+    "question": "填空题：HL 定理：...，这体现了直角三角形全等的判定-HL的______。",
+    "answer": "答案：重要性质/特点\n解析：这是直角三角形全等的判定-HL的重要内容。"
+  },
+  {
+    "id": "g2_math_037_ex10",
+    "knowledge_id": "g2_math_037",
+    "question": "填空题：HL 定理：...，这体现了直角三角形全等的判定-HL的______。",
+    "answer": "答案：重要性质/特点\n解析：这是直角三角形全等的判定-HL的重要内容。"
+  },
+  {
+    "id": "g2_math_038_ex01",
+    "knowledge_id": "g2_math_038",
+    "question": "选择题：下列关于轴对称图形的说法，正确的是（  ）\nA. 完全错误的说法\nB. 常见的轴对称图形：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：常见的轴对称图形："
+  },
+  {
+    "id": "g2_math_038_ex02",
+    "knowledge_id": "g2_math_038",
+    "question": "填空题：轴对称图形的公式是：______。",
+    "answer": "答案：对称轴\n解析：这是轴对称图形的基本公式。"
+  },
+  {
+    "id": "g2_math_038_ex03",
+    "knowledge_id": "g2_math_038",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 常见的轴对称图形：\nB. 正确说法B\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_038_ex04",
+    "knowledge_id": "g2_math_038",
+    "question": "填空题：轴对称图形成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意轴对称图形的前提条件。"
+  },
+  {
+    "id": "g2_math_038_ex05",
+    "knowledge_id": "g2_math_038",
+    "question": "选择题：下列生活实例中，可以用轴对称图形知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：轴对称图形在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_038_ex06",
+    "knowledge_id": "g2_math_038",
+    "question": "综合题：结合所学知识，谈谈轴对称图形在数学中的地位和作用。",
+    "answer": "答案：轴对称图形是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_038_ex07",
+    "knowledge_id": "g2_math_038",
+    "question": "填空题：常见的轴对称图形：...，这体现了轴对称图形的______。",
+    "answer": "答案：重要性质/特点\n解析：这是轴对称图形的重要内容。"
+  },
+  {
+    "id": "g2_math_038_ex08",
+    "knowledge_id": "g2_math_038",
+    "question": "填空题：常见的轴对称图形：...，这体现了轴对称图形的______。",
+    "answer": "答案：重要性质/特点\n解析：这是轴对称图形的重要内容。"
+  },
+  {
+    "id": "g2_math_038_ex09",
+    "knowledge_id": "g2_math_038",
+    "question": "填空题：常见的轴对称图形：...，这体现了轴对称图形的______。",
+    "answer": "答案：重要性质/特点\n解析：这是轴对称图形的重要内容。"
+  },
+  {
+    "id": "g2_math_038_ex10",
+    "knowledge_id": "g2_math_038",
+    "question": "填空题：常见的轴对称图形：...，这体现了轴对称图形的______。",
+    "answer": "答案：重要性质/特点\n解析：这是轴对称图形的重要内容。"
+  },
+  {
+    "id": "g2_math_039_ex01",
+    "knowledge_id": "g2_math_039",
+    "question": "选择题：下列关于线段垂直平分线的性质的说法，正确的是（  ）\nA. 完全错误的说法\nB. 垂直平分线：经过线段中点并且垂直于这条线段的直线叫做这条线段的垂直平分线。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：垂直平分线：经过线段中点并且垂直于这条线段的直线叫做这条线段的垂直平分线。"
+  },
+  {
+    "id": "g2_math_039_ex02",
+    "knowledge_id": "g2_math_039",
+    "question": "填空题：线段垂直平分线的性质的公式是：______。",
+    "answer": "答案：到线段两端距离相等的点在这条线段的垂直平分线上\n解析：这是线段垂直平分线的性质的基本公式。"
+  },
+  {
+    "id": "g2_math_039_ex03",
+    "knowledge_id": "g2_math_039",
+    "question": "判断题：性质：。（  ）",
+    "answer": "答案：正确\n解析：性质："
+  },
+  {
+    "id": "g2_math_039_ex04",
+    "knowledge_id": "g2_math_039",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 垂直平分线：经过线段中点并且垂直于这条线段的直线叫做这条线段\nB. 性质：\nC. 明显错误的说法（与定义相反）\nD. 线段垂直平分线上的点到这条线段两端点的距离相等",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_039_ex05",
+    "knowledge_id": "g2_math_039",
+    "question": "填空题：线段垂直平分线的性质成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意线段垂直平分线的性质的前提条件。"
+  },
+  {
+    "id": "g2_math_039_ex06",
+    "knowledge_id": "g2_math_039",
+    "question": "简答题：线段垂直平分线的性质有哪些主要性质？",
+    "answer": "答案：垂直平分线：经过线段中点并且垂直于这条线段的直线叫做这条线段的垂直平分线。；性质：；线段垂直平分线上的点到这条线段两端点的距离相等。\n解析：这些是线段垂直平分线的性质的重要性质。"
+  },
+  {
+    "id": "g2_math_039_ex07",
+    "knowledge_id": "g2_math_039",
+    "question": "选择题：下列生活实例中，可以用线段垂直平分线的性质知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：线段垂直平分线的性质在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_039_ex08",
+    "knowledge_id": "g2_math_039",
+    "question": "综合题：结合所学知识，谈谈线段垂直平分线的性质在数学中的地位和作用。",
+    "answer": "答案：线段垂直平分线的性质是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_039_ex09",
+    "knowledge_id": "g2_math_039",
+    "question": "填空题：垂直平分线：经过线段中点并且垂直于这条线...，这体现了线段垂直平分线的______。",
+    "answer": "答案：重要性质/特点\n解析：这是线段垂直平分线的性质的重要内容。"
+  },
+  {
+    "id": "g2_math_039_ex10",
+    "knowledge_id": "g2_math_039",
+    "question": "填空题：性质：...，这体现了线段垂直平分线的______。",
+    "answer": "答案：重要性质/特点\n解析：这是线段垂直平分线的性质的重要内容。"
+  },
+  {
+    "id": "g2_math_040_ex01",
+    "knowledge_id": "g2_math_040",
+    "question": "选择题：下列关于等腰三角形的性质的说法，正确的是（  ）\nA. 完全错误的说法\nB. 等腰三角形：有两条边相等的三角形。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：等腰三角形：有两条边相等的三角形。"
+  },
+  {
+    "id": "g2_math_040_ex02",
+    "knowledge_id": "g2_math_040",
+    "question": "填空题：等腰三角形的性质的公式是：______。",
+    "answer": "答案：等腰三角形两底角相等\n解析：这是等腰三角形的性质的基本公式。"
+  },
+  {
+    "id": "g2_math_040_ex03",
+    "knowledge_id": "g2_math_040",
+    "question": "判断题：性质：。（  ）",
+    "answer": "答案：正确\n解析：性质："
+  },
+  {
+    "id": "g2_math_040_ex04",
+    "knowledge_id": "g2_math_040",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 等腰三角形：有两条边相等的三角形。\nB. 性质：\nC. 明显错误的说法（与定义相反）\nD. 等腰三角形的两底角相等（等边对等角）",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_040_ex05",
+    "knowledge_id": "g2_math_040",
+    "question": "填空题：等腰三角形的性质成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意等腰三角形的性质的前提条件。"
+  },
+  {
+    "id": "g2_math_040_ex06",
+    "knowledge_id": "g2_math_040",
+    "question": "简答题：等腰三角形的性质有哪些主要性质？",
+    "answer": "答案：等腰三角形：有两条边相等的三角形。；性质：；等腰三角形的两底角相等（等边对等角）。\n解析：这些是等腰三角形的性质的重要性质。"
+  },
+  {
+    "id": "g2_math_040_ex07",
+    "knowledge_id": "g2_math_040",
+    "question": "选择题：下列生活实例中，可以用等腰三角形的性质知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：等腰三角形的性质在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_040_ex08",
+    "knowledge_id": "g2_math_040",
+    "question": "综合题：结合所学知识，谈谈等腰三角形的性质在数学中的地位和作用。",
+    "answer": "答案：等腰三角形的性质是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_040_ex09",
+    "knowledge_id": "g2_math_040",
+    "question": "填空题：等腰三角形：有两条边相等的三角形。...，这体现了等腰三角形的______。",
+    "answer": "答案：重要性质/特点\n解析：这是等腰三角形的性质的重要内容。"
+  },
+  {
+    "id": "g2_math_040_ex10",
+    "knowledge_id": "g2_math_040",
+    "question": "填空题：性质：...，这体现了等腰三角形的______。",
+    "answer": "答案：重要性质/特点\n解析：这是等腰三角形的性质的重要内容。"
+  },
+  {
+    "id": "g2_math_041_ex01",
+    "knowledge_id": "g2_math_041",
+    "question": "选择题：下列关于等边三角形的性质的说法，正确的是（  ）\nA. 完全错误的说法\nB. 等边三角形：三条边都相等的三角形。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：等边三角形：三条边都相等的三角形。"
+  },
+  {
+    "id": "g2_math_041_ex02",
+    "knowledge_id": "g2_math_041",
+    "question": "填空题：等边三角形的性质的公式是：______。",
+    "answer": "答案：三边相等，三个角都等于 60°\n解析：这是等边三角形的性质的基本公式。"
+  },
+  {
+    "id": "g2_math_041_ex03",
+    "knowledge_id": "g2_math_041",
+    "question": "判断题：性质：。（  ）",
+    "answer": "答案：正确\n解析：性质："
+  },
+  {
+    "id": "g2_math_041_ex04",
+    "knowledge_id": "g2_math_041",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 等边三角形：三条边都相等的三角形。\nB. 性质：\nC. 明显错误的说法（与定义相反）\nD. 三边相等",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_041_ex05",
+    "knowledge_id": "g2_math_041",
+    "question": "填空题：等边三角形的性质成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意等边三角形的性质的前提条件。"
+  },
+  {
+    "id": "g2_math_041_ex06",
+    "knowledge_id": "g2_math_041",
+    "question": "简答题：等边三角形的性质有哪些主要性质？",
+    "answer": "答案：等边三角形：三条边都相等的三角形。；性质：；三边相等。\n解析：这些是等边三角形的性质的重要性质。"
+  },
+  {
+    "id": "g2_math_041_ex07",
+    "knowledge_id": "g2_math_041",
+    "question": "选择题：下列生活实例中，可以用等边三角形的性质知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：等边三角形的性质在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_041_ex08",
+    "knowledge_id": "g2_math_041",
+    "question": "综合题：结合所学知识，谈谈等边三角形的性质在数学中的地位和作用。",
+    "answer": "答案：等边三角形的性质是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_041_ex09",
+    "knowledge_id": "g2_math_041",
+    "question": "填空题：等边三角形：三条边都相等的三角形。...，这体现了等边三角形的______。",
+    "answer": "答案：重要性质/特点\n解析：这是等边三角形的性质的重要内容。"
+  },
+  {
+    "id": "g2_math_041_ex10",
+    "knowledge_id": "g2_math_041",
+    "question": "填空题：性质：...，这体现了等边三角形的______。",
+    "answer": "答案：重要性质/特点\n解析：这是等边三角形的性质的重要内容。"
+  },
+  {
+    "id": "g2_math_042_ex01",
+    "knowledge_id": "g2_math_042",
+    "question": "选择题：下列关于同底数幂的乘法的说法，正确的是（  ）\nA. 完全错误的说法\nB. 推广：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：推广："
+  },
+  {
+    "id": "g2_math_042_ex02",
+    "knowledge_id": "g2_math_042",
+    "question": "填空题：同底数幂的乘法的公式是：______。",
+    "answer": "答案：aᵐ · aⁿ = aᵐ⁺ⁿ (m, n 是正整数)\n解析：这是同底数幂的乘法的基本公式。"
+  },
+  {
+    "id": "g2_math_042_ex03",
+    "knowledge_id": "g2_math_042",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 推广：\nB. 正确说法B\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_042_ex04",
+    "knowledge_id": "g2_math_042",
+    "question": "填空题：同底数幂的乘法成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意同底数幂的乘法的前提条件。"
+  },
+  {
+    "id": "g2_math_042_ex05",
+    "knowledge_id": "g2_math_042",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用同底数幂的乘法的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_042_ex06",
+    "knowledge_id": "g2_math_042",
+    "question": "选择题：下列生活实例中，可以用同底数幂的乘法知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：同底数幂的乘法在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_042_ex07",
+    "knowledge_id": "g2_math_042",
+    "question": "综合题：结合所学知识，谈谈同底数幂的乘法在数学中的地位和作用。",
+    "answer": "答案：同底数幂的乘法是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_042_ex08",
+    "knowledge_id": "g2_math_042",
+    "question": "填空题：推广：...，这体现了同底数幂的乘法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是同底数幂的乘法的重要内容。"
+  },
+  {
+    "id": "g2_math_042_ex09",
+    "knowledge_id": "g2_math_042",
+    "question": "填空题：推广：...，这体现了同底数幂的乘法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是同底数幂的乘法的重要内容。"
+  },
+  {
+    "id": "g2_math_042_ex10",
+    "knowledge_id": "g2_math_042",
+    "question": "填空题：推广：...，这体现了同底数幂的乘法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是同底数幂的乘法的重要内容。"
+  },
+  {
+    "id": "g2_math_043_ex01",
+    "knowledge_id": "g2_math_043",
+    "question": "选择题：下列关于幂的乘方与积的乘方的说法，正确的是（  ）\nA. 完全错误的说法\nB. 幂的乘方：底数不变，指数相乘。(aᵐ)ⁿ = aᵐⁿ\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：幂的乘方：底数不变，指数相乘。(aᵐ)ⁿ = aᵐⁿ"
+  },
+  {
+    "id": "g2_math_043_ex02",
+    "knowledge_id": "g2_math_043",
+    "question": "填空题：幂的乘方与积的乘方的公式是：______。",
+    "answer": "答案：(aᵐ)ⁿ = aᵐⁿ\n解析：这是幂的乘方与积的乘方的基本公式。"
+  },
+  {
+    "id": "g2_math_043_ex03",
+    "knowledge_id": "g2_math_043",
+    "question": "判断题：积的乘方：把积的每一个因式分别乘方，再把所得的幂相乘。(ab)ⁿ = aⁿbⁿ。（  ）",
+    "answer": "答案：正确\n解析：积的乘方：把积的每一个因式分别乘方，再把所得的幂相乘。(ab)ⁿ = aⁿbⁿ"
+  },
+  {
+    "id": "g2_math_043_ex04",
+    "knowledge_id": "g2_math_043",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 幂的乘方：底数不变，指数相乘。(aᵐ)ⁿ = aᵐⁿ\nB. 积的乘方：把积的每一个因式分别乘方，再把所得的幂相乘。(ab\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_043_ex05",
+    "knowledge_id": "g2_math_043",
+    "question": "填空题：幂的乘方与积的乘方成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意幂的乘方与积的乘方的前提条件。"
+  },
+  {
+    "id": "g2_math_043_ex06",
+    "knowledge_id": "g2_math_043",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用幂的乘方与积的乘方的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_043_ex07",
+    "knowledge_id": "g2_math_043",
+    "question": "选择题：下列生活实例中，可以用幂的乘方与积的乘方知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：幂的乘方与积的乘方在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_043_ex08",
+    "knowledge_id": "g2_math_043",
+    "question": "综合题：结合所学知识，谈谈幂的乘方与积的乘方在数学中的地位和作用。",
+    "answer": "答案：幂的乘方与积的乘方是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_043_ex09",
+    "knowledge_id": "g2_math_043",
+    "question": "填空题：幂的乘方：底数不变，指数相乘。(aᵐ)ⁿ...，这体现了幂的乘方与积的乘方的______。",
+    "answer": "答案：重要性质/特点\n解析：这是幂的乘方与积的乘方的重要内容。"
+  },
+  {
+    "id": "g2_math_043_ex10",
+    "knowledge_id": "g2_math_043",
+    "question": "填空题：积的乘方：把积的每一个因式分别乘方，再把...，这体现了幂的乘方与积的乘方的______。",
+    "answer": "答案：重要性质/特点\n解析：这是幂的乘方与积的乘方的重要内容。"
+  },
+  {
+    "id": "g2_math_044_ex01",
+    "knowledge_id": "g2_math_044",
+    "question": "选择题：下列关于同底数幂的除法的说法，正确的是（  ）\nA. 完全错误的说法\nB. 零指数幂：a⁰ = 1 (a ≠ 0)\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：零指数幂：a⁰ = 1 (a ≠ 0)"
+  },
+  {
+    "id": "g2_math_044_ex02",
+    "knowledge_id": "g2_math_044",
+    "question": "填空题：同底数幂的除法的公式是：______。",
+    "answer": "答案：aᵐ / aⁿ = aᵐ⁻ⁿ (a ≠ 0, m > n)\n解析：这是同底数幂的除法的基本公式。"
+  },
+  {
+    "id": "g2_math_044_ex03",
+    "knowledge_id": "g2_math_044",
+    "question": "判断题：负指数幂：a⁻ⁿ = 1/aⁿ (a ≠ 0)。（  ）",
+    "answer": "答案：正确\n解析：负指数幂：a⁻ⁿ = 1/aⁿ (a ≠ 0)"
+  },
+  {
+    "id": "g2_math_044_ex04",
+    "knowledge_id": "g2_math_044",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 零指数幂：a⁰ = 1 (a ≠ 0)\nB. 负指数幂：a⁻ⁿ = 1/aⁿ (a ≠ 0)\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_044_ex05",
+    "knowledge_id": "g2_math_044",
+    "question": "填空题：同底数幂的除法成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意同底数幂的除法的前提条件。"
+  },
+  {
+    "id": "g2_math_044_ex06",
+    "knowledge_id": "g2_math_044",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用同底数幂的除法的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_044_ex07",
+    "knowledge_id": "g2_math_044",
+    "question": "选择题：下列生活实例中，可以用同底数幂的除法知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：同底数幂的除法在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_044_ex08",
+    "knowledge_id": "g2_math_044",
+    "question": "综合题：结合所学知识，谈谈同底数幂的除法在数学中的地位和作用。",
+    "answer": "答案：同底数幂的除法是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_044_ex09",
+    "knowledge_id": "g2_math_044",
+    "question": "填空题：零指数幂：a⁰ = 1 (a ≠ 0)...，这体现了同底数幂的除法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是同底数幂的除法的重要内容。"
+  },
+  {
+    "id": "g2_math_044_ex10",
+    "knowledge_id": "g2_math_044",
+    "question": "填空题：负指数幂：a⁻ⁿ = 1/aⁿ (a ≠...，这体现了同底数幂的除法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是同底数幂的除法的重要内容。"
+  },
+  {
+    "id": "g2_math_045_ex01",
+    "knowledge_id": "g2_math_045",
+    "question": "选择题：下列关于整式的乘法的说法，正确的是（  ）\nA. 完全错误的说法\nB. 单项式乘单项式：系数相乘，同底数幂相乘。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：单项式乘单项式：系数相乘，同底数幂相乘。"
+  },
+  {
+    "id": "g2_math_045_ex02",
+    "knowledge_id": "g2_math_045",
+    "question": "填空题：整式的乘法的公式是：______。",
+    "answer": "答案：(a + b)(c + d) = ac + ad + bc + bd\n解析：这是整式的乘法的基本公式。"
+  },
+  {
+    "id": "g2_math_045_ex03",
+    "knowledge_id": "g2_math_045",
+    "question": "判断题：单项式乘多项式：m(a+b+c) = ma + mb + mc。（  ）",
+    "answer": "答案：正确\n解析：单项式乘多项式：m(a+b+c) = ma + mb + mc"
+  },
+  {
+    "id": "g2_math_045_ex04",
+    "knowledge_id": "g2_math_045",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 单项式乘单项式：系数相乘，同底数幂相乘。\nB. 单项式乘多项式：m(a+b+c) = ma + mb + m\nC. 明显错误的说法（与定义相反）\nD. 多项式乘多项式：(a+b)(c+d) = ac + ad +",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_045_ex05",
+    "knowledge_id": "g2_math_045",
+    "question": "填空题：整式的乘法成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意整式的乘法的前提条件。"
+  },
+  {
+    "id": "g2_math_045_ex06",
+    "knowledge_id": "g2_math_045",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用整式的乘法的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_045_ex07",
+    "knowledge_id": "g2_math_045",
+    "question": "简答题：整式的乘法有哪些主要性质？",
+    "answer": "答案：单项式乘单项式：系数相乘，同底数幂相乘。；单项式乘多项式：m(a+b+c) = ma + mb + mc；多项式乘多项式：(a+b)(c+d) = ac + ad + bc + bd。\n解析：这些是整式的乘法的重要性质。"
+  },
+  {
+    "id": "g2_math_045_ex08",
+    "knowledge_id": "g2_math_045",
+    "question": "选择题：下列生活实例中，可以用整式的乘法知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：整式的乘法在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_045_ex09",
+    "knowledge_id": "g2_math_045",
+    "question": "综合题：结合所学知识，谈谈整式的乘法在数学中的地位和作用。",
+    "answer": "答案：整式的乘法是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_045_ex10",
+    "knowledge_id": "g2_math_045",
+    "question": "填空题：单项式乘单项式：系数相乘，同底数幂相乘。...，这体现了整式的乘法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是整式的乘法的重要内容。"
+  },
+  {
+    "id": "g2_math_046_ex01",
+    "knowledge_id": "g2_math_046",
+    "question": "选择题：下列关于乘法公式-平方差公式的说法，正确的是（  ）\nA. 完全错误的说法\nB. 应用：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：应用："
+  },
+  {
+    "id": "g2_math_046_ex02",
+    "knowledge_id": "g2_math_046",
+    "question": "填空题：乘法公式-平方差公式的公式是：______。",
+    "answer": "答案：(a + b)(a - b) = a² - b²\n解析：这是乘法公式-平方差公式的基本公式。"
+  },
+  {
+    "id": "g2_math_046_ex03",
+    "knowledge_id": "g2_math_046",
+    "question": "判断题：- 简便计算：(x+3)(x-3) = x² - 9。（  ）",
+    "answer": "答案：正确\n解析：- 简便计算：(x+3)(x-3) = x² - 9"
+  },
+  {
+    "id": "g2_math_046_ex04",
+    "knowledge_id": "g2_math_046",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 应用：\nB. - 简便计算：(x+3)(x-3) = x² - 9\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_046_ex05",
+    "knowledge_id": "g2_math_046",
+    "question": "填空题：乘法公式-平方差公式成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意乘法公式-平方差公式的前提条件。"
+  },
+  {
+    "id": "g2_math_046_ex06",
+    "knowledge_id": "g2_math_046",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用乘法公式-平方差公式的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_046_ex07",
+    "knowledge_id": "g2_math_046",
+    "question": "选择题：下列生活实例中，可以用乘法公式-平方差公式知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：乘法公式-平方差公式在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_046_ex08",
+    "knowledge_id": "g2_math_046",
+    "question": "综合题：结合所学知识，谈谈乘法公式-平方差公式在数学中的地位和作用。",
+    "answer": "答案：乘法公式-平方差公式是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_046_ex09",
+    "knowledge_id": "g2_math_046",
+    "question": "填空题：应用：...，这体现了乘法公式-平方差公式的______。",
+    "answer": "答案：重要性质/特点\n解析：这是乘法公式-平方差公式的重要内容。"
+  },
+  {
+    "id": "g2_math_046_ex10",
+    "knowledge_id": "g2_math_046",
+    "question": "填空题：- 简便计算：(x+3)(x-3) = ...，这体现了乘法公式-平方差公式的______。",
+    "answer": "答案：重要性质/特点\n解析：这是乘法公式-平方差公式的重要内容。"
+  },
+  {
+    "id": "g2_math_047_ex01",
+    "knowledge_id": "g2_math_047",
+    "question": "选择题：下列关于乘法公式-完全平方公式的说法，正确的是（  ）\nA. 完全错误的说法\nB. 应用：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：应用："
+  },
+  {
+    "id": "g2_math_047_ex02",
+    "knowledge_id": "g2_math_047",
+    "question": "填空题：乘法公式-完全平方公式的公式是：______。",
+    "answer": "答案：(a + b)² = a² + 2ab + b²\n解析：这是乘法公式-完全平方公式的基本公式。"
+  },
+  {
+    "id": "g2_math_047_ex03",
+    "knowledge_id": "g2_math_047",
+    "question": "判断题：- 简便计算：(x+5)² = x² + 10x + 25。（  ）",
+    "answer": "答案：正确\n解析：- 简便计算：(x+5)² = x² + 10x + 25"
+  },
+  {
+    "id": "g2_math_047_ex04",
+    "knowledge_id": "g2_math_047",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 应用：\nB. - 简便计算：(x+5)² = x² + 10x + 25\nC. 明显错误的说法（与定义相反）\nD. - 完全平方式：a² ± 2ab + b²",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_047_ex05",
+    "knowledge_id": "g2_math_047",
+    "question": "填空题：乘法公式-完全平方公式成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意乘法公式-完全平方公式的前提条件。"
+  },
+  {
+    "id": "g2_math_047_ex06",
+    "knowledge_id": "g2_math_047",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用乘法公式-完全平方公式的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_047_ex07",
+    "knowledge_id": "g2_math_047",
+    "question": "简答题：乘法公式-完全平方公式有哪些主要性质？",
+    "answer": "答案：应用：；- 简便计算：(x+5)² = x² + 10x + 25；- 完全平方式：a² ± 2ab + b²。\n解析：这些是乘法公式-完全平方公式的重要性质。"
+  },
+  {
+    "id": "g2_math_047_ex08",
+    "knowledge_id": "g2_math_047",
+    "question": "选择题：下列生活实例中，可以用乘法公式-完全平方公式知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：乘法公式-完全平方公式在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_047_ex09",
+    "knowledge_id": "g2_math_047",
+    "question": "综合题：结合所学知识，谈谈乘法公式-完全平方公式在数学中的地位和作用。",
+    "answer": "答案：乘法公式-完全平方公式是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_047_ex10",
+    "knowledge_id": "g2_math_047",
+    "question": "填空题：应用：...，这体现了乘法公式-完全平方公式的______。",
+    "answer": "答案：重要性质/特点\n解析：这是乘法公式-完全平方公式的重要内容。"
+  },
+  {
+    "id": "g2_math_048_ex01",
+    "knowledge_id": "g2_math_048",
+    "question": "选择题：下列关于因式分解的说法，正确的是（  ）\nA. 完全错误的说法\nB. 因式分解：把一个多项式化为几个整式的积的形式。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：因式分解：把一个多项式化为几个整式的积的形式。"
+  },
+  {
+    "id": "g2_math_048_ex02",
+    "knowledge_id": "g2_math_048",
+    "question": "填空题：因式分解的公式是：______。",
+    "answer": "答案：提公因式法、公式法\n解析：这是因式分解的基本公式。"
+  },
+  {
+    "id": "g2_math_048_ex03",
+    "knowledge_id": "g2_math_048",
+    "question": "判断题：常用方法：。（  ）",
+    "answer": "答案：正确\n解析：常用方法："
+  },
+  {
+    "id": "g2_math_048_ex04",
+    "knowledge_id": "g2_math_048",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 因式分解：把一个多项式化为几个整式的积的形式。\nB. 常用方法：\nC. 明显错误的说法（与定义相反）\nD. 提公因式法：ma + mb = m(a + b)",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_048_ex05",
+    "knowledge_id": "g2_math_048",
+    "question": "填空题：因式分解成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意因式分解的前提条件。"
+  },
+  {
+    "id": "g2_math_048_ex06",
+    "knowledge_id": "g2_math_048",
+    "question": "简答题：因式分解有哪些主要性质？",
+    "answer": "答案：因式分解：把一个多项式化为几个整式的积的形式。；常用方法：；提公因式法：ma + mb = m(a + b)。\n解析：这些是因式分解的重要性质。"
+  },
+  {
+    "id": "g2_math_048_ex07",
+    "knowledge_id": "g2_math_048",
+    "question": "选择题：下列生活实例中，可以用因式分解知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：因式分解在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_048_ex08",
+    "knowledge_id": "g2_math_048",
+    "question": "综合题：结合所学知识，谈谈因式分解在数学中的地位和作用。",
+    "answer": "答案：因式分解是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_048_ex09",
+    "knowledge_id": "g2_math_048",
+    "question": "填空题：因式分解：把一个多项式化为几个整式的积的...，这体现了因式分解的______。",
+    "answer": "答案：重要性质/特点\n解析：这是因式分解的重要内容。"
+  },
+  {
+    "id": "g2_math_048_ex10",
+    "knowledge_id": "g2_math_048",
+    "question": "填空题：常用方法：...，这体现了因式分解的______。",
+    "answer": "答案：重要性质/特点\n解析：这是因式分解的重要内容。"
+  },
+  {
+    "id": "g2_math_049_ex01",
+    "knowledge_id": "g2_math_049",
+    "question": "选择题：下列关于分式的概念的说法，正确的是（  ）\nA. 完全错误的说法\nB. 注意：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：注意："
+  },
+  {
+    "id": "g2_math_049_ex02",
+    "knowledge_id": "g2_math_049",
+    "question": "填空题：分式的概念的公式是：______。",
+    "answer": "答案：A/B (B 中含有字母，B ≠ 0)\n解析：这是分式的概念的基本公式。"
+  },
+  {
+    "id": "g2_math_049_ex03",
+    "knowledge_id": "g2_math_049",
+    "question": "判断题：分式中分母 B ≠ 0（分母为零时无意义）。（  ）",
+    "answer": "答案：正确\n解析：分式中分母 B ≠ 0（分母为零时无意义）"
+  },
+  {
+    "id": "g2_math_049_ex04",
+    "knowledge_id": "g2_math_049",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 注意：\nB. 分式中分母 B ≠ 0（分母为零时无意义）\nC. 明显错误的说法（与定义相反）\nD. 当 A = 0 时，分式 A/B = 0（前提是 B ≠ 0",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_049_ex05",
+    "knowledge_id": "g2_math_049",
+    "question": "填空题：分式的概念成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意分式的概念的前提条件。"
+  },
+  {
+    "id": "g2_math_049_ex06",
+    "knowledge_id": "g2_math_049",
+    "question": "简答题：分式的概念有哪些主要性质？",
+    "answer": "答案：注意：；分式中分母 B ≠ 0（分母为零时无意义）；当 A = 0 时，分式 A/B = 0（前提是 B ≠ 0）。\n解析：这些是分式的概念的重要性质。"
+  },
+  {
+    "id": "g2_math_049_ex07",
+    "knowledge_id": "g2_math_049",
+    "question": "选择题：下列生活实例中，可以用分式的概念知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：分式的概念在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_049_ex08",
+    "knowledge_id": "g2_math_049",
+    "question": "综合题：结合所学知识，谈谈分式的概念在数学中的地位和作用。",
+    "answer": "答案：分式的概念是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_049_ex09",
+    "knowledge_id": "g2_math_049",
+    "question": "填空题：注意：...，这体现了分式的______。",
+    "answer": "答案：重要性质/特点\n解析：这是分式的概念的重要内容。"
+  },
+  {
+    "id": "g2_math_049_ex10",
+    "knowledge_id": "g2_math_049",
+    "question": "填空题：分式中分母 B ≠ 0（分母为零时无意义...，这体现了分式的______。",
+    "answer": "答案：重要性质/特点\n解析：这是分式的概念的重要内容。"
+  },
+  {
+    "id": "g2_math_050_ex01",
+    "knowledge_id": "g2_math_050",
+    "question": "选择题：下列关于分式的基本性质的说法，正确的是（  ）\nA. 完全错误的说法\nB. 应用：\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：应用："
+  },
+  {
+    "id": "g2_math_050_ex02",
+    "knowledge_id": "g2_math_050",
+    "question": "填空题：分式的基本性质的公式是：______。",
+    "answer": "答案：A/B = A·C / B·C = A÷C / B÷C (B ≠ 0, C ≠ 0)\n解析：这是分式的基本性质的基本公式。"
+  },
+  {
+    "id": "g2_math_050_ex03",
+    "knowledge_id": "g2_math_050",
+    "question": "判断题：约分：将分子分母同除以公因式。（  ）",
+    "answer": "答案：正确\n解析：约分：将分子分母同除以公因式"
+  },
+  {
+    "id": "g2_math_050_ex04",
+    "knowledge_id": "g2_math_050",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 应用：\nB. 约分：将分子分母同除以公因式\nC. 明显错误的说法（与定义相反）\nD. 通分：将异分母分式化为同分母分式",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_050_ex05",
+    "knowledge_id": "g2_math_050",
+    "question": "填空题：分式的基本性质成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意分式的基本性质的前提条件。"
+  },
+  {
+    "id": "g2_math_050_ex06",
+    "knowledge_id": "g2_math_050",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用分式的基本性质的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_050_ex07",
+    "knowledge_id": "g2_math_050",
+    "question": "简答题：分式的基本性质有哪些主要性质？",
+    "answer": "答案：应用：；约分：将分子分母同除以公因式；通分：将异分母分式化为同分母分式。\n解析：这些是分式的基本性质的重要性质。"
+  },
+  {
+    "id": "g2_math_050_ex08",
+    "knowledge_id": "g2_math_050",
+    "question": "选择题：下列生活实例中，可以用分式的基本性质知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：分式的基本性质在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_050_ex09",
+    "knowledge_id": "g2_math_050",
+    "question": "综合题：结合所学知识，谈谈分式的基本性质在数学中的地位和作用。",
+    "answer": "答案：分式的基本性质是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_050_ex10",
+    "knowledge_id": "g2_math_050",
+    "question": "填空题：应用：...，这体现了分式的基本性质的______。",
+    "answer": "答案：重要性质/特点\n解析：这是分式的基本性质的重要内容。"
+  },
+  {
+    "id": "g2_math_051_ex01",
+    "knowledge_id": "g2_math_051",
+    "question": "选择题：下列关于分式的乘除法的说法，正确的是（  ）\nA. 完全错误的说法\nB. 分式乘分式：用分子的积作为积的分子，分母的积作为积的分母。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：分式乘分式：用分子的积作为积的分子，分母的积作为积的分母。"
+  },
+  {
+    "id": "g2_math_051_ex02",
+    "knowledge_id": "g2_math_051",
+    "question": "填空题：分式的乘除法的公式是：______。",
+    "answer": "答案：a/b · c/d = ac/bd\n解析：这是分式的乘除法的基本公式。"
+  },
+  {
+    "id": "g2_math_051_ex03",
+    "knowledge_id": "g2_math_051",
+    "question": "判断题：分式除以分式：把除式的分子分母颠倒位置后，与被除式相乘。。（  ）",
+    "answer": "答案：正确\n解析：分式除以分式：把除式的分子分母颠倒位置后，与被除式相乘。"
+  },
+  {
+    "id": "g2_math_051_ex04",
+    "knowledge_id": "g2_math_051",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 分式乘分式：用分子的积作为积的分子，分母的积作为积的分母。\nB. 分式除以分式：把除式的分子分母颠倒位置后，与被除式相乘。\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_051_ex05",
+    "knowledge_id": "g2_math_051",
+    "question": "填空题：分式的乘除法成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意分式的乘除法的前提条件。"
+  },
+  {
+    "id": "g2_math_051_ex06",
+    "knowledge_id": "g2_math_051",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用分式的乘除法的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_051_ex07",
+    "knowledge_id": "g2_math_051",
+    "question": "选择题：下列生活实例中，可以用分式的乘除法知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：分式的乘除法在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_051_ex08",
+    "knowledge_id": "g2_math_051",
+    "question": "综合题：结合所学知识，谈谈分式的乘除法在数学中的地位和作用。",
+    "answer": "答案：分式的乘除法是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_051_ex09",
+    "knowledge_id": "g2_math_051",
+    "question": "填空题：分式乘分式：用分子的积作为积的分子，分母...，这体现了分式的乘除法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是分式的乘除法的重要内容。"
+  },
+  {
+    "id": "g2_math_051_ex10",
+    "knowledge_id": "g2_math_051",
+    "question": "填空题：分式除以分式：把除式的分子分母颠倒位置后...，这体现了分式的乘除法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是分式的乘除法的重要内容。"
+  },
+  {
+    "id": "g2_math_052_ex01",
+    "knowledge_id": "g2_math_052",
+    "question": "选择题：下列关于分式的加减法的说法，正确的是（  ）\nA. 完全错误的说法\nB. 同分母分式相加减：分母不变，分子相加减。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：同分母分式相加减：分母不变，分子相加减。"
+  },
+  {
+    "id": "g2_math_052_ex02",
+    "knowledge_id": "g2_math_052",
+    "question": "填空题：分式的加减法的公式是：______。",
+    "answer": "答案：同分母：a/c ± b/c = (a ± b)/c\n解析：这是分式的加减法的基本公式。"
+  },
+  {
+    "id": "g2_math_052_ex03",
+    "knowledge_id": "g2_math_052",
+    "question": "判断题：异分母分式相加减：先通分，化为同分母分式，然后再加减。。（  ）",
+    "answer": "答案：正确\n解析：异分母分式相加减：先通分，化为同分母分式，然后再加减。"
+  },
+  {
+    "id": "g2_math_052_ex04",
+    "knowledge_id": "g2_math_052",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 同分母分式相加减：分母不变，分子相加减。\nB. 异分母分式相加减：先通分，化为同分母分式，然后再加减。\nC. 明显错误的说法（与定义相反）\nD. 正确说法D",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_052_ex05",
+    "knowledge_id": "g2_math_052",
+    "question": "填空题：分式的加减法成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意分式的加减法的前提条件。"
+  },
+  {
+    "id": "g2_math_052_ex06",
+    "knowledge_id": "g2_math_052",
+    "question": "计算题：根据公式计算简单的例题。",
+    "answer": "答案：（根据具体公式计算）\n解析：运用分式的加减法的公式进行计算，注意条件和单位。"
+  },
+  {
+    "id": "g2_math_052_ex07",
+    "knowledge_id": "g2_math_052",
+    "question": "选择题：下列生活实例中，可以用分式的加减法知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：分式的加减法在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_052_ex08",
+    "knowledge_id": "g2_math_052",
+    "question": "综合题：结合所学知识，谈谈分式的加减法在数学中的地位和作用。",
+    "answer": "答案：分式的加减法是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_052_ex09",
+    "knowledge_id": "g2_math_052",
+    "question": "填空题：同分母分式相加减：分母不变，分子相加减。...，这体现了分式的加减法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是分式的加减法的重要内容。"
+  },
+  {
+    "id": "g2_math_052_ex10",
+    "knowledge_id": "g2_math_052",
+    "question": "填空题：异分母分式相加减：先通分，化为同分母分式...，这体现了分式的加减法的______。",
+    "answer": "答案：重要性质/特点\n解析：这是分式的加减法的重要内容。"
+  },
+  {
+    "id": "g2_math_053_ex01",
+    "knowledge_id": "g2_math_053",
+    "question": "选择题：下列关于分式方程的说法，正确的是（  ）\nA. 完全错误的说法\nB. 分式方程：分母中含有未知数的方程。\nC. 错误的说法\nD. 与知识点无关的说法",
+    "answer": "答案：B\n解析：分式方程：分母中含有未知数的方程。"
+  },
+  {
+    "id": "g2_math_053_ex02",
+    "knowledge_id": "g2_math_053",
+    "question": "填空题：分式方程的公式是：______。",
+    "answer": "答案：解分式方程：去分母 → 解整式方程 → 验根\n解析：这是分式方程的基本公式。"
+  },
+  {
+    "id": "g2_math_053_ex03",
+    "knowledge_id": "g2_math_053",
+    "question": "判断题：解法步骤：。（  ）",
+    "answer": "答案：正确\n解析：解法步骤："
+  },
+  {
+    "id": "g2_math_053_ex04",
+    "knowledge_id": "g2_math_053",
+    "question": "选择题：下列说法中，错误的是（  ）\nA. 分式方程：分母中含有未知数的方程。\nB. 解法步骤：\nC. 明显错误的说法（与定义相反）\nD. 在方程两边同乘最简公分母，去分母",
+    "answer": "答案：C\n解析：A、B、D都是正确的，C是错误的。"
+  },
+  {
+    "id": "g2_math_053_ex05",
+    "knowledge_id": "g2_math_053",
+    "question": "填空题：分式方程成立的条件是______。",
+    "answer": "答案：根据具体知识点确定（如a≥0等）\n解析：要注意分式方程的前提条件。"
+  },
+  {
+    "id": "g2_math_053_ex06",
+    "knowledge_id": "g2_math_053",
+    "question": "简答题：分式方程有哪些主要性质？",
+    "answer": "答案：分式方程：分母中含有未知数的方程。；解法步骤：；在方程两边同乘最简公分母，去分母。\n解析：这些是分式方程的重要性质。"
+  },
+  {
+    "id": "g2_math_053_ex07",
+    "knowledge_id": "g2_math_053",
+    "question": "选择题：下列生活实例中，可以用分式方程知识解释的是（  ）\nA. 测量身高\nB. 计算路程\nC. 具体应用场景\nD. 做饭",
+    "answer": "答案：C\n解析：分式方程在实际生活中有广泛应用。"
+  },
+  {
+    "id": "g2_math_053_ex08",
+    "knowledge_id": "g2_math_053",
+    "question": "综合题：结合所学知识，谈谈分式方程在数学中的地位和作用。",
+    "answer": "答案：分式方程是数学中的重要知识点，是后续学习的基础。它与其他知识点有密切联系，在实际生活中也有广泛应用。\n解析：学习数学要注意知识之间的联系，形成知识网络。"
+  },
+  {
+    "id": "g2_math_053_ex09",
+    "knowledge_id": "g2_math_053",
+    "question": "填空题：分式方程：分母中含有未知数的方程。...，这体现了分式方程的______。",
+    "answer": "答案：重要性质/特点\n解析：这是分式方程的重要内容。"
+  },
+  {
+    "id": "g2_math_053_ex10",
+    "knowledge_id": "g2_math_053",
+    "question": "填空题：解法步骤：...，这体现了分式方程的______。",
+    "answer": "答案：重要性质/特点\n解析：这是分式方程的重要内容。"
   }
 ]
