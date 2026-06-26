@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const EXAMPLE_DIR = path.join(__dirname, '..', 'data', 'examples');
+const count = parseInt(process.argv[2]) || 10;
 
 const files = fs.readdirSync(EXAMPLE_DIR).filter(f => f.startsWith('g2_') && f.endsWith('.json'));
 
@@ -17,9 +18,8 @@ files.forEach(f => {
 
 console.log(`初二例题总数: ${allExamples.length}\n`);
 
-// 随机抽10道
 const shuffled = allExamples.sort(() => Math.random() - 0.5);
-const picked = shuffled.slice(0, 10);
+const picked = shuffled.slice(0, count);
 
 picked.forEach((ex, i) => {
     console.log(`===== 第${i+1}题 =====`);

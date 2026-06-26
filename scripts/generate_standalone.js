@@ -6,6 +6,25 @@ const dataDir = 'data';
 const knowledgeDir = path.join(dataDir, 'knowledge');
 const examplesDir = path.join(dataDir, 'examples');
 
+// 读取版本信息
+const versionFile = 'version.json';
+let versionInfo = { version: '1.0.0', lastUpdate: '' };
+if (fs.existsSync(versionFile)) {
+    versionInfo = JSON.parse(fs.readFileSync(versionFile, 'utf8'));
+}
+
+// 更新版本号（补丁版本+1）和更新日期
+function bumpVersion() {
+    const parts = versionInfo.version.split('.');
+    parts[2] = parseInt(parts[2]) + 1;
+    versionInfo.version = parts.join('.');
+    versionInfo.lastUpdate = new Date().toISOString().split('T')[0];
+    fs.writeFileSync(versionFile, JSON.stringify(versionInfo, null, 2), 'utf8');
+    console.log(`版本更新: v${versionInfo.version} (${versionInfo.lastUpdate})`);
+}
+
+bumpVersion();
+
 // 年级配置
 const grades = {
     grade1: {
@@ -257,6 +276,7 @@ const indexHtml = `<!DOCTYPE html>
 
         <footer class="text-center text-gray-400 text-sm mt-8">
             <p>初中知识点背诵系统 · 北京人教版</p>
+            <p class="mt-1">v${versionInfo.version} · 更新于 ${versionInfo.lastUpdate}</p>
         </footer>
     </div>
 
