@@ -95,8 +95,22 @@ function loadKnowledgeByFiles(files) {
 // 加载指定科目的例题
 function loadExamplesBySubject(gradePrefix, subjectKey) {
     const examples = [];
-    const files = fs.readdirSync(examplesDir).filter(f => f.startsWith(`${gradePrefix}${subjectKey}_`) && f.endsWith('.json'));
-    files.forEach(f => {
+    const allFiles = fs.readdirSync(examplesDir).filter(f => f.startsWith(`${gradePrefix}${subjectKey}_`) && f.endsWith('.json'));
+    
+    // 检查是否有单独的例题文件（格式：g2_math_001_010.json）
+    const individualPattern = new RegExp(`^${gradePrefix}${subjectKey}_\\d+_\\d+\\.json$`);
+    const individualFiles = allFiles.filter(f => individualPattern.test(f));
+    
+    let filesToLoad = [];
+    if (individualFiles.length > 0) {
+        // 有单独文件，优先使用单独文件（排除汇总文件）
+        filesToLoad = individualFiles;
+    } else {
+        // 没有单独文件，使用所有匹配的文件（包括 quality 文件）
+        filesToLoad = allFiles;
+    }
+    
+    filesToLoad.forEach(f => {
         const filePath = path.join(examplesDir, f);
         const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
         if (Array.isArray(data)) {
@@ -221,8 +235,8 @@ const indexHtml = `<!DOCTYPE html>
                             <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
                         </div>
                         <div class="flex gap-2">
-                            <a href="knowledge_${key}.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
-                            <a href="knowledge_${key}.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                            <a href="knowledge_g2_${key}.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_g2_${key}.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
                         </div>
                     </div>
                     `).join('')}
@@ -355,7 +369,7 @@ const indexHtml = `<!DOCTYPE html>
                 continueStudyDiv.classList.remove('hidden');
                 
                 btnContinue.addEventListener('click', () => {
-                    const url = 'knowledge_' + lastStudy.subject + '.html?semester=' + lastStudy.semester + '#' + lastStudy.knowledgeId;
+                    const url = 'knowledge_' + lastStudy.grade + '_' + lastStudy.subject + '.html?semester=' + lastStudy.semester + '#' + lastStudy.knowledgeId;
                     window.location.href = url;
                 });
             }
