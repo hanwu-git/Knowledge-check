@@ -15,10 +15,17 @@ if (fs.existsSync(versionFile)) {
 
 // 更新版本号（补丁版本+1）和更新日期
 function bumpVersion() {
+    const today = new Date().toISOString().split('T')[0];
+    if (versionInfo.lastUpdate === today) {
+        versionInfo.lastUpdate = today;
+        console.log(`版本保持: v${versionInfo.version} (${versionInfo.lastUpdate})`);
+        return;
+    }
     const parts = versionInfo.version.split('.');
+    while (parts.length < 3) parts.push('0');
     parts[2] = parseInt(parts[2]) + 1;
     versionInfo.version = parts.join('.');
-    versionInfo.lastUpdate = new Date().toISOString().split('T')[0];
+    versionInfo.lastUpdate = today;
     fs.writeFileSync(versionFile, JSON.stringify(versionInfo, null, 2), 'utf8');
     console.log(`版本更新: v${versionInfo.version} (${versionInfo.lastUpdate})`);
 }

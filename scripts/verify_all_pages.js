@@ -9,6 +9,7 @@
  * 5. 每个知识点是否有对应例题
  * 6. 例题数量是否符合预期
  * 7. 首页链接是否正确
+ * 8. 例题质量检测（占位符选项、模板化题目等）
  */
 const fs = require('fs');
 const path = require('path');
@@ -76,6 +77,8 @@ existingPages.forEach(page => {
         orphanExamples: [],
         exampleCounts: {},
         hasDuplicates: false,
+        badExampleCount: 0,
+        badExamples: [],
         errors: [],
         warnings: []
     };
@@ -161,6 +164,15 @@ existingPages.forEach(page => {
                 }
             }
             
+            // 例题质量检测
+            const qualityResult = checkExampleQuality(examples);
+            result.badExampleCount = qualityResult.badCount;
+            result.badExamples = qualityResult.badExamples;
+            
+            if (result.badExampleCount > 0) {
+                result.errors.push(`${result.badExampleCount} 道低质量例题`);
+            }
+            
         } catch(e) {
             result.errors.push(`例题JSON解析失败: ${e.message}`);
         }
@@ -225,6 +237,18 @@ Object.entries(config.GRADES).forEach(([gradeKey, grade]) => {
                 console.log(`        ... 还有 ${r.missingExamples.length - 5} 个`);
             }
         }
+        
+        // 如果有低质量例题，列出前10个
+        if (r.badExamples && r.badExamples.length > 0) {
+            const showCount = Math.min(10, r.badExamples.length);
+            console.log(`        低质量例题 (前${showCount}道):`);
+            r.badExamples.slice(0, showCount).forEach(bad => {
+                console.log(`          - ${bad.id} (${bad.type})`);
+            });
+            if (r.badExamples.length > 10) {
+                console.log(`          ... 还有 ${r.badExamples.length - 10} 道`);
+            }
+        }
     });
     
     console.log('');
@@ -277,5 +301,74 @@ if (totalErrors === 0 && totalWarnings === 0) {
 
 console.log('='.repeat(70));
 
+// ==================== 例题质量检测函数 ====================
+
+function checkExampleQuality(examples) {
+    const badPatterns = [
+        { name: '错误说法X选项', pattern: /^错误说法[A-D]$/, checkOption: true },
+        { name: '正确说法X选项', pattern: /^正确说法[A-D]$/, checkOption: true },
+        { name: '选项X占位符', pattern: /^选项[A-D]$/, checkOption: true },
+        { name: '单位X占位符', pattern: /^单位[A-D]$/, checkOption: true },
+        { name: '错误运算示例', pattern: /错误的运算示例/, checkOption: true },
+        { name: '正确运算示例', pattern: /正确的运算示例/, checkOption: true },
+        { name: '关于...的某个说法', pattern: /关于.*的某个说法/, checkOption: false },
+        { name: '某个重要性质描述', pattern: /的某个重要性质描述/, checkOption: false },
+        { name: '某个常见错误描述', pattern: /的某个常见错误描述/, checkOption: false },
+        { name: '根据知识点判断', pattern: /根据知识点判断/, checkOption: false },
+        { name: '根据知识点举例', pattern: /根据知识点举例说明/, checkOption: false },
+        { name: '综合运用知识解答', pattern: /综合运用知识解答/, checkOption: false },
+        { name: '根据具体定义填写', pattern: /根据具体定义填写/, checkOption: false },
+        { name: '核心公式是', pattern: /的核心公式是/, checkOption: false },
+        { name: '请简述主要内容', pattern: /请简述.*的主要内容/, checkOption: false },
+        { name: '空模板答案-根据知识点填写', pattern: /根据知识点填写/, checkAnswer: true },
+        { name: '空模板答案-答案和解析', pattern: /答案和解析\.\.\./, checkAnswer: true },
+    ];
+    
+    function getOptionTexts(question) {
+        const lines = question.split('\n');
+        return lines
+            .filter(l => /^[A-D][\.、]/.test(l.trim()))
+            .map(l => l.replace(/^[A-D][\.、]\s*/, '').trim());
+    }
+    
+    const badExamples = [];
+    
+    examples.forEach(ex => {
+        let isBad = false;
+        let badType = '';
+        
+        const options = getOptionTexts(ex.question);
+        
+        for (const p of badPatterns) {
+            if (p.checkOption) {
+                for (const opt of options) {
+                    if (p.pattern.test(opt)) {
+                        isBad = true;
+                        badType = p.name;
+                        break;
+                    }
+                }
+            } else if (p.checkAnswer) {
+                if (p.pattern.test(ex.answer || '')) {
+                    isBad = true;
+                    badType = p.name;
+                }
+            } else {
+                if (p.pattern.test(ex.question)) {
+                    isBad = true;
+                    badType = p.name;
+                }
+            }
+            if (isBad) break;
+        }
+        
+        if (isBad) {
+            badExamples.push({ id: ex.id, knowledge_id: ex.knowledge_id, type: badType });
+        }
+    });
+    
+    return { badCount: badExamples.length, badExamples };
+}
+
 // 导出结果供其他脚本使用
-module.exports = { results, totalErrors, totalWarnings };
+module.exports = { results, totalErrors, totalWarnings, checkExampleQuality };
