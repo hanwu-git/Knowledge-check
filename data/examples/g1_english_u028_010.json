@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u028_ex01",
+    "knowledge_id": "g1_english_u028",
+    "question": "选择题：\"my mother's bag 我妈妈的包\n\n2\" 的中文意思是（  ）\nA. 以s结尾的复数名词加'\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"my mother's bag 我妈妈的包\n\n2\" 的意思是\"以s结尾的复数名词加'\"。"
+  },
+  {
+    "id": "g1_english_u028_ex02",
+    "knowledge_id": "g1_english_u028",
+    "question": "选择题：\"不以s结尾的复数名词加's\" 的英文表达是（  ）\nA. 错误的句子\nB. two hours' walk 两小时的步行路程\n\n3\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"不以s结尾的复数名词加's\" 的正确英文是 \"two hours' walk 两小时的步行路程\n\n3\"。"
+  },
+  {
+    "id": "g1_english_u028_ex03",
+    "knowledge_id": "g1_english_u028",
+    "question": "填空题：名词所有格的规则可以概括为：______。",
+    "answer": "答案：单数加's，复数s结尾加'\n解析：这是名词所有格的核心规则。"
+  },
+  {
+    "id": "g1_english_u028_ex04",
+    "knowledge_id": "g1_english_u028",
+    "question": "判断题：\"women's clothes 女人的衣服\n\n4\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"共同所有和分别所有\"。"
+  },
+  {
+    "id": "g1_english_u028_ex05",
+    "knowledge_id": "g1_english_u028",
+    "question": "改错题：\"my mother's bag 我妈妈的包\n\n2\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"my mother's bag 我妈妈的包\n\n2\"。\n解析：要注意名词所有格的正确用法。"
+  },
+  {
+    "id": "g1_english_u028_ex06",
+    "knowledge_id": "g1_english_u028",
+    "question": "句型转换：将句子 \"two hours' walk 两小时的步行路程\n\n3\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_u028_ex07",
+    "knowledge_id": "g1_english_u028",
+    "question": "填空题：\"不以s结尾的复数名词加's\" 的英文是：______。",
+    "answer": "答案：two hours' walk 两小时的步行路程\n\n3\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u028_ex08",
+    "knowledge_id": "g1_english_u028",
+    "question": "填空题：\"共同所有和分别所有\" 的英文是：______。",
+    "answer": "答案：women's clothes 女人的衣服\n\n4\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u028_ex09",
+    "knowledge_id": "g1_english_u028",
+    "question": "填空题：\"表示时间、距离、国家等的名词也可用's\" 的英文是：______。",
+    "answer": "答案：the door of the room 房间的门\n2\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u028_ex10",
+    "knowledge_id": "g1_english_u028",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u023_ex01",
+    "knowledge_id": "g1_geography_u023",
+    "question": "选择题：人口增长过快可能带来的问题有（  ）\nA. 劳动力短缺\nB. 国防兵源不足\nC. 就业困难、资源紧张\nD. 社会养老负担重",
+    "answer": "答案：C\n解析：人口增长过快会导致资源紧张、就业困难等问题。"
+  },
+  {
+    "id": "g1_geography_u023_ex02",
+    "knowledge_id": "g1_geography_u023",
+    "question": "填空题：人口增长过慢可能带来的问题有：劳动力不足、______等。",
+    "answer": "答案：社会养老负担重、国防兵源不足\n解析：人口负增长带来的问题。"
+  },
+  {
+    "id": "g1_geography_u023_ex03",
+    "knowledge_id": "g1_geography_u023",
+    "question": "判断题：人口增长应与资源、环境相协调，与社会经济发展相适应。（  ）",
+    "answer": "答案：正确\n解析：可持续发展理念。"
+  },
+  {
+    "id": "g1_geography_u023_ex04",
+    "knowledge_id": "g1_geography_u023",
+    "question": "填空题：人口稀疏区主要分布在极端干旱的沙漠地区、______、地势高峻的高原山地和原始的热带雨林地区。",
+    "answer": "答案：过于湿热的热带雨林、严寒的极地\n解析：人口稀疏区分布。"
+  },
+  {
+    "id": "g1_geography_u023_ex05",
+    "knowledge_id": "g1_geography_u023",
+    "question": "选择题：人口密度是指（  ）\nA. 单位面积的人口数\nB. 总人口数\nC. 人口出生率\nD. 人口死亡率",
+    "answer": "答案：A\n解析：人口密度 = 总人口/面积。"
+  }
+]

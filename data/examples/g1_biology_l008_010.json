@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l008_ex01",
+    "knowledge_id": "g1_biology_l008",
+    "question": "填空题：肺与外界的气体交换是通过______实现的。",
+    "answer": "答案：呼吸运动\n解析：呼吸运动使胸廓容积变化。"
+  },
+  {
+    "id": "g1_biology_l008_ex02",
+    "knowledge_id": "g1_biology_l008",
+    "question": "判断题：吸气时，肋骨向下向内运动，膈顶部下降。（  ）",
+    "answer": "答案：错误\n解析：吸气时肋骨向上向外运动，膈顶部下降。"
+  },
+  {
+    "id": "g1_biology_l008_ex03",
+    "knowledge_id": "g1_biology_l008",
+    "question": "填空题：气体交换的原理是______。",
+    "answer": "答案：气体扩散\n解析：气体由高浓度向低浓度扩散。"
+  },
+  {
+    "id": "g1_biology_l008_ex04",
+    "knowledge_id": "g1_biology_l008",
+    "question": "选择题：肺泡与血液的气体交换，氧气由肺泡进入血液，原因是（  ）\nA. 肺泡压力高\nB. 血液氧气浓度低\nC. 两者无关\nD. 肺泡主动运输",
+    "answer": "答案：B\n解析：氧气扩散到血液中是因为血液中氧气浓度低。"
+  },
+  {
+    "id": "g1_biology_l008_ex05",
+    "knowledge_id": "g1_biology_l008",
+    "question": "填空题：氧气与血红蛋白结合的部位是______。",
+    "answer": "答案：毛细血管\n解析：氧气在肺部毛细血管与血红蛋白结合。"
+  }
+]

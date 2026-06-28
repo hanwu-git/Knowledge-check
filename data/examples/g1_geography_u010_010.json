@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u010_ex01",
+    "knowledge_id": "g1_geography_u010",
+    "question": "填空题：等高线是______相等的点的连线。",
+    "answer": "答案：海拔\n解析：等高线是海拔相等的点的连线。"
+  },
+  {
+    "id": "g1_geography_u010_ex02",
+    "knowledge_id": "g1_geography_u010",
+    "question": "判断题：等高线越密集，表示坡度越陡。（  ）",
+    "answer": "答案：正确\n解析：等高线密集，水平距离小，坡度陡。"
+  },
+  {
+    "id": "g1_geography_u010_ex03",
+    "knowledge_id": "g1_geography_u010",
+    "question": "选择题：在等高线地形图上，山脊的等高线向哪个方向弯曲？（  ）\nA. 高处\nB. 低处\nC. 不弯曲\nD. 不确定",
+    "answer": "答案：B\n解析：山脊等高线向低处（山谷）方向弯曲。"
+  },
+  {
+    "id": "g1_geography_u010_ex04",
+    "knowledge_id": "g1_geography_u010",
+    "question": "填空题：等高线重叠的地方表示______。",
+    "answer": "答案：陡崖\n解析：等高线重叠表示陡崖（悬崖）。"
+  },
+  {
+    "id": "g1_geography_u010_ex05",
+    "knowledge_id": "g1_geography_u010",
+    "question": "选择题：相邻两条等高线之间的高度差叫做（  ）\nA. 等高距\nB. 相对高度\nC. 坡度\nD. 海拔差",
+    "answer": "答案：A\n解析：等高距是相邻两条等高线之间的高度差。"
+  }
+]

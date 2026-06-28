@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u018_ex01",
+    "knowledge_id": "g1_math_u018",
+    "question": "填空题：等式两边都加上同一个数，等式仍然成立。",
+    "answer": "答案：正确\n解析：这是等式的基本性质1。"
+  },
+  {
+    "id": "g1_math_u018_ex02",
+    "knowledge_id": "g1_math_u018",
+    "question": "填空题：若x = y，则x + 3 = y + 3。",
+    "answer": "答案：正确\n解析：等式两边加同一个数，等式仍成立。"
+  },
+  {
+    "id": "g1_math_u018_ex03",
+    "knowledge_id": "g1_math_u018",
+    "question": "选择题：下列变形中，正确的是（  ）\nA. 若x = y，则x/a = y/a\nB. 若x = y，则x·a = y·a\nC. 若x = y，则x - 2 = y + 2\nD. 若x = y，则x² = y",
+    "answer": "答案：B\n解析：等式两边乘同一个数，等式仍成立。"
+  },
+  {
+    "id": "g1_math_u018_ex04",
+    "knowledge_id": "g1_math_u018",
+    "question": "判断题：等式两边同时除以同一个数，等式仍然成立。（  ）",
+    "answer": "答案：错误\n解析：不能除以0。"
+  },
+  {
+    "id": "g1_math_u018_ex05",
+    "knowledge_id": "g1_math_u018",
+    "question": "应用题：利用等式性质解方程：x - 5 = 3",
+    "answer": "答案：x = 8\n解析：两边加5，得x = 8。"
+  }
+]

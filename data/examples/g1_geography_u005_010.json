@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u005_ex01",
+    "knowledge_id": "g1_geography_u005",
+    "question": "填空题：地球自转的方向是______。",
+    "answer": "答案：自西向东\n解析：地球自西向东自转，从北极上空看为逆时针方向。"
+  },
+  {
+    "id": "g1_geography_u005_ex02",
+    "knowledge_id": "g1_geography_u005",
+    "question": "选择题：地球自转一周所需的时间约为（  ）\nA. 24小时\nB. 一年\nC. 一个月\nD. 12小时",
+    "answer": "答案：A\n解析：地球自转一周约为24小时，形成昼夜交替。"
+  },
+  {
+    "id": "g1_geography_u005_ex03",
+    "knowledge_id": "g1_geography_u005",
+    "question": "判断题：地球自转产生昼夜更替。（  ）",
+    "answer": "答案：正确\n解析：地球不透明，地球自转产生昼夜更替现象。"
+  },
+  {
+    "id": "g1_geography_u005_ex04",
+    "knowledge_id": "g1_geography_u005",
+    "question": "选择题：下列现象由地球自转产生的是（  ）\nA. 四季变化\nB. 昼夜长短变化\nC. 太阳东升西落\nD. 五带划分",
+    "answer": "答案：C\n解析：太阳东升西落是由地球自转产生的。"
+  },
+  {
+    "id": "g1_geography_u005_ex05",
+    "knowledge_id": "g1_geography_u005",
+    "question": "填空题：地球自转产生的地理意义有：昼夜更替、______更替和产生时差。",
+    "answer": "答案：地方时\n解析：地球自西向东自转造成东边比西边先看到太阳，产生时差。"
+  }
+]

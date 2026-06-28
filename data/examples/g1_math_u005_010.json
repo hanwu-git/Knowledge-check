@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u005_ex01",
+    "knowledge_id": "g1_math_u005",
+    "question": "选择题：| -8 | = （  ）\nA. 8\nB. -8\nC. ±8\nD. 0",
+    "answer": "答案：A\n解析：绝对值表示数轴上点到原点的距离，所以|-8| = 8。"
+  },
+  {
+    "id": "g1_math_u005_ex02",
+    "knowledge_id": "g1_math_u005",
+    "question": "判断题：绝对值等于它本身的数只有正数。（  ）",
+    "answer": "答案：错误\n解析：绝对值等于它本身的数是正数和0，即非负数。"
+  },
+  {
+    "id": "g1_math_u005_ex03",
+    "knowledge_id": "g1_math_u005",
+    "question": "填空题：若|x| = 5，则x = ______。",
+    "answer": "答案：±5\n解析：绝对值为5的数有两个：5和-5。"
+  },
+  {
+    "id": "g1_math_u005_ex04",
+    "knowledge_id": "g1_math_u005",
+    "question": "选择题：比较大小：-| -3 | ______ -(-3)\nA. >\nB. <\nC. =\nD. 无法比较",
+    "answer": "答案：B\n解析：-| -3 | = -3，-(-3) = 3，所以-3 < 3。"
+  },
+  {
+    "id": "g1_math_u005_ex05",
+    "knowledge_id": "g1_math_u005",
+    "question": "填空题：| 0 | = ______。",
+    "answer": "答案：0\n解析：0的绝对值是0。"
+  }
+]

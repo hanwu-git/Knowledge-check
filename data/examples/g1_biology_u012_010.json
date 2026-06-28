@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u012_ex01",
+    "knowledge_id": "g1_biology_u012",
+    "question": "填空题：种子植物包括______植物和被子植物。",
+    "answer": "答案：裸子\n解析：种子植物分为裸子植物和被子植物。"
+  },
+  {
+    "id": "g1_biology_u012_ex02",
+    "knowledge_id": "g1_biology_u012",
+    "question": "选择题：下列植物中，属于裸子植物的是（  ）\nA. 苹果\nB. 水稻\nC. 松树\nD. 玫瑰",
+    "answer": "答案：C\n解析：松、柏、杉等是裸子植物。"
+  },
+  {
+    "id": "g1_biology_u012_ex03",
+    "knowledge_id": "g1_biology_u012",
+    "question": "判断题：被子植物的种子外面有果皮包被。（  ）",
+    "answer": "答案：正确\n解析：果皮包被是被子植物的特征。"
+  },
+  {
+    "id": "g1_biology_u012_ex04",
+    "knowledge_id": "g1_biology_u012",
+    "question": "填空题：菜豆种子的子叶数目是______片，玉米种子的子叶数目是______片。",
+    "answer": "答案：两；一\n解析：双子叶植物子叶2片，单子叶植物子叶1片。"
+  },
+  {
+    "id": "g1_biology_u012_ex05",
+    "knowledge_id": "g1_biology_u012",
+    "question": "选择题：松子没有果皮包被，属于（  ）\nA. 被子植物\nB. 裸子植物\nC. 蕨类植物\nD. 苔藓植物",
+    "answer": "答案：B\n解析：种子裸露，没有果皮包被是裸子植物。"
+  }
+]

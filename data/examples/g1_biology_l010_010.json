@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l010_ex01",
+    "knowledge_id": "g1_biology_l010",
+    "question": "填空题：血液由血浆和血细胞组成，血细胞包括红细胞、白细胞和______。",
+    "answer": "答案：血小板\n解析：血液组成。"
+  },
+  {
+    "id": "g1_biology_l010_ex02",
+    "knowledge_id": "g1_biology_l010",
+    "question": "选择题：红细胞的主要功能是（  ）\nA. 吞噬病菌\nB. 运输氧气\nC. 止血凝血\nD. 运输二氧化碳",
+    "answer": "答案：B\n解析：红细胞含血红蛋白运输氧气。"
+  },
+  {
+    "id": "g1_biology_l010_ex03",
+    "knowledge_id": "g1_biology_l010",
+    "question": "填空题：人体患急性炎症时，______数量会明显增多。",
+    "answer": "答案：白细胞\n解析：白细胞有防御功能，炎症时数量增多。"
+  },
+  {
+    "id": "g1_biology_l010_ex04",
+    "knowledge_id": "g1_biology_l010",
+    "question": "判断题：血小板有细胞核。（  ）",
+    "answer": "答案：错误\n解析：血小板没有细胞核，是细胞碎片。"
+  },
+  {
+    "id": "g1_biology_l010_ex05",
+    "knowledge_id": "g1_biology_l010",
+    "question": "填空题：血浆的主要功能是运载血细胞、运输______和______。",
+    "answer": "答案：营养物质；废物\n解析：血浆的功能。"
+  }
+]

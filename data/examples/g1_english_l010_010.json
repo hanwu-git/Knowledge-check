@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l010_ex01",
+    "knowledge_id": "g1_english_l010",
+    "question": "选择题：\"What do you do? / What's your job? 你是做什么工作的？\n  I'm a teacher\" 的中文意思是（  ）\nA. 我是一名老师。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"What do you do? / What's your job? 你是做什么工作的？\n  I'm a teacher\" 的意思是\"我是一名老师。\"。"
+  },
+  {
+    "id": "g1_english_l010_ex02",
+    "knowledge_id": "g1_english_l010",
+    "question": "选择题：\"他是一名医生。\" 的英文表达是（  ）\nA. 错误的句子\nB. What does your father do? 你爸爸是做什么的？\n  He is a doctor\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"他是一名医生。\" 的正确英文是 \"What does your father do? 你爸爸是做什么的？\n  He is a doctor\"。"
+  },
+  {
+    "id": "g1_english_l010_ex03",
+    "knowledge_id": "g1_english_l010",
+    "question": "填空题：英语单词 \"teacher\" 的中文意思是______。",
+    "answer": "答案：老师\n解析：teacher 是一个常用单词，意思是\"老师\"。"
+  },
+  {
+    "id": "g1_english_l010_ex04",
+    "knowledge_id": "g1_english_l010",
+    "question": "选择题：下列单词中，表示\"医生\"的是（  ）\nA. teacher\nB. doctor\nC. nurse\nD. worker",
+    "answer": "答案：B\n解析：doctor 的意思是\"医生\"。"
+  },
+  {
+    "id": "g1_english_l010_ex05",
+    "knowledge_id": "g1_english_l010",
+    "question": "填空题：职业的规则可以概括为：______。",
+    "answer": "答案：teacher, doctor, worker, farmer, driver\n解析：这是职业的核心规则。"
+  },
+  {
+    "id": "g1_english_l010_ex06",
+    "knowledge_id": "g1_english_l010",
+    "question": "判断题：\"Where does your mother work? 你妈妈在哪里工作？\n  She works in a hospital\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"她在医院工作。\"。"
+  },
+  {
+    "id": "g1_english_l010_ex07",
+    "knowledge_id": "g1_english_l010",
+    "question": "改错题：\"What do you do? / What's your job? 你是做什么工作的？\n  I'm a teacher\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"What do you do? / What's your job? 你是做什么工作的？\n  I'm a teacher\"。\n解析：要注意职业的正确用法。"
+  },
+  {
+    "id": "g1_english_l010_ex08",
+    "knowledge_id": "g1_english_l010",
+    "question": "句型转换：将句子 \"What does your father do? 你爸爸是做什么的？\n  He is a doctor\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l010_ex09",
+    "knowledge_id": "g1_english_l010",
+    "question": "匹配题：请将下列单词与对应的中文意思连线。\n1. teacher    A. 护士\n2. doctor    B. 老师\n3. nurse    C. 工人\n4. worker    D. 医生",
+    "answer": "答案：1-B, 2-D, 3-A, 4-C\n解析：要准确掌握单词的意思。"
+  },
+  {
+    "id": "g1_english_l010_ex10",
+    "knowledge_id": "g1_english_l010",
+    "question": "写作题：用 \"teacher\" 这个单词写一个英语句子。",
+    "answer": "答案（示例）：What do you do? / What's your job? 你是做什么工作的？\n  I'm a teacher\n解析：造句要注意语法正确，意思通顺。"
+  }
+]

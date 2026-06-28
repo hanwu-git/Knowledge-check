@@ -2,61 +2,61 @@
   {
     "id": "g2_math_035_ex01",
     "knowledge_id": "g2_math_035",
-    "question": "填空题：三角形全等的判定-ASA的核心公式是______。",
-    "answer": "答案：两角和它们的夹边对应相等的两个三角形全等\n解析：这是三角形全等的判定-ASA的基本公式，需要牢记。"
+    "question": "选择题：下列各组条件中，能判定△ABC ≌ △DEF的是（  ）\nA. ∠A=∠D, ∠B=∠E, AB=DE\nB. ∠A=∠D, ∠B=∠E, BC=EF\nC. AB=DE, BC=EF, ∠A=∠D\nD. ∠A=∠D, ∠B=∠E, ∠C=∠F",
+    "answer": "答案：A\n解析：A选项是两角和它们的夹边对应相等（ASA），可以判定全等。"
   },
   {
     "id": "g2_math_035_ex02",
     "knowledge_id": "g2_math_035",
-    "question": "判断题：关于三角形全等的判定-ASA的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "填空题：如果两个三角形的两角和它们的______分别对应相等，那么这两个三角形全等（ASA）。",
+    "answer": "答案：夹边\n解析：ASA判定定理：两角和它们的夹边对应相等的两个三角形全等。"
   },
   {
     "id": "g2_math_035_ex03",
     "knowledge_id": "g2_math_035",
-    "question": "解答题：请简要说明三角形全等的判定-ASA的主要内容和应用。",
-    "answer": "答案：角边角（ASA）：\n如果两个三角形的两角和它们的夹边分别相等，那么这两个三角形全等。...\n解析：本题考察对三角形全等的判定-ASA的理解和应用能力。"
+    "question": "选择题：在△ABC和△DEF中，∠A=∠D=50°，∠B=∠E=60°，AB=DE=7cm，则△ABC与△DEF（  ）\nA. 不全等\nB. 全等\nC. 面积相等但不全等\nD. 无法确定",
+    "answer": "答案：B\n解析：两角和夹边对应相等，符合ASA判定定理。"
   },
   {
     "id": "g2_math_035_ex04",
     "knowledge_id": "g2_math_035",
-    "question": "选择题：下列关于\"三角形全等的判定-ASA\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据三角形全等的判定-ASA的定义和性质，选项C是正确的。"
+    "question": "判断题：ASA中的边必须是两角的夹边。",
+    "answer": "答案：正确\n解析：ASA即角边角，边必须在两个角之间。"
   },
   {
     "id": "g2_math_035_ex05",
     "knowledge_id": "g2_math_035",
-    "question": "填空题：三角形全等的判定-ASA的核心公式是______。",
-    "answer": "答案：两角和它们的夹边对应相等的两个三角形全等\n解析：这是三角形全等的判定-ASA的基本公式，需要牢记。"
+    "question": "解答题：如图，已知∠BAD=∠CAD，AD为公共边，∠ADB=∠ADC，求证：△ABD ≌ △ACD。",
+    "answer": "答案：证明：在△ABD和△ACD中\n∠BAD=∠CAD（已知）\nAD=AD（公共边）\n∠ADB=∠ADC（已知）\n∴ △ABD ≌ △ACD（ASA）\n解析：∠BAD和∠ADB的夹边是AD，∠CAD和∠ADC的夹边是AD，符合ASA。"
   },
   {
     "id": "g2_math_035_ex06",
     "knowledge_id": "g2_math_035",
-    "question": "判断题：关于三角形全等的判定-ASA的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：用ASA判定两个三角形全等，需要知道（  ）\nA. 三条边对应相等\nB. 两个角和它们的夹边对应相等\nC. 两个角和其中一角的对边对应相等\nD. 三条边对应相等",
+    "answer": "答案：B\n解析：ASA即角边角，需要两个角和它们的夹边对应相等。"
   },
   {
     "id": "g2_math_035_ex07",
     "knowledge_id": "g2_math_035",
-    "question": "解答题：请简要说明三角形全等的判定-ASA的主要内容和应用。",
-    "answer": "答案：角边角（ASA）：\n如果两个三角形的两角和它们的夹边分别相等，那么这两个三角形全等。...\n解析：本题考察对三角形全等的判定-ASA的理解和应用能力。"
+    "question": "填空题：ASA的全称是______。",
+    "answer": "答案：角边角\n解析：ASA是Angle-Side-Angle的缩写，即两角和夹边对应相等。"
   },
   {
     "id": "g2_math_035_ex08",
     "knowledge_id": "g2_math_035",
-    "question": "选择题：下列关于\"三角形全等的判定-ASA\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据三角形全等的判定-ASA的定义和性质，选项C是正确的。"
+    "question": "判断题：ASA和AAS是两种不同的全等判定方法。",
+    "answer": "答案：正确\n解析：ASA是两角和夹边，AAS是两角和其中一角的对边。"
   },
   {
     "id": "g2_math_035_ex09",
     "knowledge_id": "g2_math_035",
-    "question": "填空题：三角形全等的判定-ASA的核心公式是______。",
-    "answer": "答案：两角和它们的夹边对应相等的两个三角形全等\n解析：这是三角形全等的判定-ASA的基本公式，需要牢记。"
+    "question": "解答题：已知△ABC中，∠A=70°，∠B=50°，AB=9cm，△DEF中，∠D=70°，∠E=50°，DE=9cm，求证△ABC ≌ △DEF。",
+    "answer": "答案：证明：在△ABC和△DEF中\n∠A=∠D=70°（已知）\nAB=DE=9cm（已知）\n∠B=∠E=50°（已知）\n∴ △ABC ≌ △DEF（ASA）\n解析：∠A和∠B的夹边是AB，∠D和∠E的夹边是DE，符合ASA。"
   },
   {
-    "id": "g2_math_035_ex010",
+    "id": "g2_math_035_ex10",
     "knowledge_id": "g2_math_035",
-    "question": "判断题：关于三角形全等的判定-ASA的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法错误的是（  ）\nA. ASA可以判定三角形全等\nB. ASA需要两个角和夹边对应相等\nC. ASA中的边在两个角之间\nD. ASA只适用于等腰三角形",
+    "answer": "答案：D\n解析：ASA适用于所有三角形，不是只适用于等腰三角形。"
   }
 ]

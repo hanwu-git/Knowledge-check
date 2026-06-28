@@ -1,0 +1,26 @@
+[
+  {
+    "id": "g1_biology_l009_ex01",
+    "knowledge_id": "g1_biology_l009",
+    "question": "填空题：空气污染会导致______系统疾病。",
+    "answer": "答案：呼吸\n解析：空气污染首先影响呼吸系统。"
+  },
+  {
+    "id": "g1_biology_l009_ex02",
+    "knowledge_id": "g1_biology_l009",
+    "question": "判断题：植树造林可以改善空气质量。（  ）",
+    "answer": "答案：正确\n解析：绿色植物吸收有害气体、滞尘、释放氧气。"
+  },
+  {
+    "id": "g1_biology_l009_ex03",
+    "knowledge_id": "g1_biology_l009",
+    "question": "填空题：监测空气质量常用的生物指标植物是______。",
+    "answer": "答案：苔藓植物\n解析：苔藓对空气污染敏感。"
+  },
+  {
+    "id": "g1_biology_l009_ex04",
+    "knowledge_id": "g1_biology_l009",
+    "question": "选择题：与空气质量相关的疾病是（  ）\nA. 肺结核\nB. 肺癌\nC. 心脏病\nD. 糖尿病",
+    "answer": "答案：B\n解析：空气污染与肺癌相关。"
+  }
+]

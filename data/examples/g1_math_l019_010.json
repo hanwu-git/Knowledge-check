@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l019_ex01",
+    "knowledge_id": "g1_math_l019",
+    "question": "用代入法解方程组：{x = y + 2, 2x + 3y = 9}",
+    "answer": "答案：x = 3, y = 1\n解析：把x = y + 2代入2x + 3y = 9，得2(y+2) + 3y = 9，解得y = 1，x = 3。"
+  },
+  {
+    "id": "g1_math_l019_ex02",
+    "knowledge_id": "g1_math_l019",
+    "question": "用代入法解方程组：{y = 2x - 1, x + y = 8}",
+    "answer": "答案：x = 3, y = 5\n解析：把y = 2x - 1代入x + y = 8，得x + 2x - 1 = 8，x = 3，y = 5。"
+  },
+  {
+    "id": "g1_math_l019_ex03",
+    "knowledge_id": "g1_math_l019",
+    "question": "判断题：代入消元法的基本思想是\"消元\"。（  ）",
+    "answer": "答案：正确\n解析：代入消元法通过代入将二元转化为一元。"
+  },
+  {
+    "id": "g1_math_l019_ex04",
+    "knowledge_id": "g1_math_l019",
+    "question": "填空题：用代入法时，应选择系数为______的方程进行代入。",
+    "answer": "答案：1或-1\n解析：系数简单便于计算。"
+  },
+  {
+    "id": "g1_math_l019_ex05",
+    "knowledge_id": "g1_math_l019",
+    "question": "用代入法解方程组：{3x + y = 7, x + 2y = 6}",
+    "answer": "答案：x = 8/5, y = 11/5\n解析：由第一个方程y = 7 - 3x，代入第二个：x + 2(7-3x) = 6，x + 14 - 6x = 6，-5x = -8，x = 8/5，y = 11/5。"
+  }
+]

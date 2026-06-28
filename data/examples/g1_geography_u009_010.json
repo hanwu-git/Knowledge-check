@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u009_ex01",
+    "knowledge_id": "g1_geography_u009",
+    "question": "填空题：地面高度的计算方法有两种：______和______。",
+    "answer": "答案：海拔；相对高度\n解析：海拔是地面某点到海平面的垂直距离，相对高度是两地的海拔之差。"
+  },
+  {
+    "id": "g1_geography_u009_ex02",
+    "knowledge_id": "g1_geography_u009",
+    "question": "选择题：海拔是指（  ）\nA. 某地到另一地的垂直距离\nB. 某地到海平面的垂直距离\nC. 山顶到山脚的垂直距离\nD. 任意两点间的距离",
+    "answer": "答案：B\n解析：海拔是地面某点高出海平面的垂直距离。"
+  },
+  {
+    "id": "g1_geography_u009_ex03",
+    "knowledge_id": "g1_geography_u009",
+    "question": "判断题：相对高度总是小于海拔高度。（  ）",
+    "answer": "答案：错误\n解析：相对高度可能大于其中一地的海拔。"
+  },
+  {
+    "id": "g1_geography_u009_ex04",
+    "knowledge_id": "g1_geography_u009",
+    "question": "填空题：甲地海拔1500米，乙地海拔500米，两地的相对高度是______米。",
+    "answer": "答案：1000\n解析：相对高度 = 1500 - 500 = 1000米。"
+  },
+  {
+    "id": "g1_geography_u009_ex05",
+    "knowledge_id": "g1_geography_u009",
+    "question": "选择题：表示地面起伏程度的指标是（  ）\nA. 海拔\nB. 相对高度\nC. 等高线疏密\nD. 等高线数值",
+    "answer": "答案：B\n解析：相对高度表示地面起伏程度。"
+  }
+]

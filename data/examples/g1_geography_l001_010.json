@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_l001_ex01",
+    "knowledge_id": "g1_geography_l001",
+    "question": "填空题：东南亚包括______和______两大部分。",
+    "answer": "答案：中南半岛；马来群岛\n解析：东南亚组成。"
+  },
+  {
+    "id": "g1_geography_l001_ex02",
+    "knowledge_id": "g1_geography_l001",
+    "question": "选择题：东南亚唯一的内陆国是（  ）\nA. 泰国\nB. 越南\nC. 老挝\nD. 柬埔寨",
+    "answer": "答案：C\n解析：老挝是东南亚唯一的内陆国。"
+  },
+  {
+    "id": "g1_geography_l001_ex03",
+    "knowledge_id": "g1_geography_l001",
+    "question": "判断题：东南亚位于亚洲东南部，包括中南半岛和马来群岛两大部分。（  ）",
+    "answer": "答案：正确\n解析：东南亚的地理位置和组成。"
+  },
+  {
+    "id": "g1_geography_l001_ex04",
+    "knowledge_id": "g1_geography_l001",
+    "question": "填空题：东南亚主要种植的粮食作物是______。",
+    "answer": "答案：水稻\n解析：东南亚气候湿热，适合种植水稻。"
+  },
+  {
+    "id": "g1_geography_l001_ex05",
+    "knowledge_id": "g1_geography_l001",
+    "question": "选择题：东南亚扼守马六甲海峡的国家是（  ）\nA. 印度尼西亚\nB. 马来西亚\nC. 新加坡\nD. 菲律宾",
+    "answer": "答案：B\n解析：马来西亚扼守马六甲海峡南端。"
+  }
+]

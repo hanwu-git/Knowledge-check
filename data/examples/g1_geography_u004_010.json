@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u004_ex01",
+    "knowledge_id": "g1_geography_u004",
+    "question": "选择题：经纬网可以确定（  ）\nA. 地球的大小\nB. 地球的形状\nC. 某点地理坐标\nD. 地球运动方向",
+    "answer": "答案：C\n解析：经纬网可以确定任意一点的地理坐标（经度和纬度）。"
+  },
+  {
+    "id": "g1_geography_u004_ex02",
+    "knowledge_id": "g1_geography_u004",
+    "question": "填空题：某点位于40°N、120°E，其坐标可写作______。",
+    "answer": "答案：40°N, 120°E\n解析：纬度在前，经度在后。"
+  },
+  {
+    "id": "g1_geography_u004_ex03",
+    "knowledge_id": "g1_geography_u004",
+    "question": "选择题：关于经纬网的说法，正确的是（  ）\nA. 经纬网在地球表面真实存在\nB. 经纬网用于军事、航海、航空等\nC. 经纬网是地球自转产生的\nD. 经纬网只有一种形式",
+    "answer": "答案：B\n解析：经纬网是人为划分的，用于定位和导航。"
+  },
+  {
+    "id": "g1_geography_u004_ex04",
+    "knowledge_id": "g1_geography_u004",
+    "question": "判断题：北京的坐标约为40°N、116°E。（  ）",
+    "answer": "答案：正确\n解析：北京位于华北平原北部，约40°N、116°E。"
+  },
+  {
+    "id": "g1_geography_u004_ex05",
+    "knowledge_id": "g1_geography_u004",
+    "question": "填空题：地球表面任何一点都可以用______和______来确定。",
+    "answer": "答案：经度；纬度\n解析：地理坐标由经度和纬度组成。"
+  }
+]

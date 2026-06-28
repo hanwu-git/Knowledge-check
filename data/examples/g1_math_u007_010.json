@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u007_ex01",
+    "knowledge_id": "g1_math_u007",
+    "question": "计算题：5 - (-3) = ______。",
+    "answer": "答案：8\n解析：减去一个数等于加上这个数的相反数。5 - (-3) = 5 + 3 = 8。"
+  },
+  {
+    "id": "g1_math_u007_ex02",
+    "knowledge_id": "g1_math_u007",
+    "question": "计算题：-2 - (-7) = ______。",
+    "answer": "答案：5\n解析：-2 - (-7) = -2 + 7 = 5。"
+  },
+  {
+    "id": "g1_math_u007_ex03",
+    "knowledge_id": "g1_math_u007",
+    "question": "判断题：两个数的差不一定比被减数大。（  ）",
+    "answer": "答案：正确\n解析：当减数为负数时，差会大于被减数。"
+  },
+  {
+    "id": "g1_math_u007_ex04",
+    "knowledge_id": "g1_math_u007",
+    "question": "选择题：温度从-3℃上升5℃后，是（  ）℃\nA. -8\nB. -2\nC. 2\nD. 8",
+    "answer": "答案：C\n解析：-3 + 5 = 2，所以是2℃。"
+  },
+  {
+    "id": "g1_math_u007_ex05",
+    "knowledge_id": "g1_math_u007",
+    "question": "填空题：7 - 3 - (-5) = ______。",
+    "answer": "答案：9\n解析：7 - 3 - (-5) = 7 - 3 + 5 = 9。"
+  }
+]

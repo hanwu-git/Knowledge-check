@@ -2,61 +2,61 @@
   {
     "id": "g2_math_033_ex01",
     "knowledge_id": "g2_math_033",
-    "question": "填空题：三角形全等的判定-SSS的核心公式是______。",
-    "answer": "答案：三边对应相等的两个三角形全等\n解析：这是三角形全等的判定-SSS的基本公式，需要牢记。"
+    "question": "选择题：下列各组条件中，能判定△ABC ≌ △DEF的是（  ）\nA. AB=DE, BC=EF, ∠A=∠D\nB. AB=DE, BC=EF, AC=DF\nC. AB=DE, ∠A=∠D, ∠B=∠E\nD. ∠A=∠D, ∠B=∠E, ∠C=∠F",
+    "answer": "答案：B\n解析：B选项是三边对应相等（SSS），可以判定全等。"
   },
   {
     "id": "g2_math_033_ex02",
     "knowledge_id": "g2_math_033",
-    "question": "判断题：关于三角形全等的判定-SSS的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "填空题：如果两个三角形的三条边分别对应______，那么这两个三角形全等（SSS）。",
+    "answer": "答案：相等\n解析：SSS判定定理：三边对应相等的两个三角形全等。"
   },
   {
     "id": "g2_math_033_ex03",
     "knowledge_id": "g2_math_033",
-    "question": "解答题：请简要说明三角形全等的判定-SSS的主要内容和应用。",
-    "answer": "答案：边边边（SSS）：\n如果两个三角形的三条边分别相等，那么这两个三角形全等。\n\n写作：\n在 △ABC 和 △A'B'C' 中，\nAB = A'B', BC = B'C', CA = C'A'\n∴ △AB...\n解析：本题考察对三角形全等的判定-SSS的理解和应用能力。"
+    "question": "选择题：在△ABC和△DEF中，AB=DE=3cm，BC=EF=4cm，AC=DF=5cm，则△ABC与△DEF（  ）\nA. 不全等\nB. 全等\nC. 面积相等但不全等\nD. 无法确定",
+    "answer": "答案：B\n解析：三边分别相等，符合SSS判定定理，所以全等。"
   },
   {
     "id": "g2_math_033_ex04",
     "knowledge_id": "g2_math_033",
-    "question": "选择题：下列关于\"三角形全等的判定-SSS\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据三角形全等的判定-SSS的定义和性质，选项C是正确的。"
+    "question": "判断题：SSS是三角形全等的判定方法之一。",
+    "answer": "答案：正确\n解析：SSS（边边边）是五种全等判定方法之一。"
   },
   {
     "id": "g2_math_033_ex05",
     "knowledge_id": "g2_math_033",
-    "question": "填空题：三角形全等的判定-SSS的核心公式是______。",
-    "answer": "答案：三边对应相等的两个三角形全等\n解析：这是三角形全等的判定-SSS的基本公式，需要牢记。"
+    "question": "解答题：如图，已知AB=AD，BC=DC，求证：△ABC ≌ △ADC。",
+    "answer": "答案：证明：在△ABC和△ADC中\nAB=AD（已知）\nBC=DC（已知）\nAC=AC（公共边）\n∴ △ABC ≌ △ADC（SSS）\n解析：利用SSS判定定理，三条边都对应相等。"
   },
   {
     "id": "g2_math_033_ex06",
     "knowledge_id": "g2_math_033",
-    "question": "判断题：关于三角形全等的判定-SSS的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：用SSS判定两个三角形全等，需要知道（  ）\nA. 三个角对应相等\nB. 三条边对应相等\nC. 两条边和一个角对应相等\nD. 两个角和一条边对应相等",
+    "answer": "答案：B\n解析：SSS即边边边，需要三条边对应相等。"
   },
   {
     "id": "g2_math_033_ex07",
     "knowledge_id": "g2_math_033",
-    "question": "解答题：请简要说明三角形全等的判定-SSS的主要内容和应用。",
-    "answer": "答案：边边边（SSS）：\n如果两个三角形的三条边分别相等，那么这两个三角形全等。\n\n写作：\n在 △ABC 和 △A'B'C' 中，\nAB = A'B', BC = B'C', CA = C'A'\n∴ △AB...\n解析：本题考察对三角形全等的判定-SSS的理解和应用能力。"
+    "question": "填空题：SSS的全称是______。",
+    "answer": "答案：边边边\n解析：SSS是Side-Side-Side的缩写，即三边对应相等。"
   },
   {
     "id": "g2_math_033_ex08",
     "knowledge_id": "g2_math_033",
-    "question": "选择题：下列关于\"三角形全等的判定-SSS\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据三角形全等的判定-SSS的定义和性质，选项C是正确的。"
+    "question": "判断题：只要三条边对应相等，两个三角形就一定全等。",
+    "answer": "答案：正确\n解析：这是SSS判定定理的内容。"
   },
   {
     "id": "g2_math_033_ex09",
     "knowledge_id": "g2_math_033",
-    "question": "填空题：三角形全等的判定-SSS的核心公式是______。",
-    "answer": "答案：三边对应相等的两个三角形全等\n解析：这是三角形全等的判定-SSS的基本公式，需要牢记。"
+    "question": "解答题：已知△ABC中，AB=6cm，BC=8cm，AC=10cm，△DEF中，DE=6cm，EF=8cm，DF=10cm，求证△ABC ≌ △DEF。",
+    "answer": "答案：证明：在△ABC和△DEF中\nAB=DE=6cm（已知）\nBC=EF=8cm（已知）\nAC=DF=10cm（已知）\n∴ △ABC ≌ △DEF（SSS）\n解析：三边对应相等，满足SSS条件。"
   },
   {
-    "id": "g2_math_033_ex010",
+    "id": "g2_math_033_ex10",
     "knowledge_id": "g2_math_033",
-    "question": "判断题：关于三角形全等的判定-SSS的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法错误的是（  ）\nA. SSS可以判定三角形全等\nB. SSS需要三条边对应相等\nC. 只有SSS一种方法判定全等\nD. SSS是常用的全等判定方法",
+    "answer": "答案：C\n解析：除了SSS，还有SAS、ASA、AAS、HL等方法。"
   }
 ]

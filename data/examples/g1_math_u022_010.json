@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u022_ex01",
+    "knowledge_id": "g1_math_u022",
+    "question": "选择题：下列说法正确的是（  ）\nA. 直线AB和直线BA是同一条直线\nB. 射线AB和射线BA是同一条射线\nC. 线段AB和线段BA是同一条线段\nD. 直线AB和直线CD是同一条直线",
+    "answer": "答案：A\n解析：直线无方向，所以AB和BA相同；射线有方向，AB和BA不同。"
+  },
+  {
+    "id": "g1_math_u022_ex02",
+    "knowledge_id": "g1_math_u022",
+    "question": "填空题：经过两点有且只有______条直线。",
+    "answer": "答案：1\n解析：这是直线的性质。"
+  },
+  {
+    "id": "g1_math_u022_ex03",
+    "knowledge_id": "g1_math_u022",
+    "question": "判断题：线段可以度量，直线和射线不可度量。（  ）",
+    "answer": "答案：正确\n解析：线段有端点可以度量，直线和射线无限长不可度量。"
+  },
+  {
+    "id": "g1_math_u022_ex04",
+    "knowledge_id": "g1_math_u022",
+    "question": "选择题：若点C是线段AB的中点，则（  ）\nA. AC = BC = AB/2\nB. AC = 2BC\nC. AB = AC + BC\nD. AC = BC",
+    "answer": "答案：A\n解析：中点把线段分成相等的两部分。"
+  },
+  {
+    "id": "g1_math_u022_ex05",
+    "knowledge_id": "g1_math_u022",
+    "question": "应用题：已知AB = 10cm，BC = 3cm，求AC。",
+    "answer": "答案：AC = 13cm（若A、B、C共线且B在A、C之间）\n解析：A到C的距离等于A到B加B到C的距离。"
+  }
+]

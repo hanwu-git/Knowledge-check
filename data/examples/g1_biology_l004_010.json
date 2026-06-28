@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l004_ex01",
+    "knowledge_id": "g1_biology_l004",
+    "question": "填空题：六大营养物质：糖类、脂肪、蛋白质、维生素、水和无机盐。",
+    "answer": "答案：正确\n解析：六大营养物质。"
+  },
+  {
+    "id": "g1_biology_l004_ex02",
+    "knowledge_id": "g1_biology_l004",
+    "question": "选择题：人体生命活动的主要供能物质是（  ）\nA. 脂肪\nB. 蛋白质\nC. 糖类\nD. 维生素",
+    "answer": "答案：C\n解析：糖类是主要能源物质。"
+  },
+  {
+    "id": "g1_biology_l004_ex03",
+    "knowledge_id": "g1_biology_l004",
+    "question": "填空题：______是人体备用的能源物质。",
+    "answer": "答案：脂肪\n解析：脂肪是储能物质。"
+  },
+  {
+    "id": "g1_biology_l004_ex04",
+    "knowledge_id": "g1_biology_l004",
+    "question": "选择题：夜盲症是由于缺乏（  ）\nA. 维生素A\nB. 维生素B\nC. 维生素C\nD. 维生素D",
+    "answer": "答案：A\n解析：缺乏维生素A导致夜盲症。"
+  },
+  {
+    "id": "g1_biology_l004_ex05",
+    "knowledge_id": "g1_biology_l004",
+    "question": "填空题：缺少含钙的无机盐，儿童会患______，老年人会患______。",
+    "answer": "答案：佝偻病；骨质疏松症\n解析：钙是骨骼和牙齿的组成成分。"
+  }
+]

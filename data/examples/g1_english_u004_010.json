@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u004_ex01",
+    "knowledge_id": "g1_english_u004",
+    "question": "填空题：英语单词 \"family\" 的中文意思是______。",
+    "answer": "答案：家庭\n解析：family 是一个常用单词，意思是\"家庭\"。"
+  },
+  {
+    "id": "g1_english_u004_ex02",
+    "knowledge_id": "g1_english_u004",
+    "question": "选择题：下列单词中，表示\"(dad) 父亲（爸爸）\"的是（  ）\nA. family\nB. father\nC. mother\nD. parent",
+    "answer": "答案：B\n解析：father 的意思是\"(dad) 父亲（爸爸）\"。"
+  },
+  {
+    "id": "g1_english_u004_ex03",
+    "knowledge_id": "g1_english_u004",
+    "question": "填空题：家庭成员词汇的规则可以概括为：______。",
+    "answer": "答案：father, mother, brother, sister, grandparent\n解析：这是家庭成员词汇的核心规则。"
+  },
+  {
+    "id": "g1_english_u004_ex04",
+    "knowledge_id": "g1_english_u004",
+    "question": "匹配题：请将下列单词与对应的中文意思连线。\n1. family    A. (mom) 母亲（妈妈）\n2. father    B. 家庭\n3. mother    C. 父亲或母亲\n4. parent    D. (dad) 父亲（爸爸）",
+    "answer": "答案：1-B, 2-D, 3-A, 4-C\n解析：要准确掌握单词的意思。"
+  },
+  {
+    "id": "g1_english_u004_ex05",
+    "knowledge_id": "g1_english_u004",
+    "question": "选择题：单词 \"father\" 的正确拼写是？\nA. father\nB. fether\nC. fathere\nD. fathe",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u004_ex06",
+    "knowledge_id": "g1_english_u004",
+    "question": "选择题：单词 \"mother\" 的正确拼写是？\nA. mother\nB. mother\nC. mothere\nD. mothe",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u004_ex07",
+    "knowledge_id": "g1_english_u004",
+    "question": "选择题：单词 \"parent\" 的正确拼写是？\nA. parent\nB. perent\nC. parente\nD. paren",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u004_ex08",
+    "knowledge_id": "g1_english_u004",
+    "question": "选择题：单词 \"parents\" 的正确拼写是？\nA. parents\nB. perents\nC. parentse\nD. parent",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u004_ex09",
+    "knowledge_id": "g1_english_u004",
+    "question": "选择题：单词 \"brother\" 的正确拼写是？\nA. brother\nB. brother\nC. brothere\nD. brothe",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u004_ex10",
+    "knowledge_id": "g1_english_u004",
+    "question": "选择题：单词 \"sister\" 的正确拼写是？\nA. sister\nB. sister\nC. sistere\nD. siste",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  }
+]

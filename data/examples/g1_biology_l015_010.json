@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l015_ex01",
+    "knowledge_id": "g1_biology_l015",
+    "question": "填空题：眼是视觉器官，主要结构包括眼球壁和______。",
+    "answer": "答案：内容物\n解析：眼球由眼球壁和内容物组成。"
+  },
+  {
+    "id": "g1_biology_l015_ex02",
+    "knowledge_id": "g1_biology_l015",
+    "question": "填空题：眼球壁的中膜包括虹膜、睫状体和______。",
+    "answer": "答案：脉络膜\n解析：眼球壁结构。"
+  },
+  {
+    "id": "g1_biology_l015_ex03",
+    "knowledge_id": "g1_biology_l015",
+    "question": "判断题：视觉形成的部位是大脑皮层视觉中枢。（  ）",
+    "answer": "答案：正确\n解析：视网膜形成物像，视觉中枢产生视觉。"
+  },
+  {
+    "id": "g1_biology_l015_ex04",
+    "knowledge_id": "g1_biology_l015",
+    "question": "填空题：耳分为外耳、中耳和______三部分。",
+    "answer": "答案：内耳\n解析：耳的结构。"
+  },
+  {
+    "id": "g1_biology_l015_ex05",
+    "knowledge_id": "g1_biology_l015",
+    "question": "选择题：晕车、晕船与身体哪个结构有关？（  ）\nA. 外耳\nB. 中耳\nC. 内耳的前庭\nD. 耳蜗",
+    "answer": "答案：C\n解析：前庭有位置感受器，敏感会导致晕车。"
+  }
+]

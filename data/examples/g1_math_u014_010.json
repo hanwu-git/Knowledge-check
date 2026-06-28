@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u014_ex01",
+    "knowledge_id": "g1_math_u014",
+    "question": "选择题：下列是单项式的是（  ）\nA. x+1\nB. 1/x\nC. -3a²b\nD. 2x-3y",
+    "answer": "答案：C\n解析：-3a²b是数与字母的乘积，是单项式。"
+  },
+  {
+    "id": "g1_math_u014_ex02",
+    "knowledge_id": "g1_math_u014",
+    "question": "填空题：单项式-5x³y²的系数是______，次数是______。",
+    "answer": "答案：-5；5\n解析：系数是-5，次数是3+2=5。"
+  },
+  {
+    "id": "g1_math_u014_ex03",
+    "knowledge_id": "g1_math_u014",
+    "question": "判断题：πr²是单项式。（  ）",
+    "answer": "答案：正确\n解析：π是数字，r²是字母，所以πr²是单项式。"
+  },
+  {
+    "id": "g1_math_u014_ex04",
+    "knowledge_id": "g1_math_u014",
+    "question": "选择题：下列单项式：① -x ② 3 ③ xy/2 ④ x²+y²，其中单项式的个数是（  ）\nA. 1\nB. 2\nC. 3\nD. 4",
+    "answer": "答案：C\n解析：①③④是单项式，②也是单项式，共4个...不对，x²+y²是多项式，所以是3个。"
+  },
+  {
+    "id": "g1_math_u014_ex05",
+    "knowledge_id": "g1_math_u014",
+    "question": "填空题：若单项式aᵐb³的次数是7，则m = ______。",
+    "answer": "答案：4\n解析：m+3=7，所以m=4。"
+  }
+]

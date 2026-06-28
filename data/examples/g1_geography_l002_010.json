@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_l002_ex01",
+    "knowledge_id": "g1_geography_l002",
+    "question": "填空题：印度位于南亚，是世界第______人口大国。",
+    "answer": "答案：二\n解析：中国第一，印度第二。"
+  },
+  {
+    "id": "g1_geography_l002_ex02",
+    "knowledge_id": "g1_geography_l002",
+    "question": "选择题：印度的主要气候类型是（  ）\nA. 热带雨林气候\nB. 热带季风气候\nC. 亚热带季风气候\nD. 温带大陆性气候",
+    "answer": "答案：B\n解析：印度大部分地区属热带季风气候。"
+  },
+  {
+    "id": "g1_geography_l002_ex03",
+    "knowledge_id": "g1_geography_l002",
+    "question": "判断题：印度的\"绿色革命\"指的是推广杂交水稻。（  ）",
+    "answer": "答案：错误\n解析：绿色革命是指推广高产粮食作物品种和农业技术，包括小麦、水稻等多种作物。"
+  },
+  {
+    "id": "g1_geography_l002_ex04",
+    "knowledge_id": "g1_geography_l002",
+    "question": "填空题：印度服务外包产业发达，被称为\"______\"。",
+    "answer": "答案：世界办公室\n解析：印度 IT 产业发达，被称为世界办公室。"
+  },
+  {
+    "id": "g1_geography_l002_ex05",
+    "knowledge_id": "g1_geography_l002",
+    "question": "选择题：印度软件出口量居世界第（  ）位。\nA. 1\nB. 2\nC. 3\nD. 4",
+    "answer": "答案：B\n解析：印度软件出口量居世界第二，仅次于美国。"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "g1_biology_u016_ex01",
+    "knowledge_id": "g1_biology_u016",
+    "question": "填空题：蒸腾作用是指水分从活的植物体表面以______状态散失到大气中的过程。",
+    "answer": "答案：水蒸气\n解析：蒸腾作用是水分以水蒸气形式散失。"
+  },
+  {
+    "id": "g1_biology_u016_ex02",
+    "knowledge_id": "g1_biology_u016",
+    "question": "选择题：植物蒸腾作用的主要器官是（  ）\nA. 根\nB. 茎\nC. 叶\nD. 花",
+    "answer": "答案：C\n解析：叶是蒸腾作用的主要器官。"
+  },
+  {
+    "id": "g1_biology_u016_ex03",
+    "knowledge_id": "g1_biology_u016",
+    "question": "判断题：蒸腾作用能降低植物体的温度。（  ）",
+    "answer": "答案：正确\n解析：蒸腾作用带走热量，降低植物体温度。"
+  },
+  {
+    "id": "g1_biology_u016_ex04",
+    "knowledge_id": "g1_biology_u016",
+    "question": "填空题：蒸腾作用促进了植物对______和______的吸收和运输。",
+    "answer": "答案：水；无机盐\n解析：蒸腾作用产生的拉力促进水分和无机盐的运输。"
+  }
+]

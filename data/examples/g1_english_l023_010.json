@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l023_ex01",
+    "knowledge_id": "g1_english_l023",
+    "question": "选择题：\"You should study hard\" 的中文意思是（  ）\nA. 你应该努力学习。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"You should study hard\" 的意思是\"你应该努力学习。\"。"
+  },
+  {
+    "id": "g1_english_l023_ex02",
+    "knowledge_id": "g1_english_l023",
+    "question": "选择题：\"我们应该互相帮助。\" 的英文表达是（  ）\nA. 错误的句子\nB. We should help each other\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"我们应该互相帮助。\" 的正确英文是 \"We should help each other\"。"
+  },
+  {
+    "id": "g1_english_l023_ex03",
+    "knowledge_id": "g1_english_l023",
+    "question": "填空题：情态动词should的规则可以概括为：______。",
+    "answer": "答案：should + 动词原形，表应该\n解析：这是情态动词should的核心规则。"
+  },
+  {
+    "id": "g1_english_l023_ex04",
+    "knowledge_id": "g1_english_l023",
+    "question": "判断题：\"You should finish your homework on time\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"你应该按时完成作业。\"。"
+  },
+  {
+    "id": "g1_english_l023_ex05",
+    "knowledge_id": "g1_english_l023",
+    "question": "改错题：\"You should study hard\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"You should study hard\"。\n解析：要注意情态动词should的正确用法。"
+  },
+  {
+    "id": "g1_english_l023_ex06",
+    "knowledge_id": "g1_english_l023",
+    "question": "句型转换：将句子 \"We should help each other\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l023_ex07",
+    "knowledge_id": "g1_english_l023",
+    "question": "填空题：\"我们应该互相帮助。\" 的英文是：______。",
+    "answer": "答案：We should help each other\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l023_ex08",
+    "knowledge_id": "g1_english_l023",
+    "question": "填空题：\"你应该按时完成作业。\" 的英文是：______。",
+    "answer": "答案：You should finish your homework on time\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l023_ex09",
+    "knowledge_id": "g1_english_l023",
+    "question": "填空题：\"他们现在应该到那里了。\" 的英文是：______。",
+    "answer": "答案：They should be there by now\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l023_ex10",
+    "knowledge_id": "g1_english_l023",
+    "question": "填空题：\"/ No, you shouldn't.\" 的英文是：______。",
+    "answer": "答案：Should I go there now? 我应该现在去那里吗？\n  Yes, you should\n解析：要熟记常用句型。"
+  }
+]

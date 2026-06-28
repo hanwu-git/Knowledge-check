@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u003_ex01",
+    "knowledge_id": "g1_geography_u003",
+    "question": "选择题：经线的特点是（  ）\nA. 所有经线长度相等\nB. 所有经线都是圆圈\nC. 经线指示南北方向\nD. 经线有360条",
+    "answer": "答案：A\n解析：所有经线长度相等，都连接南北两极，是半圆。"
+  },
+  {
+    "id": "g1_geography_u003_ex02",
+    "knowledge_id": "g1_geography_u003",
+    "question": "填空题：本初子午线的经度是______。",
+    "answer": "答案：0°\n解析：本初子午线是0°经线。"
+  },
+  {
+    "id": "g1_geography_u003_ex03",
+    "knowledge_id": "g1_geography_u003",
+    "question": "选择题：东经用字母______表示，西经用字母______表示。\nA. E, W\nB. W, E\nC. N, S\nD. S, N",
+    "answer": "答案：A\n解析：E=East（东），W=West（西）。"
+  },
+  {
+    "id": "g1_geography_u003_ex04",
+    "knowledge_id": "g1_geography_u003",
+    "question": "判断题：东经度越往东越大，西经度越往西越大。（  ）",
+    "answer": "答案：错误\n解析：东经越往东越大，西经越往东越大（往东经方向走）。"
+  },
+  {
+    "id": "g1_geography_u003_ex05",
+    "knowledge_id": "g1_geography_u003",
+    "question": "填空题：经线圈是由______和它相对的另一条经线组成的。",
+    "answer": "答案：每一条经线\n解析：任意一条经线与它相差180°的经线组成经线圈。"
+  }
+]

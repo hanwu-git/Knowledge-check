@@ -226,7 +226,7 @@ const indexHtml = `<!DOCTYPE html>
                 </h2>
                 <div class="space-y-3">
                     ${Object.entries(grades.grade2.subjects).map(([key, subject]) => `
-                    <div class="border border-gray-200 rounded-lg p-3" data-subject="${key}">
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="g2_${key}">
                         <div class="flex items-center justify-between mb-2">
                             <span class="font-medium text-gray-700">${subject.icon || '📖'} ${subject.name}</span>
                             <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/${allSubjects['grade2_'+key].count}</span>

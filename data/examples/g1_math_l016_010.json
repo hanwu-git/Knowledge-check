@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l016_ex01",
+    "knowledge_id": "g1_math_l016",
+    "question": "选择题：点P(a,b)在第二象限，则（  ）\nA. a > 0, b > 0\nB. a > 0, b < 0\nC. a < 0, b > 0\nD. a < 0, b < 0",
+    "answer": "答案：C\n解析：第二象限x负y正。"
+  },
+  {
+    "id": "g1_math_l016_ex02",
+    "knowledge_id": "g1_math_l016",
+    "question": "填空题：坐标平面被x轴和y轴分成四个象限，按逆时针方向依次是______。",
+    "answer": "答案：第一、第二、第三、第四象限\n解析：这是象限的顺序。"
+  },
+  {
+    "id": "g1_math_l016_ex03",
+    "knowledge_id": "g1_math_l016",
+    "question": "判断题：x轴上的点到x轴的距离为0。（  ）",
+    "answer": "答案：正确\n解析：x轴上的点y坐标为0。"
+  },
+  {
+    "id": "g1_math_l016_ex04",
+    "knowledge_id": "g1_math_l016",
+    "question": "填空题：点P(3,-4)到x轴的距离是______，到y轴的距离是______。",
+    "answer": "答案：4；3\n解析：到x轴距离是|y|，到y轴距离是|x|。"
+  },
+  {
+    "id": "g1_math_l016_ex05",
+    "knowledge_id": "g1_math_l016",
+    "question": "选择题：点M与点N关于原点对称，若M(a,b)，则N是（  ）\nA. (a,-b)\nB. (-a,b)\nC. (-a,-b)\nD. (b,a)",
+    "answer": "答案：C\n解析：关于原点对称，两个坐标都变号。"
+  }
+]

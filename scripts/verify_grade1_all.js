@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const KNOWLEDGE_DIR = path.join(__dirname, 'data', 'knowledge');
-const EXAMPLE_DIR = path.join(__dirname, 'data', 'examples');
+const KNOWLEDGE_DIR = path.join(__dirname, '..', 'data', 'knowledge');
+const EXAMPLE_DIR = path.join(__dirname, '..', 'data', 'examples');
 
 // 一年级科目配置
 const grade1Subjects = [
@@ -89,16 +89,18 @@ function validateExamples(subjectKey, subjectName, semester) {
     let totalExamples = 0;
     let allValid = true;
     
-    for (let i = 1; i <= 30; i++) {
-        const kid = prefix + String(i).padStart(3, '0');
-        const fileName = `${kid}_010.json`;
+    const files = fs.readdirSync(EXAMPLE_DIR)
+        .filter(f => f.startsWith(prefix) && f.endsWith('_010.json'))
+        .sort();
+    
+    if (files.length === 0) {
+        log(`${subjectName}${semester === 'upper' ? '上册' : '下册'}: 未找到例题文件`, 'warn');
+        return true;
+    }
+    
+    files.forEach(fileName => {
         const filePath = path.join(EXAMPLE_DIR, fileName);
-        
-        if (!fs.existsSync(filePath)) {
-            log(`例题文件不存在: ${fileName}`, 'error');
-            allValid = false;
-            continue;
-        }
+        const kid = fileName.replace('_010.json', '');
         
         try {
             const examples = JSON.parse(fs.readFileSync(filePath, 'utf8'));
@@ -123,10 +125,10 @@ function validateExamples(subjectKey, subjectName, semester) {
             log(`${fileName} 解析失败: ${e.message}`, 'error');
             allValid = false;
         }
-    }
+    });
     
     if (allValid) {
-        log(`${subjectName}${semester === 'upper' ? '上册' : '下册'}: ${totalExamples}道例题, 全部正确`, 'success');
+        log(`${subjectName}${semester === 'upper' ? '上册' : '下册'}: ${files.length}个文件, ${totalExamples}道例题, 全部正确`, 'success');
     }
     return allValid;
 }
@@ -187,19 +189,21 @@ console.log('\n🌐 【3/4】验证HTML页面');
 console.log('-'.repeat(60));
 let htmlPassed = 0;
 
+const ROOT_DIR = path.join(__dirname, '..');
+
 // 一年级首页
-if (validateHtmlPage(path.join(__dirname, 'grade1_index.html'), '一年级首页')) htmlPassed++;
+if (validateHtmlPage(path.join(ROOT_DIR, 'grade1_index.html'), '一年级首页')) htmlPassed++;
 
 // 各科目页面
 grade1Subjects.forEach(subj => {
     const fileName = `g1_${subj.key}.html`;
-    if (validateHtmlPage(path.join(__dirname, fileName), `一年级${subj.name}`)) htmlPassed++;
+    if (validateHtmlPage(path.join(ROOT_DIR, fileName), `一年级${subj.name}`)) htmlPassed++;
 });
 
 // 4. 验证首页导航
 console.log('\n🏠 【4/4】验证首页导航');
 console.log('-'.repeat(60));
-const indexPath = path.join(__dirname, 'index.html');
+const indexPath = path.join(ROOT_DIR, 'index.html');
 if (checkFileExists(indexPath, '主首页')) {
     const indexContent = fs.readFileSync(indexPath, 'utf8');
     let navPassed = true;

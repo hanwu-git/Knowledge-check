@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u018_ex01",
+    "knowledge_id": "g1_geography_u018",
+    "question": "填空题：天气是一个地方短时间内大气的______状况。",
+    "answer": "答案：阴晴、风雨、冷热\n解析：天气的特点。"
+  },
+  {
+    "id": "g1_geography_u018_ex02",
+    "knowledge_id": "g1_geography_u018",
+    "question": "选择题：下列词语中，描述天气的是（  ）\nA. 全年高温多雨\nB. 冬冷夏热\nC. 晴空万里\nD. 四季如春",
+    "answer": "答案：C\n解析：天气是短时间状况，晴空万里描述的是天气。"
+  },
+  {
+    "id": "g1_geography_u018_ex03",
+    "knowledge_id": "g1_geography_u018",
+    "question": "判断题：气候是一个地方多年的天气平均状况。（  ）",
+    "answer": "答案：正确\n解析：气候是多年平均状况，相对稳定。"
+  },
+  {
+    "id": "g1_geography_u018_ex04",
+    "knowledge_id": "g1_geography_u018",
+    "question": "填空题：天气预报通常包括：阴晴、______、风向、风力和______。",
+    "answer": "答案：温度；降水\n解析：天气预报的主要要素。"
+  },
+  {
+    "id": "g1_geography_u018_ex05",
+    "knowledge_id": "g1_geography_u018",
+    "question": "选择题：下列符号中，表示雾的是（  ）\nA. 三条横线\nB. 类似F的符号\nC. 三角形\nD. 云朵符号",
+    "answer": "答案：D\n解析：天气预报符号中，云朵表示雾。"
+  }
+]

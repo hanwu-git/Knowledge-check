@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u019_ex01",
+    "knowledge_id": "g1_math_u019",
+    "question": "选择题：使方程左右两边相等的未知数的值叫做（  ）\nA. 方程\nB. 方程的解\nC. 解方程\nD. 等式",
+    "answer": "答案：B\n解析：方程的解是使方程成立的未知数的值。"
+  },
+  {
+    "id": "g1_math_u019_ex02",
+    "knowledge_id": "g1_math_u019",
+    "question": "判断题：方程的解就是方程的解集。（  ）",
+    "answer": "答案：正确\n解析：一元一次方程只有一个解，就是方程的解。"
+  },
+  {
+    "id": "g1_math_u019_ex03",
+    "knowledge_id": "g1_math_u019",
+    "question": "选择题：下列哪个是方程2x + 1 = 5的解（  ）\nA. x = 1\nB. x = 2\nC. x = 3\nD. x = 0",
+    "answer": "答案：B\n解析：代入x=2，2×2+1=5，成立。"
+  },
+  {
+    "id": "g1_math_u019_ex04",
+    "knowledge_id": "g1_math_u019",
+    "question": "填空题：方程|x-3| = 2的解是______。",
+    "answer": "答案：x = 5或x = 1\n解析：x-3 = 2或x-3 = -2，得x = 5或x = 1。"
+  },
+  {
+    "id": "g1_math_u019_ex05",
+    "knowledge_id": "g1_math_u019",
+    "question": "选择题：若x = 2是方程ax + 3 = 7的解，则a = （  ）\nA. 1\nB. 2\nC. 3\nD. 4",
+    "answer": "答案：B\n解析：2a + 3 = 7，2a = 4，a = 2。"
+  }
+]

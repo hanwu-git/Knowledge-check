@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u015_ex01",
+    "knowledge_id": "g1_english_u015",
+    "question": "选择题：\"I have some books\" 的中文意思是（  ）\nA. 我有一些书。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"I have some books\" 的意思是\"我有一些书。\"。"
+  },
+  {
+    "id": "g1_english_u015_ex02",
+    "knowledge_id": "g1_english_u015",
+    "question": "选择题：\"杯子里有一些水。\" 的英文表达是（  ）\nA. 错误的句子\nB. There is some water in the glass\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"杯子里有一些水。\" 的正确英文是 \"There is some water in the glass\"。"
+  },
+  {
+    "id": "g1_english_u015_ex03",
+    "knowledge_id": "g1_english_u015",
+    "question": "填空题：some与any的规则可以概括为：______。",
+    "answer": "答案：some用于肯定句，any用于否定句和疑问句\n解析：这是some与any的核心规则。"
+  },
+  {
+    "id": "g1_english_u015_ex04",
+    "knowledge_id": "g1_english_u015",
+    "question": "判断题：\"I don't have any pens\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"我没有钢笔。\"。"
+  },
+  {
+    "id": "g1_english_u015_ex05",
+    "knowledge_id": "g1_english_u015",
+    "question": "改错题：\"I have some books\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"I have some books\"。\n解析：要注意some与any的正确用法。"
+  },
+  {
+    "id": "g1_english_u015_ex06",
+    "knowledge_id": "g1_english_u015",
+    "question": "句型转换：将句子 \"There is some water in the glass\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_u015_ex07",
+    "knowledge_id": "g1_english_u015",
+    "question": "填空题：\"杯子里有一些水。\" 的英文是：______。",
+    "answer": "答案：There is some water in the glass\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u015_ex08",
+    "knowledge_id": "g1_english_u015",
+    "question": "填空题：\"我没有钢笔。\" 的英文是：______。",
+    "answer": "答案：I don't have any pens\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u015_ex09",
+    "knowledge_id": "g1_english_u015",
+    "question": "填空题：\"盘子里没有面包。\" 的英文是：______。",
+    "answer": "答案：There isn't any bread on the plate\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u015_ex10",
+    "knowledge_id": "g1_english_u015",
+    "question": "填空题：\"用于肯定句中，表示\"任何的\"\" 的英文是：______。",
+    "answer": "答案：Is there any milk in the fridge? 冰箱里有牛奶吗？\n\n3\n解析：要熟记常用句型。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u005_ex01",
+    "knowledge_id": "g1_biology_u005",
+    "question": "填空题：细胞分裂是指一个细胞分成______个细胞的过程。",
+    "answer": "答案：两\n解析：细胞分裂使细胞数量增加。"
+  },
+  {
+    "id": "g1_biology_u005_ex02",
+    "knowledge_id": "g1_biology_u005",
+    "question": "判断题：细胞分裂过程中，染色体不需要复制。（  ）",
+    "answer": "答案：错误\n解析：细胞分裂时，染色体先复制再均分。"
+  },
+  {
+    "id": "g1_biology_u005_ex03",
+    "knowledge_id": "g1_biology_u005",
+    "question": "填空题：细胞分裂后，新细胞的染色体数目与原细胞______。",
+    "answer": "答案：相同\n解析：染色体在分裂过程中均分，数目不变。"
+  },
+  {
+    "id": "g1_biology_u005_ex04",
+    "knowledge_id": "g1_biology_u005",
+    "question": "选择题：细胞分化的结果是形成（  ）\nA. 更多的细胞\nB. 不同形态和功能的细胞\nC. 更大的细胞\nD. 死亡的细胞",
+    "answer": "答案：B\n解析：细胞分化使细胞形态、功能发生差异，形成不同组织。"
+  },
+  {
+    "id": "g1_biology_u005_ex05",
+    "knowledge_id": "g1_biology_u005",
+    "question": "判断题：细胞分裂使细胞数量增多，细胞分化使细胞种类增多。（  ）",
+    "answer": "答案：正确\n解析：分裂增加数量，分化增加种类。"
+  }
+]

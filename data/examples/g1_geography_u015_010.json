@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u015_ex01",
+    "knowledge_id": "g1_geography_u015",
+    "question": "选择题：世界上面积最大的大洋是（  ）\nA. 大西洋\nB. 太平洋\nC. 印度洋\nD. 北冰洋",
+    "answer": "答案：B\n解析：太平洋是面积最大的大洋，约占世界海洋总面积的一半。"
+  },
+  {
+    "id": "g1_geography_u015_ex02",
+    "knowledge_id": "g1_geography_u015",
+    "question": "填空题：太平洋是世界上______的大洋。",
+    "answer": "答案：最深\n解析：太平洋平均深度最大，拥有世界最深的海沟马里亚纳海沟。"
+  },
+  {
+    "id": "g1_geography_u015_ex03",
+    "knowledge_id": "g1_geography_u015",
+    "question": "判断题：太平洋被亚洲、北美洲、南美洲、大洋洲和南极洲环绕。（  ）",
+    "answer": "答案：正确\n解析：太平洋的位置。"
+  },
+  {
+    "id": "g1_geography_u015_ex04",
+    "knowledge_id": "g1_geography_u015",
+    "question": "填空题：太平洋西部边缘有世界著名的火山地震带，称为______。",
+    "answer": "答案：环太平洋火山地震带\n解析：太平洋地区是世界主要的火山地震带分布区。"
+  },
+  {
+    "id": "g1_geography_u015_ex05",
+    "knowledge_id": "g1_geography_u015",
+    "question": "选择题：下列关于太平洋的说法，错误的是（  ）\nA. 面积最大\nB. 深度最深\nC. 岛屿最少\nD. 水温最高",
+    "answer": "答案：C\n解析：太平洋岛屿众多，如日本群岛、菲律宾群岛等。"
+  }
+]

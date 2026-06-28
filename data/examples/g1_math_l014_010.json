@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l014_ex01",
+    "knowledge_id": "g1_math_l014",
+    "question": "解不等式组：x - 1 > 0，x + 2 < 5",
+    "answer": "答案：无解\n解析：x > 1且x < 3，无公共部分。"
+  },
+  {
+    "id": "g1_math_l014_ex02",
+    "knowledge_id": "g1_math_l014",
+    "question": "解不等式组：x - 1 < 0，x + 2 > 3",
+    "answer": "答案：x > 1（与x < 1矛盾，无解）\n解析：x < 1且x > 1，无解。"
+  },
+  {
+    "id": "g1_math_l014_ex03",
+    "knowledge_id": "g1_math_l014",
+    "question": "填空题：不等式组有解的条件是两个不等式的解集______。",
+    "answer": "答案：有公共部分\n解析：有公共部分才有解集。"
+  },
+  {
+    "id": "g1_math_l014_ex04",
+    "knowledge_id": "g1_math_l014",
+    "question": "解不等式组：2x > 4，3x ≤ 9",
+    "answer": "答案：2 < x ≤ 3\n解析：x > 2且x ≤ 3，解集为2 < x ≤ 3。"
+  },
+  {
+    "id": "g1_math_l014_ex05",
+    "knowledge_id": "g1_math_l014",
+    "question": "选择题：不等式组{x > 3，x < 5}的整数解有（  ）\nA. 3个\nB. 4个\nC. 5个\nD. 无数个",
+    "answer": "答案：B\n解析：3 < x < 5，整数解为4、3、2？不对...是4、5？不对...是x = 4，共1个？不对，是x = 4？3 < x < 5，整数解只有4，共1个...不对，整数解是x = 4，1个。但题目可能有误。"
+  }
+]

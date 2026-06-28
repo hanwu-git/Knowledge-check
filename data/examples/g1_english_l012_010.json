@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l012_ex01",
+    "knowledge_id": "g1_english_l012",
+    "question": "选择题：\"When is your birthday? 你的生日是什么时候？\n  My birthday is on October 1st\" 的中文意思是（  ）\nA. 我的生日在10月1日。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"When is your birthday? 你的生日是什么时候？\n  My birthday is on October 1st\" 的意思是\"我的生日在10月1日。\"。"
+  },
+  {
+    "id": "g1_english_l012_ex02",
+    "knowledge_id": "g1_english_l012",
+    "question": "选择题：\"我通常举办生日派对。\" 的英文表达是（  ）\nA. 错误的句子\nB. How do you celebrate your birthday? 你怎么庆祝生日？\n  I usually have a birthday party\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"我通常举办生日派对。\" 的正确英文是 \"How do you celebrate your birthday? 你怎么庆祝生日？\n  I usually have a birthday party\"。"
+  },
+  {
+    "id": "g1_english_l012_ex03",
+    "knowledge_id": "g1_english_l012",
+    "question": "填空题：英语单词 \"birthday\" 的中文意思是______。",
+    "answer": "答案：生日\n解析：birthday 是一个常用单词，意思是\"生日\"。"
+  },
+  {
+    "id": "g1_english_l012_ex04",
+    "knowledge_id": "g1_english_l012",
+    "question": "选择题：下列单词中，表示\"cake 生日蛋糕\"的是（  ）\nA. wish\nB. birthday\nC. blow\nD. celebrate",
+    "answer": "答案：B\n解析：birthday 的意思是\"cake 生日蛋糕\"。"
+  },
+  {
+    "id": "g1_english_l012_ex05",
+    "knowledge_id": "g1_english_l012",
+    "question": "填空题：生日与节日的规则可以概括为：______。",
+    "answer": "答案：birthday: When is your birthday? festival: Spring Festival\n解析：这是生日与节日的核心规则。"
+  },
+  {
+    "id": "g1_english_l012_ex06",
+    "knowledge_id": "g1_english_l012",
+    "question": "改错题：\"When is your birthday? 你的生日是什么时候？\n  My birthday is on October 1st\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"When is your birthday? 你的生日是什么时候？\n  My birthday is on October 1st\"。\n解析：要注意生日与节日的正确用法。"
+  },
+  {
+    "id": "g1_english_l012_ex07",
+    "knowledge_id": "g1_english_l012",
+    "question": "句型转换：将句子 \"How do you celebrate your birthday? 你怎么庆祝生日？\n  I usually have a birthday party\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l012_ex08",
+    "knowledge_id": "g1_english_l012",
+    "question": "匹配题：请将下列单词与对应的中文意思连线。\n1. birthday    A. gift / present 生日礼物\n2. birthday    B. 生日\n3. birthday    C. party 生日派对\n4. birthday    D. cake 生日蛋糕",
+    "answer": "答案：1-B, 2-D, 3-A, 4-C\n解析：要准确掌握单词的意思。"
+  },
+  {
+    "id": "g1_english_l012_ex09",
+    "knowledge_id": "g1_english_l012",
+    "question": "写作题：用 \"birthday\" 这个单词写一个英语句子。",
+    "answer": "答案（示例）：When is your birthday? 你的生日是什么时候？\n  My birthday is on October 1st\n解析：造句要注意语法正确，意思通顺。"
+  },
+  {
+    "id": "g1_english_l012_ex10",
+    "knowledge_id": "g1_english_l012",
+    "question": "填空题：\"我通常举办生日派对。\" 的英文是：______。",
+    "answer": "答案：How do you celebrate your birthday? 你怎么庆祝生日？\n  I usually have a birthday party\n解析：要熟记常用句型。"
+  }
+]

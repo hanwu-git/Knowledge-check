@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l018_ex01",
+    "knowledge_id": "g1_math_l018",
+    "question": "选择题：下列方程组中，是二元一次方程组的是（  ）\nA. {x + y = 3, xy = 2}\nB. {x + y = 3, x - y = 1}\nC. {x² + y = 3, x + y = 1}\nD. {x + y = 3, y + z = 1}",
+    "answer": "答案：B\n解析：两个方程都是一次，且含有两个未知数。"
+  },
+  {
+    "id": "g1_math_l018_ex02",
+    "knowledge_id": "g1_math_l018",
+    "question": "判断题：二元一次方程组的解是唯一确定的。（  ）",
+    "answer": "答案：错误\n解析：可能无解、唯一解或无数解。"
+  },
+  {
+    "id": "g1_math_l018_ex03",
+    "knowledge_id": "g1_math_l018",
+    "question": "填空题：方程x + y = 5有______组解。",
+    "answer": "答案：无数\n解析：二元一次方程有无数组解。"
+  },
+  {
+    "id": "g1_math_l018_ex04",
+    "knowledge_id": "g1_math_l018",
+    "question": "选择题：方程组{x + y = 5, x - y = 1}的解是（  ）\nA. x = 3, y = 2\nB. x = 2, y = 3\nC. x = 4, y = 1\nD. x = 1, y = 4",
+    "answer": "答案：A\n解析：相加得2x = 6，x = 3，y = 2。"
+  },
+  {
+    "id": "g1_math_l018_ex05",
+    "knowledge_id": "g1_math_l018",
+    "question": "填空题：{x + y = 3, 2x + 2y = 6}有______组解。",
+    "answer": "答案：无数\n解析：两方程等价，有无数组解。"
+  }
+]

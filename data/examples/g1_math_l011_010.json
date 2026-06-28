@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l011_ex01",
+    "knowledge_id": "g1_math_l011",
+    "question": "填空题：用符号\">\"或\"<\"表示大小关系的式子叫做______。",
+    "answer": "答案：不等式\n解析：这是不等式的定义。"
+  },
+  {
+    "id": "g1_math_l011_ex02",
+    "knowledge_id": "g1_math_l011",
+    "question": "选择题：下列式子中，是不等式的是（  ）\nA. x + 1 = 3\nB. x + 1 > 3\nC. x + 1\nD. x > 3",
+    "answer": "答案：B\n解析：不等式用\">\"、\"<\"、\"≥\"、\"≤\"等符号连接。"
+  },
+  {
+    "id": "g1_math_l011_ex03",
+    "knowledge_id": "g1_math_l011",
+    "question": "判断题：x > 3表示x大于3的所有数。（  ）",
+    "answer": "答案：正确\n解析：不等式表示满足条件的数的集合。"
+  },
+  {
+    "id": "g1_math_l011_ex04",
+    "knowledge_id": "g1_math_l011",
+    "question": "填空题：不等式的基本性质：若a > b，则a + c ______ b + c。",
+    "answer": "答案：>\n解析：不等式两边加同一个数，不等号方向不变。"
+  },
+  {
+    "id": "g1_math_l011_ex05",
+    "knowledge_id": "g1_math_l011",
+    "question": "选择题：若a是负数，则下列正确的是（  ）\nA. a > 0\nB. a < 0\nC. a = 0\nD. 无法确定",
+    "answer": "答案：B\n解析：负数小于0。"
+  }
+]

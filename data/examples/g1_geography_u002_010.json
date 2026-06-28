@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u002_ex01",
+    "knowledge_id": "g1_geography_u002",
+    "question": "选择题：纬线的特点是（  ）\nA. 所有纬线长度相等\nB. 所有纬线都是半圆\nC. 纬线指示东西方向\nD. 纬线有180条",
+    "answer": "答案：C\n解析：纬线长度不等，指示东西方向，纬线是圆圈。"
+  },
+  {
+    "id": "g1_geography_u002_ex02",
+    "knowledge_id": "g1_geography_u002",
+    "question": "填空题：赤道的纬度是______。",
+    "answer": "答案：0°\n解析：赤道是0°纬线。"
+  },
+  {
+    "id": "g1_geography_u002_ex03",
+    "knowledge_id": "g1_geography_u002",
+    "question": "选择题：低纬度地区的纬度范围是（  ）\nA. 0°～30°\nB. 30°～60°\nC. 60°～90°\nD. 0°～60°",
+    "answer": "答案：A\n解析：0°～30°为低纬度，30°～60°为中纬度，60°～90°为高纬度。"
+  },
+  {
+    "id": "g1_geography_u002_ex04",
+    "knowledge_id": "g1_geography_u002",
+    "question": "判断题：纬度越高，纬线越短。（  ）",
+    "answer": "答案：正确\n解析：纬线从赤道向两极越来越短，极点变成一个点。"
+  },
+  {
+    "id": "g1_geography_u002_ex05",
+    "knowledge_id": "g1_geography_u002",
+    "question": "填空题：北纬用字母______表示，南纬用字母______表示。",
+    "answer": "答案：N；S\n解析：N=North（北），S=South（南）。"
+  }
+]

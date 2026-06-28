@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u022_ex01",
+    "knowledge_id": "g1_geography_u022",
+    "question": "填空题：世界人口数量约为______亿。",
+    "answer": "答案：80\n解析：世界人口约80亿。"
+  },
+  {
+    "id": "g1_geography_u022_ex02",
+    "knowledge_id": "g1_geography_u022",
+    "question": "选择题：世界三大人种是（  ）\nA. 白种人、黄种人、棕种人\nB. 白种人、黑种人、黄种人\nC. 白种人、黑种人、红种人\nD. 红种人、黄种人、黑种人",
+    "answer": "答案：B\n解析：世界三大人种是白色、黄色、黑色人种。"
+  },
+  {
+    "id": "g1_geography_u022_ex03",
+    "knowledge_id": "g1_geography_u022",
+    "question": "判断题：人种只有体质形态上的差异，没有优劣之分。（  ）",
+    "answer": "答案：正确\n解析：各人种平等，没有优劣之分。"
+  },
+  {
+    "id": "g1_geography_u022_ex04",
+    "knowledge_id": "g1_geography_u022",
+    "question": "填空题：黑色人种主要分布在______。",
+    "answer": "答案：非洲撒哈拉以南\n解析：黑种人主要分布在非洲中部和南部。"
+  },
+  {
+    "id": "g1_geography_u022_ex05",
+    "knowledge_id": "g1_geography_u022",
+    "question": "选择题：下列地区以白种人为主的是（  ）\nA. 东南亚\nB. 非洲北部\nC. 南亚\nD. 澳大利亚",
+    "answer": "答案：B\n解析：非洲北部以白色人种为主。"
+  }
+]

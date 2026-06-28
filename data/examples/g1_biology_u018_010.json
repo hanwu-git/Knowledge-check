@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u018_ex01",
+    "knowledge_id": "g1_biology_u018",
+    "question": "填空题：光合作用的公式：二氧化碳 + 水 → 有机物 + 氧气（储存能量）。",
+    "answer": "答案：正确\n解析：光合作用是制造有机物、释放氧气的过程。"
+  },
+  {
+    "id": "g1_biology_u018_ex02",
+    "knowledge_id": "g1_biology_u018",
+    "question": "选择题：光合作用的场所是（  ）\nA. 线粒体\nB. 叶绿体\nC. 细胞核\nD. 细胞膜",
+    "answer": "答案：B\n解析：叶绿体是光合作用的场所。"
+  },
+  {
+    "id": "g1_biology_u018_ex03",
+    "knowledge_id": "g1_biology_u018",
+    "question": "判断题：光是光合作用不可缺少的条件。（  ）",
+    "answer": "答案：正确\n解析：光是光合作用的能量来源。"
+  },
+  {
+    "id": "g1_biology_u018_ex04",
+    "knowledge_id": "g1_biology_u018",
+    "question": "填空题：光合作用的实质是：制造有机物，储存______。",
+    "answer": "答案：能量\n解析：光合作用将光能转化为化学能储存在有机物中。"
+  },
+  {
+    "id": "g1_biology_u018_ex05",
+    "knowledge_id": "g1_biology_u018",
+    "question": "选择题：金鱼藻的光合作用产物是（  ）\nA. 二氧化碳和水\nB. 有机物和氧气\nC. 二氧化碳和有机物\nD. 氧气和二氧化碳",
+    "answer": "答案：B\n解析：光合作用产物是有机物和氧气。"
+  }
+]

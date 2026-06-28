@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l006_ex01",
+    "knowledge_id": "g1_biology_l006",
+    "question": "填空题：合理营养指全面而平衡的营养，要求各种营养物质种类齐全、______合理、与身体的需要保持平衡。",
+    "answer": "答案：比例\n解析：合理营养的要求。"
+  },
+  {
+    "id": "g1_biology_l006_ex02",
+    "knowledge_id": "g1_biology_l006",
+    "question": "判断题：青少年应多吃保健品，少吃主食。（  ）",
+    "answer": "答案：错误\n解析：青少年应以均衡膳食为主，不依赖保健品。"
+  },
+  {
+    "id": "g1_biology_l006_ex03",
+    "knowledge_id": "g1_biology_l006",
+    "question": "填空题：\"平衡膳食宝塔\"从下到上，各类食物的摄入量逐渐______。",
+    "answer": "答案：减少\n解析：底层食物摄入最多，顶层摄入最少。"
+  },
+  {
+    "id": "g1_biology_l006_ex04",
+    "knowledge_id": "g1_biology_l006",
+    "question": "填空题：购买食品时，应关注食品包装上的______、生产日期和保质期等信息。",
+    "answer": "答案：配料表\n解析：关注食品标签信息。"
+  },
+  {
+    "id": "g1_biology_l006_ex05",
+    "knowledge_id": "g1_biology_l006",
+    "question": "选择题：下列做法中，不符合食品安全的是（  ）\nA. 购买经过检疫的肉制品\nB. 生的蔬菜水果要洗净\nC. 吃发芽的土豆\nD. 保持厨房清洁",
+    "answer": "答案：C\n解析：发芽的土豆含有龙葵素，有毒。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l027_ex01",
+    "knowledge_id": "g1_english_l027",
+    "question": "选择题：\"English is spoken in many countries\" 的中文意思是（  ）\nA. 许多国家说英语。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"English is spoken in many countries\" 的意思是\"许多国家说英语。\"。"
+  },
+  {
+    "id": "g1_english_l027_ex02",
+    "knowledge_id": "g1_english_l027",
+    "question": "选择题：\"这本书是鲁迅写的。\" 的英文表达是（  ）\nA. 错误的句子\nB. The book is written by Lu Xun\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"这本书是鲁迅写的。\" 的正确英文是 \"The book is written by Lu Xun\"。"
+  },
+  {
+    "id": "g1_english_l027_ex03",
+    "knowledge_id": "g1_english_l027",
+    "question": "填空题：被动语态基础的规则可以概括为：______。",
+    "answer": "答案：be + 动词过去分词\n解析：这是被动语态基础的核心规则。"
+  },
+  {
+    "id": "g1_english_l027_ex04",
+    "knowledge_id": "g1_english_l027",
+    "question": "判断题：\"The bridge was built in 1990\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"这座桥建于1990年。\"。"
+  },
+  {
+    "id": "g1_english_l027_ex05",
+    "knowledge_id": "g1_english_l027",
+    "question": "改错题：\"English is spoken in many countries\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"English is spoken in many countries\"。\n解析：要注意被动语态基础的正确用法。"
+  },
+  {
+    "id": "g1_english_l027_ex06",
+    "knowledge_id": "g1_english_l027",
+    "question": "句型转换：将句子 \"The book is written by Lu Xun\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l027_ex07",
+    "knowledge_id": "g1_english_l027",
+    "question": "填空题：\"这本书是鲁迅写的。\" 的英文是：______。",
+    "answer": "答案：The book is written by Lu Xun\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l027_ex08",
+    "knowledge_id": "g1_english_l027",
+    "question": "填空题：\"这座桥建于1990年。\" 的英文是：______。",
+    "answer": "答案：The bridge was built in 1990\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l027_ex09",
+    "knowledge_id": "g1_english_l027",
+    "question": "填空题：\"这封信是昨天写的。\" 的英文是：______。",
+    "answer": "答案：The letter was written yesterday\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l027_ex10",
+    "knowledge_id": "g1_english_l027",
+    "question": "填空题：\"这项工作明天将完成。\" 的英文是：______。",
+    "answer": "答案：The work will be finished tomorrow\n解析：要熟记常用句型。"
+  }
+]

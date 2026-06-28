@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l019_ex01",
+    "knowledge_id": "g1_biology_l019",
+    "question": "填空题：人类活动对生物圈的影响包括环境污染和______。",
+    "answer": "答案：生态破坏\n解析：两方面影响。"
+  },
+  {
+    "id": "g1_biology_l019_ex02",
+    "knowledge_id": "g1_biology_l019",
+    "question": "填空题：温室效应是由于大气中______气体含量增加导致的。",
+    "answer": "答案：二氧化碳\n解析：二氧化碳是温室气体。"
+  },
+  {
+    "id": "g1_biology_l019_ex03",
+    "knowledge_id": "g1_biology_l019",
+    "question": "判断题：酸雨是由于空气中二氧化硫过多造成的。（  ）",
+    "answer": "答案：正确\n解析：硫氧化物和氮氧化物形成酸雨。"
+  },
+  {
+    "id": "g1_biology_l019_ex04",
+    "knowledge_id": "g1_biology_l019",
+    "question": "填空题：保护生物多样性最有效的措施是建立______。",
+    "answer": "答案：自然保护区\n解析：自然保护区是就地保护。"
+  },
+  {
+    "id": "g1_biology_l019_ex05",
+    "knowledge_id": "g1_biology_l019",
+    "question": "选择题：下列做法中，不符合可持续发展理念的是（  ）\nA. 垃圾分类回收\nB. 使用一次性筷子\nC. 节约用水用电\nD. 植树造林",
+    "answer": "答案：B\n解析：使用一次性筷子浪费资源，不环保。"
+  }
+]

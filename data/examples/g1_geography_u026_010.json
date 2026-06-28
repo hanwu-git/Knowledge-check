@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u026_ex01",
+    "knowledge_id": "g1_geography_u026",
+    "question": "填空题：世界上面积最大的国家是______，人口最多的国家是______。",
+    "answer": "答案：俄罗斯；中国\n解析：俄罗斯面积最大，中国人口最多。"
+  },
+  {
+    "id": "g1_geography_u026_ex02",
+    "knowledge_id": "g1_geography_u026",
+    "question": "选择题：发达国家主要分布在（  ）\nA. 亚洲、非洲、拉丁美洲\nB. 北美洲、欧洲、大洋洲\nC. 欧洲、亚洲、非洲\nD. 南美洲、非洲、大洋洲",
+    "answer": "答案：B\n解析：发达国家主要分布在北半球，如欧洲、北美、大洋洲。"
+  },
+  {
+    "id": "g1_geography_u026_ex03",
+    "knowledge_id": "g1_geography_u026",
+    "question": "判断题：\"南北对话\"是指发展中国家与发展中国家之间的合作。（  ）",
+    "answer": "答案：错误\n解析：\"南北对话\"是发达国家与发展中国家之间的对话。"
+  },
+  {
+    "id": "g1_geography_u026_ex04",
+    "knowledge_id": "g1_geography_u026",
+    "question": "填空题：\"南南合作\"是指______之间的合作。",
+    "answer": "答案：发展中国家\n解析：\"南\"指南半球发展中国家之间的合作。"
+  },
+  {
+    "id": "g1_geography_u026_ex05",
+    "knowledge_id": "g1_geography_u026",
+    "question": "选择题：下列国际组织中，最大的综合性组织是（  ）\nA. 世界贸易组织\nB. 联合国\nC. 国际奥委会\nD. 欧盟",
+    "answer": "答案：B\n解析：联合国是最大的综合性政府间国际组织。"
+  }
+]

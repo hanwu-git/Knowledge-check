@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l009_ex01",
+    "knowledge_id": "g1_math_l009",
+    "question": "填空题：有理数和______统称为实数。",
+    "answer": "答案：无理数\n解析：有理数+无理数=实数。"
+  },
+  {
+    "id": "g1_math_l009_ex02",
+    "knowledge_id": "g1_math_l009",
+    "question": "判断题：π是无限不循环小数，因此π是无理数。（  ）",
+    "answer": "答案：正确\n解析：无限不循环小数是无理数。"
+  },
+  {
+    "id": "g1_math_l009_ex03",
+    "knowledge_id": "g1_math_l009",
+    "question": "选择题：下列各数中，是无理数的是（  ）\nA. √4\nB. √5\nC. 3.14\nD. -1/3",
+    "answer": "答案：B\n解析：√5是无限不循环小数，是无理数。√4 = 2是有理数。"
+  },
+  {
+    "id": "g1_math_l009_ex04",
+    "knowledge_id": "g1_math_l009",
+    "question": "判断题：实数与数轴上的点一一对应。（  ）",
+    "answer": "答案：正确\n解析：实数和数轴上的点一一对应。"
+  },
+  {
+    "id": "g1_math_l009_ex05",
+    "knowledge_id": "g1_math_l009",
+    "question": "填空题：-|√2| = ______。",
+    "answer": "答案：-√2\n解析：|√2| = √2，所以-|√2| = -√2。"
+  }
+]

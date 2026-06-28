@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u001_ex01",
+    "knowledge_id": "g1_geography_u001",
+    "question": "选择题：地球的平均半径约为（  ）\nA. 6371千米\nB. 4万千米\nC. 5.1亿平方千米\nD. 6378千米",
+    "answer": "答案：A\n解析：地球平均半径约6371千米。"
+  },
+  {
+    "id": "g1_geography_u001_ex02",
+    "knowledge_id": "g1_geography_u001",
+    "question": "填空题：地球的表面积约为______平方千米。",
+    "answer": "答案：5.1亿\n解析：地球表面积约5.1亿平方千米。"
+  },
+  {
+    "id": "g1_geography_u001_ex03",
+    "knowledge_id": "g1_geography_u001",
+    "question": "判断题：地球是一个正球体。（  ）",
+    "answer": "答案：错误\n解析：地球是一个两极稍扁、赤道略鼓的不规则球体。"
+  },
+  {
+    "id": "g1_geography_u001_ex04",
+    "knowledge_id": "g1_geography_u001",
+    "question": "选择题：最先证明地球形状的事件是（  ）\nA. 麦哲伦环球航行\nB. 人造卫星上天\nC. 月食\nD. 登月",
+    "answer": "答案：A\n解析：麦哲伦环球航行从实践上证明地球是球体。"
+  },
+  {
+    "id": "g1_geography_u001_ex05",
+    "knowledge_id": "g1_geography_u001",
+    "question": "填空题：地球的赤道周长约为______万千米。",
+    "answer": "答案：4\n解析：地球赤道周长约4万千米。"
+  }
+]

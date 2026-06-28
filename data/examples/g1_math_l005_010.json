@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l005_ex01",
+    "knowledge_id": "g1_math_l005",
+    "question": "填空题：两直线平行，同位角______。",
+    "answer": "答案：相等\n解析：平行线的性质1。"
+  },
+  {
+    "id": "g1_math_l005_ex02",
+    "knowledge_id": "g1_math_l005",
+    "question": "填空题：两直线平行，内错角______。",
+    "answer": "答案：相等\n解析：平行线的性质2。"
+  },
+  {
+    "id": "g1_math_l005_ex03",
+    "knowledge_id": "g1_math_l005",
+    "question": "填空题：两直线平行，同旁内角______。",
+    "answer": "答案：互补\n解析：平行线的性质3。"
+  },
+  {
+    "id": "g1_math_l005_ex04",
+    "knowledge_id": "g1_math_l005",
+    "question": "选择题：若AB∥CD，AB与AC相交于A点，则（  ）\nA. CD与AC也相交\nB. CD与AC平行\nC. CD与AC垂直\nD. 无法确定",
+    "answer": "答案：A\n解析：AB∥CD，AB与AC相交于A，A在AB上，所以AC也会与CD相交（过直线外一点有且只有一条平行线）。"
+  },
+  {
+    "id": "g1_math_l005_ex05",
+    "knowledge_id": "g1_math_l005",
+    "question": "判断题：平行线的性质可以与判定互逆应用。（  ）",
+    "answer": "答案：正确\n解析：平行线的判定和性质互为逆定理。"
+  }
+]

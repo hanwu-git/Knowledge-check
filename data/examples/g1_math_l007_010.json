@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l007_ex01",
+    "knowledge_id": "g1_math_l007",
+    "question": "填空题：若x² = 9，则x = ______。",
+    "answer": "答案：±3\n解析：9的平方根是±3。"
+  },
+  {
+    "id": "g1_math_l007_ex02",
+    "knowledge_id": "g1_math_l007",
+    "question": "选择题：下列说法正确的是（  ）\nA. 4的平方根是2\nB. 4的平方根是±2\nC. 4的算术平方根是±2\nD. 4的平方根是-2",
+    "answer": "答案：B\n解析：4的平方根是±2，算术平方根是2。"
+  },
+  {
+    "id": "g1_math_l007_ex03",
+    "knowledge_id": "g1_math_l007",
+    "question": "判断题：负数没有平方根。（  ）",
+    "answer": "答案：正确\n解析：负数的平方是正数，负数没有实数平方根。"
+  },
+  {
+    "id": "g1_math_l007_ex04",
+    "knowledge_id": "g1_math_l007",
+    "question": "填空题：√16的值为______。",
+    "answer": "答案：4\n解析：√16表示16的算术平方根，等于4。"
+  },
+  {
+    "id": "g1_math_l007_ex05",
+    "knowledge_id": "g1_math_l007",
+    "question": "选择题：√(−4)²等于（  ）\nA. -4\nB. 4\nC. ±4\nD. 无法确定",
+    "answer": "答案：B\n解析：√(−4)² = √16 = 4。"
+  }
+]

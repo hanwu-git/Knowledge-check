@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u010_ex01",
+    "knowledge_id": "g1_biology_u010",
+    "question": "填空题：苔藓植物没有真正的______，只有假根。",
+    "answer": "答案：根\n解析：苔藓植物的假根只有固定作用，没有吸收功能。"
+  },
+  {
+    "id": "g1_biology_u010_ex02",
+    "knowledge_id": "g1_biology_u010",
+    "question": "判断题：苔藓植物可以作为监测空气污染程度的指示植物。（  ）",
+    "answer": "答案：正确\n解析：苔藓植物对二氧化硫等污染物敏感。"
+  },
+  {
+    "id": "g1_biology_u010_ex03",
+    "knowledge_id": "g1_biology_u010",
+    "question": "填空题：苔藓植物叶片很薄，只有一层细胞，对有毒气体敏感，因此可以用于______。",
+    "answer": "答案：监测空气污染\n解析：苔藓植物是监测空气污染的指示植物。"
+  },
+  {
+    "id": "g1_biology_u010_ex04",
+    "knowledge_id": "g1_biology_u010",
+    "question": "选择题：葫芦藓的植物体分为（  ）\nA. 根、茎、叶\nB. 茎、叶\nC. 假根、茎、叶\nD. 根、茎",
+    "answer": "答案：C\n解析：苔藓植物有假根、茎、叶的分化。"
+  },
+  {
+    "id": "g1_biology_u010_ex05",
+    "knowledge_id": "g1_biology_u010",
+    "question": "填空题：苔藓植物喜欢生活在______的环境中。",
+    "answer": "答案：阴湿\n解析：苔藓植物喜阴湿环境。"
+  }
+]

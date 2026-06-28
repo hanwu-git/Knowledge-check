@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l005_ex01",
+    "knowledge_id": "g1_english_l005",
+    "question": "选择题：\"I will visit my grandma tomorrow\" 的中文意思是（  ）\nA. 我明天要去看望奶奶。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"I will visit my grandma tomorrow\" 的意思是\"我明天要去看望奶奶。\"。"
+  },
+  {
+    "id": "g1_english_l005_ex02",
+    "knowledge_id": "g1_english_l005",
+    "question": "选择题：\"/ No, I won't.\" 的英文表达是（  ）\nA. 错误的句子\nB. Will you go with us? 你和我们一起去吗？\n  Yes, I will\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"/ No, I won't.\" 的正确英文是 \"Will you go with us? 你和我们一起去吗？\n  Yes, I will\"。"
+  },
+  {
+    "id": "g1_english_l005_ex03",
+    "knowledge_id": "g1_english_l005",
+    "question": "填空题：一般将来时的规则可以概括为：______。",
+    "answer": "答案：will + 动词原形 / be going to + 动词原形\n解析：这是一般将来时的核心规则。"
+  },
+  {
+    "id": "g1_english_l005_ex04",
+    "knowledge_id": "g1_english_l005",
+    "question": "判断题：\"I'm going to play football this afternoon\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"我今天下午打算踢足球。\"。"
+  },
+  {
+    "id": "g1_english_l005_ex05",
+    "knowledge_id": "g1_english_l005",
+    "question": "改错题：\"I will visit my grandma tomorrow\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"I will visit my grandma tomorrow\"。\n解析：要注意一般将来时的正确用法。"
+  },
+  {
+    "id": "g1_english_l005_ex06",
+    "knowledge_id": "g1_english_l005",
+    "question": "句型转换：将句子 \"Will you go with us? 你和我们一起去吗？\n  Yes, I will\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l005_ex07",
+    "knowledge_id": "g1_english_l005",
+    "question": "填空题：\"/ No, I won't.\" 的英文是：______。",
+    "answer": "答案：Will you go with us? 你和我们一起去吗？\n  Yes, I will\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l005_ex08",
+    "knowledge_id": "g1_english_l005",
+    "question": "填空题：\"我今天下午打算踢足球。\" 的英文是：______。",
+    "answer": "答案：I'm going to play football this afternoon\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l005_ex09",
+    "knowledge_id": "g1_english_l005",
+    "question": "填空题：\"要下雨了。\" 的英文是：______。",
+    "answer": "答案：It's going to rain\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l005_ex10",
+    "knowledge_id": "g1_english_l005",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  }
+]

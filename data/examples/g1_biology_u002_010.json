@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u002_ex01",
+    "knowledge_id": "g1_biology_u002",
+    "question": "填空题：植物细胞的基本结构包括：细胞壁、细胞膜、细胞质、______和液泡。",
+    "answer": "答案：细胞核\n解析：植物细胞的基本结构。"
+  },
+  {
+    "id": "g1_biology_u002_ex02",
+    "knowledge_id": "g1_biology_u002",
+    "question": "选择题：植物细胞特有的结构是（  ）\nA. 细胞壁\nB. 细胞膜\nC. 细胞质\nD. 细胞核",
+    "answer": "答案：A\n解析：细胞壁是植物细胞特有的结构（植物、细菌、真菌都有细胞壁，但组成不同）。"
+  },
+  {
+    "id": "g1_biology_u002_ex03",
+    "knowledge_id": "g1_biology_u002",
+    "question": "判断题：细胞核是细胞的控制中心。（  ）",
+    "answer": "答案：正确\n解析：细胞核内含遗传物质，是细胞生命活动的控制中心。"
+  },
+  {
+    "id": "g1_biology_u002_ex04",
+    "knowledge_id": "g1_biology_u002",
+    "question": "填空题：细胞质中与光合作用有关的结构是______。",
+    "answer": "答案：叶绿体\n解析：叶绿体是光合作用的场所。"
+  },
+  {
+    "id": "g1_biology_u002_ex05",
+    "knowledge_id": "g1_biology_u002",
+    "question": "选择题：植物细胞的\"能量转换器\"是（  ）\nA. 细胞核\nB. 线粒体\nC. 叶绿体\nD. 液泡",
+    "answer": "答案：C\n解析：叶绿体将光能转化为化学能，是能量转换器。"
+  }
+]

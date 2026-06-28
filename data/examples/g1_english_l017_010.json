@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l017_ex01",
+    "knowledge_id": "g1_english_l017",
+    "question": "选择题：\"need → needed\n\n2\" 的中文意思是（  ）\nA. 以不发音的字母e结尾：加d\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"need → needed\n\n2\" 的意思是\"以不发音的字母e结尾：加d\"。"
+  },
+  {
+    "id": "g1_english_l017_ex02",
+    "knowledge_id": "g1_english_l017",
+    "question": "选择题：\"以辅音字母加y结尾：变y为i，再加ed\" 的英文表达是（  ）\nA. 错误的句子\nB. dance → danced\n\n3\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"以辅音字母加y结尾：变y为i，再加ed\" 的正确英文是 \"dance → danced\n\n3\"。"
+  },
+  {
+    "id": "g1_english_l017_ex03",
+    "knowledge_id": "g1_english_l017",
+    "question": "填空题：动词过去式的规则变化的规则可以概括为：______。",
+    "answer": "答案：一般加ed，以e结尾加d，辅y结尾变i加ed\n解析：这是动词过去式的规则变化的核心规则。"
+  },
+  {
+    "id": "g1_english_l017_ex04",
+    "knowledge_id": "g1_english_l017",
+    "question": "判断题：\"worry → worried\n\n4\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"重读闭音节（辅元辅结构）末尾只有一个辅音字母：双写这个辅音字母，再加ed\"。"
+  },
+  {
+    "id": "g1_english_l017_ex05",
+    "knowledge_id": "g1_english_l017",
+    "question": "改错题：\"need → needed\n\n2\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"need → needed\n\n2\"。\n解析：要注意动词过去式的规则变化的正确用法。"
+  },
+  {
+    "id": "g1_english_l017_ex06",
+    "knowledge_id": "g1_english_l017",
+    "question": "句型转换：将句子 \"dance → danced\n\n3\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l017_ex07",
+    "knowledge_id": "g1_english_l017",
+    "question": "填空题：\"以辅音字母加y结尾：变y为i，再加ed\" 的英文是：______。",
+    "answer": "答案：dance → danced\n\n3\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l017_ex08",
+    "knowledge_id": "g1_english_l017",
+    "question": "填空题：\"重读闭音节（辅元辅结构）末尾只有一个辅音字母：双写这个辅音字母，再加ed\" 的英文是：______。",
+    "answer": "答案：worry → worried\n\n4\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l017_ex09",
+    "knowledge_id": "g1_english_l017",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  },
+  {
+    "id": "g1_english_l017_ex10",
+    "knowledge_id": "g1_english_l017",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  }
+]

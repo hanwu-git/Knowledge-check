@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l020_ex01",
+    "knowledge_id": "g1_english_l020",
+    "question": "选择题：\"The train is arriving soon\" 的中文意思是（  ）\nA. 火车马上就要到了。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"The train is arriving soon\" 的意思是\"火车马上就要到了。\"。"
+  },
+  {
+    "id": "g1_english_l020_ex02",
+    "knowledge_id": "g1_english_l020",
+    "question": "选择题：\"我们明天要去上海。\" 的英文表达是（  ）\nA. 错误的句子\nB. We are leaving for Shanghai tomorrow\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"我们明天要去上海。\" 的正确英文是 \"We are leaving for Shanghai tomorrow\"。"
+  },
+  {
+    "id": "g1_english_l020_ex03",
+    "knowledge_id": "g1_english_l020",
+    "question": "填空题：英语单词 \"come\" 的中文意思是______。",
+    "answer": "答案：来\n解析：come 是一个常用单词，意思是\"来\"。"
+  },
+  {
+    "id": "g1_english_l020_ex04",
+    "knowledge_id": "g1_english_l020",
+    "question": "选择题：下列单词中，表示\"去\"的是（  ）\nA. come\nB. go\nC. leave\nD. arrive",
+    "answer": "答案：B\n解析：go 的意思是\"去\"。"
+  },
+  {
+    "id": "g1_english_l020_ex05",
+    "knowledge_id": "g1_english_l020",
+    "question": "填空题：现在进行时表将来的规则可以概括为：______。",
+    "answer": "答案：come/go/leave/arrive的进行时表将来\n解析：这是现在进行时表将来的核心规则。"
+  },
+  {
+    "id": "g1_english_l020_ex06",
+    "knowledge_id": "g1_english_l020",
+    "question": "判断题：\"He is coming to see you this afternoon\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"他今天下午要来看你。\"。"
+  },
+  {
+    "id": "g1_english_l020_ex07",
+    "knowledge_id": "g1_english_l020",
+    "question": "改错题：\"The train is arriving soon\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"The train is arriving soon\"。\n解析：要注意现在进行时表将来的正确用法。"
+  },
+  {
+    "id": "g1_english_l020_ex08",
+    "knowledge_id": "g1_english_l020",
+    "question": "句型转换：将句子 \"We are leaving for Shanghai tomorrow\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l020_ex09",
+    "knowledge_id": "g1_english_l020",
+    "question": "匹配题：请将下列单词与对应的中文意思连线。\n1. come    A. 离开\n2. go    B. 来\n3. leave    C. 到达\n4. arrive    D. 去",
+    "answer": "答案：1-B, 2-D, 3-A, 4-C\n解析：要准确掌握单词的意思。"
+  },
+  {
+    "id": "g1_english_l020_ex10",
+    "knowledge_id": "g1_english_l020",
+    "question": "写作题：用 \"come\" 这个单词写一个英语句子。",
+    "answer": "答案（示例）：The train is arriving soon\n解析：造句要注意语法正确，意思通顺。"
+  }
+]

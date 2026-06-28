@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l002_ex01",
+    "knowledge_id": "g1_biology_l002",
+    "question": "填空题：男性的主要生殖器官是______，女性的主要生殖器官是______。",
+    "answer": "答案：睾丸；卵巢\n解析：主要生殖器官产生生殖细胞。"
+  },
+  {
+    "id": "g1_biology_l002_ex02",
+    "knowledge_id": "g1_biology_l002",
+    "question": "选择题：产生卵细胞和分泌雌性激素的器官是（  ）\nA. 子宫\nB. 输卵管\nC. 卵巢\nD. 阴道",
+    "answer": "答案：C\n解析：卵巢产生卵细胞并分泌雌性激素。"
+  },
+  {
+    "id": "g1_biology_l002_ex03",
+    "knowledge_id": "g1_biology_l002",
+    "question": "判断题：受精卵的分裂标志着胚胎发育的开始。（  ）",
+    "answer": "答案：正确\n解析：受精卵分裂开始胚胎发育。"
+  },
+  {
+    "id": "g1_biology_l002_ex04",
+    "knowledge_id": "g1_biology_l002",
+    "question": "填空题：胎儿通过______和胎盘从母体获得营养和氧气。",
+    "answer": "答案：脐带\n解析：脐带连接胎儿和胎盘。"
+  },
+  {
+    "id": "g1_biology_l002_ex05",
+    "knowledge_id": "g1_biology_l002",
+    "question": "选择题：胚胎发育的场所是（  ）\nA. 卵巢\nB. 输卵管\nC. 子宫\nD. 阴道",
+    "answer": "答案：C\n解析：子宫是胚胎发育的场所。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u026_ex01",
+    "knowledge_id": "g1_english_u026",
+    "question": "选择题：\"There is a book on the desk\" 的中文意思是（  ）\nA. 书桌上有一本书。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"There is a book on the desk\" 的意思是\"书桌上有一本书。\"。"
+  },
+  {
+    "id": "g1_english_u026_ex02",
+    "knowledge_id": "g1_english_u026",
+    "question": "选择题：\"书桌上有一些书。\" 的英文表达是（  ）\nA. 错误的句子\nB. There are some books on the desk\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"书桌上有一些书。\" 的正确英文是 \"There are some books on the desk\"。"
+  },
+  {
+    "id": "g1_english_u026_ex03",
+    "knowledge_id": "g1_english_u026",
+    "question": "填空题：There be句型的规则可以概括为：______。",
+    "answer": "答案：There is + 单数, There are + 复数\n解析：这是There be句型的核心规则。"
+  },
+  {
+    "id": "g1_english_u026_ex04",
+    "knowledge_id": "g1_english_u026",
+    "question": "判断题：\"There is a pen and two pencils in the pencil-box\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"铅笔盒里有一支钢笔和两支铅笔。\"。"
+  },
+  {
+    "id": "g1_english_u026_ex05",
+    "knowledge_id": "g1_english_u026",
+    "question": "改错题：\"There is a book on the desk\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"There is a book on the desk\"。\n解析：要注意There be句型的正确用法。"
+  },
+  {
+    "id": "g1_english_u026_ex06",
+    "knowledge_id": "g1_english_u026",
+    "question": "句型转换：将句子 \"There are some books on the desk\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_u026_ex07",
+    "knowledge_id": "g1_english_u026",
+    "question": "填空题：\"书桌上有一些书。\" 的英文是：______。",
+    "answer": "答案：There are some books on the desk\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u026_ex08",
+    "knowledge_id": "g1_english_u026",
+    "question": "填空题：\"铅笔盒里有一支钢笔和两支铅笔。\" 的英文是：______。",
+    "answer": "答案：There is a pen and two pencils in the pencil-box\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u026_ex09",
+    "knowledge_id": "g1_english_u026",
+    "question": "填空题：\"铅笔盒里有两支铅笔和一支钢笔。\" 的英文是：______。",
+    "answer": "答案：There are two pencils and a pen in the pencil-box\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u026_ex10",
+    "knowledge_id": "g1_english_u026",
+    "question": "填空题：\"/ No, there isn't.\" 的英文是：______。",
+    "answer": "答案：Is there a library in your school? 你们学校有图书馆吗？\n  Yes, there is\n解析：要熟记常用句型。"
+  }
+]

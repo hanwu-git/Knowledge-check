@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u015_ex01",
+    "knowledge_id": "g1_math_u015",
+    "question": "选择题：多项式x² - 3x + 5的项是（  ）\nA. x²、-3x、5\nB. x²、-3x\nC. x²、3x、5\nD. x²、3x",
+    "answer": "答案：A\n解析：多项式的项包括符号，x² - 3x + 5的项是x²、-3x、5。"
+  },
+  {
+    "id": "g1_math_u015_ex02",
+    "knowledge_id": "g1_math_u015",
+    "question": "填空题：多项式2x³ - 3x² + x - 1是______次______项式。",
+    "answer": "答案：3；4\n解析：最高次数是3，共4项。"
+  },
+  {
+    "id": "g1_math_u015_ex03",
+    "knowledge_id": "g1_math_u015",
+    "question": "判断题：常数项不是多项式的项。（  ）",
+    "answer": "答案：错误\n解析：常数项是多项式的一项。"
+  },
+  {
+    "id": "g1_math_u015_ex04",
+    "knowledge_id": "g1_math_u015",
+    "question": "选择题：下列说法正确的是（  ）\nA. 多项式必须有字母\nB. 常数项不是多项式\nC. 多项式的项可以是单项式\nD. 多项式一定是整式",
+    "answer": "答案：C\n解析：多项式是由单项式相加组成的，各项本身都是单项式。"
+  },
+  {
+    "id": "g1_math_u015_ex05",
+    "knowledge_id": "g1_math_u015",
+    "question": "填空题：把多项式按x降幂排列：3x²y + 5xy² - x³ + 2y³ = ______。",
+    "answer": "答案：-x³ + 3x²y + 5xy² + 2y³\n解析：按x的指数从高到低排列。"
+  }
+]

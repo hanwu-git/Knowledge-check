@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u017_ex01",
+    "knowledge_id": "g1_math_u017",
+    "question": "选择题：下列方程中，是一元一次方程的是（  ）\nA. x² + 1 = 0\nB. x + y = 2\nC. 2/x = 1\nD. 2x + 1 = 3",
+    "answer": "答案：D\n解析：一元一次方程含一个未知数，未知数次数为1，且分母中不含未知数。"
+  },
+  {
+    "id": "g1_math_u017_ex02",
+    "knowledge_id": "g1_math_u017",
+    "question": "解方程：x + 3 = 7",
+    "answer": "答案：x = 4\n解析：x = 7 - 3 = 4。"
+  },
+  {
+    "id": "g1_math_u017_ex03",
+    "knowledge_id": "g1_math_u017",
+    "question": "判断题：方程2x + 3 = 7的解是x = 2。（  ）",
+    "answer": "答案：正确\n解析：代入检验，2×2 + 3 = 7，等式成立。"
+  },
+  {
+    "id": "g1_math_u017_ex04",
+    "knowledge_id": "g1_math_u017",
+    "question": "填空题：若x = -2是方程ax - 4 = 0的解，则a = ______。",
+    "answer": "答案：-2\n解析：代入得-2a - 4 = 0，a = -2。"
+  },
+  {
+    "id": "g1_math_u017_ex05",
+    "knowledge_id": "g1_math_u017",
+    "question": "选择题：方程3x + 5 = 2x - 1的解是（  ）\nA. x = -6\nB. x = -4\nC. x = 6\nD. x = 4",
+    "answer": "答案：A\n解析：3x - 2x = -1 - 5，x = -6。"
+  }
+]

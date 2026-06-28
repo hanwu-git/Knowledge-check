@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u015_ex01",
+    "knowledge_id": "g1_biology_u015",
+    "question": "填空题：花的主要结构是______和______。",
+    "answer": "答案：雄蕊；雌蕊\n解析：花的主要结构是雄蕊和雌蕊，与繁殖有关。"
+  },
+  {
+    "id": "g1_biology_u015_ex02",
+    "knowledge_id": "g1_biology_u015",
+    "question": "选择题：花中最主要的结构是（  ）\nA. 花瓣\nB. 花萼\nC. 雄蕊和雌蕊\nD. 花托",
+    "answer": "答案：C\n解析：雄蕊和雌蕊是花的主要结构，与生殖有关。"
+  },
+  {
+    "id": "g1_biology_u015_ex03",
+    "knowledge_id": "g1_biology_u015",
+    "question": "判断题：果实是由子房发育来的。（  ）",
+    "answer": "答案：正确\n解析：子房发育成果实，胚珠发育成种子。"
+  },
+  {
+    "id": "g1_biology_u015_ex04",
+    "knowledge_id": "g1_biology_u015",
+    "question": "填空题：果实中种子数目多少取决于______的数目。",
+    "answer": "答案：胚珠\n解析：每个胚珠发育成一个种子。"
+  },
+  {
+    "id": "g1_biology_u015_ex05",
+    "knowledge_id": "g1_biology_u015",
+    "question": "选择题：一朵花中，能产生花粉的结构是（  ）\nA. 雌蕊\nB. 雄蕊\nC. 花瓣\nD. 花托",
+    "answer": "答案：B\n解析：雄蕊的花药产生花粉。"
+  }
+]

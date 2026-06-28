@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l016_ex01",
+    "knowledge_id": "g1_english_l016",
+    "question": "选择题：\"Last summer, I went to Beijing with my parents\" 的中文意思是（  ）\nA. 去年夏天，我和父母去了北京。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"Last summer, I went to Beijing with my parents\" 的意思是\"去年夏天，我和父母去了北京。\"。"
+  },
+  {
+    "id": "g1_english_l016_ex02",
+    "knowledge_id": "g1_english_l016",
+    "question": "选择题：\"我们参观了长城。\" 的英文表达是（  ）\nA. 错误的句子\nB. We visited the Great Wall\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"我们参观了长城。\" 的正确英文是 \"We visited the Great Wall\"。"
+  },
+  {
+    "id": "g1_english_l016_ex03",
+    "knowledge_id": "g1_english_l016",
+    "question": "填空题：过去的事的规则可以概括为：______。",
+    "answer": "答案：一般过去时描述过去发生的事情\n解析：这是过去的事的核心规则。"
+  },
+  {
+    "id": "g1_english_l016_ex04",
+    "knowledge_id": "g1_english_l016",
+    "question": "判断题：\"I had a good time there\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"我在那里玩得很开心。\"。"
+  },
+  {
+    "id": "g1_english_l016_ex05",
+    "knowledge_id": "g1_english_l016",
+    "question": "改错题：\"Last summer, I went to Beijing with my pisnts\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"Last summer, I went to Beijing with my parents\"。\n解析：要注意过去的事的正确用法。"
+  },
+  {
+    "id": "g1_english_l016_ex06",
+    "knowledge_id": "g1_english_l016",
+    "question": "句型转换：将句子 \"We visited the Great Wall\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l016_ex07",
+    "knowledge_id": "g1_english_l016",
+    "question": "填空题：\"我们参观了长城。\" 的英文是：______。",
+    "answer": "答案：We visited the Great Wall\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l016_ex08",
+    "knowledge_id": "g1_english_l016",
+    "question": "填空题：\"我在那里玩得很开心。\" 的英文是：______。",
+    "answer": "答案：I had a good time there\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l016_ex09",
+    "knowledge_id": "g1_english_l016",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  },
+  {
+    "id": "g1_english_l016_ex10",
+    "knowledge_id": "g1_english_l016",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  }
+]

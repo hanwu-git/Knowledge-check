@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l017_ex01",
+    "knowledge_id": "g1_math_l017",
+    "question": "填空题：点P(3,4)到原点的距离是______。",
+    "answer": "答案：5\n解析：d = √(3² + 4²) = √25 = 5。"
+  },
+  {
+    "id": "g1_math_l017_ex02",
+    "knowledge_id": "g1_math_l017",
+    "question": "选择题：点A(2,3)和点B(6,3)的距离是（  ）\nA. 2\nB. 3\nC. 4\nD. 6",
+    "answer": "答案：C\n解析：y相同，d = |6-2| = 4。"
+  },
+  {
+    "id": "g1_math_l017_ex03",
+    "knowledge_id": "g1_math_l017",
+    "question": "填空题：点P在第二象限，且到两坐标轴距离相等，则P的坐标为______（P在两轴夹角的平分线上）。",
+    "answer": "答案：(-a,a)（a > 0）\n解析：第二象限x负y正，|x| = |y|。"
+  },
+  {
+    "id": "g1_math_l017_ex04",
+    "knowledge_id": "g1_math_l017",
+    "question": "选择题：点A(1,2)，B(4,6)，C(7,10)的关系是（  ）\nA. 构成直角三角形\nB. 三点共线\nC. 构成等腰三角形\nD. 任意关系",
+    "answer": "答案：B\n解析：AB和BC斜率相同，三点共线。"
+  },
+  {
+    "id": "g1_math_l017_ex05",
+    "knowledge_id": "g1_math_l017",
+    "question": "填空题：点P到x轴的距离为3，到y轴的距离为4，若P在第一象限，则P的坐标是______。",
+    "answer": "答案：(4,3)\n解析：第一象限x正y正，坐标为(4,3)。"
+  }
+]

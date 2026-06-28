@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l007_ex01",
+    "knowledge_id": "g1_english_l007",
+    "question": "选择题：\"What's your favorite animal? 你最喜欢的动物是什么？\n  My favorite animal is the panda\" 的中文意思是（  ）\nA. 我最喜欢的动物是熊猫。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"What's your favorite animal? 你最喜欢的动物是什么？\n  My favorite animal is the panda\" 的意思是\"我最喜欢的动物是熊猫。\"。"
+  },
+  {
+    "id": "g1_english_l007_ex02",
+    "knowledge_id": "g1_english_l007",
+    "question": "选择题：\"它们住在中国。\" 的英文表达是（  ）\nA. 错误的句子\nB. Where do pandas live? 熊猫住在哪里？\n  They live in China\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"它们住在中国。\" 的正确英文是 \"Where do pandas live? 熊猫住在哪里？\n  They live in China\"。"
+  },
+  {
+    "id": "g1_english_l007_ex03",
+    "knowledge_id": "g1_english_l007",
+    "question": "填空题：英语单词 \"panda\" 的中文意思是______。",
+    "answer": "答案：熊猫\n解析：panda 是一个常用单词，意思是\"熊猫\"。"
+  },
+  {
+    "id": "g1_english_l007_ex04",
+    "knowledge_id": "g1_english_l007",
+    "question": "选择题：下列单词中，表示\"老虎\"的是（  ）\nA. panda\nB. tiger\nC. lion\nD. elephant",
+    "answer": "答案：B\n解析：tiger 的意思是\"老虎\"。"
+  },
+  {
+    "id": "g1_english_l007_ex05",
+    "knowledge_id": "g1_english_l007",
+    "question": "填空题：动物的规则可以概括为：______。",
+    "answer": "答案：animals: panda, tiger, lion, elephant, monkey\n解析：这是动物的核心规则。"
+  },
+  {
+    "id": "g1_english_l007_ex06",
+    "knowledge_id": "g1_english_l007",
+    "question": "改错题：\"What's your favorite animal? 你最喜欢的动物是什么？\n  My favorite animal is the panda\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"What's your favorite animal? 你最喜欢的动物是什么？\n  My favorite animal is the panda\"。\n解析：要注意动物的正确用法。"
+  },
+  {
+    "id": "g1_english_l007_ex07",
+    "knowledge_id": "g1_english_l007",
+    "question": "句型转换：将句子 \"Where do pandas live? 熊猫住在哪里？\n  They live in China\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l007_ex08",
+    "knowledge_id": "g1_english_l007",
+    "question": "匹配题：请将下列单词与对应的中文意思连线。\n1. panda    A. 狮子\n2. tiger    B. 熊猫\n3. lion    C. 大象\n4. elephant    D. 老虎",
+    "answer": "答案：1-B, 2-D, 3-A, 4-C\n解析：要准确掌握单词的意思。"
+  },
+  {
+    "id": "g1_english_l007_ex09",
+    "knowledge_id": "g1_english_l007",
+    "question": "写作题：用 \"panda\" 这个单词写一个英语句子。",
+    "answer": "答案（示例）：What's your favorite animal? 你最喜欢的动物是什么？\n  My favorite animal is the panda\n解析：造句要注意语法正确，意思通顺。"
+  },
+  {
+    "id": "g1_english_l007_ex10",
+    "knowledge_id": "g1_english_l007",
+    "question": "填空题：\"它们住在中国。\" 的英文是：______。",
+    "answer": "答案：Where do pandas live? 熊猫住在哪里？\n  They live in China\n解析：要熟记常用句型。"
+  }
+]

@@ -2,61 +2,61 @@
   {
     "id": "g2_math_036_ex01",
     "knowledge_id": "g2_math_036",
-    "question": "填空题：三角形全等的判定-AAS的核心公式是______。",
-    "answer": "答案：两角和其中一角的对边对应相等的两个三角形全等\n解析：这是三角形全等的判定-AAS的基本公式，需要牢记。"
+    "question": "选择题：下列各组条件中，能判定△ABC ≌ △DEF的是（  ）\nA. ∠A=∠D, ∠B=∠E, AB=DE\nB. ∠A=∠D, ∠B=∠E, BC=EF\nC. AB=DE, BC=EF, ∠A=∠D\nD. ∠A=∠D, ∠B=∠E, ∠C=∠F",
+    "answer": "答案：B\n解析：B选项是两角和其中一角的对边对应相等（AAS），可以判定全等。"
   },
   {
     "id": "g2_math_036_ex02",
     "knowledge_id": "g2_math_036",
-    "question": "判断题：关于三角形全等的判定-AAS的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "填空题：如果两个三角形的两角和其中一角的______分别对应相等，那么这两个三角形全等（AAS）。",
+    "answer": "答案：对边\n解析：AAS判定定理：两角和其中一角的对边对应相等的两个三角形全等。"
   },
   {
     "id": "g2_math_036_ex03",
     "knowledge_id": "g2_math_036",
-    "question": "解答题：请简要说明三角形全等的判定-AAS的主要内容和应用。",
-    "answer": "答案：角角边（AAS）：\n如果两个三角形的两角和其中一角的对边分别相等，那么这两个三角形全等。...\n解析：本题考察对三角形全等的判定-AAS的理解和应用能力。"
+    "question": "选择题：在△ABC和△DEF中，∠A=∠D=50°，∠B=∠E=60°，BC=EF=8cm，则△ABC与△DEF（  ）\nA. 不全等\nB. 全等\nC. 面积相等但不全等\nD. 无法确定",
+    "answer": "答案：B\n解析：∠A和∠B对应∠D和∠E，BC是∠A的对边，EF是∠D的对边，符合AAS判定定理。"
   },
   {
     "id": "g2_math_036_ex04",
     "knowledge_id": "g2_math_036",
-    "question": "选择题：下列关于\"三角形全等的判定-AAS\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据三角形全等的判定-AAS的定义和性质，选项C是正确的。"
+    "question": "判断题：AAS可以看作是ASA的推论。",
+    "answer": "答案：正确\n解析：因为三角形内角和是180°，已知两个角相等，第三个角也相等，所以AAS可以转化为ASA。"
   },
   {
     "id": "g2_math_036_ex05",
     "knowledge_id": "g2_math_036",
-    "question": "填空题：三角形全等的判定-AAS的核心公式是______。",
-    "answer": "答案：两角和其中一角的对边对应相等的两个三角形全等\n解析：这是三角形全等的判定-AAS的基本公式，需要牢记。"
+    "question": "解答题：如图，已知∠B=∠C，BD=CD，∠ADB=∠ADC，求证：△ABD ≌ △ACD。",
+    "answer": "答案：证明：在△ABD和△ACD中\n∠B=∠C（已知）\n∠ADB=∠ADC（已知）\nBD=CD（已知）\n∴ △ABD ≌ △ACD（AAS）\n解析：∠B和∠ADB的对边是AD，∠C和∠ADC的对边是AD，加上BD=CD，符合AAS。"
   },
   {
     "id": "g2_math_036_ex06",
     "knowledge_id": "g2_math_036",
-    "question": "判断题：关于三角形全等的判定-AAS的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：用AAS判定两个三角形全等，需要知道（  ）\nA. 三条边对应相等\nB. 两个角和它们的夹边对应相等\nC. 两个角和其中一角的对边对应相等\nD. 三个角对应相等",
+    "answer": "答案：C\n解析：AAS即角角边，需要两个角和其中一角的对边对应相等。"
   },
   {
     "id": "g2_math_036_ex07",
     "knowledge_id": "g2_math_036",
-    "question": "解答题：请简要说明三角形全等的判定-AAS的主要内容和应用。",
-    "answer": "答案：角角边（AAS）：\n如果两个三角形的两角和其中一角的对边分别相等，那么这两个三角形全等。...\n解析：本题考察对三角形全等的判定-AAS的理解和应用能力。"
+    "question": "填空题：AAS的全称是______。",
+    "answer": "答案：角角边\n解析：AAS是Angle-Angle-Side的缩写，即两角和其中一角的对边对应相等。"
   },
   {
     "id": "g2_math_036_ex08",
     "knowledge_id": "g2_math_036",
-    "question": "选择题：下列关于\"三角形全等的判定-AAS\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据三角形全等的判定-AAS的定义和性质，选项C是正确的。"
+    "question": "判断题：AAS和ASA都能判定三角形全等。",
+    "answer": "答案：正确\n解析：两者都是常用的全等判定方法。"
   },
   {
     "id": "g2_math_036_ex09",
     "knowledge_id": "g2_math_036",
-    "question": "填空题：三角形全等的判定-AAS的核心公式是______。",
-    "answer": "答案：两角和其中一角的对边对应相等的两个三角形全等\n解析：这是三角形全等的判定-AAS的基本公式，需要牢记。"
+    "question": "解答题：已知△ABC中，∠A=70°，∠B=50°，BC=10cm，△DEF中，∠D=70°，∠E=50°，EF=10cm，求证△ABC ≌ △DEF。",
+    "answer": "答案：证明：在△ABC和△DEF中\n∠A=∠D=70°（已知）\n∠B=∠E=50°（已知）\nBC=EF=10cm（已知）\n∴ △ABC ≌ △DEF（AAS）\n解析：BC是∠A的对边，EF是∠D的对边，符合AAS。"
   },
   {
-    "id": "g2_math_036_ex010",
+    "id": "g2_math_036_ex10",
     "knowledge_id": "g2_math_036",
-    "question": "判断题：关于三角形全等的判定-AAS的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法正确的是（  ）\nA. AAS和ASA是完全相同的方法\nB. AAS中的边是两个角的夹边\nC. AAS中的边是其中一个角的对边\nD. AAS不能判定全等",
+    "answer": "答案：C\n解析：AAS中的边是其中一个角的对边，而不是夹边。"
   }
 ]

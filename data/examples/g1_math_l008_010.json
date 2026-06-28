@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l008_ex01",
+    "knowledge_id": "g1_math_l008",
+    "question": "填空题：若x³ = 8，则x = ______。",
+    "answer": "答案：2\n解析：2³ = 8，所以8的立方根是2。"
+  },
+  {
+    "id": "g1_math_l008_ex02",
+    "knowledge_id": "g1_math_l008",
+    "question": "填空题：∛(−27) = ______。",
+    "answer": "答案：-3\n解析：(-3)³ = -27，所以-27的立方根是-3。"
+  },
+  {
+    "id": "g1_math_l008_ex03",
+    "knowledge_id": "g1_math_l008",
+    "question": "判断题：负数没有立方根。（  ）",
+    "answer": "答案：错误\n解析：负数有立方根，如(-2)³ = -8。"
+  },
+  {
+    "id": "g1_math_l008_ex04",
+    "knowledge_id": "g1_math_l008",
+    "question": "选择题：下列计算正确的是（  ）\nA. ∛(-8) = -2\nB. ∛8 = ±2\nC. ∛(-1) = -1\nD. ∛1 = 1",
+    "answer": "答案：A\n解析：A、C、D都正确。"
+  },
+  {
+    "id": "g1_math_l008_ex05",
+    "knowledge_id": "g1_math_l008",
+    "question": "填空题：立方根是它本身的数有______个。",
+    "answer": "答案：3\n解析：是0、1、-1。"
+  }
+]

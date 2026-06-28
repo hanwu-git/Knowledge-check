@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l007_ex01",
+    "knowledge_id": "g1_biology_l007",
+    "question": "填空题：呼吸系统由______和肺组成。",
+    "answer": "答案：呼吸道\n解析：呼吸系统包括呼吸道和肺。"
+  },
+  {
+    "id": "g1_biology_l007_ex02",
+    "knowledge_id": "g1_biology_l007",
+    "question": "选择题：呼吸道的作用不包括（  ）\nA. 温暖空气\nB. 清洁空气\nC. 湿润空气\nD. 气体交换",
+    "answer": "答案：D\n解析：气体交换发生在肺泡，不是呼吸道。"
+  },
+  {
+    "id": "g1_biology_l007_ex03",
+    "knowledge_id": "g1_biology_l007",
+    "question": "填空题：痰是在______和支气管形成的。",
+    "answer": "答案：气管\n解析：气管内表面有纤毛摆动排出痰液。"
+  },
+  {
+    "id": "g1_biology_l007_ex04",
+    "knowledge_id": "g1_biology_l007",
+    "question": "判断题：鼻腔中有鼻毛，能阻挡灰尘和细菌。（  ）",
+    "answer": "答案：正确\n解析：鼻毛是呼吸道的防御结构。"
+  },
+  {
+    "id": "g1_biology_l007_ex05",
+    "knowledge_id": "g1_biology_l007",
+    "question": "选择题：组成肺的结构单位是（  ）\nA. 支气管\nB. 细支气管\nC. 肺泡\nD. 气管",
+    "answer": "答案：C\n解析：肺泡是气体交换的场所。"
+  }
+]

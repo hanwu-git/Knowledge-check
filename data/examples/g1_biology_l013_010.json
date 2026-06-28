@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l013_ex01",
+    "knowledge_id": "g1_biology_l013",
+    "question": "填空题：ABO血型系统分为A型、B型、AB型和______型。",
+    "answer": "答案：O\n解析：ABO血型系统四种血型。"
+  },
+  {
+    "id": "g1_biology_l013_ex02",
+    "knowledge_id": "g1_biology_l013",
+    "question": "判断题：O型血是万能输血者。（  ）",
+    "answer": "答案：错误\n解析：O型血的红细胞不含凝集原，可输给任何人，但血清中有凝集素，需慎重。"
+  },
+  {
+    "id": "g1_biology_l013_ex03",
+    "knowledge_id": "g1_biology_l013",
+    "question": "填空题：输血时，应以输入______血为原则。",
+    "answer": "答案：同型\n解析：输血原则是同型血相输。"
+  },
+  {
+    "id": "g1_biology_l013_ex04",
+    "knowledge_id": "g1_biology_l013",
+    "question": "选择题：某人血型为A型，其红细胞膜上的凝集原是（  ）\nA. A凝集原\nB. B凝集原\nC. A和B凝集原\nD. 无凝集原",
+    "answer": "答案：A\n解析：A型血含A凝集原。"
+  },
+  {
+    "id": "g1_biology_l013_ex05",
+    "knowledge_id": "g1_biology_l013",
+    "question": "填空题：一个健康成年人一次献血______ml不影响健康。",
+    "answer": "答案：200-300\n解析：健康成年人每次献血200-300ml为宜。"
+  }
+]

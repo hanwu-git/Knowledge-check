@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u013_ex01",
+    "knowledge_id": "g1_geography_u013",
+    "question": "填空题：海底地形包括：大陆架、______、海岭、海沟等。",
+    "answer": "答案：大陆坡\n解析：主要海底地形类型。"
+  },
+  {
+    "id": "g1_geography_u013_ex02",
+    "knowledge_id": "g1_geography_u013",
+    "question": "选择题：海底地形中，坡度最陡的是（  ）\nA. 大陆架\nB. 大陆坡\nC. 洋盆\nD. 海岭",
+    "answer": "答案：B\n解析：大陆坡连接大陆架和大洋底，坡度较陡。"
+  },
+  {
+    "id": "g1_geography_u013_ex03",
+    "knowledge_id": "g1_geography_u013",
+    "question": "判断题：大陆架是陆地向海洋延伸的部分，坡度平缓。（  ）",
+    "answer": "答案：正确\n解析：大陆架是陆地延伸到海底的部分，水深一般不超过200米。"
+  },
+  {
+    "id": "g1_geography_u013_ex04",
+    "knowledge_id": "g1_geography_u013",
+    "question": "填空题：世界上最深的海沟是______，深度超过11000米。",
+    "answer": "答案：马里亚纳海沟\n解析：马里亚纳海沟位于太平洋西部。"
+  },
+  {
+    "id": "g1_geography_u013_ex05",
+    "knowledge_id": "g1_geography_u013",
+    "question": "选择题：海沟主要分布在（  ）\nA. 大洋中部\nB. 大陆边缘\nC. 海岭附近\nD. 任意位置",
+    "answer": "答案：B\n解析：海沟分布在大陆边缘，是大洋板块俯冲形成的。"
+  }
+]

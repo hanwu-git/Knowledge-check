@@ -2,61 +2,61 @@
   {
     "id": "g2_math_034_ex01",
     "knowledge_id": "g2_math_034",
-    "question": "填空题：三角形全等的判定-SAS的核心公式是______。",
-    "answer": "答案：两边和它们的夹角对应相等的两个三角形全等\n解析：这是三角形全等的判定-SAS的基本公式，需要牢记。"
+    "question": "选择题：下列各组条件中，能判定△ABC ≌ △DEF的是（  ）\nA. AB=DE, BC=EF, ∠B=∠E\nB. AB=DE, BC=EF, ∠A=∠D\nC. AB=DE, ∠A=∠D, ∠B=∠E\nD. ∠A=∠D, ∠B=∠E, ∠C=∠F",
+    "answer": "答案：A\n解析：A选项是两边和它们的夹角对应相等（SAS），可以判定全等。"
   },
   {
     "id": "g2_math_034_ex02",
     "knowledge_id": "g2_math_034",
-    "question": "判断题：关于三角形全等的判定-SAS的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "填空题：如果两个三角形的两边和它们的______分别对应相等，那么这两个三角形全等（SAS）。",
+    "answer": "答案：夹角\n解析：SAS判定定理：两边和它们的夹角对应相等的两个三角形全等。"
   },
   {
     "id": "g2_math_034_ex03",
     "knowledge_id": "g2_math_034",
-    "question": "解答题：请简要说明三角形全等的判定-SAS的主要内容和应用。",
-    "answer": "答案：边角边（SAS）：\n如果两个三角形的两边和它们的夹角分别相等，那么这两个三角形全等。\n\n注意：必须是夹角，而不是任意一个角。...\n解析：本题考察对三角形全等的判定-SAS的理解和应用能力。"
+    "question": "选择题：在△ABC和△DEF中，AB=DE=5cm，BC=EF=6cm，∠B=∠E=60°，则△ABC与△DEF（  ）\nA. 不全等\nB. 全等\nC. 面积相等但不全等\nD. 无法确定",
+    "answer": "答案：B\n解析：两边和夹角对应相等，符合SAS判定定理。"
   },
   {
     "id": "g2_math_034_ex04",
     "knowledge_id": "g2_math_034",
-    "question": "选择题：下列关于\"三角形全等的判定-SAS\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据三角形全等的判定-SAS的定义和性质，选项C是正确的。"
+    "question": "判断题：SAS中的角必须是两边的夹角。",
+    "answer": "答案：正确\n解析：如果不是夹角而是对角，则不能判定全等（SSA不能判定全等）。"
   },
   {
     "id": "g2_math_034_ex05",
     "knowledge_id": "g2_math_034",
-    "question": "填空题：三角形全等的判定-SAS的核心公式是______。",
-    "answer": "答案：两边和它们的夹角对应相等的两个三角形全等\n解析：这是三角形全等的判定-SAS的基本公式，需要牢记。"
+    "question": "解答题：如图，已知AB=AD，∠BAC=∠DAC，求证：△ABC ≌ △ADC。",
+    "answer": "答案：证明：在△ABC和△ADC中\nAB=AD（已知）\n∠BAC=∠DAC（已知）\nAC=AC（公共边）\n∴ △ABC ≌ △ADC（SAS）\n解析：AB和AC的夹角是∠BAC，AD和AC的夹角是∠DAC，符合SAS。"
   },
   {
     "id": "g2_math_034_ex06",
     "knowledge_id": "g2_math_034",
-    "question": "判断题：关于三角形全等的判定-SAS的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：用SAS判定两个三角形全等，需要知道（  ）\nA. 三条边对应相等\nB. 两条边和它们的夹角对应相等\nC. 两条边和其中一边的对角对应相等\nD. 三个角对应相等",
+    "answer": "答案：B\n解析：SAS即边角边，需要两条边和它们的夹角对应相等。"
   },
   {
     "id": "g2_math_034_ex07",
     "knowledge_id": "g2_math_034",
-    "question": "解答题：请简要说明三角形全等的判定-SAS的主要内容和应用。",
-    "answer": "答案：边角边（SAS）：\n如果两个三角形的两边和它们的夹角分别相等，那么这两个三角形全等。\n\n注意：必须是夹角，而不是任意一个角。...\n解析：本题考察对三角形全等的判定-SAS的理解和应用能力。"
+    "question": "填空题：SAS的全称是______。",
+    "answer": "答案：边角边\n解析：SAS是Side-Angle-Side的缩写，即两边和夹角对应相等。"
   },
   {
     "id": "g2_math_034_ex08",
     "knowledge_id": "g2_math_034",
-    "question": "选择题：下列关于\"三角形全等的判定-SAS\"的说法，正确的是（  ）\nA. 错误说法A\nB. 错误说法B\nC. 正确说法C\nD. 错误说法D",
-    "answer": "答案：C\n解析：根据三角形全等的判定-SAS的定义和性质，选项C是正确的。"
+    "question": "判断题：两边和其中一边的对角对应相等，可以判定两个三角形全等。",
+    "answer": "答案：错误\n解析：这是SSA，不能判定全等。必须是两边的夹角才行。"
   },
   {
     "id": "g2_math_034_ex09",
     "knowledge_id": "g2_math_034",
-    "question": "填空题：三角形全等的判定-SAS的核心公式是______。",
-    "answer": "答案：两边和它们的夹角对应相等的两个三角形全等\n解析：这是三角形全等的判定-SAS的基本公式，需要牢记。"
+    "question": "解答题：已知△ABC中，AB=8cm，AC=10cm，∠A=45°，△DEF中，DE=8cm，DF=10cm，∠D=45°，求证△ABC ≌ △DEF。",
+    "answer": "答案：证明：在△ABC和△DEF中\nAB=DE=8cm（已知）\n∠A=∠D=45°（已知）\nAC=DF=10cm（已知）\n∴ △ABC ≌ △DEF（SAS）\n解析：AB和AC的夹角是∠A，DE和DF的夹角是∠D，符合SAS。"
   },
   {
-    "id": "g2_math_034_ex010",
+    "id": "g2_math_034_ex10",
     "knowledge_id": "g2_math_034",
-    "question": "判断题：关于三角形全等的判定-SAS的某个说法。",
-    "answer": "答案：正确\n解析：根据知识点的定义和性质判断。"
+    "question": "选择题：下列说法正确的是（  ）\nA. SAS和SSA都能判定全等\nB. SAS中的角可以是任意角\nC. SAS需要两边和夹角对应相等\nD. SAS只适用于直角三角形",
+    "answer": "答案：C\n解析：SAS需要两条边和它们之间的夹角对应相等。"
   }
 ]

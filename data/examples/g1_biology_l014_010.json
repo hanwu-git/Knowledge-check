@@ -1,0 +1,26 @@
+[
+  {
+    "id": "g1_biology_l014_ex01",
+    "knowledge_id": "g1_biology_l014",
+    "question": "填空题：排泄是指人体将二氧化碳、尿素和多余的水等______排出体外的过程。",
+    "answer": "答案：代谢废物\n解析：排泄的定义。"
+  },
+  {
+    "id": "g1_biology_l014_ex02",
+    "knowledge_id": "g1_biology_l014",
+    "question": "填空题：泌尿系统由肾脏、输尿管、膀胱和______组成。",
+    "answer": "答案：尿道\n解析：泌尿系统组成。"
+  },
+  {
+    "id": "g1_biology_l014_ex03",
+    "knowledge_id": "g1_biology_l014",
+    "question": "判断题：肾单位是肾脏结构和功能的基本单位。（  ）",
+    "answer": "答案：正确\n解析：肾单位由肾小球、肾小囊、肾小管组成。"
+  },
+  {
+    "id": "g1_biology_l014_ex05",
+    "knowledge_id": "g1_biology_l014",
+    "question": "填空题：原尿与血液相比，原尿不含______和______。",
+    "answer": "答案：血细胞；大分子蛋白质\n解析：肾小球滤过作用形成原尿。"
+  }
+]

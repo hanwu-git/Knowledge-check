@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u017_ex01",
+    "knowledge_id": "g1_english_u017",
+    "question": "选择题：\"How many books do you have? 你有多少本书？\n  I have five books\" 的中文意思是（  ）\nA. 我有五本书。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"How many books do you have? 你有多少本书？\n  I have five books\" 的意思是\"我有五本书。\"。"
+  },
+  {
+    "id": "g1_english_u017_ex02",
+    "knowledge_id": "g1_english_u017",
+    "question": "选择题：\"有40个学生。\" 的英文表达是（  ）\nA. 错误的句子\nB. How many students are there in your class? 你们班有多少学生？\n  There are 40 students\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"有40个学生。\" 的正确英文是 \"How many students are there in your class? 你们班有多少学生？\n  There are 40 students\"。"
+  },
+  {
+    "id": "g1_english_u017_ex03",
+    "knowledge_id": "g1_english_u017",
+    "question": "填空题：how much与how many的规则可以概括为：______。",
+    "answer": "答案：how much问不可数/价格，how many问可数数量\n解析：这是how much与how many的核心规则。"
+  },
+  {
+    "id": "g1_english_u017_ex04",
+    "knowledge_id": "g1_english_u017",
+    "question": "判断题：\"How much water is there in the bottle? 瓶子里有多少水？\n  There is some water\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"有一些水。\"。"
+  },
+  {
+    "id": "g1_english_u017_ex05",
+    "knowledge_id": "g1_english_u017",
+    "question": "改错题：\"How many books do you have? 你有多少本书？\n  I have five books\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"How many books do you have? 你有多少本书？\n  I have five books\"。\n解析：要注意how much与how many的正确用法。"
+  },
+  {
+    "id": "g1_english_u017_ex06",
+    "knowledge_id": "g1_english_u017",
+    "question": "句型转换：将句子 \"How many students are there in your class? 你们班有多少学生？\n  There are 40 students\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_u017_ex07",
+    "knowledge_id": "g1_english_u017",
+    "question": "填空题：\"有40个学生。\" 的英文是：______。",
+    "answer": "答案：How many students are there in your class? 你们班有多少学生？\n  There are 40 students\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u017_ex08",
+    "knowledge_id": "g1_english_u017",
+    "question": "填空题：\"有一些水。\" 的英文是：______。",
+    "answer": "答案：How much water is there in the bottle? 瓶子里有多少水？\n  There is some water\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u017_ex09",
+    "knowledge_id": "g1_english_u017",
+    "question": "填空题：\"五元。\" 的英文是：______。",
+    "answer": "答案：How much is the pen? 这支钢笔多少钱？\n  It's five yuan\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u017_ex10",
+    "knowledge_id": "g1_english_u017",
+    "question": "填空题：\"100元。\" 的英文是：______。",
+    "answer": "答案：How much are these shoes? 这双鞋多少钱？\n  They are 100 yuan\n解析：要熟记常用句型。"
+  }
+]

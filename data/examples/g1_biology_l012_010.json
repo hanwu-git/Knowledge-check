@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l012_ex01",
+    "knowledge_id": "g1_biology_l012",
+    "question": "填空题：心脏有四个腔：左心房、左心室、______和______。",
+    "answer": "答案：右心房；右心室\n解析：心脏四腔。"
+  },
+  {
+    "id": "g1_biology_l012_ex02",
+    "knowledge_id": "g1_biology_l012",
+    "question": "选择题：心脏壁最厚的腔是（  ）\nA. 左心房\nB. 右心房\nC. 左心室\nD. 右心室",
+    "answer": "答案：C\n解析：左心室需要泵血到全身，壁最厚。"
+  },
+  {
+    "id": "g1_biology_l012_ex03",
+    "knowledge_id": "g1_biology_l012",
+    "question": "判断题：体循环的起点是左心室，终点是右心房。（  ）",
+    "answer": "答案：正确\n解析：体循环途径：左心室→主动脉→全身→上、下腔静脉→右心房。"
+  },
+  {
+    "id": "g1_biology_l012_ex04",
+    "knowledge_id": "g1_biology_l012",
+    "question": "填空题：肺循环的起点是______，终点是左心房。",
+    "answer": "答案：右心室\n解析：肺循环：右心室→肺动脉→肺部→肺静脉→左心房。"
+  },
+  {
+    "id": "g1_biology_l012_ex05",
+    "knowledge_id": "g1_biology_l012",
+    "question": "选择题：保证血液单向流动的结构是（  ）\nA. 动脉\nB. 静脉\nC. 瓣膜\nD. 毛细血管",
+    "answer": "答案：C\n解析：瓣膜防止血液倒流。"
+  }
+]

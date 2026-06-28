@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u008_ex01",
+    "knowledge_id": "g1_biology_u008",
+    "question": "填空题：单细胞生物如______，整个身体由一个细胞构成。",
+    "answer": "答案：草履虫\n解析：草履虫是常见的单细胞生物。"
+  },
+  {
+    "id": "g1_biology_u008_ex02",
+    "knowledge_id": "g1_biology_u008",
+    "question": "选择题：草履虫进行气体交换的结构是（  ）\nA. 伸缩泡\nB. 表膜\nC. 收集管\nD. 纤毛",
+    "answer": "答案：B\n解析：草履虫通过表膜进行气体交换。"
+  },
+  {
+    "id": "g1_biology_u008_ex03",
+    "knowledge_id": "g1_biology_u008",
+    "question": "判断题：单细胞生物能独立完成呼吸、排泄、运动等多种生命活动。（  ）",
+    "answer": "答案：正确\n解析：单细胞生物依靠细胞器完成各种生命活动。"
+  },
+  {
+    "id": "g1_biology_u008_ex04",
+    "knowledge_id": "g1_biology_u008",
+    "question": "填空题：草履虫靠______的摆动进行运动。",
+    "answer": "答案：纤毛\n解析：纤毛是草履虫的运动器官。"
+  },
+  {
+    "id": "g1_biology_u008_ex05",
+    "knowledge_id": "g1_biology_u008",
+    "question": "选择题：下列生物中，属于单细胞生物的是（  ）\nA. 蘑菇\nB. 酵母菌\nC. 青霉\nD. 木耳",
+    "answer": "答案：B\n解析：酵母菌是单细胞真菌。"
+  }
+]

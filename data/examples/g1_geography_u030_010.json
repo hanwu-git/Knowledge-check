@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u030_ex01",
+    "knowledge_id": "g1_geography_u030",
+    "question": "填空题：日本由______、本州、四国、九州四大岛及其附近小岛组成。",
+    "answer": "答案：北海道\n解析：日本领土组成。"
+  },
+  {
+    "id": "g1_geography_u030_ex02",
+    "knowledge_id": "g1_geography_u030",
+    "question": "判断题：日本是亚洲唯一的发达国家。（  ）",
+    "answer": "答案：正确\n解析：日本是亚洲最发达的资本主义国家。"
+  },
+  {
+    "id": "g1_geography_u030_ex03",
+    "knowledge_id": "g1_geography_u030",
+    "question": "选择题：日本工业主要分布在太平洋沿岸和______沿岸。\nA. 日本海\nB. 东海\nC. 濑户内海\nD. 鄂霍次克海",
+    "answer": "答案：C\n解析：日本工业分布在太平洋沿岸和濑户内海沿岸。"
+  },
+  {
+    "id": "g1_geography_u030_ex04",
+    "knowledge_id": "g1_geography_u030",
+    "question": "填空题：日本多火山地震，主要是因为位于______板块与太平洋板块交界处。",
+    "answer": "答案：亚欧\n解析：日本位于板块交界处，地壳活跃。"
+  },
+  {
+    "id": "g1_geography_u030_ex05",
+    "knowledge_id": "g1_geography_u030",
+    "question": "选择题：日本经济发展的特点是（  ）\nA. 原料依赖进口，工业产品依赖出口\nB. 原料和产品都依赖进口\nC. 原料和产品都自给自足\nD. 原料和产品都以出口为主",
+    "answer": "答案：A\n解析：日本地狭人多、资源匮乏，依靠进口原料、出口工业品发展经济。"
+  }
+]

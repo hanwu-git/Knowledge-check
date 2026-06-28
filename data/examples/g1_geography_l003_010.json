@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_l003_ex01",
+    "knowledge_id": "g1_geography_l003",
+    "question": "填空题：俄罗斯是世界上面积______的国家。",
+    "answer": "答案：最大\n解析：俄罗斯面积约1709万平方千米，世界第一。"
+  },
+  {
+    "id": "g1_geography_l003_ex02",
+    "knowledge_id": "g1_geography_l003",
+    "question": "选择题：俄罗斯大部分地区属于（  ）\nA. 温带季风气候\nB. 温带大陆性气候\nC. 热带雨林气候\nD. 地中海气候",
+    "answer": "答案：B\n解析：俄罗斯大部分地区属温带大陆性气候。"
+  },
+  {
+    "id": "g1_geography_l003_ex03",
+    "knowledge_id": "g1_geography_l003",
+    "question": "判断题：俄罗斯的工业主要分布在原料产地附近。（  ）",
+    "answer": "答案：正确\n解析：俄罗斯工业靠近原料产地。"
+  },
+  {
+    "id": "g1_geography_l003_ex04",
+    "knowledge_id": "g1_geography_l003",
+    "question": "填空题：俄罗斯首都______，位于______洲。",
+    "answer": "答案：莫斯科；欧\n解析：莫斯科是俄罗斯首都，大部分领土在亚洲，但政治中心在欧洲。"
+  },
+  {
+    "id": "g1_geography_l003_ex05",
+    "knowledge_id": "g1_geography_l003",
+    "question": "选择题：俄罗斯最长的河流是（  ）\nA. 伏尔加河\nB. 鄂毕河\nC. 叶尼塞河\nD. 勒拿河",
+    "answer": "答案：B\n解析：鄂毕河是俄罗斯最长河流。"
+  }
+]

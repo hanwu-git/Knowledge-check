@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_physics_004_ex01",
+    "knowledge_id": "g2_physics_004",
+    "question": "选择题：速度的公式是（  ）\nA. v = s × t\nB. v = s / t\nC. v = t / s\nD. s = v × t",
+    "answer": "答案：B\n解析：速度 = 路程 ÷ 时间，即v = s/t。"
+  },
+  {
+    "id": "g2_physics_004_ex02",
+    "knowledge_id": "g2_physics_004",
+    "question": "填空题：速度的国际单位是______。",
+    "answer": "答案：米/秒（m/s）\n解析：速度的国际单位是米/秒，符号为m/s。"
+  },
+  {
+    "id": "g2_physics_004_ex03",
+    "knowledge_id": "g2_physics_004",
+    "question": "选择题：下列速度单位换算正确的是（  ）\nA. 1 m/s = 3.6 km/h\nB. 1 km/h = 3.6 m/s\nC. 1 m/s = 1 km/h\nD. 1 m/s = 0.36 km/h",
+    "answer": "答案：A\n解析：1 m/s = 3.6 km/h。"
+  },
+  {
+    "id": "g2_physics_004_ex04",
+    "knowledge_id": "g2_physics_004",
+    "question": "判断题：速度是表示物体运动快慢的物理量。",
+    "answer": "答案：正确\n解析：速度的物理意义就是表示物体运动的快慢。"
+  },
+  {
+    "id": "g2_physics_004_ex05",
+    "knowledge_id": "g2_physics_004",
+    "question": "解答题：一辆汽车在2小时内行驶了120 km，求这辆汽车的速度。",
+    "answer": "答案：60 km/h（或约16.7 m/s）\n解析：v = s/t = 120 km ÷ 2 h = 60 km/h。"
+  },
+  {
+    "id": "g2_physics_004_ex06",
+    "knowledge_id": "g2_physics_004",
+    "question": "选择题：关于匀速直线运动，下列说法正确的是（  ）\nA. 速度越来越大\nB. 速度越来越小\nC. 速度保持不变\nD. 速度先变大后变小",
+    "answer": "答案：C\n解析：匀速直线运动的速度保持不变。"
+  },
+  {
+    "id": "g2_physics_004_ex07",
+    "knowledge_id": "g2_physics_004",
+    "question": "填空题：1 m/s = ______ km/h。",
+    "answer": "答案：3.6\n解析：1 m/s = 3.6 km/h。"
+  },
+  {
+    "id": "g2_physics_004_ex08",
+    "knowledge_id": "g2_physics_004",
+    "question": "判断题：速度越大，物体通过的路程一定越长。",
+    "answer": "答案：错误\n解析：路程 = 速度 × 时间，还与时间有关。"
+  },
+  {
+    "id": "g2_physics_004_ex09",
+    "knowledge_id": "g2_physics_004",
+    "question": "解答题：一列火车以72 km/h的速度行驶，通过一座长1000 m的桥用了60 s，求火车的长度。",
+    "answer": "答案：200 m\n解析：v = 72 km/h = 20 m/s\n总路程 = v × t = 20 × 60 = 1200 m\n火车长度 = 总路程 - 桥长 = 1200 - 1000 = 200 m"
+  },
+  {
+    "id": "g2_physics_004_ex10",
+    "knowledge_id": "g2_physics_004",
+    "question": "选择题：甲、乙两车都做匀速直线运动，甲车速度是20 m/s，乙车速度是72 km/h，则（  ）\nA. 甲车快\nB. 乙车快\nC. 一样快\nD. 无法比较",
+    "answer": "答案：C\n解析：72 km/h = 20 m/s，两车速度相同。"
+  }
+]

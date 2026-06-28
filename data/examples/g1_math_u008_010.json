@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u008_ex01",
+    "knowledge_id": "g1_math_u008",
+    "question": "计算题：(-3)×(-4) = ______。",
+    "answer": "答案：12\n解析：两数相乘，同号得正，异号得负。(-3)×(-4) = 12。"
+  },
+  {
+    "id": "g1_math_u008_ex02",
+    "knowledge_id": "g1_math_u008",
+    "question": "计算题：(-5)×3 = ______。",
+    "answer": "答案：-15\n解析：(-5)×3 = -15。"
+  },
+  {
+    "id": "g1_math_u008_ex03",
+    "knowledge_id": "g1_math_u008",
+    "question": "判断题：任何数乘0都得0。（  ）",
+    "answer": "答案：正确\n解析：0与任何数相乘都得0。"
+  },
+  {
+    "id": "g1_math_u008_ex04",
+    "knowledge_id": "g1_math_u008",
+    "question": "选择题：若ab < 0，则（  ）\nA. a > 0, b > 0\nB. a < 0, b < 0\nC. a、b异号\nD. a = 0或b = 0",
+    "answer": "答案：C\n解析：两数乘积小于0，说明这两个数异号。"
+  },
+  {
+    "id": "g1_math_u008_ex05",
+    "knowledge_id": "g1_math_u008",
+    "question": "填空题：(-1)×(-1)×(-1) = ______。",
+    "answer": "答案：-1\n解析：(-1)×(-1) = 1，1×(-1) = -1。"
+  }
+]

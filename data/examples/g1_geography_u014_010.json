@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u014_ex01",
+    "knowledge_id": "g1_geography_u014",
+    "question": "填空题：地球表面陆地占______%，海洋占______%。",
+    "answer": "答案：29；71\n解析：地球表面三分陆地七分海洋。"
+  },
+  {
+    "id": "g1_geography_u014_ex02",
+    "knowledge_id": "g1_geography_u014",
+    "question": "选择题：世界上面积最大的大洲是（  ）\nA. 非洲\nB. 北美洲\nC. 亚洲\nD. 南美洲",
+    "answer": "答案：C\n解析：亚洲是面积最大的洲。"
+  },
+  {
+    "id": "g1_geography_u014_ex03",
+    "knowledge_id": "g1_geography_u014",
+    "question": "填空题：亚洲与欧洲的分界线是：乌拉尔山脉、乌拉尔河、______、土耳其海峡。",
+    "answer": "答案：大高加索山脉\n解析：这是亚欧两大洲的分界线。"
+  },
+  {
+    "id": "g1_geography_u014_ex04",
+    "knowledge_id": "g1_geography_u014",
+    "question": "判断题：赤道穿过的大洲有非洲、亚洲、大洋洲、南美洲。（  ）",
+    "answer": "答案：错误\n解析：赤道穿过非洲、亚洲、大洋洲、南美洲，没有穿过欧洲。"
+  },
+  {
+    "id": "g1_geography_u014_ex05",
+    "knowledge_id": "g1_geography_u014",
+    "question": "选择题：完全位于北半球的大洲有（  ）\nA. 亚洲、非洲\nB. 北美洲、南美洲\nC. 欧洲、北美洲\nD. 大洋洲、南极洲",
+    "answer": "答案：C\n解析：欧洲和北美洲完全位于北半球。"
+  }
+]

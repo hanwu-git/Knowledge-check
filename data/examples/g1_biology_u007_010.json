@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u007_ex01",
+    "knowledge_id": "g1_biology_u007",
+    "question": "填空题：动物体的结构层次：细胞→______→器官→系统→动物体。",
+    "answer": "答案：组织\n解析：动物体比植物体多了系统层次。"
+  },
+  {
+    "id": "g1_biology_u007_ex02",
+    "knowledge_id": "g1_biology_u007",
+    "question": "选择题：人体的四种基本组织是（  ）\nA. 上皮组织、肌肉组织、神经组织、结缔组织\nB. 保护组织、营养组织、分生组织、输导组织\nC. 肌肉组织、神经组织、结缔组织、肌肉组织\nD. 上皮组织、肌肉组织、神经组织、保护组织",
+    "answer": "答案：A\n解析：人体四种基本组织是上皮、肌肉、神经、结缔组织。"
+  },
+  {
+    "id": "g1_biology_u007_ex03",
+    "knowledge_id": "g1_biology_u007",
+    "question": "判断题：人体的胃属于器官。（  ）",
+    "answer": "答案：正确\n解析：胃是由多种组织组成的器官。"
+  },
+  {
+    "id": "g1_biology_u007_ex04",
+    "knowledge_id": "g1_biology_u007",
+    "question": "填空题：人体消化系统由消化道和______两大部分组成。",
+    "answer": "答案：消化腺\n解析：消化系统包括消化道（管）和消化腺（腺体）。"
+  },
+  {
+    "id": "g1_biology_u007_ex05",
+    "knowledge_id": "g1_biology_u007",
+    "question": "选择题：心脏主要由哪种组织构成？（  ）\nA. 上皮组织\nB. 肌肉组织\nC. 神经组织\nD. 结缔组织",
+    "answer": "答案：B\n解析：心脏主要由心肌构成。"
+  }
+]

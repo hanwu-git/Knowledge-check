@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l019_ex01",
+    "knowledge_id": "g1_english_l019",
+    "question": "选择题：\"I want a new book\" 的中文意思是（  ）\nA. 我想要一本新书。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"I want a new book\" 的意思是\"我想要一本新书。\"。"
+  },
+  {
+    "id": "g1_english_l019_ex02",
+    "knowledge_id": "g1_english_l019",
+    "question": "选择题：\"want to do sth.：想要做某事\" 的英文表达是（  ）\nA. 错误的句子\nB. Do you want some tea? 你想要些茶吗？\n\n2\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"want to do sth.：想要做某事\" 的正确英文是 \"Do you want some tea? 你想要些茶吗？\n\n2\"。"
+  },
+  {
+    "id": "g1_english_l019_ex03",
+    "knowledge_id": "g1_english_l019",
+    "question": "填空题：英语单词 \"want\" 的中文意思是______。",
+    "answer": "答案：+ 名词：想要某物\n解析：want 是一个常用单词，意思是\"+ 名词：想要某物\"。"
+  },
+  {
+    "id": "g1_english_l019_ex04",
+    "knowledge_id": "g1_english_l019",
+    "question": "选择题：下列单词中，表示\"to do sth.：想要做某事\"的是（  ）\nA. would\nB. want\nC. would\nD. would",
+    "answer": "答案：B\n解析：want 的意思是\"to do sth.：想要做某事\"。"
+  },
+  {
+    "id": "g1_english_l019_ex05",
+    "knowledge_id": "g1_english_l019",
+    "question": "填空题：want / would like的规则可以概括为：______。",
+    "answer": "答案：want to do / would like to do\n解析：这是want / would like的核心规则。"
+  },
+  {
+    "id": "g1_english_l019_ex06",
+    "knowledge_id": "g1_english_l019",
+    "question": "判断题：\"I want to play football\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"我想去踢足球。\"。"
+  },
+  {
+    "id": "g1_english_l019_ex07",
+    "knowledge_id": "g1_english_l019",
+    "question": "改错题：\"I want a new book\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"I want a new book\"。\n解析：要注意want / would like的正确用法。"
+  },
+  {
+    "id": "g1_english_l019_ex08",
+    "knowledge_id": "g1_english_l019",
+    "question": "句型转换：将句子 \"Do you want some tea? 你想要些茶吗？\n\n2\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l019_ex09",
+    "knowledge_id": "g1_english_l019",
+    "question": "匹配题：请将下列单词与对应的中文意思连线。\n1. want    A. sb. to do sth.：想要某人做某事\n2. want    B. + 名词：想要某物\n3. want    C. like + 名词\n4. would    D. to do sth.：想要做某事",
+    "answer": "答案：1-B, 2-D, 3-A, 4-C\n解析：要准确掌握单词的意思。"
+  },
+  {
+    "id": "g1_english_l019_ex10",
+    "knowledge_id": "g1_english_l019",
+    "question": "写作题：用 \"want\" 这个单词写一个英语句子。",
+    "answer": "答案（示例）：I want a new book\n解析：造句要注意语法正确，意思通顺。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u016_ex01",
+    "knowledge_id": "g1_math_u016",
+    "question": "计算题：3x + 5x = ______。",
+    "answer": "答案：8x\n解析：合并同类项，系数相加，字母部分不变。"
+  },
+  {
+    "id": "g1_math_u016_ex02",
+    "knowledge_id": "g1_math_u016",
+    "question": "计算题：7a²b - 3a²b = ______。",
+    "answer": "答案：4a²b\n解析：7a²b - 3a²b = (7-3)a²b = 4a²b。"
+  },
+  {
+    "id": "g1_math_u016_ex03",
+    "knowledge_id": "g1_math_u016",
+    "question": "判断题：3x和3y是同类项。（  ）",
+    "answer": "答案：错误\n解析：同类项要求字母相同且相同字母的指数也相同，3x和3y字母不同。"
+  },
+  {
+    "id": "g1_math_u016_ex04",
+    "knowledge_id": "g1_math_u016",
+    "question": "化简题：2x² + 3x - 5x² + x = ______。",
+    "answer": "答案：-3x² + 4x\n解析：2x²-5x² = -3x²，3x+x = 4x。"
+  },
+  {
+    "id": "g1_math_u016_ex05",
+    "knowledge_id": "g1_math_u016",
+    "question": "选择题：下列各组是同类项的是（  ）\nA. 2x²与2xy\nB. -3ab²与b²a\nC. 5与x\nD. a²与a",
+    "answer": "答案：B\n解析：-3ab²与b²a都含有a和b²，是同类项。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u019_ex01",
+    "knowledge_id": "g1_biology_u019",
+    "question": "填空题：呼吸作用的公式：有机物 + 氧气 → 二氧化碳 + 水 + ______。",
+    "answer": "答案：能量\n解析：呼吸作用释放能量。"
+  },
+  {
+    "id": "g1_biology_u019_ex02",
+    "knowledge_id": "g1_biology_u019",
+    "question": "判断题：呼吸作用是吸收氧气，释放二氧化碳。（  ）",
+    "answer": "答案：正确\n解析：呼吸作用吸收氧气，释放二氧化碳。"
+  },
+  {
+    "id": "g1_biology_u019_ex03",
+    "knowledge_id": "g1_biology_u019",
+    "question": "选择题：呼吸作用主要在细胞的哪个结构进行？（  ）\nA. 叶绿体\nB. 线粒体\nC. 细胞核\nD. 细胞膜",
+    "answer": "答案：B\n解析：线粒体是呼吸作用的主要场所。"
+  },
+  {
+    "id": "g1_biology_u019_ex04",
+    "knowledge_id": "g1_biology_u019",
+    "question": "填空题：呼吸作用的实质是：分解有机物，______能量。",
+    "answer": "答案：释放\n解析：呼吸作用分解有机物释放能量。"
+  },
+  {
+    "id": "g1_biology_u019_ex05",
+    "knowledge_id": "g1_biology_u019",
+    "question": "选择题：呼吸作用对植物自身的意义是（  ）\nA. 制造有机物\nB. 释放氧气\nC. 为生命活动提供能量\nD. 吸收二氧化碳",
+    "answer": "答案：C\n解析：呼吸作用为植物生命活动提供能量。"
+  }
+]

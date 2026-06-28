@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l011_ex01",
+    "knowledge_id": "g1_english_l011",
+    "question": "选择题：\"He likes apples\" 的中文意思是（  ）\nA. → He doesn't like apples.\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"He likes apples\" 的意思是\"→ He doesn't like apples.\"。"
+  },
+  {
+    "id": "g1_english_l011_ex02",
+    "knowledge_id": "g1_english_l011",
+    "question": "选择题：\"→ Does she get up early?\" 的英文表达是（  ）\nA. 错误的句子\nB. She gets up early\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"→ Does she get up early?\" 的正确英文是 \"She gets up early\"。"
+  },
+  {
+    "id": "g1_english_l011_ex03",
+    "knowledge_id": "g1_english_l011",
+    "question": "填空题：一般现在时第三人称单数的规则可以概括为：______。",
+    "answer": "答案：动词后加s/es\n解析：这是一般现在时第三人称单数的核心规则。"
+  },
+  {
+    "id": "g1_english_l011_ex04",
+    "knowledge_id": "g1_english_l011",
+    "question": "改错题：\"He likes apples\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"He likes apples\"。\n解析：要注意一般现在时第三人称单数的正确用法。"
+  },
+  {
+    "id": "g1_english_l011_ex05",
+    "knowledge_id": "g1_english_l011",
+    "question": "句型转换：将句子 \"She gets up early\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l011_ex06",
+    "knowledge_id": "g1_english_l011",
+    "question": "填空题：\"→ Does she get up early?\" 的英文是：______。",
+    "answer": "答案：She gets up early\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l011_ex07",
+    "knowledge_id": "g1_english_l011",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  },
+  {
+    "id": "g1_english_l011_ex08",
+    "knowledge_id": "g1_english_l011",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  },
+  {
+    "id": "g1_english_l011_ex09",
+    "knowledge_id": "g1_english_l011",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  },
+  {
+    "id": "g1_english_l011_ex10",
+    "knowledge_id": "g1_english_l011",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  }
+]

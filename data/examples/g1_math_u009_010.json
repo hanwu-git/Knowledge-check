@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u009_ex01",
+    "knowledge_id": "g1_math_u009",
+    "question": "计算题：(-12)÷(-3) = ______。",
+    "answer": "答案：4\n解析：(-12)÷(-3) = 4。"
+  },
+  {
+    "id": "g1_math_u009_ex02",
+    "knowledge_id": "g1_math_u009",
+    "question": "计算题：6÷(-2) = ______。",
+    "answer": "答案：-3\n解析：6÷(-2) = -3。"
+  },
+  {
+    "id": "g1_math_u009_ex03",
+    "knowledge_id": "g1_math_u009",
+    "question": "判断题：0除以任何数都得0。（  ）",
+    "answer": "答案：错误\n解析：0不能除以0，但0除以非0数得0。"
+  },
+  {
+    "id": "g1_math_u009_ex04",
+    "knowledge_id": "g1_math_u009",
+    "question": "选择题：下列运算正确的是（  ）\nA. (-8)÷0 = 0\nB. 0÷(-8) = 0\nC. (-8)÷(-8) = 0\nD. (-8)÷(-1) = 8",
+    "answer": "答案：B\n解析：0除以任何非0数都得0。"
+  },
+  {
+    "id": "g1_math_u009_ex05",
+    "knowledge_id": "g1_math_u009",
+    "question": "填空题：若a÷b = -1，则a = -b（b≠0）。",
+    "answer": "答案：正确\n解析：a÷b = -1说明a和b互为相反数。"
+  }
+]

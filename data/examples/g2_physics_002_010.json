@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_physics_002_ex01",
+    "knowledge_id": "g2_physics_002",
+    "question": "选择题：下列时间单位换算正确的是（  ）\nA. 1 h = 60 s\nB. 1 min = 600 s\nC. 1 h = 3600 s\nD. 1 s = 100 ms",
+    "answer": "答案：C\n解析：\nA. 错误，1 h = 60 min = 3600 s\nB. 错误，1 min = 60 s\nC. 正确，1 h = 60 min = 3600 s\nD. 错误，1 s = 1000 ms"
+  },
+  {
+    "id": "g2_physics_002_ex02",
+    "knowledge_id": "g2_physics_002",
+    "question": "填空题：国际单位制中，时间的基本单位是______。",
+    "answer": "答案：秒（s）\n解析：国际单位制中时间的基本单位是秒，符号为s。"
+  },
+  {
+    "id": "g2_physics_002_ex03",
+    "knowledge_id": "g2_physics_002",
+    "question": "选择题：测量时间的工具是（  ）\nA. 刻度尺\nB. 停表\nC. 温度计\nD. 天平",
+    "answer": "答案：B\n解析：停表（秒表）是测量时间的工具。"
+  },
+  {
+    "id": "g2_physics_002_ex04",
+    "knowledge_id": "g2_physics_002",
+    "question": "判断题：误差只能减小，不能避免。",
+    "answer": "答案：正确\n解析：误差是不可避免的，只能通过多次测量取平均值等方法减小。"
+  },
+  {
+    "id": "g2_physics_002_ex05",
+    "knowledge_id": "g2_physics_002",
+    "question": "解答题：测量某物体运动时间，三次测量结果分别为2.1 s、2.2 s、2.3 s，求平均值。",
+    "answer": "答案：2.2 s\n解析：平均值 = (2.1 + 2.2 + 2.3) ÷ 3 = 6.6 ÷ 3 = 2.2 s"
+  },
+  {
+    "id": "g2_physics_002_ex06",
+    "knowledge_id": "g2_physics_002",
+    "question": "选择题：下列关于时间的说法，正确的是（  ）\nA. 时间没有单位\nB. 秒是时间的唯一单位\nC. 时间可以用停表测量\nD. 时间不能测量",
+    "answer": "答案：C\n解析：时间可以用停表测量，秒是基本单位但不是唯一单位。"
+  },
+  {
+    "id": "g2_physics_002_ex07",
+    "knowledge_id": "g2_physics_002",
+    "question": "填空题：1 min = ______ s。",
+    "answer": "答案：60\n解析：1分钟等于60秒。"
+  },
+  {
+    "id": "g2_physics_002_ex08",
+    "knowledge_id": "g2_physics_002",
+    "question": "判断题：测量时间时，不需要估读。",
+    "answer": "答案：错误\n解析：测量时间也需要估读到分度值的下一位。"
+  },
+  {
+    "id": "g2_physics_002_ex09",
+    "knowledge_id": "g2_physics_002",
+    "question": "解答题：为什么要进行多次测量取平均值？",
+    "answer": "答案：减小误差，提高测量的准确性。\n解析：单次测量可能存在较大误差，多次测量取平均值可以减小偶然误差。"
+  },
+  {
+    "id": "g2_physics_002_ex10",
+    "knowledge_id": "g2_physics_002",
+    "question": "选择题：停表的分度值是0.1 s，测量结果为15.25 s，则准确值和估计值分别是（  ）\nA. 15 s和0.25 s\nB. 15.2 s和0.05 s\nC. 15.25 s和0 s\nD. 15.2 s和0.05 min",
+    "answer": "答案：B\n解析：分度值是0.1 s，准确值到0.1 s位，即15.2 s，估计值是0.05 s。"
+  }
+]

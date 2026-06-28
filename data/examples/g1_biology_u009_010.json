@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u009_ex01",
+    "knowledge_id": "g1_biology_u009",
+    "question": "填空题：藻类植物没有______、______和______的分化。",
+    "answer": "答案：根；茎；叶\n解析：藻类是最低等的植物，没有根茎叶的分化。"
+  },
+  {
+    "id": "g1_biology_u009_ex02",
+    "knowledge_id": "g1_biology_u009",
+    "question": "判断题：藻类植物全部生活在水中。（  ）",
+    "answer": "答案：错误\n解析：多数藻类生活在水中，但有些藻类也生活在潮湿的地面、岩石或树皮上。"
+  },
+  {
+    "id": "g1_biology_u009_ex03",
+    "knowledge_id": "g1_biology_u009",
+    "question": "填空题：藻类植物能进行______作用，释放氧气。",
+    "answer": "答案：光合\n解析：藻类植物含有叶绿体，能进行光合作用。"
+  },
+  {
+    "id": "g1_biology_u009_ex04",
+    "knowledge_id": "g1_biology_u009",
+    "question": "选择题：海带、紫菜等藻类植物的结构特点是（  ）\nA. 有根茎叶\nB. 有果实\nC. 无根茎叶，有叶绿素\nD. 有种子",
+    "answer": "答案：C\n解析：藻类植物没有根茎叶，但有叶绿素。"
+  },
+  {
+    "id": "g1_biology_u009_ex05",
+    "knowledge_id": "g1_biology_u009",
+    "question": "填空题：藻类植物在生物圈中的作用：提供氧气、食用、药用和______。",
+    "answer": "答案：维持生态平衡\n解析：藻类是生态系统的重要生产者。"
+  }
+]

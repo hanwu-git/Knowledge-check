@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u008_ex01",
+    "knowledge_id": "g1_english_u008",
+    "question": "选择题：\"Where is the book? 书在哪里？\n  It's on the desk\" 的中文意思是（  ）\nA. 它在书桌上。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"Where is the book? 书在哪里？\n  It's on the desk\" 的意思是\"它在书桌上。\"。"
+  },
+  {
+    "id": "g1_english_u008_ex02",
+    "knowledge_id": "g1_english_u008",
+    "question": "选择题：\"它在床下面。\" 的英文表达是（  ）\nA. 错误的句子\nB. Where is my schoolbag? 我的书包在哪里？\n  It's under the bed\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"它在床下面。\" 的正确英文是 \"Where is my schoolbag? 我的书包在哪里？\n  It's under the bed\"。"
+  },
+  {
+    "id": "g1_english_u008_ex03",
+    "knowledge_id": "g1_english_u008",
+    "question": "填空题：where引导的特殊疑问句的规则可以概括为：______。",
+    "answer": "答案：Where + be + 主语?\n解析：这是where引导的特殊疑问句的核心规则。"
+  },
+  {
+    "id": "g1_english_u008_ex04",
+    "knowledge_id": "g1_english_u008",
+    "question": "判断题：\"Where are my keys? 我的钥匙在哪里？\n  They are on the table\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"它们在桌子上。\"。"
+  },
+  {
+    "id": "g1_english_u008_ex05",
+    "knowledge_id": "g1_english_u008",
+    "question": "改错题：\"Where is the book? 书在哪里？\n  It's on the desk\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"Where is the book? 书在哪里？\n  It's on the desk\"。\n解析：要注意where引导的特殊疑问句的正确用法。"
+  },
+  {
+    "id": "g1_english_u008_ex06",
+    "knowledge_id": "g1_english_u008",
+    "question": "句型转换：将句子 \"Where is my schoolbag? 我的书包在哪里？\n  It's under the bed\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_u008_ex07",
+    "knowledge_id": "g1_english_u008",
+    "question": "填空题：\"它在床下面。\" 的英文是：______。",
+    "answer": "答案：Where is my schoolbag? 我的书包在哪里？\n  It's under the bed\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u008_ex08",
+    "knowledge_id": "g1_english_u008",
+    "question": "填空题：\"它们在桌子上。\" 的英文是：______。",
+    "answer": "答案：Where are my keys? 我的钥匙在哪里？\n  They are on the table\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u008_ex09",
+    "knowledge_id": "g1_english_u008",
+    "question": "填空题：\"它们在书包里。\" 的英文是：______。",
+    "answer": "答案：Where are your books? 你的书在哪里？\n  They are in the schoolbag\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u008_ex10",
+    "knowledge_id": "g1_english_u008",
+    "question": "填空题：\".. 回答\" 的英文是：______。",
+    "answer": "答案：单数用 It's\n解析：要熟记常用句型。"
+  }
+]

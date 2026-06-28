@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l022_ex01",
+    "knowledge_id": "g1_english_l022",
+    "question": "选择题：\"I can look after myself\" 的中文意思是（  ）\nA. 我能照顾我自己。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"I can look after myself\" 的意思是\"我能照顾我自己。\"。"
+  },
+  {
+    "id": "g1_english_l022_ex02",
+    "knowledge_id": "g1_english_l022",
+    "question": "选择题：\"请随便吃点水果。\" 的英文表达是（  ）\nA. 错误的句子\nB. Please help yourself to some fruit\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"请随便吃点水果。\" 的正确英文是 \"Please help yourself to some fruit\"。"
+  },
+  {
+    "id": "g1_english_l022_ex03",
+    "knowledge_id": "g1_english_l022",
+    "question": "填空题：反身代词的规则可以概括为：______。",
+    "answer": "答案：myself, yourself, himself, herself, itself\n解析：这是反身代词的核心规则。"
+  },
+  {
+    "id": "g1_english_l022_ex04",
+    "knowledge_id": "g1_english_l022",
+    "question": "判断题：\"I myself did it\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"= I did it myself. 我亲自做的。\"。"
+  },
+  {
+    "id": "g1_english_l022_ex05",
+    "knowledge_id": "g1_english_l022",
+    "question": "改错题：\"I can look after myself\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"I can look after myself\"。\n解析：要注意反身代词的正确用法。"
+  },
+  {
+    "id": "g1_english_l022_ex06",
+    "knowledge_id": "g1_english_l022",
+    "question": "句型转换：将句子 \"Please help yourself to some fruit\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l022_ex07",
+    "knowledge_id": "g1_english_l022",
+    "question": "填空题：\"请随便吃点水果。\" 的英文是：______。",
+    "answer": "答案：Please help yourself to some fruit\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l022_ex08",
+    "knowledge_id": "g1_english_l022",
+    "question": "填空题：\"= I did it myself. 我亲自做的。\" 的英文是：______。",
+    "answer": "答案：I myself did it\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l022_ex09",
+    "knowledge_id": "g1_english_l022",
+    "question": "填空题：\"老师会亲自告诉我们。\" 的英文是：______。",
+    "answer": "答案：The teacher himself will tell us\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l022_ex10",
+    "knowledge_id": "g1_english_l022",
+    "question": "填空题：\"..\" 的英文是：______。",
+    "answer": "答案：help oneself to 随便吃/用\n解析：要熟记常用句型。"
+  }
+]

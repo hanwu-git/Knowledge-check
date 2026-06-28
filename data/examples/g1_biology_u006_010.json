@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u006_ex01",
+    "knowledge_id": "g1_biology_u006",
+    "question": "填空题：植物体的结构层次：细胞→______→器官→植物体。",
+    "answer": "答案：组织\n解析：植物体由细胞构成组织，由组织构成器官，由器官构成植物体。"
+  },
+  {
+    "id": "g1_biology_u006_ex02",
+    "knowledge_id": "g1_biology_u006",
+    "question": "选择题：根尖的分生区属于（  ）\nA. 营养组织\nB. 分生组织\nC. 保护组织\nD. 输导组织",
+    "answer": "答案：B\n解析：分生区细胞分裂旺盛，属于分生组织。"
+  },
+  {
+    "id": "g1_biology_u006_ex03",
+    "knowledge_id": "g1_biology_u006",
+    "question": "判断题：植物的叶是器官。（  ）",
+    "answer": "答案：正确\n解析：叶是由不同组织组成的器官。"
+  },
+  {
+    "id": "g1_biology_u006_ex04",
+    "knowledge_id": "g1_biology_u006",
+    "question": "填空题：植物的主要组织包括：分生组织、保护组织、输导组织、营养组织和______。",
+    "answer": "答案：机械组织\n解析：植物的基本组织类型。"
+  },
+  {
+    "id": "g1_biology_u006_ex05",
+    "knowledge_id": "g1_biology_u006",
+    "question": "选择题：下列植物器官中，属于营养器官的是（  ）\nA. 花\nB. 果实\nC. 种子\nD. 根",
+    "answer": "答案：D\n解析：根、茎、叶是营养器官，花、果实、种子是生殖器官。"
+  }
+]

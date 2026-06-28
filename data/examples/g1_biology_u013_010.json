@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u013_ex01",
+    "knowledge_id": "g1_biology_u013",
+    "question": "填空题：种子萌发的外界条件：充足的空气、______和适宜的______。",
+    "answer": "答案：适量的水分；温度\n解析：种子萌发需要水、空气、温度。"
+  },
+  {
+    "id": "g1_biology_u013_ex02",
+    "knowledge_id": "g1_biology_u013",
+    "question": "判断题：种子萌发时，最先突破种皮的是胚芽。（  ）",
+    "answer": "答案：错误\n解析：最先突破种皮的是胚根。"
+  },
+  {
+    "id": "g1_biology_u013_ex03",
+    "knowledge_id": "g1_biology_u013",
+    "question": "填空题：种子萌发过程中，胚发育成______。",
+    "answer": "答案：幼苗\n解析：胚是种子的主要部分，将来发育成新植物体。"
+  },
+  {
+    "id": "g1_biology_u013_ex04",
+    "knowledge_id": "g1_biology_u013",
+    "question": "选择题：种子萌发时，子叶的作用是（  ）\nA. 发育成茎和叶\nB. 发育成根\nC. 提供营养\nD. 保护胚",
+    "answer": "答案：C\n解析：子叶储存营养，供种子萌发。"
+  },
+  {
+    "id": "g1_biology_u013_ex05",
+    "knowledge_id": "g1_biology_u013",
+    "question": "填空题：种子萌发自身条件：胚是______的，胚结构完整，且种子不在休眠期。",
+    "answer": "答案：活\n解析：种子萌发需要具有活力的胚。"
+  }
+]

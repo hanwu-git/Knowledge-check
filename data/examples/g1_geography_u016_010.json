@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u016_ex01",
+    "knowledge_id": "g1_geography_u016",
+    "question": "填空题：海陆变迁的主要原因包括：地壳运动、______和人类活动。",
+    "answer": "答案：海平面升降\n解析：海陆变迁的主要自然原因。"
+  },
+  {
+    "id": "g1_geography_u016_ex02",
+    "knowledge_id": "g1_geography_u016",
+    "question": "选择题：下列事例中，能证明海陆变迁的是（  ）\nA. 四季更替\nB. 涨潮落潮\nC. 台湾海峡海底发现森林遗迹\nD. 地震",
+    "answer": "答案：C\n解析：台湾海峡海底发现森林遗迹，说明这里曾经是陆地。"
+  },
+  {
+    "id": "g1_geography_u016_ex03",
+    "knowledge_id": "g1_geography_u016",
+    "question": "判断题：喜马拉雅山上发现海洋生物化石，说明这里曾经是海洋。（  ）",
+    "answer": "答案：正确\n解析：海洋生物化石出现在高山上，说明海陆变迁。"
+  },
+  {
+    "id": "g1_geography_u016_ex04",
+    "knowledge_id": "g1_geography_u016",
+    "question": "填空题：我国东部海底发现的古河流遗迹，是由于______造成的。",
+    "answer": "答案：海平面下降（或地壳上升）\n解析：海平面下降或地壳上升使海底露出成为陆地。"
+  },
+  {
+    "id": "g1_geography_u016_ex05",
+    "knowledge_id": "g1_geography_u016",
+    "question": "选择题：荷兰的围海造陆工程属于（  ）\nA. 地壳运动\nB. 海平面升降\nC. 人类活动\nD. 自然原因",
+    "answer": "答案：C\n解析：人类活动直接改变了海陆分布。"
+  }
+]

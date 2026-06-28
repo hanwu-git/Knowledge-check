@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u030_ex01",
+    "knowledge_id": "g1_math_u030",
+    "question": "填空题：一次函数的一般形式是______（k≠0）。",
+    "answer": "答案：y = kx + b\n解析：一次函数是形如y = kx + b（k≠0）的函数。"
+  },
+  {
+    "id": "g1_math_u030_ex02",
+    "knowledge_id": "g1_math_u030",
+    "question": "选择题：一次函数y = 2x - 3的图像不经过（  ）\nA. 第一象限\nB. 第二象限\nC. 第三象限\nD. 第四象限",
+    "answer": "答案：C\n解析：当x = 0时y = -3；当y = 0时x = 1.5，图像经过一、二、四象限。"
+  },
+  {
+    "id": "g1_math_u030_ex03",
+    "knowledge_id": "g1_math_u030",
+    "question": "填空题：一次函数y = -x + 2，y随x增大而______。",
+    "answer": "答案：减小\n解析：k = -1 < 0，y随x增大而减小。"
+  },
+  {
+    "id": "g1_math_u030_ex04",
+    "knowledge_id": "g1_math_u030",
+    "question": "计算题：已知一次函数y = kx + 3，当x = 1时y = 5，求k。",
+    "answer": "答案：k = 2\n解析：代入得5 = k + 3，k = 2。"
+  },
+  {
+    "id": "g1_math_u030_ex05",
+    "knowledge_id": "g1_math_u030",
+    "question": "选择题：一次函数y = 3x - 1与y = 3x + 2的位置关系是（  ）\nA. 相交\nB. 平行\nC. 垂直\nD. 重合",
+    "answer": "答案：B\n解析：k相同，b不同，两直线平行。"
+  }
+]

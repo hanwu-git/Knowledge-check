@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u024_ex01",
+    "knowledge_id": "g1_english_u024",
+    "question": "选择题：\"The book on the desk is mine\" 的中文意思是（  ）\nA. 书桌上那本书是我的。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"The book on the desk is mine\" 的意思是\"书桌上那本书是我的。\"。"
+  },
+  {
+    "id": "g1_english_u024_ex02",
+    "knowledge_id": "g1_english_u024",
+    "question": "选择题：\"请开门。\" 的英文表达是（  ）\nA. 错误的句子\nB. Open the door, please\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"请开门。\" 的正确英文是 \"Open the door, please\"。"
+  },
+  {
+    "id": "g1_english_u024_ex03",
+    "knowledge_id": "g1_english_u024",
+    "question": "填空题：定冠词the的规则可以概括为：______。",
+    "answer": "答案：the + 名词，表特指\n解析：这是定冠词the的核心规则。"
+  },
+  {
+    "id": "g1_english_u024_ex04",
+    "knowledge_id": "g1_english_u024",
+    "question": "判断题：\"I have a cat\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"The cat is white. 我有一只猫，这只猫是白色的。\"。"
+  },
+  {
+    "id": "g1_english_u024_ex05",
+    "knowledge_id": "g1_english_u024",
+    "question": "改错题：\"The book on the desk is mine\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"The book on the desk is mine\"。\n解析：要注意定冠词the的正确用法。"
+  },
+  {
+    "id": "g1_english_u024_ex06",
+    "knowledge_id": "g1_english_u024",
+    "question": "句型转换：将句子 \"Open the door, please\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_u024_ex07",
+    "knowledge_id": "g1_english_u024",
+    "question": "填空题：\"请开门。\" 的英文是：______。",
+    "answer": "答案：Open the door, please\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u024_ex08",
+    "knowledge_id": "g1_english_u024",
+    "question": "填空题：\"The cat is white. 我有一只猫，这只猫是白色的。\" 的英文是：______。",
+    "answer": "答案：I have a cat\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u024_ex09",
+    "knowledge_id": "g1_english_u024",
+    "question": "填空题：\"用在序数词和形容词最高级前\" 的英文是：______。",
+    "answer": "答案：the sun 太阳，the moon 月亮，the earth 地球\n\n5\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u024_ex10",
+    "knowledge_id": "g1_english_u024",
+    "question": "填空题：\"用在某些固定词组中\" 的英文是：______。",
+    "answer": "答案：the first lesson 第一课，the tallest student 最高的学生\n\n6\n解析：要熟记常用句型。"
+  }
+]

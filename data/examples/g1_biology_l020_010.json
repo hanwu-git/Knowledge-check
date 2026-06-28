@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l020_ex01",
+    "knowledge_id": "g1_biology_l020",
+    "question": "填空题：可持续发展是指既满足当代人的需求，又不损害______满足其需求的能力的发展方式。",
+    "answer": "答案：后代人\n解析：可持续发展的定义。"
+  },
+  {
+    "id": "g1_biology_l020_ex02",
+    "knowledge_id": "g1_biology_l020",
+    "question": "判断题：垃圾分类可以减少环境污染。（  ）",
+    "answer": "答案：正确\n解析：垃圾分类处理减少污染。"
+  },
+  {
+    "id": "g1_biology_l020_ex03",
+    "knowledge_id": "g1_biology_l020",
+    "question": "填空题：低碳生活可以减少______排放，缓解温室效应。",
+    "answer": "答案：二氧化碳\n解析：低碳生活减少碳排放。"
+  },
+  {
+    "id": "g1_biology_l020_ex04",
+    "knowledge_id": "g1_biology_l020",
+    "question": "填空题：保护生物圈需要我们每个人从______做起。",
+    "answer": "答案：身边小事\n解析：环境保护需要实际行动。"
+  },
+  {
+    "id": "g1_biology_l020_ex05",
+    "knowledge_id": "g1_biology_l020",
+    "question": "选择题：以下哪种行为属于绿色消费？（  ）\nA. 购买过度包装的商品\nB. 使用一次性塑料袋\nC. 购买节能产品\nD. 追求时尚浪费",
+    "answer": "答案：C\n解析：购买节能产品是绿色消费。"
+  }
+]

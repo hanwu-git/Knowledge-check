@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u028_ex01",
+    "knowledge_id": "g1_math_u028",
+    "question": "选择题：下列图像中，表示y是x的函数的是（  ）\nA. 垂直x轴的直线\nB. 圆\nC. 开口向上的抛物线\nD. 与x轴平行的直线",
+    "answer": "答案：C\n解析：函数要求每个x有唯一对应的y值，抛物线满足此条件。"
+  },
+  {
+    "id": "g1_math_u028_ex02",
+    "knowledge_id": "g1_math_u028",
+    "question": "判断题：函数y = x²中，当x = 2时，y有唯一的值4。（  ）",
+    "answer": "答案：正确\n解析：函数定义要求每个x对应唯一的y。"
+  },
+  {
+    "id": "g1_math_u028_ex03",
+    "knowledge_id": "g1_math_u028",
+    "question": "选择题：下列变量之间的关系中，是函数关系的是（  ）\nA. 身高与体重\nB. 人的年龄与身高\nC. 正方形的边长与面积\nD. 季节与温度",
+    "answer": "答案：C\n解析：正方形边长决定面积，是一种确定的对应关系。"
+  },
+  {
+    "id": "g1_math_u028_ex04",
+    "knowledge_id": "g1_math_u028",
+    "question": "填空题：函数的三要素是______、______、______。",
+    "answer": "答案：定义域；对应法则；值域\n解析：三个要素确定一个函数。"
+  },
+  {
+    "id": "g1_math_u028_ex05",
+    "knowledge_id": "g1_math_u028",
+    "question": "判断题：圆的面积S与半径r的关系S = πr²，s是r的函数。（  ）",
+    "answer": "答案：正确\n解析：给定r，有唯一的S对应。"
+  }
+]

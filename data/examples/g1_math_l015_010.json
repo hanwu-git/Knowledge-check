@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l015_ex01",
+    "knowledge_id": "g1_math_l015",
+    "question": "应用题：某班学生去划船，每船坐4人则有5人无船坐，每船坐5人则有1个空位。问有几条船？",
+    "answer": "答案：设x条船，4x+5 = 5x-1，解得x = 6。\n解析：总人数不变，4x+5 = 5x-1，x = 6条船。"
+  },
+  {
+    "id": "g1_math_l015_ex02",
+    "knowledge_id": "g1_math_l015",
+    "question": "应用题：某数x的2倍与5的和大于10，求x的取值范围。",
+    "answer": "答案：2x + 5 > 10，x > 2.5\n解析：2x > 5，x > 2.5。"
+  },
+  {
+    "id": "g1_math_l015_ex03",
+    "knowledge_id": "g1_math_l015",
+    "question": "应用题：小明有30元，想买单价为x元的书，至少能买几本？",
+    "answer": "答案：30/x ≥ 1，x ≤ 30（元）\n解析：每本书不超过30元。"
+  },
+  {
+    "id": "g1_math_l015_ex04",
+    "knowledge_id": "g1_math_l015",
+    "question": "选择题：x是不大于5的正数，用不等式表示为（  ）\nA. 0 < x ≤ 5\nB. 0 ≤ x < 5\nC. x > 0且x ≤ 5\nD. A和C",
+    "answer": "答案：D\n解析：不大于5表示≤5，正数表示>0。"
+  },
+  {
+    "id": "g1_math_l015_ex05",
+    "knowledge_id": "g1_math_l015",
+    "question": "应用题：三角形两边分别为3和7，第三边为x，求x的取值范围。",
+    "answer": "答案：4 < x < 10\n解析：7-3 < x < 7+3，即4 < x < 10。"
+  }
+]

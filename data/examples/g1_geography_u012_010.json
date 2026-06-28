@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u012_ex01",
+    "knowledge_id": "g1_geography_u012",
+    "question": "填空题：五种主要地形类型是：平原、高原、______、______和盆地。",
+    "answer": "答案：山地；丘陵\n解析：五种基本地形类型。"
+  },
+  {
+    "id": "g1_geography_u012_ex02",
+    "knowledge_id": "g1_geography_u012",
+    "question": "选择题：海拔较低，地势起伏较小，地面有波状起伏的地形是（  ）\nA. 平原\nB. 高原\nC. 丘陵\nD. 山地",
+    "answer": "答案：C\n解析：丘陵海拔较低，地势起伏较小。"
+  },
+  {
+    "id": "g1_geography_u012_ex03",
+    "knowledge_id": "g1_geography_u012",
+    "question": "判断题：高原的特点是海拔高、地面坦荡、边缘陡峻。（  ）",
+    "answer": "答案：正确\n解析：高原的典型特征。"
+  },
+  {
+    "id": "g1_geography_u012_ex04",
+    "knowledge_id": "g1_geography_u012",
+    "question": "填空题：四周高、中间低的地形是______。",
+    "answer": "答案：盆地\n解析：盆地的特征。"
+  },
+  {
+    "id": "g1_geography_u012_ex05",
+    "knowledge_id": "g1_geography_u012",
+    "question": "选择题：海拔在500米以上，地势崎岖不平的地形是（  ）\nA. 高原\nB. 山地\nC. 丘陵\nD. 平原",
+    "answer": "答案：B\n解析：山地海拔500米以上，地势崎岖。"
+  }
+]

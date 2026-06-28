@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l020_ex01",
+    "knowledge_id": "g1_math_l020",
+    "question": "用加减法解方程组：{x + y = 5, x - y = 1}",
+    "answer": "答案：x = 3, y = 2\n解析：两式相加得2x = 6，x = 3；两式相减得2y = 4，y = 2。"
+  },
+  {
+    "id": "g1_math_l020_ex02",
+    "knowledge_id": "g1_math_l020",
+    "question": "用加减法解方程组：{2x + 3y = 7, 2x - 3y = 1}",
+    "answer": "答案：x = 2, y = 1\n解析：两式相加得4x = 8，x = 2；代入得y = 1。"
+  },
+  {
+    "id": "g1_math_l020_ex03",
+    "knowledge_id": "g1_math_l020",
+    "question": "选择题：加减消元法的关键是使某个未知数的系数______。",
+    "answer": "答案：相等或互为相反数\n解析：这样加减时才能消去该未知数。"
+  },
+  {
+    "id": "g1_math_l020_ex04",
+    "knowledge_id": "g1_math_l020",
+    "question": "用加减法解方程组：{3x + 2y = 8, x + 2y = 4}",
+    "answer": "答案：x = 2, y = 1\n解析：两式相减得2x = 4，x = 2；代入得y = 1。"
+  },
+  {
+    "id": "g1_math_l020_ex05",
+    "knowledge_id": "g1_math_l020",
+    "question": "判断题：当两个方程中同一未知数系数相等时，用减法消元。（  ）",
+    "answer": "答案：正确\n解析：相等系数相减为0，消去该未知数。"
+  }
+]

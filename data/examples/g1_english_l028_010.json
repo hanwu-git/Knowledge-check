@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l028_ex01",
+    "knowledge_id": "g1_english_l028",
+    "question": "选择题：\"both\" 的中文意思是（  ）\nA. ..and... 两者都\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"both\" 的意思是\"..and... 两者都\"。"
+  },
+  {
+    "id": "g1_english_l028_ex02",
+    "knowledge_id": "g1_english_l028",
+    "question": "选择题：\"..but also... 不但...而且...\" 的英文表达是（  ）\nA. 错误的句子\nB. not only\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"..but also... 不但...而且...\" 的正确英文是 \"not only\"。"
+  },
+  {
+    "id": "g1_english_l028_ex03",
+    "knowledge_id": "g1_english_l028",
+    "question": "填空题：并列句的规则可以概括为：______。",
+    "answer": "答案：用and, but, or等连词连接两个独立句子\n解析：这是并列句的核心规则。"
+  },
+  {
+    "id": "g1_english_l028_ex04",
+    "knowledge_id": "g1_english_l028",
+    "question": "判断题：\"as well as 也，以及\n   例句：I like English and he likes math\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"我喜欢英语，他喜欢数学。\"。"
+  },
+  {
+    "id": "g1_english_l028_ex05",
+    "knowledge_id": "g1_english_l028",
+    "question": "改错题：\"both\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"both\"。\n解析：要注意并列句的正确用法。"
+  },
+  {
+    "id": "g1_english_l028_ex06",
+    "knowledge_id": "g1_english_l028",
+    "question": "句型转换：将句子 \"not only\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l028_ex07",
+    "knowledge_id": "g1_english_l028",
+    "question": "填空题：\"..but also... 不但...而且...\" 的英文是：______。",
+    "answer": "答案：not only\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l028_ex08",
+    "knowledge_id": "g1_english_l028",
+    "question": "填空题：\"我喜欢英语，他喜欢数学。\" 的英文是：______。",
+    "answer": "答案：as well as 也，以及\n   例句：I like English and he likes math\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l028_ex09",
+    "knowledge_id": "g1_english_l028",
+    "question": "填空题：\"他很年轻，但知道很多。\" 的英文是：______。",
+    "answer": "答案：while 而，却\n   例句：He is young, but he knows a lot\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l028_ex10",
+    "knowledge_id": "g1_english_l028",
+    "question": "填空题：\"..or... 要么...要么...\" 的英文是：______。",
+    "answer": "答案：either\n解析：要熟记常用句型。"
+  }
+]

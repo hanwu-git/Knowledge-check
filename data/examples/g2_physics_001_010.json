@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_physics_001_ex01",
+    "knowledge_id": "g2_physics_001",
+    "question": "选择题：下列长度单位换算正确的是（  ）\nA. 1 km = 100 m\nB. 1 m = 100 cm\nC. 1 cm = 100 mm\nD. 1 mm = 100 μm",
+    "answer": "答案：B\n解析：\nA. 错误，1 km = 1000 m\nB. 正确，1 m = 10 dm = 100 cm\nC. 错误，1 cm = 10 mm\nD. 错误，1 mm = 1000 μm"
+  },
+  {
+    "id": "g2_physics_001_ex02",
+    "knowledge_id": "g2_physics_001",
+    "question": "填空题：国际单位制中，长度的基本单位是______。",
+    "answer": "答案：米（m）\n解析：国际单位制中长度的基本单位是米，符号为m。"
+  },
+  {
+    "id": "g2_physics_001_ex03",
+    "knowledge_id": "g2_physics_001",
+    "question": "选择题：用刻度尺测量物体长度时，下列做法正确的是（  ）\nA. 刻度尺要斜放\nB. 视线要与刻度线垂直\nC. 可以将刻度尺从物体上移开读数\nD. 不需要估读",
+    "answer": "答案：B\n解析：\nA. 错误，刻度尺要放正\nB. 正确，视线与刻度线垂直才能读数准确\nC. 错误，读数时刻度尺不能移开\nD. 错误，需要估读到分度值的下一位"
+  },
+  {
+    "id": "g2_physics_001_ex04",
+    "knowledge_id": "g2_physics_001",
+    "question": "判断题：测量结果必须包括准确值、估计值和单位。",
+    "answer": "答案：正确\n解析：测量值 = 准确值 + 估计值 + 单位，三者缺一不可。"
+  },
+  {
+    "id": "g2_physics_001_ex05",
+    "knowledge_id": "g2_physics_001",
+    "question": "解答题：某同学用刻度尺测量书本长度，结果为25.12 cm，请说明这个测量结果中各部分的含义。",
+    "answer": "答案：25.1 cm是准确值，0.02 cm是估计值，cm是单位。\n解析：准确值是刻度尺能精确读出的部分，估计值是根据分度值估读的部分。"
+  },
+  {
+    "id": "g2_physics_001_ex06",
+    "knowledge_id": "g2_physics_001",
+    "question": "选择题：下列物体的长度最接近1 m的是（  ）\nA. 一支铅笔\nB. 一张课桌\nC. 一根筷子\nD. 一个篮球",
+    "answer": "答案：B\n解析：课桌的高度大约是1 m左右。"
+  },
+  {
+    "id": "g2_physics_001_ex07",
+    "knowledge_id": "g2_physics_001",
+    "question": "填空题：1 μm = ______ nm。",
+    "answer": "答案：1000\n解析：1 mm = 1000 μm = 1000000 nm，所以1 μm = 1000 nm。"
+  },
+  {
+    "id": "g2_physics_001_ex08",
+    "knowledge_id": "g2_physics_001",
+    "question": "判断题：误差是可以避免的。",
+    "answer": "答案：错误\n解析：误差是测量值与真实值之间的差异，只能减小，不能避免。"
+  },
+  {
+    "id": "g2_physics_001_ex09",
+    "knowledge_id": "g2_physics_001",
+    "question": "解答题：如何减小测量误差？",
+    "answer": "答案：1. 多次测量取平均值；2. 使用更精密的测量工具；3. 改进测量方法。\n解析：误差不可避免，但可以通过这些方法减小。"
+  },
+  {
+    "id": "g2_physics_001_ex10",
+    "knowledge_id": "g2_physics_001",
+    "question": "选择题：刻度尺的分度值是1 mm，测量结果为12.34 cm，则准确值和估计值分别是（  ）\nA. 12 cm和0.34 cm\nB. 12.3 cm和0.04 cm\nC. 12.34 cm和0 cm\nD. 12.3 cm和0.04 mm",
+    "answer": "答案：B\n解析：分度值是1 mm，所以准确值到毫米位，即12.3 cm，估计值是0.04 cm。"
+  }
+]

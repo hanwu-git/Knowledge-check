@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l012_ex01",
+    "knowledge_id": "g1_math_l012",
+    "question": "填空题：若a > b，c > 0，则a + c ______ b + c，a - c ______ b - c。",
+    "answer": "答案：>；>\n解析：加上或减去同一个正数，不等号方向不变。"
+  },
+  {
+    "id": "g1_math_l012_ex02",
+    "knowledge_id": "g1_math_l012",
+    "question": "填空题：若a > b，c < 0，则ac ______ bc。",
+    "answer": "答案：<\n解析：乘以负数，不等号方向改变。"
+  },
+  {
+    "id": "g1_math_l012_ex03",
+    "knowledge_id": "g1_math_l012",
+    "question": "判断题：若a > b，则a² > b²。（  ）",
+    "answer": "答案：错误\n解析：当a、b为负数时，a² < b²。"
+  },
+  {
+    "id": "g1_math_l012_ex04",
+    "knowledge_id": "g1_math_l012",
+    "question": "选择题：若a > b，则下列正确的是（  ）\nA. -a > -b\nB. a - b > 0\nC. 1/a < 1/b\nD. a³ > b³",
+    "answer": "答案：B\n解析：a > b两边减去b得a - b > 0。"
+  },
+  {
+    "id": "g1_math_l012_ex05",
+    "knowledge_id": "g1_math_l012",
+    "question": "填空题：若a > b > 0，则1/a ______ 1/b。",
+    "answer": "答案：<\n解析：正数取倒数，不等号方向改变。"
+  }
+]

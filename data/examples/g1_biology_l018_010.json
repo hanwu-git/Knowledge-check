@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l018_ex01",
+    "knowledge_id": "g1_biology_l018",
+    "question": "填空题：内分泌腺没有导管，分泌物______直接进入血液。",
+    "answer": "答案：激素\n解析：内分泌腺分泌激素进入血液。"
+  },
+  {
+    "id": "g1_biology_l018_ex02",
+    "knowledge_id": "g1_biology_l018",
+    "question": "选择题：幼年时期生长激素分泌不足，会患（  ）\nA. 巨人症\nB. 肢端肥大症\nC. 侏儒症\nD. 甲状腺功能亢进",
+    "answer": "答案：C\n解析：幼年生长激素不足导致侏儒症。"
+  },
+  {
+    "id": "g1_biology_l018_ex03",
+    "knowledge_id": "g1_biology_l018",
+    "question": "填空题：胰岛素的主要功能是调节______的代谢，降低血糖浓度。",
+    "answer": "答案：糖\n解析：胰岛素调节糖代谢。"
+  },
+  {
+    "id": "g1_biology_l018_ex04",
+    "knowledge_id": "g1_biology_l018",
+    "question": "判断题：糖尿病患者可以通过口服胰岛素来治疗。（  ）",
+    "answer": "答案：错误\n解析：胰岛素是蛋白质，口服会被消化，不能口服。"
+  },
+  {
+    "id": "g1_biology_l018_ex05",
+    "knowledge_id": "g1_biology_l018",
+    "question": "填空题：激素在血液中含量______，但作用很大。",
+    "answer": "答案：很少\n解析：激素含量虽少但作用显著。"
+  }
+]

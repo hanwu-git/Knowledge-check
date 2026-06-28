@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l011_ex01",
+    "knowledge_id": "g1_biology_l011",
+    "question": "填空题：血管包括动脉、静脉和______三种。",
+    "answer": "答案：毛细血管\n解析：三种血管类型。"
+  },
+  {
+    "id": "g1_biology_l011_ex02",
+    "knowledge_id": "g1_biology_l011",
+    "question": "选择题：动脉的特点是（  ）\nA. 管壁薄、弹性小\nB. 管壁厚、弹性大\nC. 血流速度慢\nD. 多数分布于皮肤下",
+    "answer": "答案：B\n解析：动脉管壁厚、弹性大，血流速度快。"
+  },
+  {
+    "id": "g1_biology_l011_ex03",
+    "knowledge_id": "g1_biology_l011",
+    "question": "判断题：毛细血管是物质交换的场所。（  ）",
+    "answer": "答案：正确\n解析：毛细血管壁薄，只有一层细胞，便于物质交换。"
+  },
+  {
+    "id": "g1_biology_l011_ex04",
+    "knowledge_id": "g1_biology_l011",
+    "question": "填空题：手臂上的\"青筋\"是______。",
+    "answer": "答案：静脉\n解析：静脉分布浅，皮肤下可见。"
+  },
+  {
+    "id": "g1_biology_l011_ex05",
+    "knowledge_id": "g1_biology_l011",
+    "question": "选择题：抽血或输液时，针刺入的血管是（  ）\nA. 动脉\nB. 静脉\nC. 毛细血管\nD. 以上都可以",
+    "answer": "答案：B\n解析：静脉分布浅，压力小，便于抽血输液。"
+  }
+]

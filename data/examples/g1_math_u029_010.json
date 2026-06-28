@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u029_ex01",
+    "knowledge_id": "g1_math_u029",
+    "question": "填空题：正比例函数的一般形式是______（k≠0）。",
+    "answer": "答案：y = kx\n解析：正比例函数是形如y = kx（k是常数且k≠0）的函数。"
+  },
+  {
+    "id": "g1_math_u029_ex02",
+    "knowledge_id": "g1_math_u029",
+    "question": "选择题：下列函数中，是正比例函数的是（  ）\nA. y = x + 1\nB. y = 2x\nC. y = x²\nD. y = 1/x",
+    "answer": "答案：B\n解析：y = 2x符合y = kx的形式，是正比例函数。"
+  },
+  {
+    "id": "g1_math_u029_ex03",
+    "knowledge_id": "g1_math_u029",
+    "question": "填空题：正比例函数y = -3x，x增大时，y______。",
+    "answer": "答案：减小\n解析：k = -3 < 0，y随x增大而减小。"
+  },
+  {
+    "id": "g1_math_u029_ex04",
+    "knowledge_id": "g1_math_u029",
+    "question": "选择题：正比例函数y = 2x的图像经过（  ）\nA. 第一、三象限\nB. 第二、四象限\nC. 第一、二象限\nD. 第三、四象限",
+    "answer": "答案：A\n解析：k > 0，图像经过第一、三象限。"
+  },
+  {
+    "id": "g1_math_u029_ex05",
+    "knowledge_id": "g1_math_u029",
+    "question": "计算题：已知y与x成正比例，当x = 3时，y = 6，求y与x的关系式。",
+    "answer": "答案：y = 2x\n解析：设y = kx，代入得6 = 3k，k = 2。"
+  }
+]

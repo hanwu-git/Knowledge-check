@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u011_ex01",
+    "knowledge_id": "g1_biology_u011",
+    "question": "填空题：蕨类植物有真正的______、______和______的分化。",
+    "answer": "答案：根；茎；叶\n解析：蕨类植物有了根茎叶的分化，比苔藓植物高等。"
+  },
+  {
+    "id": "g1_biology_u011_ex02",
+    "knowledge_id": "g1_biology_u011",
+    "question": "判断题：蕨类植物用孢子繁殖后代。（  ）",
+    "answer": "答案：正确\n解析：蕨类植物用孢子繁殖，是孢子植物。"
+  },
+  {
+    "id": "g1_biology_u011_ex03",
+    "knowledge_id": "g1_biology_u011",
+    "question": "填空题：蕨类植物的叶片背面有褐色的______，内含孢子。",
+    "answer": "答案：孢子囊\n解析：孢子囊群是蕨类植物的特征。"
+  },
+  {
+    "id": "g1_biology_u011_ex04",
+    "knowledge_id": "g1_biology_u011",
+    "question": "选择题：下列植物中，属于蕨类植物的是（  ）\nA. 菊花\nB. 肾蕨\nC. 水仙\nD. 辣椒",
+    "answer": "答案：B\n解析：肾蕨是常见的蕨类植物。"
+  },
+  {
+    "id": "g1_biology_u011_ex05",
+    "knowledge_id": "g1_biology_u011",
+    "question": "填空题：古代蕨类植物形成现在的______燃料。",
+    "answer": "答案：煤炭\n解析：古代蕨类植物埋藏地下形成煤炭。"
+  }
+]

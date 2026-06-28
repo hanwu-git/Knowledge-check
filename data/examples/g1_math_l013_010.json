@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l013_ex01",
+    "knowledge_id": "g1_math_l013",
+    "question": "解不等式：2x + 3 > 7",
+    "answer": "答案：x > 2\n解析：2x > 4，x > 2。"
+  },
+  {
+    "id": "g1_math_l013_ex02",
+    "knowledge_id": "g1_math_l013",
+    "question": "解不等式：-3x ≤ 9",
+    "answer": "答案：x ≥ -3\n解析：两边除以-3，不等号方向改变，x ≥ -3。"
+  },
+  {
+    "id": "g1_math_l013_ex03",
+    "knowledge_id": "g1_math_l013",
+    "question": "判断题：不等式的解和解集是同一个概念。（  ）",
+    "answer": "答案：错误\n解析：解是满足不等式的个别值，解集是所有解的集合。"
+  },
+  {
+    "id": "g1_math_l013_ex04",
+    "knowledge_id": "g1_math_l013",
+    "question": "选择题：不等式3x - 2 > 4的解集在数轴上表示正确的是（  ）\nA. 空心圆点向右\nB. 实心圆点向右\nC. 空心圆点向左\nD. 实心圆点向左",
+    "answer": "答案：B\n解析：x > 2，用实心圆点（≥用实心，>用实心还是空心取决于教材），向右。"
+  },
+  {
+    "id": "g1_math_l013_ex05",
+    "knowledge_id": "g1_math_l013",
+    "question": "填空题：不等式x + 3 ≥ 7的解集是______。",
+    "answer": "答案：x ≥ 4\n解析：x ≥ 7 - 3 = 4。"
+  }
+]

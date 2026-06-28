@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_l010_ex01",
+    "knowledge_id": "g1_geography_l010",
+    "question": "填空题：两极地区气候______，平均气温在______℃以下。",
+    "answer": "答案：严寒；-50\n解析：两极地区终年寒冷，平均气温在-50℃以下。"
+  },
+  {
+    "id": "g1_geography_l010_ex02",
+    "knowledge_id": "g1_geography_l010",
+    "question": "选择题：北极地区主要居住的原住民是（  ）\nA. 因纽特人\nB. 印第安人\nC. 毛利人\nD. 印第安人",
+    "answer": "答案：A\n解析：北极地区原住民是因纽特人。"
+  },
+  {
+    "id": "g1_geography_l010_ex03",
+    "knowledge_id": "g1_geography_l010",
+    "question": "判断题：南极地区没有常住人口。（  ）",
+    "answer": "答案：正确\n解析：南极没有常住居民，只有科考人员。"
+  },
+  {
+    "id": "g1_geography_l010_ex04",
+    "knowledge_id": "g1_geography_l010",
+    "question": "填空题：南极地区代表性动物是______。",
+    "answer": "答案：企鹅\n解析：企鹅是南极代表性动物。"
+  },
+  {
+    "id": "g1_geography_l010_ex05",
+    "knowledge_id": "g1_geography_l010",
+    "question": "选择题：我国在南极建立的第一个科学考察站是（  ）\nA. 长城站\nB. 中山站\nC. 昆仑站\nD. 泰山站",
+    "answer": "答案：A\n解析：长城站建于1985年，是我国第一个南极科考站。"
+  }
+]

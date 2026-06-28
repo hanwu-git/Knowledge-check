@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u021_ex01",
+    "knowledge_id": "g1_math_u021",
+    "question": "选择题：下列图形中，属于立体图形的是（  ）\nA. 三角形\nB. 长方形\nC. 圆\nD. 圆柱",
+    "answer": "答案：D\n解析：立体图形有长、宽、高三维，圆柱是立体图形。"
+  },
+  {
+    "id": "g1_math_u021_ex02",
+    "knowledge_id": "g1_math_u021",
+    "question": "判断题：棱柱的顶点比棱多。（  ）",
+    "answer": "答案：错误\n解析：顶点比棱少。"
+  },
+  {
+    "id": "g1_math_u021_ex03",
+    "knowledge_id": "g1_math_u021",
+    "question": "填空题：长方体有______个面，______条棱，______个顶点。",
+    "answer": "答案：6；12；8\n解析：这是长方体的基本特征。"
+  },
+  {
+    "id": "g1_math_u021_ex04",
+    "knowledge_id": "g1_math_u021",
+    "question": "选择题：下列图形中，不是柱体的是（  ）\nA. 正方体\nB. 圆柱\nC. 圆锥\nD. 三棱柱",
+    "answer": "答案：C\n解析：圆锥是锥体，不是柱体。"
+  },
+  {
+    "id": "g1_math_u021_ex05",
+    "knowledge_id": "g1_math_u021",
+    "question": "填空题：从实物中抽象出的图形称为______图形。",
+    "answer": "答案：几何\n解析：几何图形是从实物中抽象出来的。"
+  }
+]

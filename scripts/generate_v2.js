@@ -1,0 +1,389 @@
+/**
+ * 页面生成脚本 V2 - 模块化、自动验证
+ * 
+ * 使用方式：
+ *   node scripts/generate_v2.js
+ * 
+ * 特点：
+ *   - 配置统一（从 lib/config.js 读取）
+ *   - 数据加载职责分离（使用 lib/data-loader.js）
+ *   - 自动验证（使用 lib/validator.js）
+ *   - 模板分离（使用 lib/templates/）
+ */
+const fs = require('fs');
+const path = require('path');
+
+// 导入模块
+const config = require('./lib/config');
+const dataLoader = require('./lib/data-loader');
+const validator = require('./lib/validator');
+
+// 版本管理
+const versionFile = 'version.json';
+let versionInfo = { version: '1.0.0', lastUpdate: '' };
+if (fs.existsSync(versionFile)) {
+    versionInfo = JSON.parse(fs.readFileSync(versionFile, 'utf8'));
+}
+
+function bumpVersion() {
+    const parts = versionInfo.version.split('.');
+    parts[2] = parseInt(parts[2]) + 1;
+    versionInfo.version = parts.join('.');
+    versionInfo.lastUpdate = new Date().toISOString().split('T')[0];
+    fs.writeFileSync(versionFile, JSON.stringify(versionInfo, null, 2), 'utf8');
+    console.log(`📦 版本更新: v${versionInfo.version} (${versionInfo.lastUpdate})`);
+}
+
+// ==================== 数据加载 ====================
+console.log('\n📂 加载知识点和例题数据...');
+
+const allSubjects = config.getAllSubjects();
+const subjectData = {};
+let totalKnowledge = 0;
+let totalExamples = 0;
+
+Object.entries(allSubjects).forEach(([key, subject]) => {
+    const knowledge = dataLoader.loadKnowledge(subject.files);
+    const examples = subject.noExamples ? [] : dataLoader.loadExamples(subject.gradePrefix, subject.subjectKey);
+    
+    // 验证数据
+    if (!subject.noExamples) {
+        const validation = dataLoader.validateKnowledgeExamplesMapping(knowledge, examples, subject.name);
+        if (!validation.valid) {
+            console.warn(`⚠️  ${subject.name}: 数据验证警告`);
+            if (validation.missingExamples.length > 0) {
+                console.warn(`   缺少例题的知识点: ${validation.missingExamples.slice(0, 3).join(', ')}...`);
+            }
+        }
+    }
+    
+    totalKnowledge += knowledge.length;
+    totalExamples += examples.length;
+    
+    subjectData[key] = {
+        ...subject,
+        knowledge,
+        examples,
+        count: knowledge.length
+    };
+});
+
+console.log(`✅ 加载完成: ${totalKnowledge} 知识点, ${totalExamples} 例题`);
+
+// ==================== 生成首页 ====================
+console.log('\n📄 生成首页...');
+
+function generateIndex() {
+    const { GRADES } = config;
+    
+    // 生成首页HTML（使用配置模块生成链接）
+    const indexHtml = `<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>初中知识点背诵系统</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#3B82F6',
+                        secondary: '#6366F1',
+                        accent: '#F59E0B',
+                        success: '#10B981',
+                        danger: '#EF4444',
+                        warning: '#F97316',
+                    }
+                }
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="bg-gray-50 min-h-screen">
+    <div class="page-container">
+        <header class="page-header">
+            <h1 class="page-title">📚 初中知识点背诵系统</h1>
+            <p class="page-subtitle">选择年级和科目，开始学习之旅</p>
+        </header>
+
+        <div class="flex justify-center mb-8">
+            <a href="wrongbook.html" class="flex items-center gap-2 px-6 py-3 bg-red-50 text-red-600 rounded-xl hover:bg-red-100 transition-colors">
+                <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path>
+                </svg>
+                <span class="font-medium">我的错题本</span>
+                <span id="wrongbook-count" class="px-2 py-0.5 bg-red-500 text-white text-xs rounded-full">0</span>
+            </a>
+        </div>
+
+        <div id="continue-study" class="card p-6 mb-6 hidden">
+            <div class="flex items-center justify-between">
+                <div class="flex items-center gap-4">
+                    <div class="w-12 h-12 bg-primary/10 text-primary rounded-xl flex items-center justify-center text-2xl">
+                        📖
+                    </div>
+                    <div>
+                        <h3 class="text-lg font-bold text-gray-800">继续学习</h3>
+                        <p id="last-study-info" class="text-gray-500 text-sm mt-1"></p>
+                    </div>
+                </div>
+                <button id="btn-continue" class="btn btn-primary px-6 py-2">继续学习</button>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
+${Object.entries(GRADES).map(([gradeKey, grade]) => {
+    const gradeNum = gradeKey.replace('grade', '');
+    const gradePrefix = `g${gradeNum}`;
+    
+    return `            <div class="card p-6 border-2 border-primary/30">
+                <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+                    <span class="w-8 h-8 bg-primary text-white rounded-lg flex items-center justify-center font-bold">${grade.shortName}</span>
+                    ${grade.name}
+                </h2>
+                <div class="space-y-3">
+${Object.entries(grade.subjects).map(([subjKey, subject]) => {
+    const sd = subjectData[`${gradeKey}_${subjKey}`];
+    const pageFileName = config.getPageFileName(gradeKey, subjKey);
+    const dataSubjectAttr = `${gradePrefix}_${subjKey}`;
+    
+    return `                    <div class="border border-gray-200 rounded-lg p-3" data-subject="${dataSubjectAttr}">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">${subject.icon || '📖'} ${subject.name}</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/${sd.count}</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="${pageFileName}?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="${pageFileName}?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>`;
+}).join('\n')}
+                </div>
+            </div>`;
+}).join('\n')}
+
+            <div class="card p-6">
+                <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+                    <span class="w-8 h-8 bg-gray-200 text-gray-500 rounded-lg flex items-center justify-center font-bold">九</span>
+                    初三
+                </h2>
+                <div class="text-gray-500 text-sm">暂无数据</div>
+            </div>
+        </div>
+
+        <div class="card p-6 bg-gradient-to-r from-blue-50 to-indigo-50">
+            <h3 class="font-bold text-gray-700 mb-4">📊 当前数据统计</h3>
+            <div class="grid grid-cols-2 md:grid-cols-3 gap-4">
+                <div class="text-center">
+                    <div class="text-3xl font-bold text-primary">${totalKnowledge}</div>
+                    <div class="text-sm text-gray-500">知识点</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-3xl font-bold text-secondary">${totalExamples}</div>
+                    <div class="text-sm text-gray-500">例题</div>
+                </div>
+                <div class="text-center">
+                    <div class="text-3xl font-bold text-danger" id="stat-wrong">-</div>
+                    <div class="text-sm text-gray-500">错题数</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card p-6 mt-6">
+            <h3 class="font-bold text-gray-700 mb-4">💡 使用说明</h3>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm text-gray-600">
+                <div class="flex items-start gap-3">
+                    <span class="w-6 h-6 bg-primary/10 text-primary rounded-full flex items-center justify-center flex-shrink-0 font-bold">1</span>
+                    <p>选择年级和科目，点击"上册"或"下册"进入学习</p>
+                </div>
+                <div class="flex items-start gap-3">
+                    <span class="w-6 h-6 bg-secondary/10 text-secondary rounded-full flex items-center justify-center flex-shrink-0 font-bold">2</span>
+                    <p>点击知识点卡片展开查看公式和详细解释</p>
+                </div>
+                <div class="flex items-start gap-3">
+                    <span class="w-6 h-6 bg-success/10 text-success rounded-full flex items-center justify-center flex-shrink-0 font-bold">3</span>
+                    <p>做例题并加入错题本，方便复习巩固</p>
+                </div>
+            </div>
+        </div>
+
+        <footer class="text-center text-gray-400 text-sm mt-8">
+            <p>初中知识点背诵系统 · 北京人教版</p>
+            <p class="mt-1">v${versionInfo.version} · 更新于 ${versionInfo.lastUpdate}</p>
+        </footer>
+    </div>
+
+    <script>
+        const WrongBookManager = {
+            STORAGE_KEY_PREFIX: 'wrongbook_',
+            getAllWrongBookKeys() {
+                const keys = [];
+                for (let i = 0; i < localStorage.length; i++) {
+                    const key = localStorage.key(i);
+                    if (key && key.startsWith(this.STORAGE_KEY_PREFIX)) {
+                        const data = JSON.parse(localStorage.getItem(key) || '[]');
+                        keys.push({ count: data.length });
+                    }
+                }
+                return keys;
+            }
+        };
+
+        const ProgressManager = {
+            STORAGE_KEY: 'study_progress',
+            getProgress() {
+                try {
+                    return JSON.parse(localStorage.getItem(this.STORAGE_KEY) || '{}');
+                } catch(e) {
+                    return {};
+                }
+            },
+            getLastStudy() {
+                const progress = this.getProgress();
+                return progress.lastStudy || null;
+            },
+            getSubjectProgress(subject) {
+                const progress = this.getProgress();
+                if (!progress.learnedKnowledge) return { learned: 0 };
+                const prefix = subject + '_';
+                const learned = Object.keys(progress.learnedKnowledge).filter(k => k.startsWith(prefix)).length;
+                return { learned };
+            }
+        };
+
+        const SUBJECT_COUNTS = {
+${Object.entries(subjectData).map(([key, sd]) => {
+    const gradePrefix = sd.gradeKey.replace('grade', 'g');
+    return `            '${gradePrefix}_${sd.subjectKey}': ${sd.count}`;
+}).join(',\n')}
+        };
+
+        function formatTimeAgo(timestamp) {
+            const now = new Date();
+            const then = new Date(timestamp);
+            const diffMs = now - then;
+            const diffMins = Math.floor(diffMs / 60000);
+            const diffHours = Math.floor(diffMs / 3600000);
+            const diffDays = Math.floor(diffMs / 86400000);
+            
+            if (diffMins < 1) return '刚刚';
+            if (diffMins < 60) return diffMins + '分钟前';
+            if (diffHours < 24) return diffHours + '小时前';
+            if (diffDays < 7) return diffDays + '天前';
+            return then.toLocaleDateString('zh-CN');
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const allWrongBooks = WrongBookManager.getAllWrongBookKeys();
+            const totalCount = allWrongBooks.reduce((sum, item) => sum + item.count, 0);
+            document.getElementById('wrongbook-count').textContent = totalCount;
+            document.getElementById('stat-wrong').textContent = totalCount;
+
+            const lastStudy = ProgressManager.getLastStudy();
+            if (lastStudy) {
+                const continueStudyDiv = document.getElementById('continue-study');
+                const lastStudyInfo = document.getElementById('last-study-info');
+                const btnContinue = document.getElementById('btn-continue');
+                
+                const timeAgo = formatTimeAgo(lastStudy.timestamp);
+                lastStudyInfo.textContent = lastStudy.subjectName + ' · ' + lastStudy.semesterName + ' · ' + lastStudy.knowledgeName + '（' + timeAgo + '）';
+                continueStudyDiv.classList.remove('hidden');
+                
+                btnContinue.addEventListener('click', () => {
+                    // 使用配置模块生成的链接格式（包含年级前缀）
+                    const grade = lastStudy.grade;
+                    const url = 'knowledge_' + grade + '_' + lastStudy.subject + '.html?semester=' + lastStudy.semester + '#' + lastStudy.knowledgeId;
+                    window.location.href = url;
+                });
+            }
+
+            Object.keys(SUBJECT_COUNTS).forEach(subjectKey => {
+                const progress = ProgressManager.getSubjectProgress(subjectKey);
+                const total = SUBJECT_COUNTS[subjectKey];
+                const percent = total > 0 ? Math.round((progress.learned / total) * 100) : 0;
+                
+                const subjectCard = document.querySelector('[data-subject="' + subjectKey + '"]');
+                if (subjectCard) {
+                    const progressText = subjectCard.querySelector('.subject-progress-text');
+                    const progressBar = subjectCard.querySelector('.subject-progress-bar');
+                    if (progressText) progressText.textContent = progress.learned + '/' + total;
+                    if (progressBar) progressBar.style.width = percent + '%';
+                }
+            });
+        });
+    </script>
+</body>
+</html>`;
+
+    fs.writeFileSync('index.html', indexHtml, 'utf8');
+    console.log('✅ 已生成 index.html');
+}
+
+generateIndex();
+
+// ==================== 生成科目页面 ====================
+console.log('\n📄 生成科目页面...');
+
+const generatedPages = [];
+
+function generateSubjectPage(gradeKey, subjectKey, subject, sd) {
+    const pageFileName = config.getPageFileName(gradeKey, subjectKey);
+    const gradePrefix = gradeKey.replace('grade', 'g');
+    
+    // 使用模板文件
+    const templatePath = path.join(__dirname, 'templates', 'subject-page.template.html');
+    const template = fs.readFileSync(templatePath, 'utf8');
+    
+    // 替换模板变量
+    const html = template
+        .replace(/\{\{SUBJECT_NAME\}\}/g, subject.name)
+        .replace(/\{\{GRADE_KEY\}\}/g, gradePrefix)
+        .replace(/\{\{SUBJECT_KEY\}\}/g, subjectKey)
+        .replace(/\{\{KNOWLEDGE_DATA\}\}/g, JSON.stringify(sd.knowledge))
+        .replace(/\{\{EXAMPLES_DATA\}\}/g, JSON.stringify(sd.examples))
+        .replace(/\{\{HAS_EXAMPLES\}\}/g, subject.noExamples ? 'false' : 'true')
+        .replace(/\{\{KNOWLEDGE_COUNT\}\}/g, sd.count)
+        .replace(/\{\{EXAMPLES_COUNT\}\}/g, sd.examples.length);
+    
+    fs.writeFileSync(pageFileName, html, 'utf8');
+    generatedPages.push(pageFileName);
+    console.log(`  ✅ ${pageFileName} (${sd.count}知识点, ${sd.examples.length}例题)`);
+}
+
+// 生成所有科目页面
+Object.entries(config.GRADES).forEach(([gradeKey, grade]) => {
+    Object.entries(grade.subjects).forEach(([subjectKey, subject]) => {
+        const sd = subjectData[`${gradeKey}_${subjectKey}`];
+        generateSubjectPage(gradeKey, subjectKey, subject, sd);
+    });
+});
+
+// ==================== 自动验证 ====================
+console.log('\n🔍 自动验证...');
+
+// 验证首页链接
+const indexValidation = validator.validateIndexLinks('index.html', config.GRADES);
+console.log('\n首页链接验证:');
+const indexPassed = validator.printValidationResult(indexValidation);
+
+// 验证生成的页面
+const pagesValidation = validator.validatePages(generatedPages, config);
+console.log('\n科目页面验证:');
+const pagesPassed = validator.printValidationResult(pagesValidation);
+
+// ==================== 完成 ====================
+console.log('\n✨ 生成完成！');
+
+if (!indexPassed || !pagesPassed) {
+    console.log('\n❌ 验证发现问题，请检查并修复');
+    process.exit(1);
+}
+
+bumpVersion();
+console.log('\n🎉 所有验证通过！现在可以双击打开 index.html');

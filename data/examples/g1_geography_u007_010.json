@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u007_ex01",
+    "knowledge_id": "g1_geography_u007",
+    "question": "选择题：北半球夏至日，太阳直射点在（  ）\nA. 赤道\nB. 北回归线\nC. 南回归线\nD. 北极圈",
+    "answer": "答案：B\n解析：北半球夏至日，太阳直射北回归线（23.5°N）。"
+  },
+  {
+    "id": "g1_geography_u007_ex02",
+    "knowledge_id": "g1_geography_u007",
+    "question": "填空题：北半球冬至日，太阳直射点在______。",
+    "answer": "答案：南回归线\n解析：冬至日太阳直射南回归线（23.5°S）。"
+  },
+  {
+    "id": "g1_geography_u007_ex03",
+    "knowledge_id": "g1_geography_u007",
+    "question": "判断题：春分日和秋分日，太阳直射赤道。（  ）",
+    "answer": "答案：正确\n解析：春分和秋分时太阳直射赤道。"
+  },
+  {
+    "id": "g1_geography_u007_ex04",
+    "knowledge_id": "g1_geography_u007",
+    "question": "选择题：我国大部分地区处于五带中的（  ）\nA. 热带\nB. 北温带\nC. 南温带\nD. 北寒带",
+    "answer": "答案：B\n解析：中国大部分地区位于北回归线（23.5°N）到北极圈（66.5°N）之间，属北温带。"
+  },
+  {
+    "id": "g1_geography_u007_ex05",
+    "knowledge_id": "g1_geography_u007",
+    "question": "填空题：南北回归线之间是______带，北极圈到北极是______带。",
+    "answer": "答案：热；北寒\n解析：这是地球五带的划分。"
+  }
+]

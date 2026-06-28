@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l016_ex01",
+    "knowledge_id": "g1_biology_l016",
+    "question": "填空题：神经系统包括中枢神经系统和周围神经系统，中枢神经系统包括______和脊髓。",
+    "answer": "答案：脑\n解析：神经系统组成。"
+  },
+  {
+    "id": "g1_biology_l016_ex02",
+    "knowledge_id": "g1_biology_l016",
+    "question": "选择题：神经系统结构和功能的基本单位是（  ）\nA. 细胞体\nB. 突起\nC. 神经元\nD. 轴突",
+    "answer": "答案：C\n解析：神经元是神经系统的基本结构和功能单位。"
+  },
+  {
+    "id": "g1_biology_l016_ex03",
+    "knowledge_id": "g1_biology_l016",
+    "question": "判断题：神经纤维末端的细小分支叫神经末梢。（  ）",
+    "answer": "答案：正确\n解析：神经末梢分布全身。"
+  },
+  {
+    "id": "g1_biology_l016_ex04",
+    "knowledge_id": "g1_biology_l016",
+    "question": "填空题：大脑皮层是调节人体生命活动的______中枢。",
+    "answer": "答案：最高\n解析：大脑皮层是高级中枢。"
+  },
+  {
+    "id": "g1_biology_l016_ex05",
+    "knowledge_id": "g1_biology_l016",
+    "question": "选择题：小脑的主要功能是（  ）\nA. 感觉中枢\nB. 运动中枢\nC. 平衡和协调运动\nD. 呼吸中枢",
+    "answer": "答案：C\n解析：小脑协调运动，维持平衡。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u003_ex01",
+    "knowledge_id": "g1_biology_u003",
+    "question": "填空题：动物细胞的基本结构包括：细胞膜、细胞质和______。",
+    "answer": "答案：细胞核\n解析：动物细胞的基本结构。"
+  },
+  {
+    "id": "g1_biology_u003_ex02",
+    "knowledge_id": "g1_biology_u003",
+    "question": "选择题：与植物细胞相比，动物细胞特有的结构是（  ）\nA. 细胞膜\nB. 细胞核\nC. 线粒体\nD. 细胞壁",
+    "answer": "答案：D\n解析：动物细胞没有细胞壁。"
+  },
+  {
+    "id": "g1_biology_u003_ex03",
+    "knowledge_id": "g1_biology_u003",
+    "question": "判断题：动物细胞也有线粒体，是呼吸作用的场所。（  ）",
+    "answer": "答案：正确\n解析：动物细胞有线粒体，进行呼吸作用释放能量。"
+  },
+  {
+    "id": "g1_biology_u003_ex04",
+    "knowledge_id": "g1_biology_u003",
+    "question": "填空题：制作人口腔上皮细胞临时装片时，用______染色，以便观察细胞核。",
+    "answer": "答案：碘液\n解析：常用碘液或龙胆紫对细胞进行染色。"
+  },
+  {
+    "id": "g1_biology_u003_ex05",
+    "knowledge_id": "g1_biology_u003",
+    "question": "选择题：动物细胞的能量转换器是（  ）\nA. 叶绿体\nB. 线粒体\nC. 细胞核\nD. 液泡",
+    "answer": "答案：B\n解析：动物细胞无线粒体，通过线粒体进行呼吸作用产生能量。"
+  }
+]

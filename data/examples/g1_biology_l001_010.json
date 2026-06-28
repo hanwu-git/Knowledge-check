@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l001_ex01",
+    "knowledge_id": "g1_biology_l001",
+    "question": "填空题：人类起源于______。",
+    "answer": "答案：森林古猿\n解析：人类和类人猿有共同的原始祖先——森林古猿。"
+  },
+  {
+    "id": "g1_biology_l001_ex02",
+    "knowledge_id": "g1_biology_l001",
+    "question": "判断题：人类和类人猿有亲缘关系。（  ）",
+    "answer": "答案：正确\n解析：人类和类人猿有共同的原始祖先。"
+  },
+  {
+    "id": "g1_biology_l001_ex03",
+    "knowledge_id": "g1_biology_l001",
+    "question": "填空题：现代类人猿包括：长臂猿、猩猩、______和______。",
+    "answer": "答案：大猩猩；黑猩猩\n解析：现代类人猿包括四种。"
+  },
+  {
+    "id": "g1_biology_l001_ex04",
+    "knowledge_id": "g1_biology_l001",
+    "question": "选择题：人类进化过程中，最早用火的是（  ）\nA. 南方古猿\nB. 能人\nC. 直立人\nD. 智人",
+    "answer": "答案：C\n解析：直立人会使用火。"
+  },
+  {
+    "id": "g1_biology_l001_ex05",
+    "knowledge_id": "g1_biology_l001",
+    "question": "填空题：人类进化历程：南方古猿→能人→______→智人。",
+    "answer": "答案：直立人\n解析：人类进化的四个阶段。"
+  }
+]

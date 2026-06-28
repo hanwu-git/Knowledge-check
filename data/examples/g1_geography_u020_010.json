@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u020_ex01",
+    "knowledge_id": "g1_geography_u020",
+    "question": "填空题：降水的三种主要类型是：______、地形雨和对流雨。",
+    "answer": "答案：锋面雨\n解析：三种主要降水类型。"
+  },
+  {
+    "id": "g1_geography_u020_ex02",
+    "knowledge_id": "g1_geography_u020",
+    "question": "选择题：赤道附近降水丰富，主要属于（  ）\nA. 地形雨\nB. 对流雨\nC. 锋面雨\nD. 无法确定",
+    "answer": "答案：B\n解析：赤道地区以对流雨为主。"
+  },
+  {
+    "id": "g1_geography_u020_ex03",
+    "knowledge_id": "g1_geography_u020",
+    "question": "判断题：山地的迎风坡降水多，背风坡降水少。（  ）",
+    "answer": "答案：正确\n解析：山地迎风坡暖湿气流抬升冷却，多降水。"
+  },
+  {
+    "id": "g1_geography_u020_ex04",
+    "knowledge_id": "g1_geography_u020",
+    "question": "填空题：测量降水量的基本工具是______。",
+    "answer": "答案：雨量器\n解析：雨量器用于测量降水量。"
+  },
+  {
+    "id": "g1_geography_u020_ex05",
+    "knowledge_id": "g1_geography_u020",
+    "question": "选择题：下列地区中，年降水量最多的是（  ）\nA. 撒哈拉沙漠\nB. 赤道地区\nC. 两极地区\nD. 地中海沿岸",
+    "answer": "答案：B\n解析：赤道地区终年受赤道低压控制，降水丰富。"
+  }
+]

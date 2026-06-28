@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g2_physics_005_ex01",
+    "knowledge_id": "g2_physics_005",
+    "question": "选择题：平均速度的公式是（  ）\nA. v̄ = s总 × t总\nB. v̄ = s总 / t总\nC. v̄ = (v1 + v2) / 2\nD. v̄ = t总 / s总",
+    "answer": "答案：B\n解析：平均速度 = 总路程 ÷ 总时间。"
+  },
+  {
+    "id": "g2_physics_005_ex02",
+    "knowledge_id": "g2_physics_005",
+    "question": "填空题：平均速度表示物体在某一段路程（或某一段时间）内的______快慢程度。",
+    "answer": "答案：平均\n解析：平均速度反映的是平均快慢。"
+  },
+  {
+    "id": "g2_physics_005_ex03",
+    "knowledge_id": "g2_physics_005",
+    "question": "选择题：关于平均速度，下列说法正确的是（  ）\nA. 平均速度就是速度的平均值\nB. 平均速度与所选路程无关\nC. 平均速度与所选时间无关\nD. 平均速度 = 总路程 ÷ 总时间",
+    "answer": "答案：D\n解析：平均速度等于总路程除以总时间，不是速度的平均值。"
+  },
+  {
+    "id": "g2_physics_005_ex04",
+    "knowledge_id": "g2_physics_005",
+    "question": "判断题：平均速度的数值与所选的路程或时间有关。",
+    "answer": "答案：正确\n解析：选择不同的路程或时间，平均速度可能不同。"
+  },
+  {
+    "id": "g2_physics_005_ex05",
+    "knowledge_id": "g2_physics_005",
+    "question": "解答题：小明从家到学校，前一半路程以1 m/s的速度步行，后一半路程以3 m/s的速度跑步，求全程的平均速度。",
+    "answer": "答案：1.5 m/s\n解析：设总路程为2s，则前一半时间t1 = s/1 = s，后一半时间t2 = s/3。\n总时间 = s + s/3 = 4s/3\n平均速度 = 2s ÷ (4s/3) = 1.5 m/s"
+  },
+  {
+    "id": "g2_physics_005_ex06",
+    "knowledge_id": "g2_physics_005",
+    "question": "选择题：一辆汽车行驶了100 km，用了2小时，则平均速度是（  ）\nA. 50 km/h\nB. 100 km/h\nC. 200 km/h\nD. 50 m/s",
+    "answer": "答案：A\n解析：平均速度 = 100 km ÷ 2 h = 50 km/h。"
+  },
+  {
+    "id": "g2_physics_005_ex07",
+    "knowledge_id": "g2_physics_005",
+    "question": "填空题：平均速度不是______的平均值。",
+    "answer": "答案：速度\n解析：平均速度是总路程除以总时间，不是速度的算术平均。"
+  },
+  {
+    "id": "g2_physics_005_ex08",
+    "knowledge_id": "g2_physics_005",
+    "question": "判断题：平均速度一定等于某一时刻的瞬时速度。",
+    "answer": "答案：错误\n解析：平均速度是一段时间内的平均，不一定等于瞬时速度。"
+  },
+  {
+    "id": "g2_physics_005_ex09",
+    "knowledge_id": "g2_physics_005",
+    "question": "解答题：一辆汽车在平直公路上行驶，前2小时行驶了80 km，后3小时行驶了180 km，求全程的平均速度。",
+    "answer": "答案：52 km/h\n解析：总路程 = 80 + 180 = 260 km\n总时间 = 2 + 3 = 5 h\n平均速度 = 260 ÷ 5 = 52 km/h"
+  },
+  {
+    "id": "g2_physics_005_ex10",
+    "knowledge_id": "g2_physics_005",
+    "question": "选择题：关于平均速度，下列说法错误的是（  ）\nA. 平均速度可以粗略描述物体运动的快慢\nB. 平均速度与路程和时间有关\nC. 匀速直线运动的平均速度等于瞬时速度\nD. 平均速度一定大于瞬时速度",
+    "answer": "答案：D\n解析：平均速度可能大于、小于或等于瞬时速度。"
+  }
+]

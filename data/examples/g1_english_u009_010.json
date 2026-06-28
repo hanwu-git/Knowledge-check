@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u009_ex01",
+    "knowledge_id": "g1_english_u009",
+    "question": "填空题：英语单词 \"This\" 的中文意思是______。",
+    "answer": "答案：is my book. 这是我的书。\n解析：This 是一个常用单词，意思是\"is my book. 这是我的书。\"。"
+  },
+  {
+    "id": "g1_english_u009_ex02",
+    "knowledge_id": "g1_english_u009",
+    "question": "选择题：下列单词中，表示\"is your pen. 那是你的钢笔。\"的是（  ）\nA. This\nB. That\nC. His\nD. Her",
+    "answer": "答案：B\n解析：That 的意思是\"is your pen. 那是你的钢笔。\"。"
+  },
+  {
+    "id": "g1_english_u009_ex03",
+    "knowledge_id": "g1_english_u009",
+    "question": "填空题：物主代词的规则可以概括为：______。",
+    "answer": "答案：my/your/his/her/its/our/your/their\n解析：这是物主代词的核心规则。"
+  },
+  {
+    "id": "g1_english_u009_ex04",
+    "knowledge_id": "g1_english_u009",
+    "question": "匹配题：请将下列单词与对应的中文意思连线。\n1. This    A. name is Tom. 他的名字是汤姆。\n2. That    B. is my book. 这是我的书。\n3. His    C. sister is Lucy. 她姐姐是露西。\n4. Her    D. is your pen. 那是你的钢笔。",
+    "answer": "答案：1-B, 2-D, 3-A, 4-C\n解析：要准确掌握单词的意思。"
+  },
+  {
+    "id": "g1_english_u009_ex05",
+    "knowledge_id": "g1_english_u009",
+    "question": "选择题：单词 \"That\" 的正确拼写是？\nA. That\nB. Thet\nC. Thate\nD. Tha",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u009_ex06",
+    "knowledge_id": "g1_english_u009",
+    "question": "选择题：单词 \"His\" 的正确拼写是？\nA. His\nB. His\nC. Hise\nD. Hi",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u009_ex07",
+    "knowledge_id": "g1_english_u009",
+    "question": "选择题：单词 \"Her\" 的正确拼写是？\nA. Her\nB. Her\nC. Here\nD. He",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u009_ex08",
+    "knowledge_id": "g1_english_u009",
+    "question": "选择题：单词 \"Our\" 的正确拼写是？\nA. Our\nB. Our\nC. Oure\nD. Ou",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u009_ex09",
+    "knowledge_id": "g1_english_u009",
+    "question": "选择题：单词 \"Their\" 的正确拼写是？\nA. Their\nB. Their\nC. Theire\nD. Thei",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u009_ex10",
+    "knowledge_id": "g1_english_u009",
+    "question": "选择题：单词 \"This\" 的正确拼写是？\nA. This\nB. This\nC. Thise\nD. Thi",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  }
+]

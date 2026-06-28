@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u005_ex01",
+    "knowledge_id": "g1_english_u005",
+    "question": "选择题：\"Is this your sister? 这是你姐姐吗？\n  Yes, it is\" 的中文意思是（  ）\nA. / No, it isn't.\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"Is this your sister? 这是你姐姐吗？\n  Yes, it is\" 的意思是\"/ No, it isn't.\"。"
+  },
+  {
+    "id": "g1_english_u005_ex02",
+    "knowledge_id": "g1_english_u005",
+    "question": "选择题：\"/ No, they aren't.\" 的英文表达是（  ）\nA. 错误的句子\nB. Are these your brothers? 这些是你哥哥吗？\n  Yes, they are\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"/ No, they aren't.\" 的正确英文是 \"Are these your brothers? 这些是你哥哥吗？\n  Yes, they are\"。"
+  },
+  {
+    "id": "g1_english_u005_ex03",
+    "knowledge_id": "g1_english_u005",
+    "question": "填空题：英语单词 \"This\" 的中文意思是______。",
+    "answer": "答案：is my father. 这是我爸爸。\n解析：This 是一个常用单词，意思是\"is my father. 这是我爸爸。\"。"
+  },
+  {
+    "id": "g1_english_u005_ex04",
+    "knowledge_id": "g1_english_u005",
+    "question": "选择题：下列单词中，表示\"is my mother. 那是我妈妈。\"的是（  ）\nA. This\nB. That\nC. These\nD. Those",
+    "answer": "答案：B\n解析：That 的意思是\"is my mother. 那是我妈妈。\"。"
+  },
+  {
+    "id": "g1_english_u005_ex05",
+    "knowledge_id": "g1_english_u005",
+    "question": "填空题：指示代词的规则可以概括为：______。",
+    "answer": "答案：this/that + 单数, these/those + 复数\n解析：这是指示代词的核心规则。"
+  },
+  {
+    "id": "g1_english_u005_ex06",
+    "knowledge_id": "g1_english_u005",
+    "question": "改错题：\"Is this your sister? 这是你姐姐吗？\n  Yes, it is\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"Is this your sister? 这是你姐姐吗？\n  Yes, it is\"。\n解析：要注意指示代词的正确用法。"
+  },
+  {
+    "id": "g1_english_u005_ex07",
+    "knowledge_id": "g1_english_u005",
+    "question": "句型转换：将句子 \"Are these your brothers? 这些是你哥哥吗？\n  Yes, they are\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_u005_ex08",
+    "knowledge_id": "g1_english_u005",
+    "question": "写作题：用 \"This\" 这个单词写一个英语句子。",
+    "answer": "答案（示例）：Is this your sister? 这是你姐姐吗？\n  Yes, it is\n解析：造句要注意语法正确，意思通顺。"
+  },
+  {
+    "id": "g1_english_u005_ex09",
+    "knowledge_id": "g1_english_u005",
+    "question": "填空题：\"/ No, they aren't.\" 的英文是：______。",
+    "answer": "答案：Are these your brothers? 这些是你哥哥吗？\n  Yes, they are\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u005_ex10",
+    "knowledge_id": "g1_english_u005",
+    "question": "选择题：单词 \"These\" 的正确拼写是？\nA. These\nB. These\nC. Thesee\nD. Thes",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  }
+]

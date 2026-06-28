@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u003_ex01",
+    "knowledge_id": "g1_english_u003",
+    "question": "填空题：英语单词 \"I\" 的中文意思是______。",
+    "answer": "答案：am a teacher. 我是一名老师。\n解析：I 是一个常用单词，意思是\"am a teacher. 我是一名老师。\"。"
+  },
+  {
+    "id": "g1_english_u003_ex02",
+    "knowledge_id": "g1_english_u003",
+    "question": "选择题：下列单词中，表示\"are my student. 你是我的学生。\"的是（  ）\nA. I\nB. You\nC. She\nD. We",
+    "answer": "答案：B\n解析：You 的意思是\"are my student. 你是我的学生。\"。"
+  },
+  {
+    "id": "g1_english_u003_ex03",
+    "knowledge_id": "g1_english_u003",
+    "question": "填空题：be动词的规则可以概括为：______。",
+    "answer": "答案：I am, you/we/they are, he/she/it is\n解析：这是be动词的核心规则。"
+  },
+  {
+    "id": "g1_english_u003_ex04",
+    "knowledge_id": "g1_english_u003",
+    "question": "匹配题：请将下列单词与对应的中文意思连线。\n1. I    A. is my sister. 她是我姐姐。\n2. You    B. am a teacher. 我是一名老师。\n3. She    C. are classmates. 我们是同学。\n4. We    D. are my student. 你是我的学生。",
+    "answer": "答案：1-B, 2-D, 3-A, 4-C\n解析：要准确掌握单词的意思。"
+  },
+  {
+    "id": "g1_english_u003_ex05",
+    "knowledge_id": "g1_english_u003",
+    "question": "选择题：单词 \"You\" 的正确拼写是？\nA. You\nB. You\nC. Youe\nD. Yo",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u003_ex06",
+    "knowledge_id": "g1_english_u003",
+    "question": "选择题：单词 \"She\" 的正确拼写是？\nA. She\nB. She\nC. Shee\nD. Sh",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u003_ex07",
+    "knowledge_id": "g1_english_u003",
+    "question": "选择题：单词 \"We\" 的正确拼写是？\nA. We\nB. We\nC. Wee\nD. W",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u003_ex08",
+    "knowledge_id": "g1_english_u003",
+    "question": "选择题：单词 \"They\" 的正确拼写是？\nA. They\nB. They\nC. Theye\nD. The",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u003_ex09",
+    "knowledge_id": "g1_english_u003",
+    "question": "选择题：单词 \"I\" 的正确拼写是？\nA. I\nB. I\nC. Ie\nD. ",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u003_ex10",
+    "knowledge_id": "g1_english_u003",
+    "question": "选择题：单词 \"You\" 的正确拼写是？\nA. You\nB. You\nC. Youe\nD. Yo",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  }
+]

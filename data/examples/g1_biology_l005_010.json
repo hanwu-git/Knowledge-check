@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_l005_ex01",
+    "knowledge_id": "g1_biology_l005",
+    "question": "填空题：消化道包括：口腔、咽、食道、______、小肠、大肠和肛门。",
+    "answer": "答案：胃\n解析：消化道的组成。"
+  },
+  {
+    "id": "g1_biology_l005_ex02",
+    "knowledge_id": "g1_biology_l005",
+    "question": "选择题：淀粉消化的起始部位是（  ）\nA. 口腔\nB. 胃\nC. 小肠\nD. 大肠",
+    "answer": "答案：A\n解析：口腔中有唾液淀粉酶消化淀粉。"
+  },
+  {
+    "id": "g1_biology_l005_ex03",
+    "knowledge_id": "g1_biology_l005",
+    "question": "判断题：小肠是消化和吸收的主要场所。（  ）",
+    "answer": "答案：正确\n解析：小肠长约5-6米，有环形皱襞和小肠绒毛。"
+  },
+  {
+    "id": "g1_biology_l005_ex04",
+    "knowledge_id": "g1_biology_l005",
+    "question": "填空题：肝脏分泌的______不含消化酶，但能乳化脂肪。",
+    "answer": "答案：胆汁\n解析：胆汁是唯一不含消化酶的消化液。"
+  },
+  {
+    "id": "g1_biology_l005_ex05",
+    "knowledge_id": "g1_biology_l005",
+    "question": "选择题：脂肪消化的产物是（  ）\nA. 氨基酸\nB. 葡萄糖\nC. 甘油和脂肪酸\nD. 麦芽糖",
+    "answer": "答案：C\n解析：脂肪消化成甘油和脂肪酸。"
+  }
+]

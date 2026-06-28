@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_u023_ex01",
+    "knowledge_id": "g1_math_u023",
+    "question": "选择题：从一点出发的两条射线组成的图形叫做（  ）\nA. 直线\nB. 线段\nC. 角\nD. 弧",
+    "answer": "答案：C\n解析：角的定义是从一点出发的两条射线。"
+  },
+  {
+    "id": "g1_math_u023_ex02",
+    "knowledge_id": "g1_math_u023",
+    "question": "填空题：1周角 = ______度，1平角 = ______度。",
+    "answer": "答案：360；180\n解析：这是角度的基本换算。"
+  },
+  {
+    "id": "g1_math_u023_ex03",
+    "knowledge_id": "g1_math_u023",
+    "question": "选择题：若∠A = 45°，∠B = 45°，则（  ）\nA. ∠A > ∠B\nB. ∠A < ∠B\nC. ∠A = ∠B\nD. 无法比较",
+    "answer": "答案：C\n解析：两个角都是45°，相等。"
+  },
+  {
+    "id": "g1_math_u023_ex04",
+    "knowledge_id": "g1_math_u023",
+    "question": "判断题：大于90°的角是钝角。（  ）",
+    "answer": "答案：错误\n解析：钝角是大于90°且小于180°的角。"
+  },
+  {
+    "id": "g1_math_u023_ex05",
+    "knowledge_id": "g1_math_u023",
+    "question": "填空题：时钟从3点走到6点，时针转了______度。",
+    "answer": "答案：90\n解析：时针12小时转360°，每小时转30°，3小时转90°。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l024_ex01",
+    "knowledge_id": "g1_english_l024",
+    "question": "选择题：\"I know (that) you are right\" 的中文意思是（  ）\nA. 我知道你是对的。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"I know (that) you are right\" 的意思是\"我知道你是对的。\"。"
+  },
+  {
+    "id": "g1_english_l024_ex02",
+    "knowledge_id": "g1_english_l024",
+    "question": "选择题：\"他说他明天会来。\" 的英文表达是（  ）\nA. 错误的句子\nB. He says (that) he will come tomorrow\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"他说他明天会来。\" 的正确英文是 \"He says (that) he will come tomorrow\"。"
+  },
+  {
+    "id": "g1_english_l024_ex03",
+    "knowledge_id": "g1_english_l024",
+    "question": "填空题：宾语从句基础的规则可以概括为：______。",
+    "answer": "答案：主句 + 引导词 + 主语 + 谓语\n解析：这是宾语从句基础的核心规则。"
+  },
+  {
+    "id": "g1_english_l024_ex04",
+    "knowledge_id": "g1_english_l024",
+    "question": "判断题：\"I don't know if/whether he will come\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"我不知道他是否会来。\"。"
+  },
+  {
+    "id": "g1_english_l024_ex05",
+    "knowledge_id": "g1_english_l024",
+    "question": "改错题：\"I know (that) you is right\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"I know (that) you are right\"。\n解析：要注意宾语从句基础的正确用法。"
+  },
+  {
+    "id": "g1_english_l024_ex06",
+    "knowledge_id": "g1_english_l024",
+    "question": "句型转换：将句子 \"He says (that) he will come tomorrow\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l024_ex07",
+    "knowledge_id": "g1_english_l024",
+    "question": "填空题：\"他说他明天会来。\" 的英文是：______。",
+    "answer": "答案：He says (that) he will come tomorrow\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l024_ex08",
+    "knowledge_id": "g1_english_l024",
+    "question": "填空题：\"我不知道他是否会来。\" 的英文是：______。",
+    "answer": "答案：I don't know if/whether he will come\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l024_ex09",
+    "knowledge_id": "g1_english_l024",
+    "question": "填空题：\"由特殊疑问词引导\" 的英文是：______。",
+    "answer": "答案：Can you tell me if it will rain tomorrow? 你能告诉我明天是否会下雨吗？\n\n3\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l024_ex10",
+    "knowledge_id": "g1_english_l024",
+    "question": "填空题：\"请告诉我你叫什么名字。\" 的英文是：______。",
+    "answer": "答案：Please tell me what your name is\n解析：要熟记常用句型。"
+  }
+]

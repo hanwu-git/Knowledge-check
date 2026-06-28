@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u011_ex01",
+    "knowledge_id": "g1_geography_u011",
+    "question": "填空题：分层设色地形图上，绿色表示______，蓝色表示______，褐色表示______。",
+    "answer": "答案：平原；海洋或河流；高原和山地\n解析：这是分层设色地形图的颜色标准。"
+  },
+  {
+    "id": "g1_geography_u011_ex02",
+    "knowledge_id": "g1_geography_u011",
+    "question": "选择题：分层设色地形图中，平原的颜色通常是（  ）\nA. 蓝色\nB. 绿色\nC. 黄色\nD. 褐色",
+    "answer": "答案：B\n解析：平原海拔低，通常用绿色表示。"
+  },
+  {
+    "id": "g1_geography_u011_ex03",
+    "knowledge_id": "g1_geography_u011",
+    "question": "判断题：在分层设色地形图上，只能看出地形的类型，看不出海拔高度。（  ）",
+    "answer": "答案：错误\n解析：分层设色图可以结合颜色深浅判断大致海拔。"
+  },
+  {
+    "id": "g1_geography_u011_ex04",
+    "knowledge_id": "g1_geography_u011",
+    "question": "填空题：高原和山地通常用______色表示。",
+    "answer": "答案：褐\n解析：海拔越高，颜色越深。"
+  },
+  {
+    "id": "g1_geography_u011_ex05",
+    "knowledge_id": "g1_geography_u011",
+    "question": "选择题：下列地形中，在分层设色图上颜色最深的是（  ）\nA. 丘陵\nB. 平原\nC. 山地\nD. 高原",
+    "answer": "答案：C\n解析：山地海拔最高，颜色最深（褐色）。"
+  }
+]

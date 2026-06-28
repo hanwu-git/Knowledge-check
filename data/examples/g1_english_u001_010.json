@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u001_ex01",
+    "knowledge_id": "g1_english_u001",
+    "question": "填空题：英语单词 \"Good\" 的中文意思是______。",
+    "answer": "答案：morning! 早上好！\n解析：Good 是一个常用单词，意思是\"morning! 早上好！\"。"
+  },
+  {
+    "id": "g1_english_u001_ex02",
+    "knowledge_id": "g1_english_u001",
+    "question": "选择题：下列单词中，表示\"afternoon! 下午好！\"的是（  ）\nA. Where\nB. Good\nC. How\nD. See",
+    "answer": "答案：B\n解析：Good 的意思是\"afternoon! 下午好！\"。"
+  },
+  {
+    "id": "g1_english_u001_ex03",
+    "knowledge_id": "g1_english_u001",
+    "question": "填空题：问候与介绍的规则可以概括为：______。",
+    "answer": "答案：Hello! / Hi! / Nice to meet you!\n解析：这是问候与介绍的核心规则。"
+  },
+  {
+    "id": "g1_english_u001_ex04",
+    "knowledge_id": "g1_english_u001",
+    "question": "匹配题：请将下列单词与对应的中文意思连线。\n1. Good    A. evening! 晚上好！\n2. Good    B. morning! 早上好！\n3. Good    C. are you from? 你来自哪里？\n4. Where    D. afternoon! 下午好！",
+    "answer": "答案：1-B, 2-D, 3-A, 4-C\n解析：要准确掌握单词的意思。"
+  },
+  {
+    "id": "g1_english_u001_ex05",
+    "knowledge_id": "g1_english_u001",
+    "question": "选择题：单词 \"Good\" 的正确拼写是？\nA. Good\nB. Good\nC. Goode\nD. Goo",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u001_ex06",
+    "knowledge_id": "g1_english_u001",
+    "question": "选择题：单词 \"Good\" 的正确拼写是？\nA. Good\nB. Good\nC. Goode\nD. Goo",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u001_ex07",
+    "knowledge_id": "g1_english_u001",
+    "question": "选择题：单词 \"Where\" 的正确拼写是？\nA. Where\nB. Where\nC. Wheree\nD. Wher",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u001_ex08",
+    "knowledge_id": "g1_english_u001",
+    "question": "选择题：单词 \"How\" 的正确拼写是？\nA. How\nB. How\nC. Howe\nD. Ho",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u001_ex09",
+    "knowledge_id": "g1_english_u001",
+    "question": "选择题：单词 \"See\" 的正确拼写是？\nA. See\nB. See\nC. Seee\nD. Se",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  },
+  {
+    "id": "g1_english_u001_ex10",
+    "knowledge_id": "g1_english_u001",
+    "question": "选择题：单词 \"See\" 的正确拼写是？\nA. See\nB. See\nC. Seee\nD. Se",
+    "answer": "答案：A\n解析：注意单词的正确拼写。"
+  }
+]

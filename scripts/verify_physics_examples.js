@@ -1,18 +1,18 @@
-// 验证所有58个g2_physics_xxx_010.json文件
 const fs = require('fs');
 const path = require('path');
 
-const examplesDir = path.join('d:', 'obj', '学生复习', 'data', 'examples');
+const EXAMPLE_DIR = path.join(__dirname, '..', 'data', 'examples');
 const errors = [];
 const results = [];
 
-for (let i = 1; i <= 58; i++) {
-  const num = String(i).padStart(3, '0');
-  const fileName = `g2_physics_${num}_010.json`;
-  const filePath = path.join(examplesDir, fileName);
+const files = fs.readdirSync(EXAMPLE_DIR)
+    .filter(f => f.startsWith('g2_physics_') && f.endsWith('_010.json'))
+    .sort();
+
+files.forEach(fileName => {
+  const filePath = path.join(EXAMPLE_DIR, fileName);
 
   const result = {
-    num,
     fileName,
     exists: false,
     isValidJson: false,
@@ -26,7 +26,7 @@ for (let i = 1; i <= 58; i++) {
     result.errors.push('文件不存在');
     errors.push(result);
     results.push(result);
-    continue;
+    return;
   }
 
   result.exists = true;
@@ -37,7 +37,7 @@ for (let i = 1; i <= 58; i++) {
     result.errors.push(`读取失败: ${e.message}`);
     errors.push(result);
     results.push(result);
-    continue;
+    return;
   }
 
   let data;
@@ -47,7 +47,7 @@ for (let i = 1; i <= 58; i++) {
     result.errors.push(`JSON解析失败: ${e.message}`);
     errors.push(result);
     results.push(result);
-    continue;
+    return;
   }
   result.isValidJson = true;
 
@@ -55,7 +55,7 @@ for (let i = 1; i <= 58; i++) {
     result.errors.push('内容不是数组');
     errors.push(result);
     results.push(result);
-    continue;
+    return;
   }
 
   result.questionCount = data.length;
@@ -64,7 +64,6 @@ for (let i = 1; i <= 58; i++) {
     result.errors.push(`题目数量不是10，实际为${data.length}`);
   }
 
-  // 检查实质性内容
   let isPlaceholder = false;
   for (const item of data) {
     if (!item.question || !item.answer) {
@@ -92,7 +91,7 @@ for (let i = 1; i <= 58; i++) {
     errors.push(result);
   }
   results.push(result);
-}
+});
 
 console.log('=== 验证结果汇总 ===');
 console.log(`总文件数: ${results.length}`);
@@ -110,6 +109,5 @@ if (errors.length > 0) {
   console.log('所有文件验证通过！');
 }
 
-// 统计总题数
 const totalQuestions = results.reduce((sum, r) => sum + r.questionCount, 0);
 console.log(`\n总题数: ${totalQuestions}`);

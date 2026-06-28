@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u019_ex01",
+    "knowledge_id": "g1_geography_u019",
+    "question": "填空题：一天中，最高气温出现在______左右，最低气温出现在______前后。",
+    "answer": "答案：14时；日出\n解析：陆地最高气温在14时左右，最低在日出前后。"
+  },
+  {
+    "id": "g1_geography_u019_ex02",
+    "knowledge_id": "g1_geography_u019",
+    "question": "选择题：等温线稀疏的地方，表示（  ）\nA. 气温差异大\nB. 气温差异小\nC. 温度高\nD. 温度低",
+    "answer": "答案：B\n解析：等温线稀疏表示气温差异小。"
+  },
+  {
+    "id": "g1_geography_u019_ex03",
+    "knowledge_id": "g1_geography_u019",
+    "question": "判断题：同纬度地区，夏季陆地气温高于海洋。（  ）",
+    "answer": "答案：正确\n解析：夏季陆地升温快，气温高于海洋。"
+  },
+  {
+    "id": "g1_geography_u019_ex04",
+    "knowledge_id": "g1_geography_u019",
+    "question": "填空题：北半球，等温线大致与纬线______（平行/垂直）。",
+    "answer": "答案：平行\n解析：北半球等温线大致沿纬线方向延伸。"
+  },
+  {
+    "id": "g1_geography_u019_ex05",
+    "knowledge_id": "g1_geography_u019",
+    "question": "选择题：一天中气温变化规律：日出前后气温______，午后2时气温______。\nA. 最高，最高\nB. 最低，最高\nC. 最低，最低\nD. 最高，最低",
+    "answer": "答案：B\n解析：日出前后最低，午后2时最高。"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u006_ex01",
+    "knowledge_id": "g1_geography_u006",
+    "question": "填空题：地球公转的方向是______。",
+    "answer": "答案：自西向东\n解析：地球公转方向也是自西向东。"
+  },
+  {
+    "id": "g1_geography_u006_ex02",
+    "knowledge_id": "g1_geography_u006",
+    "question": "选择题：地球公转一周的时间约为（  ）\nA. 24小时\nB. 一个月\nC. 一年\nD. 一周",
+    "answer": "答案：C\n解析：地球公转一周约为一年（365天或366天）。"
+  },
+  {
+    "id": "g1_geography_u006_ex03",
+    "knowledge_id": "g1_geography_u006",
+    "question": "判断题：地球公转产生了四季更替和昼夜长短变化。（  ）",
+    "answer": "答案：正确\n解析：地球公转时地轴倾斜导致太阳直射点变化，产生四季和昼夜长短变化。"
+  },
+  {
+    "id": "g1_geography_u006_ex04",
+    "knowledge_id": "g1_geography_u006",
+    "question": "填空题：地球公转的轨道形状是______。",
+    "answer": "答案：近似正圆的椭圆\n解析：地球公转轨道是近似正圆的椭圆。"
+  },
+  {
+    "id": "g1_geography_u006_ex05",
+    "knowledge_id": "g1_geography_u006",
+    "question": "选择题：地球公转时，地轴的空间指向（  ）\nA. 指向北极星附近\nB. 垂直于公转轨道面\nC. 随公转方向旋转\nD. 指向太阳",
+    "answer": "答案：A\n解析：地轴总是指向北极星附近，倾斜角度基本不变。"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "g1_biology_u014_ex01",
+    "knowledge_id": "g1_biology_u014",
+    "question": "填空题：根尖的结构从顶端向上依次是：分生区、______、伸长区、成熟区。",
+    "answer": "答案：根冠\n解析：根尖结构从尖端向上。"
+  },
+  {
+    "id": "g1_biology_u014_ex02",
+    "knowledge_id": "g1_biology_u014",
+    "question": "选择题：根生长最快的部位是（  ）\nA. 成熟区\nB. 伸长区\nC. 分生区\nD. 根冠",
+    "answer": "答案：B\n解析：伸长区是根生长最快的部位。"
+  },
+  {
+    "id": "g1_biology_u014_ex03",
+    "knowledge_id": "g1_biology_u014",
+    "question": "判断题：根的生长只靠分生区的细胞分裂。（  ）",
+    "answer": "答案：错误\n解析：根的生长靠分生区细胞分裂增加数量，伸长区细胞生长使根伸长。"
+  },
+  {
+    "id": "g1_biology_u014_ex04",
+    "knowledge_id": "g1_biology_u014",
+    "question": "填空题：枝条是由______发育来的。",
+    "answer": "答案：芽\n解析：芽可以发育成枝条。"
+  },
+  {
+    "id": "g1_biology_u014_ex05",
+    "knowledge_id": "g1_biology_u014",
+    "question": "填空题：植物生长需要最多的无机盐是含______、含______和含______的无机盐。",
+    "answer": "答案：氮；磷；钾\n解析：氮磷钾是植物需要最多的三种无机盐。"
+  },
+  {
+    "id": "g1_biology_l014_ex04",
+    "knowledge_id": "g1_biology_u014",
+    "question": "选择题：形成尿液的部位是（  ）\nA. 肾小球\nB. 肾小囊\nC. 肾小管\nD. 集合管",
+    "answer": "答案：C\n解析：肾小管形成尿液。"
+  }
+]

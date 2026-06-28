@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_u021_ex01",
+    "knowledge_id": "g1_english_u021",
+    "question": "选择题：\"I am reading a book now\" 的中文意思是（  ）\nA. 我现在正在看书。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"I am reading a book now\" 的意思是\"我现在正在看书。\"。"
+  },
+  {
+    "id": "g1_english_u021_ex02",
+    "knowledge_id": "g1_english_u021",
+    "question": "选择题：\"听！鸟儿在唱歌。\" 的英文表达是（  ）\nA. 错误的句子\nB. Listen! The birds are singing\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"听！鸟儿在唱歌。\" 的正确英文是 \"Listen! The birds are singing\"。"
+  },
+  {
+    "id": "g1_english_u021_ex03",
+    "knowledge_id": "g1_english_u021",
+    "question": "填空题：现在进行时的规则可以概括为：______。",
+    "answer": "答案：be + 动词ing，表示正在进行的动作\n解析：这是现在进行时的核心规则。"
+  },
+  {
+    "id": "g1_english_u021_ex04",
+    "knowledge_id": "g1_english_u021",
+    "question": "判断题：\"Look! They are playing football\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"看！他们在踢足球。\"。"
+  },
+  {
+    "id": "g1_english_u021_ex05",
+    "knowledge_id": "g1_english_u021",
+    "question": "改错题：\"I is reading a book now\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"I am reading a book now\"。\n解析：要注意现在进行时的正确用法。"
+  },
+  {
+    "id": "g1_english_u021_ex06",
+    "knowledge_id": "g1_english_u021",
+    "question": "句型转换：将句子 \"Listen! The birds are singing\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_u021_ex07",
+    "knowledge_id": "g1_english_u021",
+    "question": "填空题：\"听！鸟儿在唱歌。\" 的英文是：______。",
+    "answer": "答案：Listen! The birds are singing\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u021_ex08",
+    "knowledge_id": "g1_english_u021",
+    "question": "填空题：\"看！他们在踢足球。\" 的英文是：______。",
+    "answer": "答案：Look! They are playing football\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_u021_ex09",
+    "knowledge_id": "g1_english_u021",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  },
+  {
+    "id": "g1_english_u021_ex10",
+    "knowledge_id": "g1_english_u021",
+    "question": "判断题：学习英语要多听、多说、多读、多写。（  ）",
+    "answer": "答案：正确\n解析：这是学好英语的基本方法。"
+  }
+]

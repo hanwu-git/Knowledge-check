@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_geography_u017_ex01",
+    "knowledge_id": "g1_geography_u017",
+    "question": "填空题：板块构造学说认为，全球由______大板块组成。",
+    "answer": "答案：六\n解析：全球主要有六大板块。"
+  },
+  {
+    "id": "g1_geography_u017_ex02",
+    "knowledge_id": "g1_geography_u017",
+    "question": "选择题：地中海位于（  ）\nA. 亚欧板块与印度洋板块交界处\nB. 亚欧板块与非洲板块交界处\nC. 非洲板块与印度洋板块交界处\nD. 太平洋板块与亚欧板块交界处",
+    "answer": "答案：B\n解析：地中海位于亚欧板块和非洲板块交界处。"
+  },
+  {
+    "id": "g1_geography_u017_ex03",
+    "knowledge_id": "g1_geography_u017",
+    "question": "判断题：板块内部地壳稳定，板块交界处地壳活跃。（  ）",
+    "answer": "答案：正确\n解析：板块交界处是地壳活动活跃地带，多火山地震。"
+  },
+  {
+    "id": "g1_geography_u017_ex04",
+    "knowledge_id": "g1_geography_u017",
+    "question": "填空题：世界两大火山地震带是：环太平洋火山地震带和______火山地震带。",
+    "answer": "答案：地中海-喜马拉雅\n解析：两大主要火山地震带。"
+  },
+  {
+    "id": "g1_geography_u017_ex05",
+    "knowledge_id": "g1_geography_u017",
+    "question": "选择题：日本多火山地震，是因为日本位于（  ）\nA. 太平洋板块内部\nB. 亚欧板块与太平洋板块交界处\nC. 印度洋板块与亚欧板块交界处\nD. 非洲板块与亚欧板块交界处",
+    "answer": "答案：B\n解析：日本位于亚欧板块与太平洋板块交界处，地壳活跃。"
+  }
+]

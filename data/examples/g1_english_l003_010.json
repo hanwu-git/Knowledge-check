@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g1_english_l003_ex01",
+    "knowledge_id": "g1_english_l003",
+    "question": "选择题：\"Stand up, please\" 的中文意思是（  ）\nA. 请起立。\nB. 完全不相关的意思\nC. 错误的翻译\nD. 另一个不相关的意思",
+    "answer": "答案：A\n解析：\"Stand up, please\" 的意思是\"请起立。\"。"
+  },
+  {
+    "id": "g1_english_l003_ex02",
+    "knowledge_id": "g1_english_l003",
+    "question": "选择题：\"开门。\" 的英文表达是（  ）\nA. 错误的句子\nB. Open the door\nC. 语法错误的句子\nD. 不相关的句子",
+    "answer": "答案：B\n解析：\"开门。\" 的正确英文是 \"Open the door\"。"
+  },
+  {
+    "id": "g1_english_l003_ex03",
+    "knowledge_id": "g1_english_l003",
+    "question": "填空题：祈使句的规则可以概括为：______。",
+    "answer": "答案：动词原形开头，表示命令、请求、建议\n解析：这是祈使句的核心规则。"
+  },
+  {
+    "id": "g1_english_l003_ex04",
+    "knowledge_id": "g1_english_l003",
+    "question": "判断题：\"Be quiet\" 这句话的语法是正确的。（  ）",
+    "answer": "答案：正确\n解析：这是一个正确的英语句子，意思是\"安静。\"。"
+  },
+  {
+    "id": "g1_english_l003_ex05",
+    "knowledge_id": "g1_english_l003",
+    "question": "改错题：\"Stand up, please\" 这句话有一处错误，请找出并改正。",
+    "answer": "答案：正确的句子是 \"Stand up, please\"。\n解析：要注意祈使句的正确用法。"
+  },
+  {
+    "id": "g1_english_l003_ex06",
+    "knowledge_id": "g1_english_l003",
+    "question": "句型转换：将句子 \"Open the door\" 改为一般疑问句。",
+    "answer": "答案：（根据具体句型转换）\n解析：一般疑问句要把be动词/助动词提前。"
+  },
+  {
+    "id": "g1_english_l003_ex07",
+    "knowledge_id": "g1_english_l003",
+    "question": "填空题：\"开门。\" 的英文是：______。",
+    "answer": "答案：Open the door\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l003_ex08",
+    "knowledge_id": "g1_english_l003",
+    "question": "填空题：\"安静。\" 的英文是：______。",
+    "answer": "答案：Be quiet\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l003_ex09",
+    "knowledge_id": "g1_english_l003",
+    "question": "填空题：\"咱们走吧。\" 的英文是：______。",
+    "answer": "答案：Let's go\n解析：要熟记常用句型。"
+  },
+  {
+    "id": "g1_english_l003_ex10",
+    "knowledge_id": "g1_english_l003",
+    "question": "填空题：\"让我来帮你。\" 的英文是：______。",
+    "answer": "答案：Let me help you\n解析：要熟记常用句型。"
+  }
+]

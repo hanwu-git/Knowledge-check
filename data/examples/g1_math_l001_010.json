@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_math_l001_ex01",
+    "knowledge_id": "g1_math_l001",
+    "question": "选择题：两条直线相交，对顶角的个数是（  ）\nA. 2\nB. 4\nC. 6\nD. 8",
+    "answer": "答案：A\n解析：两条直线相交形成2对对顶角。"
+  },
+  {
+    "id": "g1_math_l001_ex02",
+    "knowledge_id": "g1_math_l001",
+    "question": "判断题：对顶角相等。（  ）",
+    "answer": "答案：正确\n解析：对顶角相等是相交线的重要性质。"
+  },
+  {
+    "id": "g1_math_l001_ex03",
+    "knowledge_id": "g1_math_l001",
+    "question": "选择题：若∠1与∠2是对顶角，∠1 = 50°，则∠2 = （  ）\nA. 50°\nB. 130°\nC. 40°\nD. 无法确定",
+    "answer": "答案：A\n解析：对顶角相等，∠2 = 50°。"
+  },
+  {
+    "id": "g1_math_l001_ex04",
+    "knowledge_id": "g1_math_l001",
+    "question": "填空题：两条直线相交，邻补角共有______对。",
+    "answer": "答案：4\n解析：每对邻补角共用一条边，两直线相交形成4对邻补角。"
+  },
+  {
+    "id": "g1_math_l001_ex05",
+    "knowledge_id": "g1_math_l001",
+    "question": "判断题：相等的角一定是对顶角。（  ）",
+    "answer": "答案：错误\n解析：对顶角一定相等，但相等的角不一定是对顶角。"
+  }
+]

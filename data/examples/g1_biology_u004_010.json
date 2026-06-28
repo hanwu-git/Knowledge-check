@@ -1,0 +1,32 @@
+[
+  {
+    "id": "g1_biology_u004_ex01",
+    "knowledge_id": "g1_biology_u004",
+    "question": "填空题：细胞的生活需要物质和______。",
+    "answer": "答案：能量\n解析：细胞需要物质提供营养，能量提供动力。"
+  },
+  {
+    "id": "g1_biology_u004_ex02",
+    "knowledge_id": "g1_biology_u004",
+    "question": "选择题：细胞膜的功能是（  ）\nA. 支持和保护\nB. 控制物质进出\nC. 储存遗传信息\nD. 合成有机物",
+    "answer": "答案：B\n解析：细胞膜具有控制物质进出的功能。"
+  },
+  {
+    "id": "g1_biology_u004_ex03",
+    "knowledge_id": "g1_biology_u004",
+    "question": "判断题：细胞中的有机物包括糖类、脂肪、蛋白质和维生素。（  ）",
+    "answer": "答案：错误\n解析：维生素不是有机物（但有些教材分类不同）。严格说，有机物包括糖类、脂肪、蛋白质。"
+  },
+  {
+    "id": "g1_biology_u004_ex04",
+    "knowledge_id": "g1_biology_u004",
+    "question": "填空题：细胞中的能量转换器包括线粒体和______。",
+    "answer": "答案：叶绿体\n解析：叶绿体和线粒体是细胞中的能量转换器。"
+  },
+  {
+    "id": "g1_biology_u004_ex05",
+    "knowledge_id": "g1_biology_u004",
+    "question": "选择题：下列物质中，能为生命活动提供能量的是（  ）\nA. 水\nB. 无机盐\nC. 糖类\nD. 维生素",
+    "answer": "答案：C\n解析：糖类是主要的能源物质。"
+  }
+]
