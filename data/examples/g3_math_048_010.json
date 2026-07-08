@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_math_048_ex01",
+    "knowledge_id": "g3_math_048",
+    "question": "选择题：解直角三角形是指\nA. 求直角\nB. 求未知元素\nC. 求面积\nD. 证明全等",
+    "answer": "答案：B\n解析：解直角三角形：在直角三角形中，由已知元素求未知元素的过程。"
+  },
+  {
+    "id": "g3_math_048_ex02",
+    "knowledge_id": "g3_math_048",
+    "question": "填空题：解直角三角形的可解条件：已知______个元素（至少一个是边），可以求出其余元素。",
+    "answer": "答案：2\n解析：已知2个元素（至少一个是边），可以求出其他3个元素。"
+  },
+  {
+    "id": "g3_math_048_ex03",
+    "knowledge_id": "g3_math_048",
+    "question": "选择题：在Rt△ABC中，∠C=90°，已知a=3，b=4，下列正确的是\nA. c=5，∠A≈37°\nB. c=5，∠A≈53°\nC. c=7，∠A≈37°\nD. c=6，∠A≈45°",
+    "answer": "答案：A\n解析：c=√(a²+b²)=√(9+16)=5。tan A=a/b=3/4≈0.75，∠A≈37°（tan37°≈0.75）。"
+  },
+  {
+    "id": "g3_math_048_ex04",
+    "knowledge_id": "g3_math_048",
+    "question": "解答题：在Rt△ABC中，∠C=90°，∠A=30°，c=10。求a、b和∠B。",
+    "answer": "答案：a=5，b=5√3，∠B=60°\n解析：∠A=30°，∠B=90°-30°=60°。\nsin A=a/c ⇒ a=10×sin30°=10×1/2=5。\ncos A=b/c ⇒ b=10×cos30°=10×√3/2=5√3。\n也可用30°-60°-90°三角形比例：a:c=1:2 ⇒ a=5，b:c=√3:2 ⇒ b=5√3。"
+  },
+  {
+    "id": "g3_math_048_ex05",
+    "knowledge_id": "g3_math_048",
+    "question": "判断题：解直角三角形时，有斜边用sin或cos，无斜边用tan。（  ）",
+    "answer": "答案：正确\n解析：解题原则：有弦（斜边）用弦（sin/cos），无弦用切（tan）。这能简化计算。"
+  },
+  {
+    "id": "g3_math_048_ex06",
+    "knowledge_id": "g3_math_048",
+    "question": "填空题：在Rt△ABC中，∠C=90°，已知∠A和c，求a用______，求b用______。",
+    "answer": "答案：sin A，cos A\n解析：sin A=a/c ⇒ a=c·sin A，cos A=b/c ⇒ b=c·cos A。有斜边用正弦或余弦。"
+  },
+  {
+    "id": "g3_math_048_ex07",
+    "knowledge_id": "g3_math_048",
+    "question": "选择题：在Rt△ABC中，∠C=90°，已知∠A=45°，a=3，求b的方法是\nA. b=a·sin45°\nB. b=a·cos45°\nC. b=a·tan45°\nD. b=a",
+    "answer": "答案：D\n解析：∠A=45°是等腰直角三角形，a=b=3。或者用tan A=a/b ⇒ b=a/tan45°=3/1=3。"
+  },
+  {
+    "id": "g3_math_048_ex08",
+    "knowledge_id": "g3_math_048",
+    "question": "解答题：在Rt△ABC中，∠C=90°，已知∠A=60°，b=4。求a、c和∠B。",
+    "answer": "答案：a=4√3，c=8，∠B=30°\n解析：∠B=90°-60°=30°。\n无斜边用tan：tan A=a/b ⇒ a=4×tan60°=4×√3=4√3。\n用tan或sin求c：\ncos A=b/c ⇒ c=4/cos60°=4/(1/2)=8。\n验证：c=√(a²+b²)=√(48+16)=√64=8 ✓"
+  },
+  {
+    "id": "g3_math_048_ex09",
+    "knowledge_id": "g3_math_048",
+    "question": "选择题：在Rt△ABC中，∠C=90°，已知c和∠A，求a，最好用\nA. 勾股定理\nB. sin A\nC. cos A\nD. tan A",
+    "answer": "答案：B\n解析：已知斜边c和角A，求对边a用sin：a=c·sin A。有弦用弦。"
+  },
+  {
+    "id": "g3_math_048_ex10",
+    "knowledge_id": "g3_math_048",
+    "question": "填空题：解直角三角形的三种关系：边关系______，角关系______，边角关系______。",
+    "answer": "答案：a²+b²=c²，∠A+∠B=90°，sin A=a/c等\n解析：三组关系：勾股定理（边），互余（角），三角函数（边角）。利用这些关系求解未知元素。"
+  }
+]

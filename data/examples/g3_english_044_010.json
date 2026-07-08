@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_044_ex01",
+    "knowledge_id": "g3_english_044",
+    "question": "语法选择题：The number of people who ______ cars in China ______ increasing rapidly.\nA. owns; are\nB. owns; is\nC. own; is\nD. own; are",
+    "answer": "答案：C\n解析：本题考查主谓一致。第一空：who引导的定语从句修饰先行词people，people是复数名词，所以定语从句的谓语动词用复数形式own。第二空：the number of...作主语时，谓语动词用单数形式，表示「……的数量」，所以用is。句意：在中国拥有汽车的人数正在快速增长。"
+  },
+  {
+    "id": "g3_english_044_ex02",
+    "knowledge_id": "g3_english_044",
+    "question": "语法选择题：Not only the students but also their teacher ______ interested in the new teaching method.\nA. is\nB. are\nC. was\nD. were",
+    "answer": "答案：A\n解析：本题考查not only...but also...的主谓一致。not only...but also...连接两个并列主语时，谓语动词的单复数遵循「就近原则」，即与离它最近的主语保持一致。本题中离谓语最近的主语是their teacher（单数），所以谓语动词用单数形式is。"
+  },
+  {
+    "id": "g3_english_044_ex03",
+    "knowledge_id": "g3_english_044",
+    "question": "填空题：用所给动词的适当形式填空。\nNeither my parents nor my brother ______ (have) been to the Great Wall before.",
+    "answer": "答案：has\n解析：本题考查neither...nor...的主谓一致。neither...nor...连接两个并列主语时，谓语动词的单复数遵循「就近原则」，即与离它最近的主语保持一致。本题中离谓语最近的主语是my brother（第三人称单数），所以助动词用has。"
+  },
+  {
+    "id": "g3_english_044_ex04",
+    "knowledge_id": "g3_english_044",
+    "question": "语法选择题：The news that the Chinese team won the gold medal ______ very exciting.\nA. is\nB. are\nC. was\nD. were",
+    "answer": "答案：A\n解析：本题考查主谓一致中的形复意单。news（新闻、消息）是不可数名词，虽然以-s结尾，但表示单数意义，作主语时谓语动词用单数形式。that引导的是同位语从句，不影响主句的主谓一致。句意：中国队获得金牌的消息非常令人兴奋。"
+  },
+  {
+    "id": "g3_english_044_ex05",
+    "knowledge_id": "g3_english_044",
+    "question": "句型转换题：改为同义句，每空一词。\nBoth Tom and his deskmate like playing basketball after school.\n→ ______ Tom ______ his deskmate ______ playing basketball after school.",
+    "answer": "答案：Not only; but also; likes\n解析：本题考查both...and...与not only...but also...的转换及主谓一致。both...and...连接主语时谓语用复数，not only...but also...连接主语时谓语遵循就近原则。最近的主语是his deskmate（单数），所以谓语用likes。"
+  },
+  {
+    "id": "g3_english_044_ex06",
+    "knowledge_id": "g3_english_044",
+    "question": "语法选择题：The family ______ having dinner when the telephone suddenly rang.\nA. is\nB. are\nC. was\nD. were",
+    "answer": "答案：D\n解析：本题考查集体名词的主谓一致。family作为集体名词，当表示「家庭成员」时，谓语动词用复数；当表示「家庭」这个整体时，谓语动词用单数。本题中「正在吃饭」显然是指家庭成员，所以用复数。又因为后面是rang（过去时），所以用were。"
+  },
+  {
+    "id": "g3_english_044_ex07",
+    "knowledge_id": "g3_english_044",
+    "question": "填空题：用所给动词的适当形式填空。\nEvery boy and every girl in our class ______ (be) going to take part in the English speech contest.",
+    "answer": "答案：is\n解析：本题考查主谓一致的特殊情况。当each/every + 单数名词 + and + each/every + 单数名词作主语时，谓语动词用单数形式，表示「每一个……和每一个……」。虽然有两个名词，但every强调的是每一个个体，所以谓语用单数is。"
+  },
+  {
+    "id": "g3_english_044_ex08",
+    "knowledge_id": "g3_english_044",
+    "question": "语法选择题：Mr. Green, together with his wife and two children, ______ to Beijing for a visit next week.\nA. are going\nB. is going\nC. go\nD. goes",
+    "answer": "答案：B\n解析：本题考查主谓一致中的就远原则。当主语后面跟有with, together with, along with, as well as, besides, except, but等连接的名词时，谓语动词的单复数与前面的主语保持一致（就远原则）。本题中主语是Mr. Green（单数），所以谓语动词用单数形式is going。"
+  },
+  {
+    "id": "g3_english_044_ex09",
+    "knowledge_id": "g3_english_044",
+    "question": "翻译题：将下列句子翻译成英语。\n我们学校的老师数量是两百人，他们大多数都是女老师。",
+    "answer": "答案：The number of teachers in our school is 200, and most of them are women teachers.\n解析：本题考查the number of与a number of的区别及主谓一致。the number of...表示「……的数量」，作主语时谓语用单数is。most of them中them指代teachers（复数），所以谓语用复数are。women teachers两个名词都要变复数。"
+  },
+  {
+    "id": "g3_english_044_ex10",
+    "knowledge_id": "g3_english_044",
+    "question": "翻译题：将下列句子翻译成英语。\n要么你去，要么他去，总要有一个人去参加会议。",
+    "answer": "答案：Either you or he is going to attend the meeting. Someone has to go.\n解析：本题考查either...or...的主谓一致。either...or...连接两个并列主语时，谓语动词遵循「就近原则」，即与离它最近的主语保持一致。本题中离谓语最近的主语是he（第三人称单数），所以用is going to attend。attend the meeting表示「参加会议」。"
+  }
+]

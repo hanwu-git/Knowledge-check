@@ -1,0 +1,72 @@
+[
+  {
+    "id": "g3_english_030_ex01",
+    "knowledge_id": "g3_english_030",
+    "question": "语法选择题：______ he is very tired, he still keeps working.\nA. Although\nB. But\nC. So\nD. Because"
+  ,
+    "answer": "答案：A\n解析：本题考查although/though的用法。although/though表示\"虽然、尽管\"，引导让步状语从句，不能与but同时出现在同一个句子中。句意为：虽然他很累，但他仍然继续工作。故选A。"
+  },
+  {
+    "id": "g3_english_030_ex02",
+    "knowledge_id": "g3_english_030",
+    "question": "语法选择题：______ it was raining hard, they still went out to play football.\nA. Because\nB. Though\nC. If\nD. When"
+  ,
+    "answer": "答案：B\n解析：本题考查though的用法。though表示\"虽然、尽管\"，引导让步状语从句。句意为：尽管雨下得很大，他们仍然出去踢足球了。because表示原因；if表示条件；when表示时间。故选B。"
+  },
+  {
+    "id": "g3_english_030_ex03",
+    "knowledge_id": "g3_english_030",
+    "question": "语法选择题：Which of the following sentences is correct?\nA. Although he is young, but he knows a lot.\nB. Although he is young, he knows a lot.\nC. He is young, although he knows a lot.\nD. But he is young, he knows a lot."
+  ,
+    "answer": "答案：B\n解析：本题考查although/though与but的区别。although/though和but不能同时出现在同一个句子中，只能用其中一个。A选项同时用了although和but，错误；C选项逻辑关系不对；D选项but不能放在句首。故选B。"
+  },
+  {
+    "id": "g3_english_030_ex04",
+    "knowledge_id": "g3_english_030",
+    "question": "填空题：用适当的连词填空。\n______ she is only 8 years old, she can play the piano very well."
+  ,
+    "answer": "答案：Although/Though\n解析：本题考查although/though引导让步状语从句的用法。although/though表示\"虽然、尽管\"，引导让步状语从句。句意为：虽然她只有8岁，但她钢琴弹得很好。"
+  },
+  {
+    "id": "g3_english_030_ex05",
+    "knowledge_id": "g3_english_030",
+    "question": "填空题：用适当的连词填空。\nHe went to school ______ he didn't feel well."
+  ,
+    "answer": "答案：though/although\n解析：本题考查though/although引导让步状语从句的用法。though/although表示\"虽然、尽管\"，可以放在句中。句意为：虽然他感觉不舒服，但他还是去上学了。"
+  },
+  {
+    "id": "g3_english_030_ex06",
+    "knowledge_id": "g3_english_030",
+    "question": "句型转换题：改为同义句。\nHe is very young, but he can speak three languages.\n= ______ he is very young, he can speak three languages."
+  ,
+    "answer": "答案：Although/Though\n解析：本题考查but与although/though的同义转换。but表示转折，放在句中；although/though表示\"虽然、尽管\"，放在句首引导让步状语从句。两者表达的意思相近，但不能同时使用。"
+  },
+  {
+    "id": "g3_english_030_ex07",
+    "knowledge_id": "g3_english_030",
+    "question": "句型转换题：改为同义句。\nAlthough the problem is difficult, I will work it out.\n= The problem is difficult, ______ I will work it out."
+  ,
+    "answer": "答案：but\n解析：本题考查although/though与but的转换。although/though引导让步状语从句，可以转换为but连接的并列句。注意although/though和but不能同时出现在同一个句子中。"
+  },
+  {
+    "id": "g3_english_030_ex08",
+    "knowledge_id": "g3_english_030",
+    "question": "翻译题：翻译句子。\n虽然他很穷，但他很快乐。"
+  ,
+    "answer": "答案：Although/Though he is very poor, he is very happy.\n解析：本题考查although/though引导让步状语从句的翻译。although/though表示\"虽然、尽管\"，引导让步状语从句，不能与but同时使用。也可以翻译为：He is very poor, but he is very happy."
+  },
+  {
+    "id": "g3_english_030_ex09",
+    "knowledge_id": "g3_english_030",
+    "question": "翻译题：翻译句子。\n尽管下着雨，他们还是继续工作。"
+  ,
+    "answer": "答案：Although/Though it was raining, they went on working.\n解析：本题考查although/though引导让步状语从句的翻译。although/though表示\"尽管、虽然\"，引导让步状语从句。继续工作：go on working；下雨：rain。根据语境用过去进行时或一般过去时。"
+  },
+  {
+    "id": "g3_english_030_ex10",
+    "knowledge_id": "g3_english_030",
+    "question": "语法选择题：______ his grandma is old, she can still dance very well.\nA. Because\nB. If\nC. Although\nD. So"
+  ,
+    "answer": "答案：C\n解析：本题考查连词辨析。although表示\"虽然、尽管\"，引导让步状语从句，符合句意：虽然他的奶奶年纪大了，但她仍然跳舞跳得很好。because因为；if如果；so所以。故选C。"
+  }
+]

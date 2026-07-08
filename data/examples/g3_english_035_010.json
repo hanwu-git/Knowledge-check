@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_035_ex01",
+    "knowledge_id": "g3_english_035",
+    "question": "语法选择：By the time I got to the classroom, the first class ______.\nA. began\nB. has begun\nC. had begun\nD. begins",
+    "answer": "答案：C\n解析：本题考查by the time的用法。by the time意为\"到……时候为止\"，引导时间状语从句。当从句用一般过去时（got）时，主句要用过去完成时，表示主句动作发生在从句动作之前，即\"过去的过去\"。过去完成时的结构是had + 过去分词，begin的过去分词是begun，故选C。"
+  },
+  {
+    "id": "g3_english_035_ex02",
+    "knowledge_id": "g3_english_035",
+    "question": "填空题：By the time you come back, I ______（finish）the work.",
+    "answer": "答案：will have finished\n解析：本题考查by the time表示将来时间的用法。当by the time引导的从句用一般现在时（come back）表示将来时，主句要用将来完成时（will have + 过去分词），表示到将来某个时间为止动作已经完成。finish的过去分词是finished。"
+  },
+  {
+    "id": "g3_english_035_ex03",
+    "knowledge_id": "g3_english_035",
+    "question": "句型转换：The meeting had started when I arrived.（用by the time改写）\n______ ______ ______ I arrived, the meeting had started.",
+    "answer": "答案：By the time\n解析：本题考查by the time与when的转换。by the time和when都可以引导时间状语从句，表示\"当……时候\"，但by the time更强调\"到……时候为止\"，主句常用完成时。原句用过去完成时，与by the time的用法完全吻合。注意句首首字母大写。"
+  },
+  {
+    "id": "g3_english_035_ex04",
+    "knowledge_id": "g3_english_035",
+    "question": "翻译题：当我到达机场时，飞机已经起飞了。",
+    "answer": "答案：By the time I arrived at the airport, the plane had already taken off.\n解析：本题考查by the time引导的时间状语从句。\"到达机场\"是过去的动作用一般过去时（arrived），\"飞机起飞\"发生在到达之前，是\"过去的过去\"用过去完成时（had taken off）。take off表示\"（飞机）起飞\"。already常放在助动词had之后，实义动词之前。"
+  },
+  {
+    "id": "g3_english_035_ex05",
+    "knowledge_id": "g3_english_035",
+    "question": "语法选择：By the time he was ten, he ______ about 1,000 English words.\nA. learned\nB. has learned\nC. had learned\nD. learns",
+    "answer": "答案：C\n解析：本题考查by the time + 过去时间的用法。by the time he was ten表示\"到他十岁时为止\"，这是一个过去的时间点，在这个时间点之前已经完成的动作要用过去完成时had + 过去分词。learn的过去分词是learned或learnt，故选C。"
+  },
+  {
+    "id": "g3_english_035_ex06",
+    "knowledge_id": "g3_english_035",
+    "question": "填空题：By the time the bell rang, all the students ______（sit）down quietly.",
+    "answer": "答案：had sat\n解析：本题考查by the time引导的时间状语从句。从句the bell rang用一般过去时，表示过去的时间点，主句动作（坐下）发生在铃响之前，是\"过去的过去\"，所以用过去完成时had + 过去分词。sit的过去分词是sat。"
+  },
+  {
+    "id": "g3_english_035_ex07",
+    "knowledge_id": "g3_english_035",
+    "question": "语法选择：______ the time we got to the bus stop, the bus had already left.\nA. In\nB. On\nC. By\nD. At",
+    "answer": "答案：C\n解析：本题考查固定搭配by the time。by the time是固定短语，意为\"到……时候为止\"，引导时间状语从句，主句常用完成时。in the time和on the time不是固定搭配；at the time表示\"在那时\"，但不引导从句，故选C。"
+  },
+  {
+    "id": "g3_english_035_ex08",
+    "knowledge_id": "g3_english_035",
+    "question": "句型转换：By the time I got home, my mother had cooked dinner.（改为否定句）\nBy the time I got home, my mother ______ ______ dinner.",
+    "answer": "答案：hadn't cooked\n解析：本题考查过去完成时的否定形式。过去完成时的结构是had + 过去分词，变否定句时在had后面加not，缩写为hadn't，过去分词cooked保持不变。注意by the time引导的从句时态不变。"
+  },
+  {
+    "id": "g3_english_035_ex09",
+    "knowledge_id": "g3_english_035",
+    "question": "翻译题：到你读完这本书时，你会学到很多东西。",
+    "answer": "答案：By the time you finish reading this book, you will have learned a lot.\n解析：本题考查by the time表示将来时间的用法。by the time引导的从句用一般现在时（finish reading）表示将来，主句用将来完成时（will have learned），表示到将来某个时间为止动作已经完成。finish doing sth.表示\"完成做某事\"。a lot表示\"很多\"，作代词用。"
+  },
+  {
+    "id": "g3_english_035_ex10",
+    "knowledge_id": "g3_english_035",
+    "question": "语法选择：By the time we arrived at the cinema, the movie ______ for half an hour.\nA. had started\nB. had been on\nC. has started\nD. has been on",
+    "answer": "答案：B\n解析：本题考查by the time与延续性动词的搭配。by the time从句用一般过去时（arrived），主句用过去完成时，排除C和D。start是短暂性动词，不能与for half an hour表示的一段时间连用，需转换为延续性动词短语be on，其过去完成时形式是had been on，故选B。"
+  }
+]

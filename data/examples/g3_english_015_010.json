@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_015_ex01",
+    "knowledge_id": "g3_english_015",
+    "question": "语法选择题：The table is made ______ wood. You can see the wood clearly.\nA. of\nB. from\nC. in\nD. by",
+    "answer": "答案：A\n解析：本题考查be made of的用法。be made of表示\"由……制成\"，能看出原材料，即制作过程中只发生了物理变化，原材料的质地没有改变。根据后一句\"你可以清楚地看到木头\"，说明能看出原材料是木头，所以用of。B选项be made from也表示\"由……制成\"，但看不出原材料，发生了化学变化；C选项be made in表示\"在某地制造\"，后面接地点；D选项be made by表示\"由某人制造\"，后面接动作的执行者。"
+  },
+  {
+    "id": "g3_english_015_ex02",
+    "knowledge_id": "g3_english_015",
+    "question": "语法选择题：Paper is made ______ wood. We can't see the wood in the paper.\nA. of\nB. from\nC. into\nD. by",
+    "answer": "答案：B\n解析：本题考查be made from的用法。be made from表示\"由……制成\"，看不出原材料，即制作过程中发生了化学变化，原材料的质地已经改变。根据后一句\"我们在纸里看不到木头\"，说明看不出原材料，所以用from。A选项be made of能看出原材料；C选项be made into表示\"被制成……\"，后面接成品；D选项be made by表示\"由某人制造\"，后面接执行者。记忆口诀：of能看出，from看不出，物理变化用of，化学变化用from。"
+  },
+  {
+    "id": "g3_english_015_ex03",
+    "knowledge_id": "g3_english_015",
+    "question": "填空题：This kind of car is made ______ Germany.（用适当的介词填空）",
+    "answer": "答案：in\n解析：本题考查be made in的用法。be made in表示\"在某地制造/生产\"，后面接地点名词（国家、城市等）。根据句意\"这种汽车是德国制造的\"，Germany是国家名，所以用介词in。be made in后面可以接大的地点（国家），也可以接小的地点（城市、工厂等）。例如：This TV is made in Shanghai.（这台电视是上海制造的。）注意：\"Made in China\"（中国制造）就是这个结构的典型用法。"
+  },
+  {
+    "id": "g3_english_015_ex04",
+    "knowledge_id": "g3_english_015",
+    "question": "语法选择题：The beautiful kite is made ______ my grandmother. She is good at making kites.\nA. of\nB. from\nC. by\nD. in",
+    "answer": "答案：C\n解析：本题考查be made by的用法。be made by表示\"由某人制造\"，后面接动作的执行者（人或团队）。根据句意\"这个漂亮的风筝是我奶奶做的\"，my grandmother是动作的执行者，所以用by。A选项be made of后面接原材料（能看出）；B选项be made from后面接原材料（看不出）；D选项be made in后面接地点。be made by后面还可以接表示方式、手段的词，如：The cake was made by hand.（这个蛋糕是手工制作的。）"
+  },
+  {
+    "id": "g3_english_015_ex05",
+    "knowledge_id": "g3_english_015",
+    "question": "句型转换题：People make glass into bottles.（改为被动语态，用made into）\nGlass ______ ______ ______ bottles.",
+    "answer": "答案：is made into\n解析：本题考查be made into的用法。be made into表示\"被制成……\"，主语是原材料，后面接成品。原句意思是\"人们把玻璃制成瓶子\"，改为被动就是\"玻璃被制成瓶子\"，即Glass is made into bottles。注意区分：be made of/from（由……制成，主语是成品，后面接原材料）vs be made into（被制成……，主语是原材料，后面接成品）。两者是相反的方向，例如：Bottles are made of glass. = Glass is made into bottles."
+  },
+  {
+    "id": "g3_english_015_ex06",
+    "knowledge_id": "g3_english_015",
+    "question": "翻译题：这把椅子是由竹子做的。（用be made of翻译）",
+    "answer": "答案：This chair is made of bamboo.\n解析：本题考查be made of的用法。be made of表示\"由……制成\"，能看出原材料。椅子由竹子制成，从外观上可以看出原材料是竹子，所以用be made of。\"这把椅子\"是this chair，\"竹子\"是bamboo。注意：be made of和be made from的区别是考试的重点，关键看能否看出原材料。能看出原材料用of，看不出原材料用from。常见的be made of例子：desk made of wood（木制课桌），ring made of gold（金戒指），bridge made of stone（石桥）。"
+  },
+  {
+    "id": "g3_english_015_ex07",
+    "knowledge_id": "g3_english_015",
+    "question": "语法选择题：Wine is made ______ grapes. Grapes are made ______ wine.\nA. of; from\nB. from; into\nC. into; of\nD. by; in",
+    "answer": "答案：B\n解析：本题综合考查be made的几个短语。第一空：酒是由葡萄制成的，看不出原材料（葡萄变成酒发生了化学变化），所以用from；第二空：葡萄被制成酒，主语是原材料grapes，后面接成品wine，所以用into。be made from（由……制成，看不出原材料）；be made into（被制成……，原材料→成品）。A选项第一空用of不对，酒看不出葡萄；第二空from方向反了；C选项两空都不对；D选项by（由某人做）和in（在某地做）都不符合句意。"
+  },
+  {
+    "id": "g3_english_015_ex08",
+    "knowledge_id": "g3_english_015",
+    "question": "填空题：—What is the model plane made ______?\n—It's made ______ metal and plastic. And it was made ______ a little boy.（用适当的介词填空）",
+    "answer": "答案：of; of; by\n解析：本题综合考查be made的介词搭配。1) 第一句问\"飞机模型由什么制成\"，用be made of/from，这里能看出原材料，所以用of；2) 第二句回答\"由金属和塑料制成\"，能看出原材料，所以用of；3) 第三句\"由一个小男孩做的\"，表示动作的执行者，所以用by。be made of和be made from的区别：of能看出原材料，from看不出。be made by表示\"由某人制造\"。be made in表示\"在某地制造\"。be made into表示\"被制成……\"。"
+  },
+  {
+    "id": "g3_english_015_ex09",
+    "knowledge_id": "g3_english_015",
+    "question": "句型转换题：The shoes are made in Suzhou.（对划线部分in Suzhou提问）\n______ ______ the shoes made?",
+    "answer": "答案：Where are\n解析：本题考查对be made in地点的提问。对地点提问用疑问词where，然后把be动词are提前，构成疑问句。原句意思是\"这些鞋子是苏州制造的\"，对地点in Suzhou提问就是\"这些鞋子是哪里制造的？\"即Where are the shoes made?注意：被动语态的特殊疑问句结构是\"疑问词 + be动词 + 主语 + 过去分词 + 其他？\"。如果对原材料提问，用What...made of/from？例如：What is the table made of?（桌子是由什么制成的？）"
+  },
+  {
+    "id": "g3_english_015_ex10",
+    "knowledge_id": "g3_english_015",
+    "question": "翻译题：这款手机是中国制造的，由一家著名公司生产。（用be made in和be made by翻译）",
+    "answer": "答案：This kind of mobile phone is made in China and is made by a famous company.\n解析：本题综合考查be made in和be made by的用法。1) be made in表示\"在某地制造\"，后面接地点，\"中国制造\"用made in China；2) be made by表示\"由……制造\"，后面接动作的执行者，\"由一家著名公司生产\"用made by a famous company；3) \"这款手机\"是this kind of mobile phone。两个短语并列使用，共用一个主语this kind of mobile phone。注意：be made后接不同的介词表达不同的意思，要根据具体语境选择合适的介词。"
+  }
+]

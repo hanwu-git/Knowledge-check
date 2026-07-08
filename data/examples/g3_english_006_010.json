@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_006_ex01",
+    "knowledge_id": "g3_english_006",
+    "question": "语法选择题：He said that he ______ to Beijing the next day.\nA. will go\nB. would go\nC. goes\nD. went",
+    "answer": "答案：B\n解析：主句谓语动词said是一般过去时，宾语从句要用相应的过去时态。the next day（第二天）表示将来，所以要用过去将来时would go。口诀：主现从不限，主过从必过，真理永一现。"
+  },
+  {
+    "id": "g3_english_006_ex02",
+    "knowledge_id": "g3_english_006",
+    "question": "填空题：I think that she ______ (be) back in an hour.",
+    "answer": "答案：will be\n解析：主句谓语动词think是一般现在时，宾语从句可以根据实际需要使用各种时态。in an hour（一小时后）表示将来，所以用一般将来时will be。"
+  },
+  {
+    "id": "g3_english_006_ex03",
+    "knowledge_id": "g3_english_006",
+    "question": "语法选择题：The teacher told us that the earth ______ around the sun.\nA. goes\nB. went\nC. will go\nD. was going",
+    "answer": "答案：A\n解析：虽然主句told是一般过去时，但宾语从句表示的是客观真理（地球绕着太阳转），要用一般现在时，不受主句时态的影响。这就是\"真理永一现\"。"
+  },
+  {
+    "id": "g3_english_006_ex04",
+    "knowledge_id": "g3_english_006",
+    "question": "句型转换题：\"I am watching TV now,\" Tom said.（改为宾语从句）\nTom said that he ______ ______ TV then.",
+    "answer": "答案：was watching\n解析：主句said是一般过去时，从句时态要相应调整。现在进行时am watching要变为过去进行时was watching；now要变为then。"
+  },
+  {
+    "id": "g3_english_006_ex05",
+    "knowledge_id": "g3_english_006",
+    "question": "翻译题：她说她已经完成了作业。",
+    "answer": "答案：She said that she had finished her homework.\n解析：主句said是一般过去时，从句中\"已经完成\"的动作发生在said之前，即\"过去的过去\"，所以要用过去完成时had + 过去分词。"
+  },
+  {
+    "id": "g3_english_006_ex06",
+    "knowledge_id": "g3_english_006",
+    "question": "语法选择题：I don't know if he ______ tomorrow. If he ______, I'll call you.\nA. comes; comes\nB. will come; will come\nC. comes; will come\nD. will come; comes",
+    "answer": "答案：D\n解析：第一句if引导宾语从句，意为\"是否\"，tomorrow表示将来，用will come；第二句if引导条件状语从句，意为\"如果\"，主句用将来时，从句用一般现在时表将来，所以用comes。"
+  },
+  {
+    "id": "g3_english_006_ex07",
+    "knowledge_id": "g3_english_006",
+    "question": "填空题：用所给动词的适当形式填空\n1. She says that she ______ (go) to Shanghai last week.\n2. She said that she ______ (go) to Shanghai the week before.",
+    "answer": "答案：went; had gone\n解析：第1题主句says是一般现在时，从句根据last week用一般过去时went；第2题主句said是一般过去时，从句动作发生在said之前，用过去完成时had gone。"
+  },
+  {
+    "id": "g3_english_006_ex08",
+    "knowledge_id": "g3_english_006",
+    "question": "语法选择题：He asked me where I ______ the day before.\nA. go\nB. went\nC. have gone\nD. had gone",
+    "answer": "答案：D\n解析：主句asked是一般过去时，the day before（前一天）表示的动作发生在asked之前，即\"过去的过去\"，要用过去完成时had gone。"
+  },
+  {
+    "id": "g3_english_006_ex09",
+    "knowledge_id": "g3_english_006",
+    "question": "句型转换题：\"I have seen the film,\" Lucy told me.（改为宾语从句）\nLucy told me that she ______ ______ the film.",
+    "answer": "答案：had seen\n解析：主句told是一般过去时，从句原来的现在完成时have seen要变为过去完成时had seen，表示动作发生在told之前。"
+  },
+  {
+    "id": "g3_english_006_ex10",
+    "knowledge_id": "g3_english_006",
+    "question": "翻译题：我相信他会来的。我相信他是对的。",
+    "answer": "答案：I believe that he will come. I believe that he is right.\n解析：两句主句都是一般现在时believe，宾语从句时态不受限制，可根据实际情况使用相应时态。第一句表将来用will come，第二句表现在状态用is right。"
+  }
+]

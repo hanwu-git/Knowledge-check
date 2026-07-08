@@ -1,0 +1,72 @@
+[
+  {
+    "id": "g3_english_033_ex01",
+    "knowledge_id": "g3_english_033",
+    "question": "语法选择题：______ my brother ______ I am interested in playing basketball. We both like football.\nA. Neither; nor\nB. Both; and\nC. Either; or\nD. Not only; but also"
+  ,
+    "answer": "答案：A\n解析：本题考查neither...nor...的用法。neither...nor...表示\"既不...也不...\"，连接两个并列成分。根据后一句\"我们都喜欢足球\"可知，我和我哥哥都不喜欢篮球。both...and...表示两者都；either...or...表示或者...或者...；not only...but also...表示不但...而且...。故选A。"
+  },
+  {
+    "id": "g3_english_033_ex02",
+    "knowledge_id": "g3_english_033",
+    "question": "语法选择题：Neither Tom nor his parents ______ at home yesterday.\nA. is\nB. are\nC. was\nD. were"
+  ,
+    "answer": "答案：D\n解析：本题考查neither...nor...连接主语时的主谓一致。neither...nor...连接两个主语时，谓语动词的单复数遵循\"就近原则\"，即与nor后面的主语保持一致。本题中nor后面的主语是his parents（复数），且时间状语是yesterday，所以用were。故选D。"
+  },
+  {
+    "id": "g3_english_033_ex03",
+    "knowledge_id": "g3_english_033",
+    "question": "语法选择题：—Which would you like, tea or coffee?\n—______. I'd like some water.\nA. Neither\nB. Both\nC. Either\nD. All"
+  ,
+    "answer": "答案：A\n解析：本题考查neither的用法。neither表示\"两者都不\"。根据答语\"我想要一些水\"可知，茶和咖啡都不想要。both表示两者都；either表示两者中的任何一个；all表示三者或三者以上都。故选A。"
+  },
+  {
+    "id": "g3_english_033_ex04",
+    "knowledge_id": "g3_english_033",
+    "question": "填空题：用适当的词填空。\n______ Lily ______ Lucy has been to Beijing. They hope to go there someday."
+  ,
+    "answer": "答案：Neither; nor\n解析：本题考查neither...nor...的用法。neither...nor...表示\"既不...也不...\"，连接两个并列主语。根据后一句\"她们希望有一天能去那里\"可知，Lily和Lucy都没去过北京。"
+  },
+  {
+    "id": "g3_english_033_ex05",
+    "knowledge_id": "g3_english_033",
+    "question": "填空题：用所给动词的适当形式填空。\nNeither he nor I ______ (be) from America."
+  ,
+    "answer": "答案：am\n解析：本题考查neither...nor...连接主语时的主谓一致。neither...nor...连接两个主语时，谓语动词的单复数遵循\"就近原则\"，即与nor后面的主语保持一致。本题中nor后面的主语是I，所以be动词用am。"
+  },
+  {
+    "id": "g3_english_033_ex06",
+    "knowledge_id": "g3_english_033",
+    "question": "句型转换题：改为同义句。\nShe doesn't like singing. She doesn't like dancing, either.\n= She likes ______ singing ______ dancing."
+  ,
+    "answer": "答案：neither; nor\n解析：本题考查neither...nor...的用法。neither...nor...表示\"既不...也不...\"，连接两个并列的宾语。原句表示她不喜欢唱歌也不喜欢跳舞，可以转换为neither...nor...结构。"
+  },
+  {
+    "id": "g3_english_033_ex07",
+    "knowledge_id": "g3_english_033",
+    "question": "句型转换题：改为否定句（用neither...nor...改写）。\nHe can't speak English. He can't speak Japanese, either.\n= He can speak ______ English ______ Japanese."
+  ,
+    "answer": "答案：neither; nor\n解析：本题考查neither...nor...的用法。neither...nor...表示\"既不...也不...\"，连接两个并列的宾语。原句是两个否定句，可以用neither...nor...连接两个并列成分，注意谓语动词用肯定形式表示整体否定。"
+  },
+  {
+    "id": "g3_english_033_ex08",
+    "knowledge_id": "g3_english_033",
+    "question": "翻译题：翻译句子。\n他和他的爸爸都不喜欢看电视。"
+  ,
+    "answer": "答案：Neither he nor his father likes watching TV.\n解析：本题考查neither...nor...的翻译和主谓一致。neither...nor...表示\"既不...也不...\"，连接两个主语时，谓语动词遵循\"就近原则\"，即与nor后面的主语his father保持一致，所以用likes。喜欢做某事：like doing sth.。"
+  },
+  {
+    "id": "g3_english_033_ex09",
+    "knowledge_id": "g3_english_033",
+    "question": "翻译题：翻译句子。\n数学和英语我都不擅长。"
+  ,
+    "answer": "答案：I am good at neither math nor English.\n解析：本题考查neither...nor...的翻译。neither...nor...表示\"既不...也不...\"，连接两个并列的宾语。擅长：be good at。也可以翻译为：I am not good at math or English. 但用neither...nor...更正式。"
+  },
+  {
+    "id": "g3_english_033_ex10",
+    "knowledge_id": "g3_english_033",
+    "question": "语法选择题：Which of the following sentences is correct?\nA. Neither Tom nor Jack are from the UK.\nB. Neither he nor she likes reading books.\nC. Neither I nor he am a student.\nD. Neither of them like sports."
+  ,
+    "answer": "答案：B\n解析：本题考查neither...nor...和neither of的用法及主谓一致。A选项错误，就近原则应与Jack一致，用is；B选项正确，就近原则与she一致，用likes；C选项错误，就近原则应与he一致，用is；D选项错误，neither of + 复数名词/代词，谓语动词用单数likes。故选B。"
+  }
+]

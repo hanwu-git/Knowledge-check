@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_016_ex01",
+    "knowledge_id": "g3_english_016",
+    "question": "语法选择题：The book ______ by many students last year.\nA. reads\nB. was read\nC. is read\nD. read",
+    "answer": "答案：B\n解析：本题考查被动语态的用法。句子主语是the book（书），它是动作read（读）的承受者，所以要用被动语态。被动语态的基本结构是\"be + 及物动词的过去分词\"。根据时间状语last year可知要用一般过去时，一般过去时被动语态的结构是was/were + 过去分词。主语the book是单数，所以用was read。A选项reads是一般现在时主动语态；C选项is read是一般现在时被动语态；D选项read是主动语态形式。"
+  },
+  {
+    "id": "g3_english_016_ex02",
+    "knowledge_id": "g3_english_016",
+    "question": "语法选择题：The workers ______ the new bridge next month.\nA. will build\nB. will be built\nC. build\nD. are built",
+    "answer": "答案：A\n解析：本题考查主动语态与被动语态的区别。句子主语是the workers（工人们），它们是动作build（建造）的执行者，所以要用主动语态。根据时间状语next month可知要用一般将来时，一般将来时主动语态的结构是will + 动词原形。B选项will be built是一般将来时被动语态；C选项build是一般现在时主动语态；D选项are built是一般现在时被动语态。"
+  },
+  {
+    "id": "g3_english_016_ex03",
+    "knowledge_id": "g3_english_016",
+    "question": "填空题：The letter ______ ______ (write) in English.（用被动语态填空）",
+    "answer": "答案：is written\n解析：本题考查一般现在时的被动语态。句子主语the letter（信）是动作write（写）的承受者，所以要用被动语态。被动语态结构为be + 过去分词。主语the letter是单数，描述一般情况用一般现在时，所以be动词用is，write的过去分词是written，因此填is written。"
+  },
+  {
+    "id": "g3_english_016_ex04",
+    "knowledge_id": "g3_english_016",
+    "question": "句型转换题：Tom cleaned the classroom yesterday.（改为被动语态）\nThe classroom ______ ______ by Tom yesterday.",
+    "answer": "答案：was cleaned\n解析：本题考查主动语态变被动语态。主动语态变被动语态的步骤：1) 把主动句的宾语the classroom变成被动句的主语；2) 谓语动词改为\"be + 过去分词\"结构，时态与原句一致（一般过去时）；3) 原句的主语Tom前加by，放在句末。主语the classroom是单数，一般过去时be动词用was，clean的过去分词是cleaned，所以填was cleaned。"
+  },
+  {
+    "id": "g3_english_016_ex05",
+    "knowledge_id": "g3_english_016",
+    "question": "翻译题：这首歌是由一位著名歌手演唱的。（用被动语态翻译）",
+    "answer": "答案：This song is sung by a famous singer.\n解析：本题考查被动语态的翻译。\"这首歌\"是动作的承受者，作主语用this song；\"由...演唱\"用被动语态be sung by表达；\"一位著名歌手\"用a famous singer。描述一般事实用一般现在时，主语this song是单数，be动词用is，sing的过去分词是sung。注意by后面接动作的执行者。"
+  },
+  {
+    "id": "g3_english_016_ex06",
+    "knowledge_id": "g3_english_016",
+    "question": "语法选择题：—______ the computer ______ in your country?\n—Yes, it is.\nA. Is; made\nB. Does; make\nC. Did; make\nD. Was; made",
+    "answer": "答案：A\n解析：本题考查一般现在时被动语态的疑问句形式。根据答语Yes, it is.可知问句中含有is，排除B、C选项。句子主语the computer是动作make的承受者，要用被动语态。询问一般情况用一般现在时，所以选Is; made。D选项Was; made是一般过去时，与答语中的is不符。"
+  },
+  {
+    "id": "g3_english_016_ex07",
+    "knowledge_id": "g3_english_016",
+    "question": "填空题：These photos ______ ______ (take) on the Great Wall last summer.（用被动语态填空）",
+    "answer": "答案：were taken\n解析：本题考查一般过去时的被动语态。句子主语these photos（这些照片）是动作take（拍摄）的承受者，要用被动语态。根据时间状语last summer可知用一般过去时，被动语态结构为was/were + 过去分词。主语photos是复数，be动词用were，take的过去分词是taken，所以填were taken。"
+  },
+  {
+    "id": "g3_english_016_ex08",
+    "knowledge_id": "g3_english_016",
+    "question": "句型转换题：We will hold a sports meeting next week.（改为被动语态）\nA sports meeting ______ ______ ______ by us next week.",
+    "answer": "答案：will be held\n解析：本题考查一般将来时的被动语态。主动语态变被动语态时，一般将来时的被动结构为will be + 过去分词。原句宾语a sports meeting变为主语，谓语变为will be held，原主语we前加by变为by us。hold的过去分词是held，所以填will be held。"
+  },
+  {
+    "id": "g3_english_016_ex09",
+    "knowledge_id": "g3_english_016",
+    "question": "语法选择题：Many trees ______ every spring in our school.\nA. plant\nB. planted\nC. are planted\nD. were planted",
+    "answer": "答案：C\n解析：本题考查一般现在时的被动语态。句子主语many trees（许多树）是动作plant（种植）的承受者，所以用被动语态。根据时间状语every spring可知是经常性、习惯性的动作，用一般现在时。一般现在时被动语态结构为am/is/are + 过去分词，主语trees是复数，be动词用are，plant的过去分词是planted，所以选are planted。"
+  },
+  {
+    "id": "g3_english_016_ex10",
+    "knowledge_id": "g3_english_016",
+    "question": "翻译题：那座大楼是去年建造的吗？（用被动语态翻译）",
+    "answer": "答案：Was that building built last year?\n解析：本题考查一般过去时被动语态的一般疑问句。\"那座大楼\"是主语，用that building；\"建造\"用build，大楼是被建造的，所以用被动语态be built；\"去年\"用last year，句子用一般过去时。一般疑问句把be动词提前，主语that building是单数，be动词用was，build的过去分词是built。所以完整句子是Was that building built last year?"
+  }
+]

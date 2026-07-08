@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_001_ex01",
+    "knowledge_id": "g3_english_001",
+    "question": "语法选择题：I improve my English ______ listening to English songs every day.\nA. by\nB. in\nC. on\nD. with",
+    "answer": "答案：A\n解析：句意：我通过每天听英文歌来提高我的英语水平。by + 动名词表示\"通过某种方式、手段\"，是固定搭配。in表示\"用某种语言\"，on表示\"在……上\"，with表示\"用某种工具\"，均不符合题意。"
+  },
+  {
+    "id": "g3_english_001_ex02",
+    "knowledge_id": "g3_english_001",
+    "question": "填空题：你可以通过做笔记来学习语法。\nYou can learn grammar ______ ______ notes.",
+    "answer": "答案：by taking\n解析：by doing sth. 表示\"通过做某事\"，take notes是固定短语\"记笔记\"。by是介词，后面要接动名词形式，所以take要变为taking。"
+  },
+  {
+    "id": "g3_english_001_ex03",
+    "knowledge_id": "g3_english_001",
+    "question": "语法选择题：—How do you study for a test?\n—______ working with friends.\nA. By\nB. With\nC. On\nD. At",
+    "answer": "答案：A\n解析：问句用how提问\"如何、怎样\"，答语要用by + 动名词来回答方式、手段。by working with friends意为\"通过和朋友一起学习\"。"
+  },
+  {
+    "id": "g3_english_001_ex04",
+    "knowledge_id": "g3_english_001",
+    "question": "句型转换题：She learns Chinese by reading Chinese newspapers.（对画线部分提问）\n______ ______ she ______ Chinese?",
+    "answer": "答案：How does; learn\n解析：对by doing sth.（方式状语）提问要用疑问词how。原句是一般现在时，主语是第三人称单数she，所以助动词用does，后面的动词learns还原为learn。"
+  },
+  {
+    "id": "g3_english_001_ex05",
+    "knowledge_id": "g3_english_001",
+    "question": "翻译题：我们通过互相练习对话来提高英语口语。",
+    "answer": "答案：We improve our spoken English by practicing conversations with each other.\n解析：\"通过做某事\"用by doing sth.结构。\"英语口语\"是spoken/oral English，\"互相练习对话\"是practice conversations with each other。by是介词，后面的动词practice要变为practicing。"
+  },
+  {
+    "id": "g3_english_001_ex06",
+    "knowledge_id": "g3_english_001",
+    "question": "语法选择题：The best way ______ English is using it every day.\nA. learn\nB. learning\nC. to learn\nD. by learning",
+    "answer": "答案：C\n解析：the best way to do sth. 是固定搭配，意为\"做某事的最好方法\"，其中to do sth.是不定式作后置定语修饰way。by learning虽然也表示方式，但不能直接放在way后面作定语。"
+  },
+  {
+    "id": "g3_english_001_ex07",
+    "knowledge_id": "g3_english_001",
+    "question": "填空题：他通过制作单词卡片来记忆新单词。\nHe memorizes new words ______ ______ word cards.",
+    "answer": "答案：by making\n解析：by doing sth. 表示\"通过做某事\"。make word cards是\"制作单词卡片\"，by后面接动名词，所以make变为making。"
+  },
+  {
+    "id": "g3_english_001_ex08",
+    "knowledge_id": "g3_english_001",
+    "question": "语法选择题：______ taking a walk after supper, you can lose weight easily.\nA. By\nB. In\nC. On\nD. With",
+    "answer": "答案：A\n解析：句意：通过晚饭后散步，你可以轻松减肥。by + 动名词放在句首，表示\"通过……方式\"，作方式状语。注意句首首字母大写。"
+  },
+  {
+    "id": "g3_english_001_ex09",
+    "knowledge_id": "g3_english_001",
+    "question": "句型转换题：I study grammar by doing exercises.（改为否定句）\nI ______ ______ grammar by doing exercises.",
+    "answer": "答案：don't study\n解析：原句是一般现在时，主语是第一人称I，变否定句要在动词前加don't，后面的动词studies还原为study。by doing结构不变。"
+  },
+  {
+    "id": "g3_english_001_ex10",
+    "knowledge_id": "g3_english_001",
+    "question": "翻译题：你是怎样为英语考试而学习的？我通过向老师求助来学习。",
+    "answer": "答案：—How do you study for an English test?\n—I study by asking the teacher for help.\n解析：询问方式用how提问。\"为考试而学习\"是study for a test，\"向老师求助\"是ask the teacher for help。by是介词，后面的动词ask要变为动名词asking。"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "g3_english_026_ex01",
+    "knowledge_id": "g3_english_026",
+    "question": "语法选择题：—What kind of music do you like?\n—I prefer music that ______ great lyrics.\nA. have\nB. has\nC. having\nD. had"
+  ,
+    "answer": "答案：B\n解析：本题考查prefer后接宾语从句的用法。prefer后接that引导的宾语从句，从句主语that指代music（不可数名词），所以谓语动词用第三人称单数形式has。故选B。"
+  },
+  {
+    "id": "g3_english_026_ex02",
+    "knowledge_id": "g3_english_026",
+    "question": "语法选择题：My younger brother prefers ______ basketball rather than ______ computer games on weekends.\nA. to play; play\nB. playing; play\nC. to play; playing\nD. play; play"
+  ,
+    "answer": "答案：A\n解析：本题考查prefer的固定搭配。prefer to do A rather than do B表示\"宁愿做A也不做B\"，这是固定结构，prefer后接不定式，rather than后接动词原形。故选A。"
+  },
+  {
+    "id": "g3_english_026_ex03",
+    "knowledge_id": "g3_english_026",
+    "question": "语法选择题：In her spare time, she prefers reading books ______ watching TV.\nA. than\nB. to\nC. for\nD. of"
+  ,
+    "answer": "答案：B\n解析：本题考查prefer的固定搭配。prefer doing A to doing B表示\"比起做B更喜欢做A\"，这是固定搭配，to是介词，后接动名词形式。故选B。"
+  },
+  {
+    "id": "g3_english_026_ex04",
+    "knowledge_id": "g3_english_026",
+    "question": "填空题：用所给词的适当形式填空。\nI prefer ______ (swim) to ______ (run) in summer.\n（提示：prefer doing A to doing B 结构）"
+  ,
+    "answer": "答案：swimming; running\n解析：本题考查prefer doing A to doing B结构。prefer...to...表示\"比起...更喜欢...\"，其中to是介词，前后都接动名词形式，即prefer doing A to doing B。"
+  },
+  {
+    "id": "g3_english_026_ex05",
+    "knowledge_id": "g3_english_026",
+    "question": "填空题：用适当的词填空。\nShe prefers to stay at home ______ than go to the party.\n（提示：prefer to do... rather than do... 结构）"
+  ,
+    "answer": "答案：rather\n解析：本题考查prefer to do... rather than do...的固定结构。该结构表示\"宁愿做...也不做...\"，prefer后接不定式，rather than后接动词原形。"
+  },
+  {
+    "id": "g3_english_026_ex06",
+    "knowledge_id": "g3_english_026",
+    "question": "句型转换题：同义句转换。\nI like apples better than bananas.\n= I ______ apples ______ bananas."
+  ,
+    "answer": "答案：prefer; to\n解析：本题考查prefer的用法。like A better than B = prefer A to B，表示\"比起B更喜欢A\"。prefer...to...是固定搭配，to是介词。"
+  },
+  {
+    "id": "g3_english_026_ex07",
+    "knowledge_id": "g3_english_026",
+    "question": "句型转换题：同义句转换。\nHe would rather watch TV at home than go shopping.\n= He ______ ______ watch TV at home ______ go shopping."
+  ,
+    "answer": "答案：prefers to; rather than\n解析：本题考查would rather...than...与prefer to...rather than...的同义转换。would rather do A than do B = prefer to do A rather than do B，都表示\"宁愿做A也不做B\"。注意主语是he，prefer用第三人称单数形式prefers。"
+  },
+  {
+    "id": "g3_english_026_ex08",
+    "knowledge_id": "g3_english_026",
+    "question": "翻译题：翻译句子。\n比起咖啡，我更喜欢茶。"
+  ,
+    "answer": "答案：I prefer tea to coffee.\n解析：本题考查prefer的基本用法。prefer A to B表示\"比起B更喜欢A\"，这是最常用的prefer搭配，to是介词，注意前后比较对象的形式要一致。"
+  },
+  {
+    "id": "g3_english_026_ex09",
+    "knowledge_id": "g3_english_026",
+    "question": "翻译题：翻译句子。\n我宁愿步行去学校也不愿坐公交车。"
+  ,
+    "answer": "答案：I prefer to walk to school rather than take the bus.\n解析：本题考查prefer to do... rather than do...结构。该结构表示\"宁愿做...也不做...\"，prefer后接不定式，rather than后接动词原形。步行去学校：walk to school；坐公交车：take the bus。"
+  },
+  {
+    "id": "g3_english_026_ex10",
+    "knowledge_id": "g3_english_026",
+    "question": "语法选择题：Which of the following sentences is correct?\nA. She prefers sing to dance.\nB. She prefers singing to dancing.\nC. She prefers to singing to dancing.\nD. She prefers singing than dancing."
+  ,
+    "answer": "答案：B\n解析：本题考查prefer的正确用法。prefer doing A to doing B表示\"比起做B更喜欢做A\"，前后都要用动名词形式，中间用介词to连接。A选项动词形式错误；C选项prefer后接动名词时不需要to；D选项介词搭配错误，应用to而不是than。故选B。"
+  }
+]

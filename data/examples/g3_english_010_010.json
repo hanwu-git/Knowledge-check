@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_010_ex01",
+    "knowledge_id": "g3_english_010",
+    "question": "语法选择题：I didn't go to bed ______ 11 o'clock last night.\nA. when\nB. while\nC. until\nD. as",
+    "answer": "答案：C\n解析：句意：我昨晚直到11点才睡觉。not...until...是固定句型，意为\"直到……才……\"，表示主句的动作直到until后面的时间点才发生。"
+  },
+  {
+    "id": "g3_english_010_ex02",
+    "knowledge_id": "g3_english_010",
+    "question": "填空题：直到他回来我才离开。\nI ______ leave ______ he came back.",
+    "answer": "答案：didn't; until\n解析：not...until...表示\"直到……才……\"。根据came back可知用一般过去时，所以助动词用didn't。"
+  },
+  {
+    "id": "g3_english_010_ex03",
+    "knowledge_id": "g3_english_010",
+    "question": "语法选择题：The kids didn't stop playing ______ their mother came back.\nA. while\nB. when\nC. until\nD. because",
+    "answer": "答案：C\n解析：句意：孩子们直到妈妈回来才停止玩耍。not...until...引导时间状语从句，表示主句动作（stop playing）直到从句动作（their mother came back）发生时才发生。"
+  },
+  {
+    "id": "g3_english_010_ex04",
+    "knowledge_id": "g3_english_010",
+    "question": "句型转换题：He went home after he finished his homework.（改为同义句）\nHe ______ go home ______ he finished his homework.",
+    "answer": "答案：didn't; until\n解析：原句意思是\"他完成作业后回家\"，即\"他直到完成作业才回家\"，可以用not...until...结构来表达。根据finished可知用一般过去时，所以是didn't go home until..."
+  },
+  {
+    "id": "g3_english_010_ex05",
+    "knowledge_id": "g3_english_010",
+    "question": "翻译题：直到雨停了我们才出发。",
+    "answer": "答案：We didn't set off until the rain stopped.\n解析：not...until...表示\"直到……才……\"。\"出发\"是set off，\"雨停了\"是the rain stopped。根据句意用一般过去时。"
+  },
+  {
+    "id": "g3_english_010_ex06",
+    "knowledge_id": "g3_english_010",
+    "question": "语法选择题：______ you told me, I had no idea of it.\nA. Until\nB. When\nC. After\nD. While",
+    "answer": "答案：A\n解析：句意：直到你告诉我，我才知道这件事。until可以放在句首，意为\"直到……为止\"，主句常用否定形式，表示在until之前动作没有发生。本句相当于I had no idea of it until you told me."
+  },
+  {
+    "id": "g3_english_010_ex07",
+    "knowledge_id": "g3_english_010",
+    "question": "填空题：用until或unless填空\n1. Don't get off the bus ______ it stops.\n2. You will be late ______ you hurry up.",
+    "answer": "答案：until; unless\n解析：第1题not...until...表示\"直到……才……\"，句意为\"直到公交车停了再下车\"；第2题unless = if...not，意为\"除非、如果不\"，引导条件状语从句。"
+  },
+  {
+    "id": "g3_english_010_ex08",
+    "knowledge_id": "g3_english_010",
+    "question": "语法选择题：—When did you go to bed last night?\n—______ I finished my homework.\nA. Until\nB. Not until\nC. When\nD. While",
+    "answer": "答案：B\n解析：Not until...是强调形式，意为\"直到……才……\"，完整句子是I didn't go to bed until I finished my homework. 答语用Not until...是省略回答。"
+  },
+  {
+    "id": "g3_english_010_ex09",
+    "knowledge_id": "g3_english_010",
+    "question": "句型转换题：We will start the meeting when everyone arrives.（改为同义句）\nWe ______ start the meeting ______ everyone arrives.",
+    "answer": "答案：won't; until\n解析：原句意思是\"当每个人都到达时我们将开始会议\"，也就是\"直到每个人都到达我们才开始会议\"，可以用not...until...结构来表达。主句用一般将来时won't。"
+  },
+  {
+    "id": "g3_english_010_ex10",
+    "knowledge_id": "g3_english_010",
+    "question": "翻译题：直到我亲眼看到，我才会相信。",
+    "answer": "答案：I won't believe it until I see it with my own eyes.\n解析：not...until...表示\"直到……才……\"。主句用一般将来时won't believe，从句用一般现在时see（主将从现）。\"亲眼\"是with one's own eyes。"
+  }
+]

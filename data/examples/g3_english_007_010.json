@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_007_ex01",
+    "knowledge_id": "g3_english_007",
+    "question": "语法选择题：She ______ short, but now she is very tall.\nA. used to be\nB. is used to be\nC. is used to being\nD. use to be",
+    "answer": "答案：A\n解析：句意：她过去很矮，但现在很高了。used to + 动词原形，表示\"过去常常……（现在已经不这样了）\"，暗含有今昔对比的意味。"
+  },
+  {
+    "id": "g3_english_007_ex02",
+    "knowledge_id": "g3_english_007",
+    "question": "填空题：我爸爸过去常常抽烟，但他已经戒了。\nMy father ______ ______ smoke, but he has given it up.",
+    "answer": "答案：used to\n解析：used to + 动词原形，表示过去经常发生的动作或存在的状态，现在已经不这样了。\"抽烟\"是smoke，前面加used to。"
+  },
+  {
+    "id": "g3_english_007_ex03",
+    "knowledge_id": "g3_english_007",
+    "question": "语法选择题：He ______ to school by bike, but now he ______ to school on foot.\nA. used to go; is used to go\nB. used to going; is used to go\nC. used to go; is used to going\nD. is used to going; used to go",
+    "answer": "答案：C\n解析：第一空表示过去常做的事，用used to + 动词原形（go）；第二空表示习惯于做某事，用be used to + 动名词（going）。be used to doing = be accustomed to doing，习惯于做某事。"
+  },
+  {
+    "id": "g3_english_007_ex04",
+    "knowledge_id": "g3_english_007",
+    "question": "句型转换题：She used to play the piano.（改为一般疑问句并作肯定回答）\n—______ she ______ ______ play the piano?\n—Yes, she ______.",
+    "answer": "答案：Did; use to; did\n解析：used to的一般疑问句要借助助动词did，后面的used还原为use to。肯定回答用Yes, she did. 也可以用Used she to...? 但更常用Did...use to...?"
+  },
+  {
+    "id": "g3_english_007_ex05",
+    "knowledge_id": "g3_english_007",
+    "question": "翻译题：玛丽过去经常在周末去购物。",
+    "answer": "答案：Mary used to go shopping on weekends.\n解析：used to + 动词原形，表示过去经常发生的动作。\"去购物\"是go shopping，\"在周末\"是on weekends。"
+  },
+  {
+    "id": "g3_english_007_ex06",
+    "knowledge_id": "g3_english_007",
+    "question": "语法选择题：Wood is used ______ paper.\nA. to make\nB. to making\nC. for make\nD. make",
+    "answer": "答案：A\n解析：句意：木头被用来造纸。be used to do sth. 是被动语态结构，表示\"被用来做某事\"。be used to doing是\"习惯于做某事\"，意思不同。"
+  },
+  {
+    "id": "g3_english_007_ex07",
+    "knowledge_id": "g3_english_007",
+    "question": "填空题：用所给词的适当形式填空\n1. He is used to ______ (drink) milk every morning.\n2. Knives are used to ______ (cut) things.",
+    "answer": "答案：drinking; cut\n解析：第1题be used to doing sth. 习惯于做某事，to是介词，后面接动名词drinking；第2题be used to do sth. 被用来做某事，to是不定式符号，后面接动词原形cut。"
+  },
+  {
+    "id": "g3_english_007_ex08",
+    "knowledge_id": "g3_english_007",
+    "question": "语法选择题：—Did you use to play computer games?\n—______. I used to study all day.\nA. Yes, I did\nB. No, I didn't\nC. Yes, I was\nD. No, I wasn't",
+    "answer": "答案：B\n解析：问句用did提问，回答也要用did。根据答语\"我过去整天学习\"，说明不玩电脑游戏，所以是否定回答No, I didn't."
+  },
+  {
+    "id": "g3_english_007_ex09",
+    "knowledge_id": "g3_english_007",
+    "question": "句型转换题：They used to swim in the river.（改为否定句）\nThey ______ ______ ______ swim in the river.",
+    "answer": "答案：didn't use to\n解析：used to的否定形式有两种：didn't use to（更常用）和usedn't to。借助助动词didn't后，used要还原为use。"
+  },
+  {
+    "id": "g3_english_007_ex10",
+    "knowledge_id": "g3_english_007",
+    "question": "翻译题：你过去常常害怕黑暗吗？不，我不怕。我现在仍然怕黑。",
+    "answer": "答案：—Did you use to be afraid of the dark?\n—No, I didn't. I'm still afraid of the dark now.\n解析：\"过去常常做某事\"用used to do，一般疑问句用Did...use to...? \"害怕……\"是be afraid of...。"
+  }
+]

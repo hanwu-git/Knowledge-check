@@ -1,0 +1,72 @@
+[
+  {
+    "id": "g3_english_027_ex01",
+    "knowledge_id": "g3_english_027",
+    "question": "语法选择题：The girl who ______ reading under the tree is my sister.\nA. is\nB. are\nC. was\nD. were"
+  ,
+    "answer": "答案：A\n解析：本题考查定语从句中的主谓一致。定语从句中谓语动词的单复数取决于先行词。本题先行词是the girl（单数），所以从句谓语动词用单数形式is。时态为现在进行时，故选A。"
+  },
+  {
+    "id": "g3_english_027_ex02",
+    "knowledge_id": "g3_english_027",
+    "question": "语法选择题：The students who ______ from Class 3 will visit the museum tomorrow.\nA. is\nB. are\nC. was\nD. comes"
+  ,
+    "answer": "答案：B\n解析：本题考查定语从句中的主谓一致。先行词是the students（复数），所以定语从句中的谓语动词用复数形式are。be from表示\"来自\"，故选B。"
+  },
+  {
+    "id": "g3_english_027_ex03",
+    "knowledge_id": "g3_english_027",
+    "question": "语法选择题：This is one of the best books that ______ been published this year.\nA. has\nB. have\nC. is\nD. are"
+  ,
+    "answer": "答案：B\n解析：本题考查定语从句中的主谓一致。当先行词被one of修饰时，定语从句的谓语动词用复数形式，因为先行词是the best books（复数）。现在完成时用have + 过去分词，故选B。"
+  },
+  {
+    "id": "g3_english_027_ex04",
+    "knowledge_id": "g3_english_027",
+    "question": "语法选择题：She is the only one of the girls who ______ passed the exam.\nA. have\nB. has\nC. is\nD. are"
+  ,
+    "answer": "答案：B\n解析：本题考查定语从句中的主谓一致。当先行词被the only one of修饰时，定语从句的谓语动词用单数形式，因为先行词是the only one（单数）。现在完成时用has + 过去分词，故选B。"
+  },
+  {
+    "id": "g3_english_027_ex05",
+    "knowledge_id": "g3_english_027",
+    "question": "填空题：用be动词的适当形式填空。\nThe book that ______ on the desk belongs to my brother."
+  ,
+    "answer": "答案：is\n解析：本题考查定语从句中的主谓一致。先行词是the book（单数可数名词），所以定语从句中的谓语动词用单数形式is。句意为：桌子上的那本书是我哥哥的。"
+  },
+  {
+    "id": "g3_english_027_ex06",
+    "knowledge_id": "g3_english_027",
+    "question": "填空题：用所给动词的适当形式填空。\nThe people who ______ (come) from the UK like Chinese food very much."
+  ,
+    "answer": "答案：come\n解析：本题考查定语从句中的主谓一致。先行词是the people（集合名词，表复数概念），所以定语从句中的谓语动词用原形come。句意为：来自英国的人们非常喜欢中国食物。"
+  },
+  {
+    "id": "g3_english_027_ex07",
+    "knowledge_id": "g3_english_027",
+    "question": "句型转换题：将两个句子合并为含有定语从句的复合句，并保证主谓一致。\nThe teacher is very kind. She teaches us English."
+  ,
+    "answer": "答案：The teacher who/that teaches us English is very kind.\n解析：本题考查定语从句的合并和主谓一致。先行词是the teacher（单数），所以定语从句中的谓语动词teach要用第三人称单数形式teaches。"
+  },
+  {
+    "id": "g3_english_027_ex08",
+    "knowledge_id": "g3_english_027",
+    "question": "句型转换题：改为同义句，注意主谓一致。\nThis is the best movie. It has been shown this year.\n= This is the best movie that ______ ______ shown this year."
+  ,
+    "answer": "答案：has been\n解析：本题考查定语从句中的主谓一致和被动语态。先行词是the best movie（单数），所以定语从句中的谓语动词用单数形式。现在完成时的被动语态为has been + 过去分词，故填has been。"
+  },
+  {
+    "id": "g3_english_027_ex09",
+    "knowledge_id": "g3_english_027",
+    "question": "翻译题：翻译句子。\n正在操场上跑步的那个男孩是我的同班同学。"
+  ,
+    "answer": "答案：The boy who/that is running on the playground is my classmate.\n解析：本题考查定语从句的翻译和主谓一致。先行词the boy是单数，所以定语从句中的谓语动词用is running。现在进行时表示正在进行的动作。"
+  },
+  {
+    "id": "g3_english_027_ex10",
+    "knowledge_id": "g3_english_027",
+    "question": "翻译题：翻译句子。\n那些来自澳大利亚的学生正在学习中文。"
+  ,
+    "answer": "答案：The students who/that are from Australia are learning Chinese.\n解析：本题考查定语从句的翻译和主谓一致。先行词the students是复数，所以定语从句中的谓语动词用are from。主句也用复数形式are learning。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_020_ex01",
+    "knowledge_id": "g3_english_020",
+    "question": "语法选择题：The environment ______ in our daily lives. Everyone should play a part in protecting it.\nA. should protect\nB. should be protected\nC. should protected\nD. should be protect",
+    "answer": "答案：B\n解析：本题考查情态动词的被动语态。主语The environment（环境）是动作protect（保护）的承受者，应用被动语态。情态动词被动语态的结构为：情态动词 + be + 过去分词。should是情态动词，protect的过去分词是protected。故选B。"
+  },
+  {
+    "id": "g3_english_020_ex02",
+    "knowledge_id": "g3_english_020",
+    "question": "语法选择题：Teenagers ______ to choose their own clothes. They are old enough to make their own decisions.\nA. should allow\nB. should be allowed\nC. must allow\nD. may allow",
+    "answer": "答案：B\n解析：本题考查情态动词的被动语态。主语Teenagers（青少年）是动作allow（允许）的承受者，即「青少年被允许」，应用被动语态。情态动词被动语态结构：情态动词 + be + 过去分词。should be allowed意为「应该被允许」，符合语境。故选B。"
+  },
+  {
+    "id": "g3_english_020_ex03",
+    "knowledge_id": "g3_english_020",
+    "question": "语法选择题：--- Must the work ______ today?\n--- I'm afraid so. The boss needs it tomorrow morning.\nA. finish\nB. be finished\nC. finished\nD. is finished",
+    "answer": "答案：B\n解析：本题考查情态动词的被动语态。主语the work（工作）是动作finish（完成）的承受者，应用被动语态。含有情态动词must的被动语态结构为：must + be + 过去分词。疑问句中将must提前，后面接be + 过去分词。finish的过去分词是finished。故选B。"
+  },
+  {
+    "id": "g3_english_020_ex04",
+    "knowledge_id": "g3_english_020",
+    "question": "语法选择题：Some students think that homework ______ to them every day. They want more free time to relax.\nA. shouldn't give\nB. shouldn't be given\nC. needn't give\nD. can't give",
+    "answer": "答案：B\n解析：本题考查情态动词被动语态的否定形式。主语homework（作业）是动作give（给）的承受者，应用被动语态。情态动词被动语态的否定形式为：情态动词 + not + be + 过去分词。shouldn't be given意为「不应该被布置」，符合语境。故选B。"
+  },
+  {
+    "id": "g3_english_020_ex05",
+    "knowledge_id": "g3_english_020",
+    "question": "填空题：用所给动词的适当形式填空。\nThe work can ______ (finish) in two days if we work together as a team.",
+    "answer": "答案：be finished\n解析：本题考查情态动词的被动语态。主语The work（工作）是动作finish（完成）的承受者，应用被动语态。含有情态动词can的被动语态结构为：can + be + 过去分词。finish的过去分词是finished。句意：如果我们团队合作，这项工作可以在两天内完成。"
+  },
+  {
+    "id": "g3_english_020_ex06",
+    "knowledge_id": "g3_english_020",
+    "question": "填空题：用所给动词的适当形式填空。\nThese books must ______ (return) to the library before Friday, or you will be fined.",
+    "answer": "答案：be returned\n解析：本题考查情态动词的被动语态。主语These books（这些书）是动作return（归还）的承受者，即「书被归还」，应用被动语态。含有情态动词must的被动语态结构为：must + be + 过去分词。return的过去分词是returned。句意：这些书必须在周五之前归还图书馆，否则你会被罚款。"
+  },
+  {
+    "id": "g3_english_020_ex07",
+    "knowledge_id": "g3_english_020",
+    "question": "句型转换题：将下列句子改为被动语态，每空一词。\nWe should plant more trees to protect the environment.\n→ More trees ______ ______ ______ to protect the environment.",
+    "answer": "答案：should be planted\n解析：本题考查情态动词被动语态的句型转换。原句是含有情态动词should的主动语态，改为被动语态时，结构为：主语（原句宾语）+ should + be + 过去分词 + 其他。plant的过去分词是planted。句意：应该种更多的树来保护环境。"
+  },
+  {
+    "id": "g3_english_020_ex08",
+    "knowledge_id": "g3_english_020",
+    "question": "句型转换题：将下列句子改为否定句，每空一词。\nThe problem can be worked out easily by him.\n→ The problem ______ ______ ______ out easily by him.",
+    "answer": "答案：can't be worked\n解析：本题考查情态动词被动语态的否定形式。含有情态动词的被动语态变否定句时，直接在情态动词后面加not即可，can not可缩写为can't，后面的be + 过去分词保持不变。句意：这个问题不能被他轻易地算出来。"
+  },
+  {
+    "id": "g3_english_020_ex09",
+    "knowledge_id": "g3_english_020",
+    "question": "翻译题：将下列句子翻译成英语。\n这些问题必须认真对待。（take seriously）",
+    "answer": "答案：These problems must be taken seriously.\n解析：本题考查情态动词被动语态的翻译。主语「这些问题」(These problems)是动作「认真对待」(take seriously)的承受者，应用被动语态。情态动词「必须」用must，被动语态结构为must + be + 过去分词。take的过去分词是taken。"
+  },
+  {
+    "id": "g3_english_020_ex10",
+    "knowledge_id": "g3_english_020",
+    "question": "翻译题：将下列句子翻译成英语。\n青少年不应该被允许熬夜。（stay up）",
+    "answer": "答案：Teenagers should not be allowed to stay up. / Teenagers shouldn't be allowed to stay up.\n解析：本题考查情态动词被动语态的翻译。主语「青少年」(Teenagers)是动作「允许」(allow)的承受者，即「被允许」，应用被动语态。「不应该」用should not/shouldn't，被动语态结构为should not + be + 过去分词。allow的过去分词是allowed，allow sb. to do sth.的被动形式是be allowed to do sth.。"
+  }
+]

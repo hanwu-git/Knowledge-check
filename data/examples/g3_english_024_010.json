@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_024_ex01",
+    "knowledge_id": "g3_english_024",
+    "question": "语法选择题：--- Whose dictionary is this?\n--- It must ______ Tom. I saw him use it yesterday.\nA. belong to\nB. belong\nC. be\nD. is",
+    "answer": "答案：A\n解析：本题考查belong to的用法。belong to意为「属于」，后接名词或代词宾格，表示某物属于某人。belong是不及物动词，后面不能直接接宾语，必须加介词to。must是情态动词，后面接动词原形。根据语境「这一定属于汤姆」，故选A。"
+  },
+  {
+    "id": "g3_english_024_ex02",
+    "knowledge_id": "g3_english_024",
+    "question": "语法选择题：The beautiful house ______ my grandfather. He bought it fifty years ago.\nA. is belonging to\nB. belongs to\nC. is belonged to\nD. belong to",
+    "answer": "答案：B\n解析：本题考查belong to的用法。belong to意为「属于」，没有进行时态，也没有被动语态，所以排除A和C选项。主语The beautiful house是第三人称单数，谓语动词用第三人称单数形式belongs to。故选B。"
+  },
+  {
+    "id": "g3_english_024_ex03",
+    "knowledge_id": "g3_english_024",
+    "question": "语法选择题：--- Does this pair of shoes belong to you?\n--- No, they don't ______ me. Mine are over there.\nA. /; belong to\nB. Does; belong to\nC. Do; belong\nD. Does; belong",
+    "answer": "答案：B\n解析：本题考查belong to的疑问句和否定句。第一空：this pair of shoes作主语，中心词是pair，是单数，所以助动词用Does。第二空：否定句中，belong to是固定搭配，to不能省略，don't后面接动词原形belong to。故选B。"
+  },
+  {
+    "id": "g3_english_024_ex04",
+    "knowledge_id": "g3_english_024",
+    "question": "语法选择题：The car belongs to ______. It's ______ car.\nA. hers; her\nB. her; hers\nC. her; her\nD. hers; hers",
+    "answer": "答案：C\n解析：本题考查belong to与物主代词的用法。第一空：belong to后面接代词宾格或名词，her是宾格「她」。第二空：后面有名词car，要用形容词性物主代词her（她的）。hers是名词性物主代词，后面不能接名词。句意：这辆车属于她。这是她的车。故选C。"
+  },
+  {
+    "id": "g3_english_024_ex05",
+    "knowledge_id": "g3_english_024",
+    "question": "填空题：用所给词的适当形式填空。\nThe blue bike ______ (belong) to my brother. He rides it to school every day.",
+    "answer": "答案：belongs\n解析：本题考查belong to的用法。belong to意为「属于」，没有进行时态和被动语态。主语The blue bike是第三人称单数，一般现在时，所以谓语动词用第三人称单数形式belongs。"
+  },
+  {
+    "id": "g3_english_024_ex06",
+    "knowledge_id": "g3_english_024",
+    "question": "填空题：根据句意和首字母提示填空。\n--- Who does the book b______ to?\n--- It belongs to my deskmate Lily.",
+    "answer": "答案：belong\n解析：本题考查belong to的用法。根据答语It belongs to...可知问句是问「这本书属于谁」，belong to意为「属于」。前面有助动词does，后面的动词用原形belong。"
+  },
+  {
+    "id": "g3_english_024_ex07",
+    "knowledge_id": "g3_english_024",
+    "question": "句型转换题：改为同义句，每空一词。\nThis is my sister's computer.\n→ This computer ______ ______ my sister.",
+    "answer": "答案：belongs to\n解析：本题考查belong to与名词所有格的同义转换。This is my sister's computer.（这是我姐姐的电脑）可以转换为This computer belongs to my sister.（这台电脑属于我姐姐）。主语This computer是第三人称单数，一般现在时，谓语动词用belongs to。"
+  },
+  {
+    "id": "g3_english_024_ex08",
+    "knowledge_id": "g3_english_024",
+    "question": "句型转换题：改为一般疑问句，每空一词。\nThe house belongs to the old man.\n→ ______ the house ______ to the old man?",
+    "answer": "答案：Does; belong\n解析：本题考查belong to的一般疑问句。belong to是实义动词短语，变一般疑问句时要借助助动词do/does。主语The house是第三人称单数，所以用Does开头，后面的动词belong还原为原形。"
+  },
+  {
+    "id": "g3_english_024_ex09",
+    "knowledge_id": "g3_english_024",
+    "question": "翻译题：将下列句子翻译成英语。\n这辆新自行车属于我最好的朋友。",
+    "answer": "答案：This new bike/bicycle belongs to my best friend.\n解析：本题考查belong to的翻译。「属于」用belong to表示。主语This new bike/bicycle是第三人称单数，一般现在时，谓语动词用belongs to。「我最好的朋友」是my best friend。"
+  },
+  {
+    "id": "g3_english_024_ex10",
+    "knowledge_id": "g3_english_024",
+    "question": "翻译题：将下列句子翻译成英语。\n你知道这台电脑属于谁吗？",
+    "answer": "答案：Do you know who this computer belongs to? / Do you know whom this computer belongs to?\n解析：本题考查belong to在宾语从句中的用法。主句是Do you know，后面接宾语从句，宾语从句用陈述语序。「属于谁」用who/whom...belongs to。who和whom都可以使用，who更口语化，whom更正式。"
+  }
+]

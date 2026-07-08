@@ -1,0 +1,72 @@
+[
+  {
+    "id": "g3_english_028_ex01",
+    "knowledge_id": "g3_english_028",
+    "question": "语法选择题：You ______ arrive at the meeting on time tomorrow.\nA. are suppose to\nB. are supposed to\nC. suppose to\nD. supposed to"
+  ,
+    "answer": "答案：B\n解析：本题考查be supposed to的正确形式。be supposed to表示\"应该、被期望\"，其中supposed是过去分词作形容词用，结构为be + supposed + to + 动词原形。主语是you，be动词用are。故选B。"
+  },
+  {
+    "id": "g3_english_028_ex02",
+    "knowledge_id": "g3_english_028",
+    "question": "语法选择题：—What am I supposed ______ when I meet someone for the first time in China?\n—You are supposed to shake hands.\nA. do\nB. to do\nC. doing\nD. did"
+  ,
+    "answer": "答案：B\n解析：本题考查be supposed to的用法。be supposed to后接动词原形，表示\"应该做某事\"。疑问句中把be动词提前，结构为be + 主语 + supposed + to + 动词原形。故选B。"
+  },
+  {
+    "id": "g3_english_028_ex03",
+    "knowledge_id": "g3_english_028",
+    "question": "语法选择题：She ______ supposed to come to the party yesterday, but she didn't.\nA. is\nB. was\nC. were\nD. be"
+  ,
+    "answer": "答案：B\n解析：本题考查be supposed to的时态。根据句中的yesterday可知用一般过去时，主语是she，be动词用was。be supposed to的过去式表示\"本应该做某事（但实际上没做）\"。故选B。"
+  },
+  {
+    "id": "g3_english_028_ex04",
+    "knowledge_id": "g3_english_028",
+    "question": "填空题：用be supposed to的适当形式填空。\nWe ______ ______ (finish) our homework before watching TV."
+  ,
+    "answer": "答案：are supposed to finish\n解析：本题考查be supposed to的基本用法。be supposed to后接动词原形，表示\"应该做某事\"。主语是we，be动词用are，所以填are supposed to finish。"
+  },
+  {
+    "id": "g3_english_028_ex05",
+    "knowledge_id": "g3_english_028",
+    "question": "填空题：用适当的词填空。\nThey were supposed ______ ______ (arrive) at 5 o'clock, but they were late."
+  ,
+    "answer": "答案：to arrive\n解析：本题考查be supposed to的用法。be supposed to后接动词原形，表示\"应该做某事\"。were supposed to arrive表示\"本应该到达\"，暗含实际上没按时到达的意思。"
+  },
+  {
+    "id": "g3_english_028_ex06",
+    "knowledge_id": "g3_english_028",
+    "question": "句型转换题：改为同义句。\nYou should hand in your homework on time.\n= You ______ ______ ______ hand in your homework on time."
+  ,
+    "answer": "答案：are supposed to\n解析：本题考查should与be supposed to的同义转换。should表示\"应该\"，相当于be supposed to，都表示责任、义务或预期。主语是you，be动词用are。"
+  },
+  {
+    "id": "g3_english_028_ex07",
+    "knowledge_id": "g3_english_028",
+    "question": "句型转换题：改为否定句。\nShe is supposed to wear a uniform at school.\n= She ______ ______ to wear a uniform at school."
+  ,
+    "answer": "答案：isn't supposed\n解析：本题考查be supposed to的否定形式。be supposed to的否定形式是在be动词后加not，即be not supposed to，表示\"不应该做某事\"。主语是she，be动词用is，否定形式是isn't supposed。"
+  },
+  {
+    "id": "g3_english_028_ex08",
+    "knowledge_id": "g3_english_028",
+    "question": "翻译题：翻译句子。\n你应该在课堂上说英语。"
+  ,
+    "answer": "答案：You are supposed to speak English in class.\n解析：本题考查be supposed to的翻译。be supposed to表示\"应该\"，后接动词原形。说英语：speak English；在课堂上：in class。主语是you，be动词用are。"
+  },
+  {
+    "id": "g3_english_028_ex09",
+    "knowledge_id": "g3_english_028",
+    "question": "翻译题：翻译句子。\n他们本应该昨天就完成这项工作的。"
+  ,
+    "answer": "答案：They were supposed to finish the work yesterday.\n解析：本题考查be supposed to的过去式用法。be supposed to的过去式（was/were supposed to）表示\"本应该做某事\"，暗含实际上没做的意思。完成工作：finish the work。"
+  },
+  {
+    "id": "g3_english_028_ex10",
+    "knowledge_id": "g3_english_028",
+    "question": "语法选择题：Which of the following is wrong?\nA. We are supposed to help each other.\nB. What am I supposed to do?\nC. He was supposed to come, but he didn't.\nD. They suppose to finish it today."
+  ,
+    "answer": "答案：D\n解析：本题考查be supposed to的正确用法。be supposed to结构中必须有be动词，D选项缺少be动词，应该是They are supposed to finish it today。A、B、C选项用法都正确。故选D。"
+  }
+]

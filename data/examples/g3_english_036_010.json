@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_036_ex01",
+    "knowledge_id": "g3_english_036",
+    "question": "语法选择：The bottle is ______ water.\nA. full of\nB. filled of\nC. full with\nD. fill with",
+    "answer": "答案：A\n解析：本题考查固定搭配。be full of表示\"充满……\"，强调状态，full是形容词，后接介词of。be filled with也表示\"充满……\"，但介词用with而不是of。选项B和C搭配错误；选项D应是be filled with，故选A。"
+  },
+  {
+    "id": "g3_english_036_ex02",
+    "knowledge_id": "g3_english_036",
+    "question": "填空题：The room ______ ______（充满）smoke after the big fire.",
+    "answer": "答案：is full of / is filled with\n解析：本题考查\"充满\"的两种表达。be full of和be filled with都可以表示\"充满\"，前者强调状态，后者强调动作。主语the room是单数，be动词用is。所以答案可以是is full of，也可以是is filled with。"
+  },
+  {
+    "id": "g3_english_036_ex03",
+    "knowledge_id": "g3_english_036",
+    "question": "句型转换：The basket is full of apples.（改为同义句）\nThe basket ______ ______ ______ apples.",
+    "answer": "答案：is filled with\n解析：本题考查be full of与be filled with的同义转换。be full of强调状态，be filled with强调动作，但在实际使用中两者常可互换。主语the basket是单数，be动词用is，所以答案是is filled with。"
+  },
+  {
+    "id": "g3_english_036_ex04",
+    "knowledge_id": "g3_english_036",
+    "question": "翻译题：用be full of或be filled with将句子「生活充满了意外」翻译成英语",
+    "answer": "答案：Life is full of the unexpected. / Life is filled with the unexpected.\n解析：本题考查be full of / be filled with的用法。\"生活\"是life，作主语时谓语动词用单数is。\"意外\"可以用the unexpected表示，\"the + 形容词\"表示一类事物。两种表达都正确，be full of更常用。"
+  },
+  {
+    "id": "g3_english_036_ex05",
+    "knowledge_id": "g3_english_036",
+    "question": "语法选择：Look! The box is ______ books. How heavy it is!\nA. full with\nB. filled of\nC. full of\nD. fill with",
+    "answer": "答案：C\n解析：本题考查固定搭配。be full of是固定短语，意为\"充满……\"，介词用of，不用with，排除A。be filled with也是固定短语，介词用with，不用of，排除B。be动词后不能直接接动词原形fill，排除D。故选C。"
+  },
+  {
+    "id": "g3_english_036_ex06",
+    "knowledge_id": "g3_english_036",
+    "question": "填空题：He ______ the bottle ______（用……装满）water just now.",
+    "answer": "答案：filled; with\n解析：本题考查fill...with...的主动结构。fill...with...表示\"用……装满……\"，是主动语态。just now表示\"刚才\"，是一般过去时的时间状语，所以fill用过去式filled。"
+  },
+  {
+    "id": "g3_english_036_ex07",
+    "knowledge_id": "g3_english_036",
+    "question": "语法选择：The park is ______ people on weekends.\nA. filled of\nB. full of\nC. full with\nD. fill with",
+    "answer": "答案：B\n解析：本题考查be full of的用法。be full of是固定搭配，意为\"充满……\"，介词用of。be filled with也是固定搭配，但介词必须用with。选项A和C搭配错误；选项D中be动词后不能直接接动词原形fill，故选B。"
+  },
+  {
+    "id": "g3_english_036_ex08",
+    "knowledge_id": "g3_english_036",
+    "question": "句型转换：The glass is filled with milk.（改为同义句）\nThe glass ______ ______ ______ milk.",
+    "answer": "答案：is full of\n解析：本题考查be filled with与be full of的同义转换。be filled with（被……充满，强调动作）与be full of（充满……，强调状态）意思基本相同，常可互换使用。主语the glass是单数，be动词用is。"
+  },
+  {
+    "id": "g3_english_036_ex09",
+    "knowledge_id": "g3_english_036",
+    "question": "翻译题：她的眼睛里充满了泪水。",
+    "answer": "答案：Her eyes are full of tears. / Her eyes are filled with tears.\n解析：本题考查be full of / be filled with的用法。主语her eyes是复数，be动词用are。\"泪水\"是tears，常用复数形式。两种表达都正确，be full of更强调满的状态，be filled with更强调被泪水充满的动作。"
+  },
+  {
+    "id": "g3_english_036_ex10",
+    "knowledge_id": "g3_english_036",
+    "question": "语法选择：— Why does the bag look so heavy?\n— Because it's ______ books.\nA. full of\nB. full with\nC. filled of\nD. fill with",
+    "answer": "答案：A\n解析：本题考查be full of的固定搭配。be full of意为\"充满……\"，是正确的搭配。be filled with也是正确搭配，但选项B和C的介词搭配错误。选项D中be动词后不能直接接动词原形fill。故选A。"
+  }
+]

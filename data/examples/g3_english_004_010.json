@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_004_ex01",
+    "knowledge_id": "g3_english_004",
+    "question": "语法选择题：I think ______ English is very important for us.\nA. that\nB. what\nC. which\nD. who",
+    "answer": "答案：A\n解析：句意：我认为英语对我们来说非常重要。that引导陈述句作宾语从句，that在从句中不充当任何成分，只起连接作用，在口语或非正式文体中常可省略。"
+  },
+  {
+    "id": "g3_english_004_ex02",
+    "knowledge_id": "g3_english_004",
+    "question": "填空题：我知道他会来参加聚会。\nI know ______ he will come to the party.",
+    "answer": "答案：that\n解析：that引导宾语从句，从句是陈述句he will come to the party。that无实际意义，在句中可以省略。"
+  },
+  {
+    "id": "g3_english_004_ex03",
+    "knowledge_id": "g3_english_004",
+    "question": "语法选择题：Can you tell me ______ I can get to the nearest hospital?\nA. that\nB. how\nC. what\nD. which",
+    "answer": "答案：B\n解析：句意：你能告诉我怎样才能到最近的医院吗？根据句意，宾语从句中缺少方式状语\"怎样、如何\"，所以用how引导。how在从句中作方式状语。"
+  },
+  {
+    "id": "g3_english_004_ex04",
+    "knowledge_id": "g3_english_004",
+    "question": "句型转换题：\"I will come to your birthday party tomorrow,\" she said.（改为宾语从句）\nShe said ______ she ______ come to my birthday party the next day.",
+    "answer": "答案：that; would\n解析：直接引语是陈述句，变为间接引语时用that引导宾语从句，that可以省略。主句时态是一般过去时said，从句时态要相应调整：will变为would。"
+  },
+  {
+    "id": "g3_english_004_ex05",
+    "knowledge_id": "g3_english_004",
+    "question": "翻译题：我相信我们的梦想会实现的。",
+    "answer": "答案：I believe that our dreams will come true.\n解析：that引导宾语从句，从句是陈述句our dreams will come true。\"实现\"是come true。that在句中可以省略。"
+  },
+  {
+    "id": "g3_english_004_ex06",
+    "knowledge_id": "g3_english_004",
+    "question": "语法选择题：I don't know ______ he will come tomorrow. ______ he comes, I'll tell you.\nA. if; Whether\nB. whether; Whether\nC. if; That\nD. if; If",
+    "answer": "答案：D\n解析：第一空if/whether引导宾语从句，意为\"是否\"，两者都可以；第二空if引导条件状语从句，意为\"如果\"，不能用whether。所以选D。"
+  },
+  {
+    "id": "g3_english_004_ex07",
+    "knowledge_id": "g3_english_004",
+    "question": "填空题：用that, if或whether填空\n1. I'm sure ______ he will pass the exam.\n2. I wonder ______ you can help me with my English.",
+    "answer": "答案：that; if/whether\n解析：第1题从句是陈述句，不缺少成分，用that引导，that可以省略；第2题从句有疑问语气\"是否\"，用if或whether引导。"
+  },
+  {
+    "id": "g3_english_004_ex08",
+    "knowledge_id": "g3_english_004",
+    "question": "语法选择题：He asked me ______ I would like to go hiking with him this weekend.\nA. that\nB. if\nC. what\nD. where",
+    "answer": "答案：B\n解析：句意：他问我这个周末是否愿意和他一起去徒步旅行。asked后面的宾语从句有疑问语气\"是否\"，所以用if或whether引导。"
+  },
+  {
+    "id": "g3_english_004_ex09",
+    "knowledge_id": "g3_english_004",
+    "question": "句型转换题：Does she like reading? I want to know.（合并为一句）\nI want to know ______ she ______ reading.",
+    "answer": "答案：if/whether; likes\n解析：一般疑问句变为宾语从句，用if或whether引导，意为\"是否\"，从句要用陈述语序。主句是一般现在时，从句时态保持不变，用likes。"
+  },
+  {
+    "id": "g3_english_004_ex10",
+    "knowledge_id": "g3_english_004",
+    "question": "翻译题：你知道他住在哪里吗？对不起，我不知道。",
+    "answer": "答案：—Do you know where he lives?\n—Sorry, I don't know.\n解析：宾语从句由特殊疑问句转化而来，用疑问词where引导，从句必须用陈述语序（where he lives而不是where does he live）。"
+  }
+]

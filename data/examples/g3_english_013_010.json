@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_013_ex01",
+    "knowledge_id": "g3_english_013",
+    "question": "语法选择题：I enjoy ______ books in my spare time.\nA. read\nB. reading\nC. to read\nD. reads",
+    "answer": "答案：B\n解析：本题考查动名词作宾语。enjoy是常见的只能接动名词（doing）作宾语的动词，不能接不定式（to do）。enjoy doing sth.表示\"喜欢做某事\"。A选项read是动词原形，不能直接放在enjoy后面；C选项to read是不定式，不能作enjoy的宾语；D选项reads是动词第三人称单数形式，也不能放在enjoy后面。常见的只能接动名词作宾语的动词还有：finish, practice, mind, suggest, avoid, keep, miss, consider, imagine, risk等。"
+  },
+  {
+    "id": "g3_english_013_ex02",
+    "knowledge_id": "g3_english_013",
+    "question": "语法选择题：—Would you mind ______ the window? It's too hot here.\n—Of course not.\nA. open\nB. to open\nC. opening\nD. opens",
+    "answer": "答案：C\n解析：本题考查mind后接动名词作宾语。mind doing sth.表示\"介意做某事\"，是固定用法。根据句意\"你介意打开窗户吗？这里太热了\"，mind后面要接动名词opening。A选项open是动词原形，不能放在mind后面；B选项to open是不定式，mind后面不接不定式作宾语；D选项opens是第三人称单数形式，错误。Would you mind doing sth.?是常用的委婉请求句型，意为\"你介意做某事吗？\""
+  },
+  {
+    "id": "g3_english_013_ex03",
+    "knowledge_id": "g3_english_013",
+    "question": "填空题：She practices ______ (play) the piano every day.（用所给词的适当形式填空）",
+    "answer": "答案：playing\n解析：本题考查practice后接动名词作宾语。practice doing sth.表示\"练习做某事\"，是固定搭配，practice后面只能接动名词，不能接不定式。所以play要变为动名词形式playing。常见的只能接动名词作宾语的动词口诀：考虑建议盼原谅（consider, suggest, look forward to, excuse），承认推迟没得想（admit, delay, fancy），避免错过继续练（avoid, miss, keep/keep on, practice），否认完成就欣赏（deny, finish, enjoy/appreciate），禁止想象才冒险（forbid, imagine, risk），不禁介意准逃亡（can't help, mind, escape）。"
+  },
+  {
+    "id": "g3_english_013_ex04",
+    "knowledge_id": "g3_english_013",
+    "question": "语法选择题：She used to ______ late, but now she is used to ______ early.\nA. sleep; get up\nB. sleeping; getting up\nC. sleep; getting up\nD. sleeping; get up",
+    "answer": "答案：C\n解析：本题考查used to和be used to的区别。1) used to do sth.表示\"过去常常做某事\"，to是不定式符号，后面接动词原形，所以第一空用sleep；2) be used to doing sth.表示\"习惯于做某事\"，to是介词，后面接动名词，所以第二空用getting up。根据句意\"她过去常睡懒觉，但现在习惯早起了\"，正确答案是C。注意区分这两个结构：used to do（过去常常，to+动词原形）vs be used to doing（习惯于，to+动名词）。"
+  },
+  {
+    "id": "g3_english_013_ex05",
+    "knowledge_id": "g3_english_013",
+    "question": "句型转换题：He finished his homework. He went out to play.（合并为一句，用finish）\nHe went out to play after he finished ______ his homework.",
+    "answer": "答案：doing\n解析：本题考查finish doing sth.的用法。finish doing sth.表示\"完成做某事\"，finish后面只能接动名词作宾语，不能接不定式。do one's homework表示\"做作业\"，所以用doing。注意：虽然原句是finished his homework，但在finish后面接动作时，要用动名词形式。常见的只能接动名词的动词还有：enjoy, mind, practice, suggest, avoid, keep, consider, imagine, risk, miss等。"
+  },
+  {
+    "id": "g3_english_013_ex06",
+    "knowledge_id": "g3_english_013",
+    "question": "翻译题：我期待着收到你的来信。（用look forward to翻译）",
+    "answer": "答案：I'm looking forward to hearing from you.\n解析：本题考查look forward to的用法。look forward to表示\"期待，盼望\"，其中to是介词，后面要接名词、代词或动名词，不能接动词原形。\"收到你的来信\"用hear from you表示，hear是动词，所以要变为动名词hearing。注意：look forward to中的to是介词，不是不定式符号，这是一个很容易出错的考点。类似的to作介词的短语还有：pay attention to, be used to, stick to, devote to, object to等。"
+  },
+  {
+    "id": "g3_english_013_ex07",
+    "knowledge_id": "g3_english_013",
+    "question": "语法选择题：—What about ______ a rest?\n—Good idea! Let's stop ______ a rest.\nA. have; having\nB. having; to have\nC. to have; having\nD. having; having",
+    "answer": "答案：B\n解析：本题考查两处动名词和不定式的区别。1) What about doing sth.?表示\"做某事怎么样？\"，about是介词，后面接动名词，所以第一空用having；2) stop doing sth.表示\"停止做某事\"（停下正在做的事），stop to do sth.表示\"停下来去做某事\"（停下去做另一件事）。根据句意\"我们停下来休息一下吧\"，是停下正在做的事去休息，所以用stop to have a rest，第二空用to have。综合起来选B。"
+  },
+  {
+    "id": "g3_english_013_ex08",
+    "knowledge_id": "g3_english_013",
+    "question": "填空题：Tom suggested ______ (go) swimming this weekend.（用所给词的适当形式填空）",
+    "answer": "答案：going\n解析：本题考查suggest后接动名词作宾语。suggest doing sth.表示\"建议做某事\"，suggest后面只能接动名词作宾语，不能接不定式。所以go要变为动名词going。注意：suggest后面不能接不定式的复合结构，即不能说suggest sb. to do sth.，正确的表达是suggest doing sth.或suggest that sb. (should) do sth.（虚拟语气）。例如：I suggest that he (should) go swimming. = I suggest him going swimming."
+  },
+  {
+    "id": "g3_english_013_ex09",
+    "knowledge_id": "g3_english_013",
+    "question": "句型转换题：Remember to turn off the lights when you leave.（改为否定句，用forget）\nDon't forget ______ ______ off the lights when you leave.",
+    "answer": "答案：to turn\n解析：本题考查forget后接不定式和动名词的区别。forget to do sth.表示\"忘记要去做某事\"（事情还没做）；forget doing sth.表示\"忘记做过某事\"（事情已经做了，但忘了）。根据原句\"记着离开时关灯\"，改为同义的否定句应该是\"不要忘记离开时关灯\"，灯还没关，所以用forget to turn off。Remember to do sth.（记得要做某事）的反义表达就是Don't forget to do sth.（不要忘记做某事）。"
+  },
+  {
+    "id": "g3_english_013_ex10",
+    "knowledge_id": "g3_english_013",
+    "question": "翻译题：他一到家就忍不住打开了电视。（用can't help翻译）",
+    "answer": "答案：He couldn't help turning on the TV as soon as he got home.\n解析：本题考查can't help doing sth.的用法。can't help doing sth.表示\"忍不住做某事，情不自禁做某事\"，help后面接动名词。注意：can't help (to) do sth.表示\"不能帮助做某事\"，help后面接不定式，这是两个完全不同的意思，要注意区分。根据句意\"忍不住打开了电视\"，是情不自禁做某事，所以用can't help turning on。\"一……就……\"用as soon as引导时间状语从句。"
+  }
+]

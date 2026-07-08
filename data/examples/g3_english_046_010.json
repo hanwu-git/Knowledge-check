@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_046_ex01",
+    "knowledge_id": "g3_english_046",
+    "question": "语法选择题：The girl ______ you met at the school gate yesterday is my cousin from America.\nA. which\nB. who\nC. whose\nD. what",
+    "answer": "答案：B\n解析：本题考查定语从句的关系代词。先行词是the girl（人），关系代词在定语从句中作met的宾语，所以可以用who, whom或that，也可以省略。which只能指代物；whose表示「谁的」，在从句中作定语；what不能引导定语从句。故选B。"
+  },
+  {
+    "id": "g3_english_046_ex02",
+    "knowledge_id": "g3_english_046",
+    "question": "语法选择题：This is the most beautiful place ______ I have ever visited in my life.\nA. which\nB. that\nC. where\nD. what",
+    "answer": "答案：B\n解析：本题考查定语从句中只能用that的情况。当先行词被形容词最高级（the most beautiful）修饰时，关系代词只能用that，不能用which。that在从句中作visited的宾语。where是关系副词，在从句中作状语，而本题从句中缺少宾语，所以不能用where。"
+  },
+  {
+    "id": "g3_english_046_ex03",
+    "knowledge_id": "g3_english_046",
+    "question": "填空题：填入适当的关系代词或关系副词。\nThe man ______ daughter is a famous doctor is our new neighbor.",
+    "answer": "答案：whose\n解析：本题考查定语从句的关系代词whose。whose引导定语从句时，在从句中作定语，表示「……的」，可以指代人或物。本题中whose daughter = the man's daughter，意为「那个人的女儿」。句意：那个女儿是著名医生的人是我们的新邻居。"
+  },
+  {
+    "id": "g3_english_046_ex04",
+    "knowledge_id": "g3_english_046",
+    "question": "语法选择题：—Do you know the reason ______ he was late for school again?\n—Yes, he missed the early bus.\nA. which\nB. that\nC. why\nD. what",
+    "answer": "答案：C\n解析：本题考查定语从句的关系副词。先行词是the reason（原因），关系副词why在定语从句中作原因状语，相当于for which。句意：你知道他又迟到的原因吗？which和that是关系代词，在从句中作主语或宾语，而本题从句中不缺主语或宾语，所以不能用。"
+  },
+  {
+    "id": "g3_english_046_ex05",
+    "knowledge_id": "g3_english_046",
+    "question": "句型转换题：改为同义句，每空一词。\nThe woman who is wearing a red dress is our English teacher.\n→ The woman ______ a red dress is our English teacher.",
+    "answer": "答案：in/wearing\n解析：本题考查定语从句与介词短语/现在分词的转换。who is wearing a red dress是定语从句，修饰the woman，可以转换为介词短语in a red dress（穿着红色裙子）或现在分词短语wearing a red dress作后置定语。wear表示状态，be in也表示「穿着」的状态。"
+  },
+  {
+    "id": "g3_english_046_ex06",
+    "knowledge_id": "g3_english_046",
+    "question": "语法选择题：I can't find the book ______ my mother bought me for my birthday last month.\nA. who\nB. what\nC. /\nD. whose",
+    "answer": "答案：C\n解析：本题考查定语从句关系代词的省略。先行词是the book（物），关系代词that或which在定语从句中作bought的宾语，此时关系代词可以省略。who指代人；what不能引导定语从句；whose作定语，均不符合。故选C。"
+  },
+  {
+    "id": "g3_english_046_ex07",
+    "knowledge_id": "g3_english_046",
+    "question": "填空题：填入适当的关系代词或关系副词。\nThe little town ______ we spent our summer vacation last year is very beautiful.",
+    "answer": "答案：where/in which\n解析：本题考查定语从句的关系副词。先行词是the little town（地点），关系副词where在定语从句中作地点状语，相当于in which。we spent our summer vacation in the little town，所以用where或in which。注意：如果从句中缺少主语或宾语，就用which/that而不用where。"
+  },
+  {
+    "id": "g3_english_046_ex08",
+    "knowledge_id": "g3_english_046",
+    "question": "语法选择题：Which is the way ______ leads to the nearest hospital? I'm a stranger here.\nA. that\nB. which\nC. who\nD. what",
+    "answer": "答案：A\n解析：本题考查定语从句中只能用that的情况。当主句是以which或who开头的特殊疑问句时，为了避免重复，定语从句的关系代词只能用that，不能用which。本题主句是Which开头的疑问句，所以用that。that在从句中作主语，指代the way。"
+  },
+  {
+    "id": "g3_english_046_ex09",
+    "knowledge_id": "g3_english_046",
+    "question": "翻译题：将下列句子翻译成英语。\n我昨天在书店买的那本小说非常有趣。",
+    "answer": "答案：The novel (that/which) I bought in the bookstore yesterday is very interesting.\n解析：本题考查定语从句的翻译。先行词是the novel（物），「我昨天在书店买的」用定语从句表达，关系代词that/which在从句中作bought的宾语，可以省略。「在书店」是in the bookstore，「有趣的」是interesting。注意定语从句的时态：昨天买的用一般过去时bought。"
+  },
+  {
+    "id": "g3_english_046_ex10",
+    "knowledge_id": "g3_english_046",
+    "question": "翻译题：将下列句子翻译成英语。\n你能告诉我你爸爸工作的那家工厂的名字吗？",
+    "answer": "答案：Can you tell me the name of the factory where your father works?\n解析：本题考查定语从句的翻译。先行词是the factory（地点），「你爸爸工作的」用定语从句where your father works表达，where在从句中作地点状语（your father works in the factory），所以用关系副词where，相当于in which。"
+  }
+]

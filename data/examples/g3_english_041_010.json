@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_041_ex01",
+    "knowledge_id": "g3_english_041",
+    "question": "语法选择：I'm looking forward to ______ you soon.\nA. see\nB. seeing\nC. saw\nD. seen",
+    "answer": "答案：B\n解析：本题考查look forward to的用法。look forward to是固定短语，意为\"盼望、期待\"，其中to是介词，后面接名词、代词或动名词（v.ing形式），不能接动词原形。see是动词，要变成动名词seeing，故选B。"
+  },
+  {
+    "id": "g3_english_041_ex02",
+    "knowledge_id": "g3_english_041",
+    "question": "填空题：We are looking forward to ______（visit）the Great Wall.",
+    "answer": "答案：visiting\n解析：本题考查look forward to的用法。look forward to中的to是介词，后面接动名词（v.ing形式）。visit是动词，意思是\"参观、拜访\"，其动名词形式是visiting，直接在后面加ing即可。"
+  },
+  {
+    "id": "g3_english_041_ex03",
+    "knowledge_id": "g3_english_041",
+    "question": "句型转换：I expect your reply.（用look forward to改写）\nI ______ ______ ______ ______ your reply.",
+    "answer": "答案：look forward to\n解析：本题考查look forward to与expect的同义转换。expect sth.表示\"期待某事\"，可以转换为look forward to sth.。look forward to中的to是介词，后面直接接名词your reply。主语是I，谓语动词用原形look。"
+  },
+  {
+    "id": "g3_english_041_ex04",
+    "knowledge_id": "g3_english_041",
+    "question": "翻译题：我期待着收到你的来信。",
+    "answer": "答案：I'm looking forward to hearing from you.\n解析：本题考查look forward to的用法。\"期待着\"用现在进行时I'm looking forward to，表示目前正在期待。to是介词，后面接动名词。\"收到某人的来信\"用hear from sb.，hear的动名词是hearing。"
+  },
+  {
+    "id": "g3_english_041_ex05",
+    "knowledge_id": "g3_english_041",
+    "question": "语法选择：All the students are looking forward to ______ a holiday.\nA. have\nB. having\nC. has\nD. had",
+    "answer": "答案：B\n解析：本题考查look forward to的用法。look forward to中的to是介词，后面接动名词（v.ing形式），不能接动词原形、第三人称单数或过去式。have a holiday表示\"度假\"，have的动名词是having，故选B。"
+  },
+  {
+    "id": "g3_english_041_ex06",
+    "knowledge_id": "g3_english_041",
+    "question": "填空题：She is looking forward to her mother's ______（come）back.",
+    "answer": "答案：coming\n解析：本题考查look forward to的用法。look forward to中的to是介词，后面接名词或动名词。her mother's是名词所有格，后面接动名词形式，构成动名词的复合结构。come的动名词是coming。"
+  },
+  {
+    "id": "g3_english_041_ex07",
+    "knowledge_id": "g3_english_041",
+    "question": "语法选择：— How do you feel about the coming trip?\n— I'm really looking forward to ______ it.\nA. /\nB. to\nC. for\nD. in",
+    "answer": "答案：A\n解析：本题考查look forward to的用法。look forward to中的to本身就是介词，后面直接接名词、代词或动名词，不需要再加其他介词。it是代词，直接放在to后面，故选A。"
+  },
+  {
+    "id": "g3_english_041_ex08",
+    "knowledge_id": "g3_english_041",
+    "question": "句型转换：We are expecting to meet you.（用look forward to改写）\nWe are ______ ______ ______ ______ you.",
+    "answer": "答案：looking forward to meeting\n解析：本题考查look forward to与expect的转换。expect to do sth.表示\"期待做某事\"，可以转换为look forward to doing sth.。to是介词，后面接动名词，所以meet要变成meeting。句中已有助动词are，所以用现在进行时are looking forward to。"
+  },
+  {
+    "id": "g3_english_041_ex09",
+    "knowledge_id": "g3_english_041",
+    "question": "翻译题：孩子们期待着儿童节的到来。",
+    "answer": "答案：The children are looking forward to Children's Day.\n解析：本题考查look forward to的用法。\"孩子们\"是the children，作主语，be动词用are。\"期待着\"用现在进行时are looking forward to，表示目前正在期待。to是介词，后面直接接名词Children's Day（儿童节）。"
+  },
+  {
+    "id": "g3_english_041_ex10",
+    "knowledge_id": "g3_english_041",
+    "question": "语法选择：He used to ______ late, but now he is used to ______ early.\nA. sleep; get up\nB. sleeping; getting up\nC. sleep; getting up\nD. sleeping; get up",
+    "answer": "答案：C\n解析：本题考查易混结构辨析。used to do sth.表示\"过去常常做某事\"，to是不定式符号，后接动词原形sleep；be used to doing sth.表示\"习惯于做某事\"，to是介词，后接动名词getting up。对比：look forward to中的to也是介词，后接动名词，故选C。"
+  }
+]

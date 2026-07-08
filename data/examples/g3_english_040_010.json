@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_040_ex01",
+    "knowledge_id": "g3_english_040",
+    "question": "语法选择：Don't forget ______ the door when you leave.\nA. close\nB. closing\nC. to close\nD. closed",
+    "answer": "答案：C\n解析：本题考查forget的用法。forget to do sth. 表示\"忘记要做某事\"（事情还没做）；forget doing sth. 表示\"忘记做过某事\"（事情已经做了）。根据句意\"你离开时别忘了关门\"，门还没关，是要去做的事，所以用forget to do sth.，故选C。"
+  },
+  {
+    "id": "g3_english_040_ex02",
+    "knowledge_id": "g3_english_040",
+    "question": "填空题：I remember ______（see）her at the party last week.",
+    "answer": "答案：seeing\n解析：本题考查remember的用法。remember to do sth. 表示\"记得要做某事\"（还没做）；remember doing sth. 表示\"记得做过某事\"（已经做了）。句中last week表明看见她是上周发生的事，已经做过了，所以用remember doing sth.，see的动名词是seeing。"
+  },
+  {
+    "id": "g3_english_040_ex03",
+    "knowledge_id": "g3_english_040",
+    "question": "句型转换：Please remember to bring your book here tomorrow.（改为同义句）\nDon't ______ ______ bring your book here tomorrow.",
+    "answer": "答案：forget to\n解析：本题考查remember与forget的转换。remember to do sth.（记得要做某事）的反义表达是forget to do sth.（忘记要做某事），在否定句中Don't forget to do sth. 就等于Please remember to do sth.。事情还没做，所以用to bring。"
+  },
+  {
+    "id": "g3_english_040_ex04",
+    "knowledge_id": "g3_english_040",
+    "question": "翻译题：我记得已经把信寄出去了。",
+    "answer": "答案：I remember posting the letter. / I remember having posted the letter.\n解析：本题考查remember doing sth.的用法。\"记得做过某事\"用remember doing sth.，表示事情已经做了。\"寄信\"是post the letter或mail the letter，post的动名词是posting。也可以用remember having done sth. 强调动作已经完成。"
+  },
+  {
+    "id": "g3_english_040_ex05",
+    "knowledge_id": "g3_english_040",
+    "question": "语法选择：— The light in the office is still on.\n— Oh, I forgot ______ it off.\nA. turn\nB. turning\nC. to turn\nD. turned",
+    "answer": "答案：C\n解析：本题考查forget的用法。根据前一句\"办公室的灯还亮着\"，说明关灯这件事还没有做，是忘记要去做的事，所以用forget to do sth.（忘记要做某事）。forget doing sth. 表示忘记做过某事（已经做了），不符合语境，故选C。"
+  },
+  {
+    "id": "g3_english_040_ex06",
+    "knowledge_id": "g3_english_040",
+    "question": "填空题：He forgot ______（lock）the door, so he went back to check.",
+    "answer": "答案：locking\n解析：本题考查forget的用法。根据后半句\"所以他回去检查一下\"，说明他不确定自己是否锁了门，即忘记了自己是否做过锁门这件事，所以用forget doing sth.（忘记做过某事）。lock的动名词是locking。"
+  },
+  {
+    "id": "g3_english_040_ex07",
+    "knowledge_id": "g3_english_040",
+    "question": "语法选择：Remember ______ your parents when you get there.\nA. call\nB. calling\nC. to call\nD. called",
+    "answer": "答案：C\n解析：本题考查remember的用法。根据句意\"你到那儿时记得给你父母打电话\"，打电话是到达之后要做的事，还没做，所以用remember to do sth.（记得要做某事）。remember doing sth. 表示记得做过某事（已经做了），不符合语境，故选C。"
+  },
+  {
+    "id": "g3_english_040_ex08",
+    "knowledge_id": "g3_english_040",
+    "question": "句型转换：I forgot that I had told him the news.（改为简单句，用forget doing）\nI forgot ______ ______ the news.",
+    "answer": "答案：telling him\n解析：本题考查forget + 从句与forget doing的转换。forget that从句（过去完成时）表示忘记已经做过某事，可以转换为forget doing sth. 结构。tell的动名词是telling，后面接双宾语him the news。"
+  },
+  {
+    "id": "g3_english_040_ex09",
+    "knowledge_id": "g3_english_040",
+    "question": "翻译题：用remember的正确搭配，将「离开教室时记得关灯」翻译成英语",
+    "answer": "答案：Remember to turn off the lights when you leave the classroom.\n解析：本题考查remember to do sth.的用法。\"记得要做某事\"用remember to do sth.，表示事情还没做，是要去做的。\"关灯\"是turn off the lights。\"离开教室\"是leave the classroom。when引导时间状语从句，用一般现在时表示将来。"
+  },
+  {
+    "id": "g3_english_040_ex10",
+    "knowledge_id": "g3_english_040",
+    "question": "语法选择：— I can't find my keys anywhere.\n— Maybe you forgot ______ them at home.\nA. leave\nB. leaving\nC. to leave\nD. left",
+    "answer": "答案：B\n解析：本题考查forget的用法。根据语境\"找不到钥匙\"，可能是忘记把钥匙落在家里了，即把钥匙落在家里这件事已经做了，只是忘记了，所以用forget doing sth.（忘记做过某事）。forget to do sth. 表示忘记要去做某事（还没做），不符合语境，故选B。"
+  }
+]

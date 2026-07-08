@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_math_045_ex01",
+    "knowledge_id": "g3_math_045",
+    "question": "选择题：在Rt△ABC中，∠C=90°，sin A的定义是\nA. a/c\nB. b/c\nC. a/b\nD. b/a",
+    "answer": "答案：A\n解析：sin A = ∠A的对边/斜边 = a/c。其中a是∠A的对边，c是斜边。"
+  },
+  {
+    "id": "g3_math_045_ex02",
+    "knowledge_id": "g3_math_045",
+    "question": "填空题：在Rt△ABC中，∠C=90°，sin A = a/c，其中a是∠A的______，c是______。",
+    "answer": "答案：对边，斜边\n解析：正弦定义：sin A = 对边/斜边。对边是∠A对着的边，斜边是直角三角形最长边。"
+  },
+  {
+    "id": "g3_math_045_ex03",
+    "knowledge_id": "g3_math_045",
+    "question": "选择题：sin A的取值范围是\nA. sin A = 1\nB. sin A > 1\nC. 0 < sin A < 1\nD. sin A < 0",
+    "answer": "答案：C\n解析：锐角三角形中，对边 < 斜边，所以sin A = 对边/斜边 < 1。又因为对边 > 0，所以sin A > 0。"
+  },
+  {
+    "id": "g3_math_045_ex04",
+    "knowledge_id": "g3_math_045",
+    "question": "解答题：在Rt△ABC中，∠C=90°，a=3，c=5。求sin A和sin B。",
+    "answer": "答案：sin A = 3/5，sin B = 4/5\n解析：sin A = a/c = 3/5。\n先求b：b² = c² - a² = 25 - 9 = 16，b = 4。\nsin B = b/c = 4/5。"
+  },
+  {
+    "id": "g3_math_045_ex05",
+    "knowledge_id": "g3_math_045",
+    "question": "判断题：sin A是一个完整的符号，不能理解为sin乘以A。（  ）",
+    "answer": "答案：正确\n解析：sin A是一个整体，表示∠A的正弦值，不是sin和A相乘。sin、cos、tan都是完整符号。"
+  },
+  {
+    "id": "g3_math_045_ex06",
+    "knowledge_id": "g3_math_045",
+    "question": "填空题：sin 30° = ______，sin 45° = ______，sin 60° = ______。",
+    "answer": "答案：1/2，√2/2，√3/2\n解析：特殊角正弦值必须记忆：sin30°=1/2，sin45°=√2/2，sin60°=√3/2。"
+  },
+  {
+    "id": "g3_math_045_ex07",
+    "knowledge_id": "g3_math_045",
+    "question": "选择题：在Rt△ABC中，∠C=90°，∠A=30°，则sin A =\nA. √3/2\nB. 1/2\nC. √2/2\nD. 1",
+    "answer": "答案：B\n解析：sin 30° = 1/2。这是特殊角的三角函数值，必须熟记。"
+  },
+  {
+    "id": "g3_math_045_ex08",
+    "knowledge_id": "g3_math_045",
+    "question": "解答题：在Rt△ABC中，∠C=90°，sin A = 3/5，c=10。求a和b。",
+    "answer": "答案：a = 6，b = 8\n解析：sin A = a/c = 3/5，c=10。\n∴ a = 10 × 3/5 = 6。\nb² = c² - a² = 100 - 36 = 64，b = 8。"
+  },
+  {
+    "id": "g3_math_045_ex09",
+    "knowledge_id": "g3_math_045",
+    "question": "选择题：角度从0°到90°，sin A的变化规律是\nA. 逐渐减小\nB. 逐渐增大\nC. 先增后减\nD. 不变",
+    "answer": "答案：B\n解析：正弦值随角度增大而增大：sin0°=0 < sin30°=0.5 < sin45°≈0.71 < sin60°≈0.87 < sin90°=1。"
+  },
+  {
+    "id": "g3_math_045_ex10",
+    "knowledge_id": "g3_math_045",
+    "question": "填空题：sin 0° = ______，sin 90° = ______。",
+    "answer": "答案：0，1\n解析：边界值：sin0°=0（对边=0），sin90°=1（对边=斜边）。正弦值范围[0,1]。"
+  }
+]

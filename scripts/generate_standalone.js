@@ -66,6 +66,22 @@ const grades = {
             biology: { name: '生物', color: 'teal', files: ['g2_biology_upper.json', 'g2_biology_lower.json'] },
             daofa: { name: '道德与法治', color: 'pink', files: ['g2_daofa_upper.json', 'g2_daofa_lower.json'] }
         }
+    },
+    grade3: {
+        name: '初三',
+        shortName: '九',
+        prefix: 'g3_',
+        subjects: {
+            math: { name: '数学', color: 'blue', files: ['g3_math_upper.json', 'g3_math_lower.json'] },
+            physics: { name: '物理', color: 'purple', files: ['g3_physics_upper.json', 'g3_physics_lower.json'] },
+            chemistry: { name: '化学', color: 'teal', files: ['g3_chemistry_upper.json', 'g3_chemistry_lower.json'] },
+            english: { name: '英语', color: 'green', files: ['g3_english_upper.json', 'g3_english_lower.json'] },
+            chinese: { name: '语文', color: 'red', files: ['g3_chinese_upper.json', 'g3_chinese_lower.json'] },
+            chinese_recite: { name: '语文重点背诵', color: 'red', files: ['g3_chinese_recite_upper.json', 'g3_chinese_recite_lower.json'], noExamples: true },
+            english_vocab: { name: '英语词汇背诵', color: 'green', files: ['g3_english_vocab_upper.json', 'g3_english_vocab_lower.json'], noExamples: true },
+            history: { name: '历史', color: 'orange', files: ['g3_history_upper.json', 'g3_history_lower.json'] },
+            daofa: { name: '道德与法治', color: 'pink', files: ['g3_daofa_upper.json', 'g3_daofa_lower.json'] }
+        }
     }
 };
 
@@ -142,6 +158,12 @@ Object.entries(allSubjects).forEach(([key, subject]) => {
 
 console.log(`加载知识点: ${totalKnowledge}`);
 console.log(`加载例题: ${totalExamples}`);
+
+// 准备初三有数据的科目列表
+const grade3Subjects = Object.entries(grades.grade3.subjects).filter(([key, subject]) => {
+    const subjectData = allSubjects['grade3_'+key];
+    return subjectData && subjectData.count > 0;
+});
 
 // ==================== 生成 index.html ====================
 const indexHtml = `<!DOCTYPE html>
@@ -250,12 +272,30 @@ const indexHtml = `<!DOCTYPE html>
                 </div>
             </div>
 
-            <div class="card p-6">
+            <div class="card p-6 ${grade3Subjects.length > 0 ? 'border-2 border-primary/30' : ''}">
                 <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
-                    <span class="w-8 h-8 bg-gray-200 text-gray-500 rounded-lg flex items-center justify-center font-bold">九</span>
+                    <span class="w-8 h-8 ${grade3Subjects.length > 0 ? 'bg-primary text-white' : 'bg-gray-200 text-gray-500'} rounded-lg flex items-center justify-center font-bold">九</span>
                     初三
                 </h2>
-                <div class="text-gray-500 text-sm">暂无数据</div>
+                ${grade3Subjects.length > 0 ? `
+                <div class="space-y-3">
+                    ${grade3Subjects.map(([key, subject]) => `
+                    <div class="border border-gray-200 rounded-lg p-3" data-subject="g3_${key}">
+                        <div class="flex items-center justify-between mb-2">
+                            <span class="font-medium text-gray-700">${subject.icon || '📖'} ${subject.name}</span>
+                            <span class="text-xs px-2 py-0.5 bg-green-100 text-green-600 rounded subject-progress-text">0/${allSubjects['grade3_'+key].count}</span>
+                        </div>
+                        <div class="progress-bar mb-2">
+                            <div class="progress-bar-fill subject-progress-bar" style="width: 0%"></div>
+                        </div>
+                        <div class="flex gap-2">
+                            <a href="knowledge_g3_${key}.html?semester=upper" class="flex-1 text-center px-3 py-1.5 bg-secondary text-white rounded-lg text-sm hover:bg-indigo-600 transition-colors">上册</a>
+                            <a href="knowledge_g3_${key}.html?semester=lower" class="flex-1 text-center px-3 py-1.5 bg-primary text-white rounded-lg text-sm hover:bg-blue-600 transition-colors">下册</a>
+                        </div>
+                    </div>
+                    `).join('')}
+                </div>
+                ` : '<div class="text-gray-500 text-sm">暂无数据</div>'}
             </div>
         </div>
 
@@ -341,7 +381,8 @@ const indexHtml = `<!DOCTYPE html>
 
         const SUBJECT_COUNTS = {
             ${Object.entries(grades.grade1.subjects).map(([key, subject]) => `'g1_${key}': ${allSubjects['grade1_'+key].count}`).join(',\n            ')},
-            ${Object.entries(grades.grade2.subjects).map(([key, subject]) => `'g2_${key}': ${allSubjects['grade2_'+key].count}`).join(',\n            ')}
+            ${Object.entries(grades.grade2.subjects).map(([key, subject]) => `'g2_${key}': ${allSubjects['grade2_'+key].count}`).join(',\n            ')},
+            ${grade3Subjects.map(([key, subject]) => `'g3_${key}': ${allSubjects['grade3_'+key].count}`).join(',\n            ')}
         };
 
         function formatTimeAgo(timestamp) {
@@ -900,6 +941,14 @@ Object.entries(grades.grade1.subjects).forEach(([key, subject]) => {
 Object.entries(grades.grade2.subjects).forEach(([key, subject]) => {
     const subjectData = allSubjects['grade2_'+key];
     generateSubjectPage('g2', key, subject, subjectData);
+});
+
+// 生成初三科目页面
+Object.entries(grades.grade3.subjects).forEach(([key, subject]) => {
+    const subjectData = allSubjects['grade3_'+key];
+    if (subjectData && subjectData.count > 0) {
+        generateSubjectPage('g3', key, subject, subjectData);
+    }
 });
 
 console.log('wrongbook.html 已存在，无需修改');

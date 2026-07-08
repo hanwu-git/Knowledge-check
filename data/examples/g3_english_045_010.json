@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_045_ex01",
+    "knowledge_id": "g3_english_045",
+    "question": "语法选择题：______ you have made a promise, you should keep it no matter what happens.\nA. Until\nB. Although\nC. Since\nD. Unless",
+    "answer": "答案：C\n解析：本题考查原因状语从句。since引导原因状语从句，意为「既然、因为」，通常表示已知的、显而易见的原因。句意：既然你已经许下了诺言，无论发生什么你都应该遵守。until（直到）引导时间状语从句，although（虽然）引导让步状语从句，unless（除非）引导条件状语从句，均不符合句意。"
+  },
+  {
+    "id": "g3_english_045_ex02",
+    "knowledge_id": "g3_english_045",
+    "question": "语法选择题：I will never forget the day ______ I first came to this beautiful city.\nA. which\nB. when\nC. that\nD. where",
+    "answer": "答案：B\n解析：本题考查时间状语从句还是定语从句的辨析。本题中when引导的是定语从句，修饰先行词the day，when在从句中作时间状语。句意：我永远不会忘记我第一次来到这座美丽城市的那一天。注意区分：when引导时间状语从句时，没有先行词；引导定语从句时，前面有表示时间的先行词。"
+  },
+  {
+    "id": "g3_english_045_ex03",
+    "knowledge_id": "g3_english_045",
+    "question": "填空题：根据句意填入适当的连词。\n______ it was raining heavily, the workers were still working on the construction site.",
+    "answer": "答案：Although/Though\n解析：本题考查让步状语从句。although/though引导让步状语从句，意为「虽然、尽管」，表示让步关系。句意：虽然雨下得很大，工人们仍然在建筑工地上工作。注意：although/though不能与but连用，但可以与yet/still连用。"
+  },
+  {
+    "id": "g3_english_045_ex04",
+    "knowledge_id": "g3_english_045",
+    "question": "语法选择题：You will miss the train ______ you hurry up right now.\nA. if\nB. unless\nC. when\nD. because",
+    "answer": "答案：B\n解析：本题考查条件状语从句。unless引导条件状语从句，意为「除非、如果不」，相当于if...not。句意：除非你现在快点，否则你会赶不上火车的。if（如果）引导条件状语从句，但意思相反；when（当……时候）引导时间状语从句；because（因为）引导原因状语从句，均不符合句意。"
+  },
+  {
+    "id": "g3_english_045_ex05",
+    "knowledge_id": "g3_english_045",
+    "question": "句型转换题：改为同义句，每空一词。\nThe boy is so young that he can't go to school alone.\n→ The boy is ______ young ______ go to school alone.",
+    "answer": "答案：too; to\n解析：本题考查so...that...与too...to...的转换。so...that...引导结果状语从句，意为「如此……以至于……」，当that从句是否定句且主从句主语一致时，可以转换为too...to...结构，意为「太……而不能……」。注意：too...to...本身含有否定意义，后面不能再加not。"
+  },
+  {
+    "id": "g3_english_045_ex06",
+    "knowledge_id": "g3_english_045",
+    "question": "语法选择题：—What did the teacher say just now?\n—He said that we should go back to the classroom ______ the bell rang.\nA. while\nB. as soon as\nC. until\nD. since",
+    "answer": "答案：B\n解析：本题考查时间状语从句。as soon as引导时间状语从句，意为「一……就……」，表示主句动作紧跟从句动作发生。句意：他说铃一响我们就应该回教室。while（当……时候）引导的从句中动词必须是延续性动词，rang是短暂性动词；until（直到）和since（自从）均不符合语境。"
+  },
+  {
+    "id": "g3_english_045_ex07",
+    "knowledge_id": "g3_english_045",
+    "question": "填空题：用所给动词的适当形式填空。\nI will go to visit my grandparents as soon as I ______ (finish) my homework this weekend.",
+    "answer": "答案：finish\n解析：本题考查时间状语从句的时态。在时间状语从句（如when, as soon as, until, before等引导）和条件状语从句（if, unless等引导）中，如果主句用一般将来时，从句要用一般现在时表示将来，即「主将从现」原则。所以从句用一般现在时finish。"
+  },
+  {
+    "id": "g3_english_045_ex08",
+    "knowledge_id": "g3_english_045",
+    "question": "语法选择题：______ fast you run, you can't catch up with a professional athlete.\nA. However\nB. Whatever\nC. Whenever\nD. Wherever",
+    "answer": "答案：A\n解析：本题考查让步状语从句。however引导让步状语从句，意为「无论多么、不管怎样」，后面接形容词或副词，相当于no matter how。句意：无论你跑得多快，你都赶不上专业运动员。whatever（无论什么）后面接名词或动词；whenever（无论何时）和wherever（无论何地）均不符合语法。"
+  },
+  {
+    "id": "g3_english_045_ex09",
+    "knowledge_id": "g3_english_045",
+    "question": "翻译题：将下列句子翻译成英语。\n自从我来到这所学校，我已经交了很多朋友了。",
+    "answer": "答案：I have made many friends since I came to this school.\n解析：本题考查since引导的时间状语从句。since引导时间状语从句时，从句用一般过去时，主句用现在完成时，表示「自从……以来」。「交朋友」是make friends，这里用现在完成时have made。注意：since从句中的动词必须是短暂性动词。"
+  },
+  {
+    "id": "g3_english_045_ex10",
+    "knowledge_id": "g3_english_045",
+    "question": "翻译题：将下列句子翻译成英语。\n只要你努力学习，你就会在考试中取得好成绩的。",
+    "answer": "答案：As long as you study hard, you will get good grades in the exam.\n解析：本题考查条件状语从句。as long as引导条件状语从句，意为「只要」，相当于if only/so long as。遵循「主将从现」原则：从句用一般现在时study hard，主句用一般将来时will get good grades。「取得好成绩」是get good grades。"
+  }
+]

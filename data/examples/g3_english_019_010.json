@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_019_ex01",
+    "knowledge_id": "g3_english_019",
+    "question": "语法选择题：______ is said that he has been to many countries.\nA. It\nB. This\nC. That\nD. What",
+    "answer": "答案：A\n解析：本题考查It is said that句型。It is said that...是一个固定句型，意为\"据说……\"，其中it是形式主语，真正的主语是后面的that从句。类似的结构还有It is reported that...（据报道……）、It is believed that...（人们相信……）等。this、that、what都不能作形式主语，所以选It。"
+  },
+  {
+    "id": "g3_english_019_ex02",
+    "knowledge_id": "g3_english_019",
+    "question": "语法选择题：It is said that he ______ a new novel last year.\nA. writes\nB. wrote\nC. has written\nD. is writing",
+    "answer": "答案：B\n解析：本题考查It is said that句型中的时态。It is said that...主句是一般现在时，但从句的时态要根据从句自身的时间状语来确定。根据时间状语last year可知从句要用一般过去时，write的过去式是wrote，所以选B。A选项writes是一般现在时；C选项has written是现在完成时；D选项is writing是现在进行时，都与last year不符。"
+  },
+  {
+    "id": "g3_english_019_ex03",
+    "knowledge_id": "g3_english_019",
+    "question": "填空题：______ ______ ______ (据说) that the movie is very interesting.",
+    "answer": "答案：It is said\n解析：本题考查It is said that句型的基本结构。It is said that...表示\"据说……\"，是一个常用的固定句型。it是形式主语，真正的主语是that引导的主语从句。为了避免句子头重脚轻，用it作形式主语放在句首，把真正的主语从句放在后面。注意句首首字母大写。"
+  },
+  {
+    "id": "g3_english_019_ex04",
+    "knowledge_id": "g3_english_019",
+    "question": "句型转换题：People say that he is a famous doctor.（改为同义句）\n______ ______ ______ that he is a famous doctor.",
+    "answer": "答案：It is said\n解析：本题考查It is said that句型与主动语态的转换。People say that...（人们说……）的同义句型是It is said that...（据说……）。It is said that是被动语态形式，it作形式主语，真正的主语是that从句。两者意思基本相同，可以互换。注意句首首字母大写。"
+  },
+  {
+    "id": "g3_english_019_ex05",
+    "knowledge_id": "g3_english_019",
+    "question": "翻译题：据说他是一位著名的科学家。（用It is said that翻译）",
+    "answer": "答案：It is said that he is a famous scientist.\n解析：本题考查It is said that句型的翻译。\"据说……\"常用句型It is said that...来表达，其中it是形式主语，真正的主语是that从句。\"他是一位著名的科学家\"翻译为he is a famous scientist，作that从句的内容。描述一般情况用一般现在时。注意句首首字母大写。"
+  },
+  {
+    "id": "g3_english_019_ex06",
+    "knowledge_id": "g3_english_019",
+    "question": "语法选择题：______ is reported that there was a big fire in the city yesterday.\nA. It\nB. As\nC. What\nD. That",
+    "answer": "答案：A\n解析：本题考查与It is said that类似的句型。It is reported that...意为\"据报道……\"，与It is said that...结构相同，都是it作形式主语，真正的主语是that从句。类似的结构还有：It is believed that...（人们相信……）、It is known that...（众所周知……）、It is hoped that...（人们希望……）等。as引导非限制性定语从句时句子结构不同；what和that不能作形式主语。"
+  },
+  {
+    "id": "g3_english_019_ex07",
+    "knowledge_id": "g3_english_019",
+    "question": "填空题：______ ______ ______ (众所周知) that the earth goes around the sun.",
+    "answer": "答案：It is known\n解析：本题考查It is + 过去分词 + that句型。It is known that...表示\"众所周知……\"，与It is said that...结构相同，都是it作形式主语，that从句是真正的主语。类似的过去分词还有said、reported、believed、hoped、found等，都可以用于这个句型。注意句首首字母大写。"
+  },
+  {
+    "id": "g3_english_019_ex08",
+    "knowledge_id": "g3_english_019",
+    "question": "句型转换题：It is said that she has lived in Paris for ten years.（改为简单句）\nShe ______ ______ ______ have lived in Paris for ten years.",
+    "answer": "答案：is said to\n解析：本题考查It is said that句型与sb. be said to do结构的转换。It is said that + 从句可以转换为\"主语 + be said to do\"的结构，意思相同。从句是现在完成时has lived，转换为不定式的完成式to have lived。主语she是单数，be动词用is，所以填is said to。"
+  },
+  {
+    "id": "g3_english_019_ex09",
+    "knowledge_id": "g3_english_019",
+    "question": "语法选择题：It is said that ______ a new school in the town next year.\nA. there is\nB. there will have\nC. there will be\nD. there is going to have",
+    "answer": "答案：C\n解析：本题考查It is said that句型中的there be结构。It is said that后面接完整的句子，根据时间状语next year可知要用一般将来时。there be句型的一般将来时是there will be或there is/are going to be，不能与have混用，所以排除B、D选项。A选项there is是一般现在时，与next year不符。所以选there will be。"
+  },
+  {
+    "id": "g3_english_019_ex10",
+    "knowledge_id": "g3_english_019",
+    "question": "翻译题：据说这本书已经被翻译成了多种语言。（用It is said that翻译）",
+    "answer": "答案：It is said that this book has been translated into many languages.\n解析：本题考查It is said that句型的翻译。\"据说……\"用It is said that...表达；\"这本书\"用this book，在从句中作主语，书是被翻译的，所以用被动语态be translated into；\"多种语言\"用many languages。\"已经被翻译\"用现在完成时的被动语态has been translated，因为主语this book是单数。完整句子为It is said that this book has been translated into many languages."
+  }
+]

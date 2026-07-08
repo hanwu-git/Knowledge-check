@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_math_041_ex01",
+    "knowledge_id": "g3_math_041",
+    "question": "选择题：相似三角形判定定理AA的内容是\nA. 三边成比例\nB. 两边成比例且夹角相等\nC. 两角分别相等\nD. 三边相等",
+    "answer": "答案：C\n解析：AA定理：两角分别相等的两个三角形相似。这是最常用的判定方法。"
+  },
+  {
+    "id": "g3_math_041_ex02",
+    "knowledge_id": "g3_math_041",
+    "question": "填空题：在△ABC和△DEF中，若∠A = ∠D = 50°，∠B = ∠E = 60°，则△ABC与△DEF______。",
+    "answer": "答案：相似\n解析：两角对应相等（50°和60°），根据AA定理，两三角形相似。第三角也必然相等（都为70°）。"
+  },
+  {
+    "id": "g3_math_041_ex03",
+    "knowledge_id": "g3_math_041",
+    "question": "选择题：如图，DE∥BC，则△ADE与△ABC相似的理由是\nA. SSS\nB. SAS\nC. AA\nD. HL",
+    "answer": "答案：C\n解析：DE∥BC，则∠ADE = ∠ABC，∠AED = ∠ACB（平行线性质），两角对应相等，根据AA定理判定相似。"
+  },
+  {
+    "id": "g3_math_041_ex04",
+    "knowledge_id": "g3_math_041",
+    "question": "解答题：在△ABC中，D在AB上，E在AC上，DE∥BC。若AD = 3，AB = 9，求△ADE与△ABC的相似比。",
+    "answer": "答案：相似比为1:3\n解析：∵ DE∥BC，∴ △ADE∽△ABC（AA）。\n相似比 = AD/AB = 3/9 = 1/3。\n对应边比都等于1/3。"
+  },
+  {
+    "id": "g3_math_041_ex05",
+    "knowledge_id": "g3_math_041",
+    "question": "判断题：只要找到两个角对应相等，就可以判定两个三角形相似。（  ）",
+    "answer": "答案：正确\n解析：AA定理是最简洁的判定方法。两角对应相等后，第三角必然相等（内角和180°），所以两个三角形相似。"
+  },
+  {
+    "id": "g3_math_041_ex06",
+    "knowledge_id": "g3_math_041",
+    "question": "填空题：公共角模型：若△ABC和△ABD有一个公共角∠A，要证明△ABC∽△ABD，还需证明______。",
+    "answer": "答案：∠B = ∠C或∠C = ∠D\n解析：公共角模型中，已有∠A公共。还需一个角对应相等，即可用AA定理判定相似。"
+  },
+  {
+    "id": "g3_math_041_ex07",
+    "knowledge_id": "g3_math_041",
+    "question": "选择题：下列条件不能判定△ABC∽△DEF的是\nA. ∠A=∠D，∠B=∠E\nB. ∠A=∠D，∠B=60°，∠E=60°\nC. ∠A=50°，∠D=50°，∠B=70°，∠E=70°\nD. ∠A=∠D=∠B",
+    "answer": "答案：D\n解析：第四个选项：∠A=∠D=∠B，这没有给出第二个角对应相等的信息，不能判定相似。其他选项都能判定。"
+  },
+  {
+    "id": "g3_math_041_ex08",
+    "knowledge_id": "g3_math_041",
+    "question": "解答题：在△ABC中，∠B = 50°，高AD交BC于D，高CE交AB于E。证明△ABD∽△CBE。",
+    "answer": "答案：△ABD∽△CBE（AA）\n解析：∵ AD和CE是高，∴ ∠ADB = ∠CEB = 90°。\n又 ∠B是公共角 = 50°。\n∴ △ABD∽△CBE（两角对应相等，AA）。"
+  },
+  {
+    "id": "g3_math_041_ex09",
+    "knowledge_id": "g3_math_041",
+    "question": "选择题：同角的余角相等这一性质可以用于\nA. 全等判定\nB. 相似判定AA\nC. 相似判定SAS\nD. 相似判定SSS",
+    "answer": "答案：B\n解析：同角的余角相等：若∠A+∠B=90°，∠A+∠C=90°，则∠B=∠C。这可用于找角相等，配合AA定理判定相似。"
+  },
+  {
+    "id": "g3_math_041_ex10",
+    "knowledge_id": "g3_math_041",
+    "question": "填空题：平行线截三角形（A型图）：若DE∥BC，则△ADE与△ABC相似，相似比为______。",
+    "answer": "答案：AD/AB\n解析：A型图中，相似比 = AD/AB = AE/AC = DE/BC。对应边比值都相等。"
+  }
+]

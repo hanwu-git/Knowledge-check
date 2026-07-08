@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_034_ex01",
+    "knowledge_id": "g3_english_034",
+    "question": "语法选择：By the time I got to the cinema, the movie ______ for ten minutes.\nA. had started\nB. had been on\nC. has started\nD. has been on",
+    "answer": "答案：B\n解析：本题考查过去完成时的用法。by the time引导的从句用一般过去时（got），主句表示在从句动作之前已经完成的动作，即\"过去的过去\"，要用过去完成时，排除C和D。start是短暂性动词，不能与for ten minutes表示的一段时间连用，需转换为延续性动词短语be on，故选B。"
+  },
+  {
+    "id": "g3_english_034_ex02",
+    "knowledge_id": "g3_english_034",
+    "question": "填空题：When I arrived at the station, the train ______（leave）already.",
+    "answer": "答案：had left\n解析：本题考查过去完成时。火车离开的动作发生在我到达车站之前，即\"过去的过去\"，所以用过去完成时had + 过去分词。leave的过去分词是left。句中already是完成时的标志词。"
+  },
+  {
+    "id": "g3_english_034_ex03",
+    "knowledge_id": "g3_english_034",
+    "question": "句型转换：The bus left. Then I got to the bus stop.（合并为一句，用过去完成时）\nBy the time I got to the bus stop, ______ ______ ______ ______.",
+    "answer": "答案：the bus had left\n解析：本题考查过去完成时与by the time的搭配。by the time引导的从句用一般过去时，主句用过去完成时，表示主句动作发生在从句动作之前。原句中公交车离开在前，我到达在后，所以主句用the bus had left。"
+  },
+  {
+    "id": "g3_english_034_ex04",
+    "knowledge_id": "g3_english_034",
+    "question": "翻译题：到上学期末，我们已经学了两千多个英语单词。",
+    "answer": "答案：By the end of last term, we had learned more than 2,000 English words.\n解析：本题考查过去完成时的时间状语。by the end of + 过去时间（last term）是过去完成时的标志，表示\"到过去某一时间为止\"，主句用had + 过去分词。learn的过去分词是learned或learnt。\"两千多\"译为more than 2,000或over 2,000。"
+  },
+  {
+    "id": "g3_english_034_ex05",
+    "knowledge_id": "g3_english_034",
+    "question": "语法选择：He ______ in the factory for three years before he joined the army.\nA. worked\nB. has worked\nC. had worked\nD. was working",
+    "answer": "答案：C\n解析：本题考查过去完成时的用法。before引导的从句用一般过去时（joined），主句的动作发生在从句动作之前，即\"过去的过去\"，要用过去完成时had + 过去分词。for three years表示动作持续了一段时间，与完成时连用，故选C。"
+  },
+  {
+    "id": "g3_english_034_ex06",
+    "knowledge_id": "g3_english_034",
+    "question": "填空题：By the time my parents came back, I ______（finish）my homework.",
+    "answer": "答案：had finished\n解析：本题考查过去完成时。by the time引导的从句用一般过去时（came back），主句的动作（完成作业）发生在父母回来之前，是\"过去的过去\"，所以用过去完成时had + 过去分词。finish的过去分词是finished。"
+  },
+  {
+    "id": "g3_english_034_ex07",
+    "knowledge_id": "g3_english_034",
+    "question": "语法选择：— Did you see Tom at the party?\n— No, he ______ by the time I got there.\nA. left\nB. was leaving\nC. had left\nD. has left",
+    "answer": "答案：C\n解析：本题考查过去完成时。问句用一般过去时，答语中by the time I got there表示\"到我到达那里为止\"，到达是过去的动作，而Tom离开发生在到达之前，即\"过去的过去\"，所以用过去完成时had left，故选C。"
+  },
+  {
+    "id": "g3_english_034_ex08",
+    "knowledge_id": "g3_english_034",
+    "question": "句型转换：I had cleaned the room before my mother came back.（改为一般疑问句）\n______ you ______ the room before your mother came back?",
+    "answer": "答案：Had; cleaned\n解析：本题考查过去完成时的一般疑问句。过去完成时的结构是had + 过去分词，变一般疑问句时只需把had提前到句首，过去分词cleaned保持不变。注意句首首字母大写。"
+  },
+  {
+    "id": "g3_english_034_ex09",
+    "knowledge_id": "g3_english_034",
+    "question": "翻译题：我以前从未去过北京，直到去年夏天才第一次去。",
+    "answer": "答案：I had never been to Beijing before I went there for the first time last summer.\n解析：本题考查过去完成时表示\"过去以前从未做过某事\"。去北京是去年夏天（过去），而在此之前从未去过是\"过去的过去\"，所以用过去完成时had never been。never是完成时中常用的频度副词。\"第一次\"译为for the first time。"
+  },
+  {
+    "id": "g3_english_034_ex10",
+    "knowledge_id": "g3_english_034",
+    "question": "语法选择：She told me that she ______ the novel three times.\nA. read\nB. has read\nC. had read\nD. was reading",
+    "answer": "答案：C\n解析：本题考查过去完成时在宾语从句中的用法。主句是一般过去时（told），从句的动作（读小说）发生在主句动作之前，即\"过去的过去\"，所以从句要用过去完成时had + 过去分词。read的过去分词还是read，故选C。"
+  }
+]

@@ -45,6 +45,23 @@ const GRADES = {
             biology: { name: '生物', color: 'teal', files: ['g2_biology_upper.json', 'g2_biology_lower.json'] },
             daofa: { name: '道德与法治', color: 'pink', files: ['g2_daofa_upper.json', 'g2_daofa_lower.json'] }
         }
+    },
+    grade3: {
+        name: '初三',
+        shortName: '九',
+        prefix: 'g3_',
+        htmlPrefix: 'g3_',
+        subjects: {
+            math: { name: '数学', color: 'blue', files: ['g3_math_upper.json', 'g3_math_lower.json'] },
+            physics: { name: '物理', color: 'purple', files: ['g3_physics_upper.json', 'g3_physics_lower.json'] },
+            chemistry: { name: '化学', color: 'teal', files: ['g3_chemistry_upper.json', 'g3_chemistry_lower.json'] },
+            english: { name: '英语', color: 'green', files: ['g3_english_upper.json', 'g3_english_lower.json'] },
+            chinese: { name: '语文', color: 'red', files: ['g3_chinese_upper.json', 'g3_chinese_lower.json'] },
+            chinese_recite: { name: '语文重点背诵', color: 'red', files: ['g3_chinese_recite_upper.json', 'g3_chinese_recite_lower.json'], noExamples: true },
+            english_vocab: { name: '英语词汇背诵', color: 'green', files: ['g3_english_vocab_upper.json', 'g3_english_vocab_lower.json'], noExamples: true },
+            history: { name: '历史', color: 'orange', files: ['g3_history_upper.json', 'g3_history_lower.json'] },
+            daofa: { name: '道德与法治', color: 'pink', files: ['g3_daofa_upper.json', 'g3_daofa_lower.json'] }
+        }
     }
 };
 

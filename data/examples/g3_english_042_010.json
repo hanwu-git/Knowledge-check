@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_042_ex01",
+    "knowledge_id": "g3_english_042",
+    "question": "语法选择：I ______ you a happy birthday.\nA. hope\nB. wish\nC. want\nD. like",
+    "answer": "答案：B\n解析：本题考查wish和hope的区别。wish后面可以接双宾语，表示\"祝愿\"，即wish sb. sth.，如wish you a happy birthday（祝你生日快乐）。hope后面不能接双宾语，不能说hope you sth.。want和like没有这种祝愿的用法，故选B。"
+  },
+  {
+    "id": "g3_english_042_ex02",
+    "knowledge_id": "g3_english_042",
+    "question": "填空题：I ______（希望）I could fly like a bird.",
+    "answer": "答案：wish\n解析：本题考查wish后接虚拟语气的用法。根据句意\"我希望我能像鸟一样飞\"，这是不可能实现的愿望，要用wish。wish后接that从句时用虚拟语气，表示不太可能实现的愿望，从句用过去时表示现在的愿望（could是can的过去式）。hope后接从句用陈述语气，表示有可能实现的希望。"
+  },
+  {
+    "id": "g3_english_042_ex03",
+    "knowledge_id": "g3_english_042",
+    "question": "句型转换：I hope that I will visit the moon some day.（改为简单句，用hope to do）\nI ______ ______ ______ the moon some day.",
+    "answer": "答案：hope to visit\n解析：本题考查hope后接从句与接不定式的转换。hope后面可以接that从句，也可以接不定式（to do sth.），即hope to do sth.，表示\"希望做某事\"。两者意思相同，只是句子结构不同。主语是I，谓语用hope。"
+  },
+  {
+    "id": "g3_english_042_ex04",
+    "knowledge_id": "g3_english_042",
+    "question": "翻译题：我希望你能来参加我的生日派对。（用hope）",
+    "answer": "答案：I hope you can come to my birthday party.\n解析：本题考查hope后接宾语从句的用法。hope后面可以接that从句，用陈述语气，表示有可能实现的希望。\"来参加我的生日派对\"译为come to my birthday party。注意：不能说I hope you to come，因为hope不能用于hope sb. to do sth.结构。"
+  },
+  {
+    "id": "g3_english_042_ex05",
+    "knowledge_id": "g3_english_042",
+    "question": "语法选择：He ______ he had been there yesterday.\nA. hopes\nB. wishes\nC. wants\nD. expects",
+    "answer": "答案：B\n解析：本题考查wish后接虚拟语气的用法。根据从句的时态had been（过去完成时），可知这是表示与过去事实相反的愿望，要用wish。wish后接that从句时用虚拟语气：表示现在的愿望用过去时，表示过去的愿望用过去完成时。hope后接从句用陈述语气，不用虚拟语气，故选B。"
+  },
+  {
+    "id": "g3_english_042_ex06",
+    "knowledge_id": "g3_english_042",
+    "question": "填空题：I ______ you good luck in the exam.（用wish/hope填空）",
+    "answer": "答案：wish\n解析：本题考查wish接双宾语的用法。wish sb. sth.表示\"祝愿某人……\"，可以接双宾语（间接宾语you + 直接宾语good luck）。hope不能接双宾语，不能说hope you sth.，所以只能用wish。"
+  },
+  {
+    "id": "g3_english_042_ex07",
+    "knowledge_id": "g3_english_042",
+    "question": "语法选择：Which of the following is WRONG?\nA. I hope to see you again.\nB. I wish you success.\nC. I hope you to help me.\nD. I wish I were you.",
+    "answer": "答案：C\n解析：本题考查wish和hope的用法辨析。选项A：hope to do sth.是正确结构；选项B：wish sb. sth.（接双宾语表祝愿）是正确的；选项C：hope sb. to do sth.是错误的，hope不能用于此结构，可以说wish sb. to do sth.；选项D：wish后接从句用虚拟语气（were）是正确的。故选C。"
+  },
+  {
+    "id": "g3_english_042_ex08",
+    "knowledge_id": "g3_english_042",
+    "question": "句型转换：I wish you a happy new year.（改为同义句，用hope）\nI ______ ______ you ______ a happy new year.",
+    "answer": "答案：hope that; have\n解析：本题考查wish和hope的同义转换。wish sb. sth.表示\"祝愿某人……\"，可以转换为hope + that从句的形式，从句用陈述语气。wish you a happy new year = I hope that you have a happy new year。"
+  },
+  {
+    "id": "g3_english_042_ex09",
+    "knowledge_id": "g3_english_042",
+    "question": "翻译题：我要是像你一样聪明就好了。",
+    "answer": "答案：I wish I were as smart as you.\n解析：本题考查wish后接虚拟语气的用法。\"要是……就好了\"表示与现在事实不符的愿望，用wish引导宾语从句，从句用虚拟语气，be动词一律用were。\"像……一样聪明\"译为as smart as you。"
+  },
+  {
+    "id": "g3_english_042_ex10",
+    "knowledge_id": "g3_english_042",
+    "question": "语法选择：— I'm going to have an English test tomorrow.\n— ______ you good luck!\nA. Hope\nB. Wish\nC. Want\nD. Like",
+    "answer": "答案：B\n解析：本题考查wish表示祝愿的用法。wish sb. sth.表示\"祝愿某人……\"，是表达祝愿的常用结构。hope不能接双宾语，不能说hope you sth.。want（想要）和like（喜欢）不符合语境。Wish you good luck!（祝你好运！）是常用的祝愿语，故选B。"
+  }
+]

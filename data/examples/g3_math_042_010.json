@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_math_042_ex01",
+    "knowledge_id": "g3_math_042",
+    "question": "选择题：相似三角形判定定理SAS的内容是\nA. 三边成比例\nB. 两边成比例且夹角相等\nC. 两角相等\nD. 三边相等",
+    "answer": "答案：B\n解析：SAS定理：两边成比例且夹角相等的两个三角形相似。注意必须是夹角。"
+  },
+  {
+    "id": "g3_math_042_ex02",
+    "knowledge_id": "g3_math_042",
+    "question": "填空题：相似三角形判定定理SSS的内容是：______的两个三角形相似。",
+    "answer": "答案：三边成比例\n解析：SSS定理：三边成比例的两个三角形相似。即AB/DE = BC/EF = AC/DF。"
+  },
+  {
+    "id": "g3_math_042_ex03",
+    "knowledge_id": "g3_math_042",
+    "question": "选择题：下列条件能判定△ABC∽△DEF（SAS）的是\nA. AB/DE=2，AC/DF=2，∠A=∠D\nB. AB/DE=2，BC/EF=3，∠A=∠D\nC. AB/DE=2，AC/DF=3，∠A=∠D\nD. AB/DE=2，BC/EF=2，∠B=∠E",
+    "answer": "答案：A\n解析：SAS定理要求：两边成比例且夹角相等。AB/DE=AC/DF=2（两边成比例），∠A=∠D（夹角），符合条件。"
+  },
+  {
+    "id": "g3_math_042_ex04",
+    "knowledge_id": "g3_math_042",
+    "question": "解答题：△ABC中，AB=6，AC=4，∠A=60°；△DEF中，DE=3，DF=2，∠D=60°。判断△ABC与△DEF是否相似。",
+    "answer": "答案：△ABC∽△DEF（SAS）\n解析：AB/DE = 6/3 = 2，AC/DF = 4/2 = 2，两边成比例。\n∠A = ∠D = 60°（夹角相等）。\n∴ △ABC∽△DEF（SAS定理）。"
+  },
+  {
+    "id": "g3_math_042_ex05",
+    "knowledge_id": "g3_math_042",
+    "question": "判断题：两边成比例且有一个角相等，就可以判定两个三角形相似。（  ）",
+    "answer": "答案：错误\n解析：SAS定理要求必须是夹角。如果是非夹角，不能判定相似。例如两边成比例但角不是夹角，可能不相似。"
+  },
+  {
+    "id": "g3_math_042_ex06",
+    "knowledge_id": "g3_math_042",
+    "question": "填空题：直角三角形相似的特殊判定（HL）：______和______成比例的两个直角三角形相似。",
+    "answer": "答案：斜边，一条直角边\n解析：HL定理：斜边和一条直角边成比例的两个直角三角形相似。这是直角三角形的特殊判定。"
+  },
+  {
+    "id": "g3_math_042_ex07",
+    "knowledge_id": "g3_math_042",
+    "question": "选择题：△ABC和△DEF都是直角三角形，若AB/DE = AC/DF（AB、DE为斜边），则\nA. △ABC≌△DEF\nB. △ABC∽△DEF\nC. 无法判断\nD. 一定不相似",
+    "answer": "答案：B\n解析：直角三角形中，斜边和一条直角边成比例，根据HL定理判定相似。"
+  },
+  {
+    "id": "g3_math_042_ex08",
+    "knowledge_id": "g3_math_042",
+    "question": "解答题：△ABC中，AB=4，BC=6，AC=8；△DEF中，DE=2，EF=3，DF=4。判断△ABC与△DEF是否相似。",
+    "answer": "答案：△ABC∽△DEF（SSS）\n解析：AB/DE = 4/2 = 2，BC/EF = 6/3 = 2，AC/DF = 8/4 = 2。\n三边成比例，比值相等。\n∴ △ABC∽△DEF（SSS定理）。"
+  },
+  {
+    "id": "g3_math_042_ex09",
+    "knowledge_id": "g3_math_042",
+    "question": "选择题：相似三角形判定方法总结，不包括\nA. AA（两角相等）\nB. SAS（两边成比例夹角相等）\nC. SSS（三边成比例）\nD. ASA（两角夹边）",
+    "answer": "答案：D\n解析：ASA是全等判定定理，不是相似判定定理。相似判定有AA、SAS、SSS、HL（直角三角形）四种。"
+  },
+  {
+    "id": "g3_math_042_ex10",
+    "knowledge_id": "g3_math_042",
+    "question": "填空题：选择相似判定方法的原则：已知角的信息多用______；已知边的信息多用______或______。",
+    "answer": "答案：AA，SAS，SSS\n解析：判定方法选择：有角信息优先用AA（最常用），有边信息用SAS或SSS。"
+  }
+]

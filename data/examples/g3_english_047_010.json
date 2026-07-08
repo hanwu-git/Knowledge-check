@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_047_ex01",
+    "knowledge_id": "g3_english_047",
+    "question": "语法选择题：______ we will go camping this weekend depends on whether the weather will be fine.\nA. That\nB. Whether\nC. If\nD. What",
+    "answer": "答案：B\n解析：本题考查主语从句的引导词。句意：我们这个周末是否去露营取决于天气是否好。whether引导主语从句，意为「是否」，可位于句首。if也可表示「是否」，但不能引导位于句首的主语从句，也不能作介词的宾语。that引导主语从句时不充当成分，也没有实际意义；what在从句中要充当主语或宾语，均不符合。"
+  },
+  {
+    "id": "g3_english_047_ex02",
+    "knowledge_id": "g3_english_047",
+    "question": "语法选择题：I'm not sure ______ they will arrive on time. There is always heavy traffic on the highway.\nA. that\nB. what\nC. whether\nD. which",
+    "answer": "答案：C\n解析：本题考查宾语从句的引导词。I'm not sure后面接宾语从句，根据句意「我不确定他们是否会准时到达」，表示「是否」要用whether或if。that引导宾语从句时不充当成分，无实际意义；what（什么）和which（哪一个）均不符合句意。"
+  },
+  {
+    "id": "g3_english_047_ex03",
+    "knowledge_id": "g3_english_047",
+    "question": "填空题：填入适当的引导词。\nThe question is ______ we can finish the project before the deadline.",
+    "answer": "答案：whether\n解析：本题考查表语从句的引导词。句意：问题是我们能否在截止日期前完成这个项目。whether引导表语从句，意为「是否」，在从句中不充当成分，但有实际意义。if不能引导表语从句（也不能引导位于句首的主语从句和同位语从句）。"
+  },
+  {
+    "id": "g3_english_047_ex04",
+    "knowledge_id": "g3_english_047",
+    "question": "语法选择题：The teacher told us that the earth ______ around the sun when we were in Grade Seven.\nA. go\nB. goes\nC. went\nD. going",
+    "answer": "答案：B\n解析：本题考查宾语从句的时态。当宾语从句表示的是客观真理、科学事实、格言警句等时，不管主句用什么时态，从句都用一般现在时。「地球绕着太阳转」是客观真理，所以用一般现在时，the earth是第三人称单数，所以用goes。"
+  },
+  {
+    "id": "g3_english_047_ex05",
+    "knowledge_id": "g3_english_047",
+    "question": "句型转换题：改为同义句，每空一词。\nI find that it is necessary to learn a foreign language well.\n→ I find ______ ______ to learn a foreign language well.",
+    "answer": "答案：it necessary\n解析：本题考查宾语从句与it作形式宾语的转换。在find/think/feel/make等动词后，可以用it作形式宾语，真正的宾语是后面的不定式短语，即「动词 + it + adj. + to do sth.」结构。it is necessary to learn...可以转换为it necessary to learn...，it是形式宾语，necessary是宾语补足语。"
+  },
+  {
+    "id": "g3_english_047_ex06",
+    "knowledge_id": "g3_english_047",
+    "question": "语法选择题：—I don't know ______ Mr. Green will come to see us.\n—He will come next week, I think. Let's prepare a welcome party for him.\nA. when\nB. how\nC. that\nD. where",
+    "answer": "答案：A\n解析：本题考查宾语从句的引导词。根据答语「他下周会来」，可知问句是问「什么时候」来，所以用when引导宾语从句。how（怎样）问方式，that引导陈述句意义的宾语从句，where（哪里）问地点，均不符合答语内容。"
+  },
+  {
+    "id": "g3_english_047_ex07",
+    "knowledge_id": "g3_english_047",
+    "question": "填空题：用所给动词的适当形式填空。\nI wondered if he ______ (come) to my birthday party the next day.",
+    "answer": "答案：would come\n解析：本题考查宾语从句的时态。主句wondered是一般过去时，从句也要用相应的过去时态。根据时间状语the next day（第二天），可知从句用过去将来时would come。注意：if此处意为「是否」，引导宾语从句，不是「如果」（条件状语从句）。"
+  },
+  {
+    "id": "g3_english_047_ex08",
+    "knowledge_id": "g3_english_047",
+    "question": "语法选择题：It is suggested that we ______ a meeting to discuss the problem as soon as possible.\nA. hold\nB. held\nC. would hold\nD. will hold",
+    "answer": "答案：A\n解析：本题考查主语从句中的虚拟语气。在It is suggested/ordered/required/important/necessary that...句型中，that引导的主语从句要用虚拟语气，谓语动词用「should + 动词原形」，其中should可以省略。所以用（should）hold。"
+  },
+  {
+    "id": "g3_english_047_ex09",
+    "knowledge_id": "g3_english_047",
+    "question": "翻译题：将下列句子翻译成英语。\n他在会议上所说的话让在场的所有人都感到很惊讶。",
+    "answer": "答案：What he said at the meeting made all the people present feel very surprised.\n解析：本题考查what引导的主语从句。「他在会议上所说的话」用what引导的主语从句what he said at the meeting表达，what在从句中作said的宾语。「让某人做某事」是make sb. do sth.，「在场的所有人」是all the people present，「感到惊讶」是feel surprised。"
+  },
+  {
+    "id": "g3_english_047_ex10",
+    "knowledge_id": "g3_english_047",
+    "question": "翻译题：将下列句子翻译成英语。\n我们赢得比赛的消息让全班同学都兴奋不已。",
+    "answer": "答案：The news that we won the game made all the students in our class very excited.\n解析：本题考查that引导的同位语从句。「我们赢得比赛的消息」中，「我们赢得比赛」是解释说明the news的内容，所以用that引导同位语从句。that在同位语从句中不充当成分，只起连接作用，不能省略。「让某人兴奋」是make sb. excited。"
+  }
+]

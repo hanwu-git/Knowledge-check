@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_005_ex01",
+    "knowledge_id": "g3_english_005",
+    "question": "语法选择题：______ beautiful the flowers are!\nA. What\nB. What a\nC. How\nD. How a",
+    "answer": "答案：C\n解析：句意：这些花多么漂亮啊！How引导的感叹句结构为：How + 形容词/副词 + 主语 + 谓语！beautiful是形容词，所以用How。"
+  },
+  {
+    "id": "g3_english_005_ex02",
+    "knowledge_id": "g3_english_005",
+    "question": "填空题：多么有趣的一本书啊！\n______ ______ interesting book it is!",
+    "answer": "答案：What an\n解析：What引导的感叹句结构之一：What + a/an + 形容词 + 可数名词单数 + 主语 + 谓语！interesting以元音音素开头，所以用an。"
+  },
+  {
+    "id": "g3_english_005_ex03",
+    "knowledge_id": "g3_english_005",
+    "question": "语法选择题：______ good news it is!\nA. What\nB. What a\nC. How\nD. How a",
+    "answer": "答案：A\n解析：news是不可数名词，不能用a/an修饰。What引导的感叹句结构：What + 形容词 + 不可数名词 + 主语 + 谓语！所以选What。"
+  },
+  {
+    "id": "g3_english_005_ex04",
+    "knowledge_id": "g3_english_005",
+    "question": "句型转换题：The girl is very clever.（改为感叹句）\n______ ______ the girl is!\n或 ______ ______ clever girl she is!",
+    "answer": "答案：How clever; What a\n解析：How + 形容词（clever） + 主语 + 谓语！或 What + a + 形容词（clever） + 可数名词单数（girl） + 主语 + 谓语！两种结构都可以表达感叹。"
+  },
+  {
+    "id": "g3_english_005_ex05",
+    "knowledge_id": "g3_english_005",
+    "question": "翻译题：根据所学感叹句知识，将句子「今天的天气真好啊！」翻译成英语",
+    "answer": "答案：What fine weather it is today!\n或 How fine the weather is today!\n解析：weather是不可数名词，用What + 形容词 + 不可数名词 + 主语 + 谓语！结构，不能加a/an。也可以用How + 形容词 + 主语 + 谓语！结构。"
+  },
+  {
+    "id": "g3_english_005_ex06",
+    "knowledge_id": "g3_english_005",
+    "question": "语法选择题：______ hard they are working!\nA. What\nB. What a\nC. How\nD. How a",
+    "answer": "答案：C\n解析：hard在这里是副词，修饰动词working。How引导的感叹句结构：How + 副词 + 主语 + 谓语！所以用How。"
+  },
+  {
+    "id": "g3_english_005_ex07",
+    "knowledge_id": "g3_english_005",
+    "question": "填空题：用What或How填空\n1. ______ delicious the food tastes!\n2. ______ delicious food it is!",
+    "answer": "答案：How; What\n解析：第1题后面直接跟形容词delicious，然后是主语the food，用How + 形容词 + 主语 + 谓语！结构；第2题后面是delicious food（形容词+名词），用What + 形容词 + 不可数名词 + 主语 + 谓语！结构。"
+  },
+  {
+    "id": "g3_english_005_ex08",
+    "knowledge_id": "g3_english_005",
+    "question": "语法选择题：______ beautiful dresses they are!\nA. What\nB. What a\nC. How\nD. How a",
+    "answer": "答案：A\n解析：dresses是可数名词复数。What引导的感叹句结构：What + 形容词 + 可数名词复数 + 主语 + 谓语！所以用What。"
+  },
+  {
+    "id": "g3_english_005_ex09",
+    "knowledge_id": "g3_english_005",
+    "question": "句型转换题：He runs very fast.（改为感叹句）\n______ ______ he runs!",
+    "answer": "答案：How fast\n解析：fast是副词，修饰动词runs。How引导的感叹句结构：How + 副词 + 主语 + 谓语！所以用How fast。"
+  },
+  {
+    "id": "g3_english_005_ex10",
+    "knowledge_id": "g3_english_005",
+    "question": "翻译题：孩子们在公园里玩得多开心啊！",
+    "answer": "答案：How happily the children are playing in the park!\n或 What a good time the children are having in the park!\n解析：第一种用How + 副词（happily） + 主语 + 谓语！结构，happily修饰动词playing；第二种用What + a + 形容词 + 名词（a good time）结构，have a good time是固定搭配。"
+  }
+]

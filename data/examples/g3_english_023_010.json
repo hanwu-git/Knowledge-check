@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_023_ex01",
+    "knowledge_id": "g3_english_023",
+    "question": "语法选择题：--- Look! The man at the gate ______ be our headmaster. He is always standing there every morning.\n--- No, it ______ be him. He is holding a meeting in the office now.\nA. must; can't\nB. must; mustn't\nC. can; can't\nD. can; mustn't",
+    "answer": "答案：A\n解析：本题考查情态动词表推测的用法。第一空：根据后句「他每天早上总是站在那里」，表示肯定推测，用must（一定）。第二空：根据后句「他现在正在办公室开会」，表示否定推测「不可能」，用can't。mustn't表示「禁止」，不表示推测。故选A。"
+  },
+  {
+    "id": "g3_english_023_ex02",
+    "knowledge_id": "g3_english_023",
+    "question": "语法选择题：--- Whose book is this? Is it Tom's?\n--- It ______ be his. His name is on the cover.\nA. can\nB. may\nC. must\nD. need",
+    "answer": "答案：C\n解析：本题考查情态动词表推测。根据后句「他的名字在封面上」，表示非常有把握的肯定推测，用must（一定）。can表推测常用于否定句或疑问句；may表示「可能」，把握性较小；need不表示推测。故选C。"
+  },
+  {
+    "id": "g3_english_023_ex03",
+    "knowledge_id": "g3_english_023",
+    "question": "语法选择题：The light in his office is still on. He ______ be working there now.\nA. can't\nB. mustn't\nC. must\nD. need",
+    "answer": "答案：C\n解析：本题考查情态动词表推测。根据「他办公室的灯还亮着」，可以推测他「一定」还在工作。must be doing表示「一定正在做某事」，是对现在正在进行动作的肯定推测。can't是否定推测「不可能」；mustn't表示「禁止」；need不表示推测。故选C。"
+  },
+  {
+    "id": "g3_english_023_ex04",
+    "knowledge_id": "g3_english_023",
+    "question": "语法选择题：--- Is that Lucy's sister?\n--- It ______ be. She has gone to Paris with her parents.\nA. mustn't\nB. can't\nC. needn't\nD. won't",
+    "answer": "答案：B\n解析：本题考查情态动词表否定推测。根据后句「她和父母去巴黎了」，表示「不可能」是她，用can't。mustn't表示「禁止」，不表示推测；needn't表示「不必」；won't表示「不会」，是将来时的否定。故选B。"
+  },
+  {
+    "id": "g3_english_023_ex05",
+    "knowledge_id": "g3_english_023",
+    "question": "填空题：根据语境，填入适当的情态动词表推测。\n--- Where is Li Lei? I can't find him anywhere.\n--- He ______ be in the library. He likes reading there after class.",
+    "answer": "答案：may/might/could\n解析：本题考查情态动词表推测。根据语境「我到处找不到他」以及「他喜欢课后在那里看书」，表示可能性不是很大的肯定推测，可用may、might或could，都表示「可能」。might和could的语气比may更委婉一些。"
+  },
+  {
+    "id": "g3_english_023_ex06",
+    "knowledge_id": "g3_english_023",
+    "question": "填空题：根据语境，填入适当的情态动词。\nThe baby is sleeping. You ______ make any noise, or you will wake him up.",
+    "answer": "答案：mustn't\n解析：本题考查情态动词的用法。根据语境「婴儿在睡觉」，表示「禁止、不许」制造噪音，用mustn't，意为「禁止，不许」。注意：mustn't不表示推测，而是表示「禁止」。"
+  },
+  {
+    "id": "g3_english_023_ex07",
+    "knowledge_id": "g3_english_023",
+    "question": "句型转换题：改为同义句，每空一词。\nMaybe the woman is our new English teacher.\n→ The woman ______ ______ our new English teacher.",
+    "answer": "答案：may be\n解析：本题考查maybe与may be的转换。maybe是副词，意为「也许，可能」，常放在句首；may be是「情态动词+be动词」结构，意为「可能是」，在句中作谓语。原句Maybe the woman is...可以转换为The woman may be...，意思相同。"
+  },
+  {
+    "id": "g3_english_023_ex08",
+    "knowledge_id": "g3_english_023",
+    "question": "句型转换题：改为表示否定推测的句子，每空一词。\nThe boy must be Mr. Smith's son.\n→ The boy ______ ______ Mr. Smith's son.",
+    "answer": "答案：can't be\n解析：本题考查情态动词表推测的否定形式。must表示肯定推测「一定」，其否定形式「不可能」用can't，而不能用mustn't（mustn't表示「禁止」）。所以The boy must be...的否定推测是The boy can't be...。"
+  },
+  {
+    "id": "g3_english_023_ex09",
+    "knowledge_id": "g3_english_023",
+    "question": "翻译题：将下列句子翻译成英语。\n这一定是李明的书，他的名字在上面。",
+    "answer": "答案：This must be Li Ming's book. His name is on it.\n解析：本题考查情态动词表肯定推测。「一定」用must，must be表示「一定是」，表示很有把握的推测。「李明的书」用名词所有格Li Ming's book。「在上面」用on it，it指代前面的book。"
+  },
+  {
+    "id": "g3_english_023_ex10",
+    "knowledge_id": "g3_english_023",
+    "question": "翻译题：将下列句子翻译成英语。\n那个穿红色衣服的女孩不可能是Lucy，因为她昨天去北京了。",
+    "answer": "答案：The girl in red can't be Lucy, because she went to Beijing yesterday.\n解析：本题考查情态动词表否定推测。「不可能」用can't，can't be表示「不可能是」，表示有把握的否定推测。注意不能用mustn't，mustn't表示「禁止」。「穿红色衣服的女孩」是the girl in red。「去北京了」用一般过去时went to Beijing。"
+  }
+]

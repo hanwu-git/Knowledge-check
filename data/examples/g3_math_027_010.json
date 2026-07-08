@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_math_027_ex01",
+    "knowledge_id": "g3_math_027",
+    "question": "选择题：切线长定理：从圆外一点引圆的两条切线，它们的切线长______。（  ）\nA. 相等\nB. 不相等\nC. 不一定相等\nD. 无法比较",
+    "answer": "答案：A\n解析：切线长定理：从圆外一点引圆的两条切线，切线长相等。"
+  },
+  {
+    "id": "g3_math_027_ex02",
+    "knowledge_id": "g3_math_027",
+    "question": "填空题：⊙O外一点P，PA、PB切⊙O于A、B，若PA = 8 cm，则PB = ______ cm。",
+    "answer": "答案：8\n解析：由切线长定理：PA = PB，所以PB = 8 cm。"
+  },
+  {
+    "id": "g3_math_027_ex03",
+    "knowledge_id": "g3_math_027",
+    "question": "选择题：PA、PB切⊙O于A、B，PO连线平分（  ）\nA. ∠AOB\nB. ∠APB\nC. ∠PAB\nD. ∠PBA",
+    "answer": "答案：B\n解析：切线长定理：PA = PB，且PO平分∠APB（点P和圆心连线平分两切线的夹角）。"
+  },
+  {
+    "id": "g3_math_027_ex04",
+    "knowledge_id": "g3_math_027",
+    "question": "判断题：切线长定理的推论：圆心与圆外一点的连线平分两切线的夹角。（  ）",
+    "answer": "答案：正确\n解析：这是切线长定理的重要内容：PA = PB，且PO平分∠APB。"
+  },
+  {
+    "id": "g3_math_027_ex05",
+    "knowledge_id": "g3_math_027",
+    "question": "填空题：⊙O半径为3，点P在⊙O外，OP = 5，PA切⊙O于A，则PA = ______，∠APO = ______°。",
+    "answer": "答案：4，约53.1°（sin∠APO = 3/5）\n解析：△OAP中，OA⊥PA（切线性质），OA = 3，OP = 5\nPA = √(OP² - OA²) = √(25 - 9) = √16 = 4\nsin∠APO = OA/OP = 3/5 ≈ 0.6，∠APO ≈ 36.9°？不对，应该是：\nPA = 4，sin∠APO = OA/OP = 3/5，∠APO ≈ 36.9°"
+  },
+  {
+    "id": "g3_math_027_ex06",
+    "knowledge_id": "g3_math_027",
+    "question": "解答题：PA、PB切⊙O于A、B，PA = PB = 10，∠APB = 60°，求⊙O半径和OP。",
+    "answer": "答案：半径10/√3 或 10√3/3，OP = 20/√3 或 20√3/3\n解析：PA = PB = 10，∠APB = 60°\nPO平分∠APB，所以∠APO = 30°\n在Rt△OAP中，tan30° = OA/PA = OA/10\nOA = 10 × tan30° = 10 × √3/3 = 10√3/3\n\nOP = PA/cos30° = 10/(√3/2) = 20/√3 = 20√3/3"
+  },
+  {
+    "id": "g3_math_027_ex07",
+    "knowledge_id": "g3_math_027",
+    "question": "选择题：三角形的内心是（  ）\nA. 三条中线的交点\nB. 三条高线的交点\nC. 三条角平分线的交点\nD. 三边垂直平分线的交点",
+    "answer": "答案：C\n解析：内心是三角形三条角平分线的交点，也是三角形内切圆的圆心。"
+  },
+  {
+    "id": "g3_math_027_ex08",
+    "knowledge_id": "g3_math_027",
+    "question": "填空题：三角形内心到三边的距离______，内心在三角形______。",
+    "answer": "答案：相等，内部\n解析：内心是内切圆圆心，到三边距离等于内切圆半径，所以相等；内心在三角形内部（内切圆在三角形内）。"
+  },
+  {
+    "id": "g3_math_027_ex09",
+    "knowledge_id": "g3_math_027",
+    "question": "选择题：△ABC的内切圆半径为r，面积为S，周长为l，则S =（  ）\nA. rl\nB. rl/2\nC. 2rl\nD. r²l",
+    "answer": "答案：B\n解析：三角形面积 = 内切圆半径 × 周长/2，即S = rl/2。因为三角形分成三个以边为底、r为高的小三角形，面积和 = r × (a+b+c)/2 = rl/2。"
+  },
+  {
+    "id": "g3_math_027_ex10",
+    "knowledge_id": "g3_math_027",
+    "question": "判断题：直角三角形的内切圆半径 r = (a + b - c)/2（其中a、b是直角边，c是斜边）。（  ）",
+    "answer": "答案：正确\n解析：设内切圆切三边于D、E、F，直角三角形特殊：r = (a+b-c)/2。这是直角三角形内切圆半径的常用公式。"
+  }
+]

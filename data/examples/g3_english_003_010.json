@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_003_ex01",
+    "knowledge_id": "g3_english_003",
+    "question": "语法选择题：The movie was ______ moving ______ all of us cried.\nA. so; that\nB. such; that\nC. too; to\nD. enough; to",
+    "answer": "答案：A\n解析：句意：这部电影太感人了，我们所有人都哭了。so + 形容词/副词 + that从句，表示\"如此……以至于……\"，that引导结果状语从句。moving是形容词，所以用so...that...。"
+  },
+  {
+    "id": "g3_english_003_ex02",
+    "knowledge_id": "g3_english_003",
+    "question": "填空题：这个问题太难了，我解不出来。\nThe problem is ______ difficult ______ I can't work it out.",
+    "answer": "答案：so; that\n解析：so + 形容词（difficult） + that从句，表示\"如此……以至于……\"。so...that...引导结果状语从句，that后面接完整的句子。"
+  },
+  {
+    "id": "g3_english_003_ex03",
+    "knowledge_id": "g3_english_003",
+    "question": "语法选择题：It is ______ an interesting book ______ I want to read it again.\nA. so; that\nB. such; that\nC. too; to\nD. very; that",
+    "answer": "答案：B\n解析：句意：这是一本如此有趣的书，我想再读一遍。such + a/an + 形容词 + 可数名词单数 + that从句，也表示\"如此……以至于……\"。an interesting book是名词短语，所以用such...that...。"
+  },
+  {
+    "id": "g3_english_003_ex04",
+    "knowledge_id": "g3_english_003",
+    "question": "句型转换题：The boy is so young that he can't go to school.（改为简单句）\nThe boy is ______ young ______ go to school.",
+    "answer": "答案：too; to\n解析：so...that...（否定）可以与too...to...（太……而不能……）进行同义句转换。too后面接形容词或副词，to后面接动词原形。注意：too...to...本身含有否定意义，不需要再加not。"
+  },
+  {
+    "id": "g3_english_003_ex05",
+    "knowledge_id": "g3_english_003",
+    "question": "翻译题：他跑得太快了，我追不上他。",
+    "answer": "答案：He ran so fast that I couldn't catch up with him.\n解析：so + 副词（fast） + that从句，表示\"如此……以至于……\"。fast是副词，修饰动词ran，所以用so...that...。\"追上\"是catch up with。"
+  },
+  {
+    "id": "g3_english_003_ex06",
+    "knowledge_id": "g3_english_003",
+    "question": "语法选择题：There are ______ many people in the park ______ we can't find a place to sit.\nA. so; that\nB. such; that\nC. too; that\nD. very; that",
+    "answer": "答案：A\n解析：当名词前有many, much, few, little（表示数量多少）修饰时，要用so而不用such，即so many/much/few/little + 名词 + that从句。这里是so many people。"
+  },
+  {
+    "id": "g3_english_003_ex07",
+    "knowledge_id": "g3_english_003",
+    "question": "填空题：用so或such填空\n1. She is ______ a good teacher that we all love her.\n2. She is ______ good that we all love her.",
+    "answer": "答案：such; so\n解析：第1题后面是a good teacher（名词短语），用such...that...；第2题后面是good（形容词），用so...that...。记忆口诀：such后接名词短语，so后接形副。"
+  },
+  {
+    "id": "g3_english_003_ex08",
+    "knowledge_id": "g3_english_003",
+    "question": "语法选择题：He was ______ tired ______ he fell asleep as soon as he lay down.\nA. too; to\nB. so; that\nC. such; that\nD. enough; to",
+    "answer": "答案：B\n解析：句意：他太累了，一躺下就睡着了。tired是形容词，所以用so + 形容词 + that从句。that后面接的是完整的句子he fell asleep...，所以不能用too...to...（to后面接动词原形）。"
+  },
+  {
+    "id": "g3_english_003_ex09",
+    "knowledge_id": "g3_english_003",
+    "question": "句型转换题：The box is so heavy that I can't carry it.（改为同义句）\nThe box is ______ heavy for me ______ carry.",
+    "answer": "答案：too; to\n解析：so...that...否定结构（如此……以至于不能……）可以转换为too...to...结构（太……而不能……）。注意：too...to...结构中，carry后面不能再加it，因为逻辑宾语就是句子的主语the box。"
+  },
+  {
+    "id": "g3_english_003_ex10",
+    "knowledge_id": "g3_english_003",
+    "question": "翻译题：天气如此好，我们决定去野餐。",
+    "answer": "答案：The weather was so fine that we decided to have a picnic.\n或：It was such fine weather that we decided to have a picnic.\n解析：so + 形容词（fine） + that从句；或such + 形容词 + 不可数名词（fine weather） + that从句。weather是不可数名词，前面不能加a/an。"
+  }
+]

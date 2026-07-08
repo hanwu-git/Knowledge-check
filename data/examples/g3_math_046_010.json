@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_math_046_ex01",
+    "knowledge_id": "g3_math_046",
+    "question": "选择题：在Rt△ABC中，∠C=90°，cos A的定义是\nA. a/c\nB. b/c\nC. a/b\nD. b/a",
+    "answer": "答案：B\n解析：cos A = ∠A的邻边/斜边 = b/c。其中b是∠A的邻边，c是斜边。"
+  },
+  {
+    "id": "g3_math_046_ex02",
+    "knowledge_id": "g3_math_046",
+    "question": "填空题：在Rt△ABC中，∠C=90°，tan A = ______/______。",
+    "answer": "答案：对边，邻边\n解析：正切定义：tan A = 对边/邻边 = a/b。"
+  },
+  {
+    "id": "g3_math_046_ex03",
+    "knowledge_id": "g3_math_046",
+    "question": "选择题：在Rt△ABC中，∠C=90°，cos A的取值范围是\nA. cos A = 1\nB. cos A > 1\nC. 0 < cos A < 1\nD. cos A < 0",
+    "answer": "答案：C\n解析：锐角三角形中，邻边 < 斜边，所以cos A = 邻边/斜边 < 1。又因为邻边 > 0，所以cos A > 0。"
+  },
+  {
+    "id": "g3_math_046_ex04",
+    "knowledge_id": "g3_math_046",
+    "question": "解答题：在Rt△ABC中，∠C=90°，a=3，b=4，c=5。求cos A、cos B、tan A、tan B。",
+    "answer": "答案：cos A = 4/5，cos B = 3/5，tan A = 3/4，tan B = 4/3\n解析：cos A = b/c = 4/5，cos B = a/c = 3/5。\ntan A = a/b = 3/4，tan B = b/a = 4/3。"
+  },
+  {
+    "id": "g3_math_046_ex05",
+    "knowledge_id": "g3_math_046",
+    "question": "填空题：cos 30° = ______，cos 45° = ______，cos 60° = ______。",
+    "answer": "答案：√3/2，√2/2，1/2\n解析：特殊角余弦值：cos30°=√3/2，cos45°=√2/2，cos60°=1/2。"
+  },
+  {
+    "id": "g3_math_046_ex06",
+    "knowledge_id": "g3_math_046",
+    "question": "选择题：tan A的取值范围是\nA. tan A < 1\nB. tan A > 1\nC. tan A > 0\nD. tan A可以是任意值",
+    "answer": "答案：C\n解析：锐角三角形中，tan A = 对边/邻边 > 0。没有上限，当角度接近90°时，tan A趋近于无穷大。"
+  },
+  {
+    "id": "g3_math_046_ex07",
+    "knowledge_id": "g3_math_046",
+    "question": "解答题：在Rt△ABC中，∠C=90°，∠A=45°。求sin A、cos A、tan A。",
+    "answer": "答案：sin A = √2/2，cos A = √2/2，tan A = 1\n解析：∠A=45°时，这是等腰直角三角形，a=b。\nsin45°=√2/2，cos45°=√2/2，tan45°=1。\n45°角时正弦和余弦相等。"
+  },
+  {
+    "id": "g3_math_046_ex08",
+    "knowledge_id": "g3_math_046",
+    "question": "填空题：tan 30° = ______，tan 45° = ______，tan 60° = ______。",
+    "answer": "答案：√3/3，1，√3\n解析：特殊角正切值：tan30°=√3/3，tan45°=1，tan60°=√3。"
+  },
+  {
+    "id": "g3_math_046_ex09",
+    "knowledge_id": "g3_math_046",
+    "question": "选择题：同角三角函数关系不包括\nA. sin²A + cos²A = 1\nB. tan A = sin A/cos A\nC. tan A × cos A = sin A\nD. sin A + cos A = 1",
+    "answer": "答案：D\n解析：sin A + cos A不一定等于1。正确的关系：sin²A+cos²A=1，tan A=sin A/cos A，tan A·cos A=sin A。"
+  },
+  {
+    "id": "g3_math_046_ex10",
+    "knowledge_id": "g3_math_046",
+    "question": "判断题：角度从0°到90°，cos A逐渐减小，tan A逐渐增大。（  ）",
+    "answer": "答案：正确\n解析：余弦值随角度增大而减小，正切值随角度增大而增大。这是三角函数值的变化规律。"
+  }
+]

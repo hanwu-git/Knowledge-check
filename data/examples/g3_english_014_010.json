@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_014_ex01",
+    "knowledge_id": "g3_english_014",
+    "question": "语法选择题：The bridge ______ two years ago.\nA. is built\nB. was built\nC. builds\nD. built",
+    "answer": "答案：B\n解析：本题考查一般过去时的被动语态。被动语态的基本结构是\"be + 及物动词的过去分词\"。根据时间状语two years ago（两年前），句子要用一般过去时。句子主语The bridge（桥）是动作的承受者，桥是\"被建造\"的，所以用被动语态。一般过去时被动语态的结构是was/were + 过去分词。主语是单数，所以用was built。A选项is built是一般现在时的被动语态，时间不对；C选项builds是一般现在时主动语态；D选项built是一般过去时主动语态，都不正确。"
+  },
+  {
+    "id": "g3_english_014_ex02",
+    "knowledge_id": "g3_english_014",
+    "question": "语法选择题：English ______ in many countries around the world.\nA. speaks\nB. is spoken\nC. is speaking\nD. spoke",
+    "answer": "答案：B\n解析：本题考查一般现在时的被动语态。句子主语English（英语）是动作的承受者，英语是\"被说\"的，所以用被动语态。一般现在时被动语态的结构是am/is/are + 过去分词。主语English是单数，所以用is spoken。A选项speaks是一般现在时主动语态第三人称单数；C选项is speaking是现在进行时主动语态；D选项spoke是一般过去时主动语态。被动语态表示主语是动作的承受者，即行为动作的对象。"
+  },
+  {
+    "id": "g3_english_014_ex03",
+    "knowledge_id": "g3_english_014",
+    "question": "填空题：The classroom ______ ______ (clean) by the students every day.（用所给词的适当形式填空）",
+    "answer": "答案：is cleaned\n解析：本题考查一般现在时的被动语态。句子主语The classroom（教室）是动作的承受者，教室是\"被打扫\"的，所以用被动语态。根据时间状语every day（每天），句子用一般现在时。一般现在时被动语态结构：am/is/are + 过去分词。主语是单数，所以用is cleaned。被动语态的基本构成是\"be + 及物动词的过去分词\"，be动词随时称和数的变化而变化。"
+  },
+  {
+    "id": "g3_english_014_ex04",
+    "knowledge_id": "g3_english_014",
+    "question": "语法选择题：A new school ______ next year in our city.\nA. will build\nB. will be built\nC. is built\nD. was built",
+    "answer": "答案：B\n解析：本题考查一般将来时的被动语态。根据时间状语next year（明年），句子要用一般将来时。主语A new school（一所新学校）是动作的承受者，学校是\"被建造\"的，所以用被动语态。一般将来时被动语态的结构是will be + 过去分词，或am/is/are going to be + 过去分词。所以正确答案是will be built。A选项will build是一般将来时主动语态；C选项is built是一般现在时被动语态，时间不对；D选项was built是一般过去时被动语态，时间不对。"
+  },
+  {
+    "id": "g3_english_014_ex05",
+    "knowledge_id": "g3_english_014",
+    "question": "句型转换题：We plant many trees every spring.（改为被动语态）\nMany trees ______ ______ every spring.",
+    "answer": "答案：are planted\n解析：本题考查主动语态变被动语态。主动语态变被动语态的步骤：1) 把主动句的宾语many trees变成被动句的主语；2) 谓语动词变成\"be + 过去分词\"结构；3) 主动句的主语we变为by us（可以省略）。原句是一般现在时，被动句也用一般现在时。主语Many trees是复数，所以be动词用are，plant的过去分词是planted。所以答案是are planted。注意：被动语态中，动作的执行者由by引出，如果不需要强调动作的话，by短语可以省略。"
+  },
+  {
+    "id": "g3_english_014_ex06",
+    "knowledge_id": "g3_english_014",
+    "question": "翻译题：这本书是鲁迅写的。（用被动语态翻译）",
+    "answer": "答案：This book was written by Lu Xun.\n解析：本题考查一般过去时的被动语态。书是\"被写\"的，所以用被动语态。书已经写的动作发生在过去，所以用一般过去时的被动语态：was/were + 过去分词。主语This book是单数，所以用was written。\"被某人写的\"用by sb.表示动作的执行者。write的过去分词是written。注意：write是不规则动词，过去式wrote，过去分词written。被动语态翻译时，要把汉语的主动句变成英语的被动句，把原句的宾语变为主语，谓语变为be + 过去分词。"
+  },
+  {
+    "id": "g3_english_014_ex07",
+    "knowledge_id": "g3_english_014",
+    "question": "语法选择题：—______ the telephone ______ by Alexander Graham Bell?\nA. Is; invented\nB. Was; invented\nC. Did; invent\nD. Does; invent",
+    "answer": "答案：B\n解析：本题考查一般过去时被动语态的疑问句形式。被动语态的疑问句把be动词提前。电话是\"被发明\"的，所以用被动语态。电话的发明发生在过去，所以用一般过去时。一般过去时被动语态的疑问结构是Was/Were + 主语 + 过去分词？主语the telephone是单数，所以用Was...invented。A选项Is...invented是一般现在时被动语态，时间不对；C选项Did...invent是一般过去时主动语态；D选项Does...invent是一般现在时主动语态。被动语态的疑问句是把be动词提到主语前面。"
+  },
+  {
+    "id": "g3_english_014_ex08",
+    "knowledge_id": "g3_english_014",
+    "question": "填空题：The problem can ______ ______ (solve) by us in two hours.（用所给词的适当形式填空）",
+    "answer": "答案：be solved\n解析：本题考查含有情态动词的被动语态。含有情态动词的被动语态结构是：情态动词 + be + 过去分词。主语The problem（问题）是动作的承受者，问题是\"被解决\"的，所以用被动语态。情态动词can后面接be + 过去分词，即can be solved。solve的过去分词是solved。常见的情态动词有：can, may, must, should, need等，它们的被动语态结构都是：情态动词 + be + 过去分词。例如：The work must be finished today.（这项工作必须今天完成。）"
+  },
+  {
+    "id": "g3_english_014_ex09",
+    "knowledge_id": "g3_english_014",
+    "question": "句型转换题：They have built a new hospital in the town.（改为被动语态）\nA new hospital ______ ______ ______ in the town.",
+    "answer": "答案：has been built\n解析：本题考查现在完成时的被动语态。现在完成时被动语态的结构是：have/has + been + 过去分词。原句是现在完成时，被动句也用现在完成时。主语A new hospital是单数，所以用has been built。build的过去分词是built。主动语态变被动语态时，时态要保持一致。现在完成时被动语态的构成是have/has been + done。注意：build是不规则动词，过去式built，过去分词也是built。"
+  },
+  {
+    "id": "g3_english_014_ex10",
+    "knowledge_id": "g3_english_014",
+    "question": "翻译题：这些花必须每天浇水。（用被动语态翻译）",
+    "answer": "答案：These flowers must be watered every day.\n解析：本题考查含有情态动词must的被动语态。花是\"被浇水\"的，所以用被动语态。含有情态动词的被动语态结构是：情态动词 + be + 过去分词。must表示\"必须\"，后面接be watered。\"每天\"是every day。注意：water在这里作动词，意思是\"浇水\"，过去分词是watered。被动语态翻译时，如果汉语句子没有出现\"被\"字，但逻辑上是被动关系，也要用被动语态。"
+  }
+]

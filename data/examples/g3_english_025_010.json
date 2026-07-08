@@ -1,0 +1,72 @@
+[
+  {
+    "id": "g3_english_025_ex01",
+    "knowledge_id": "g3_english_025",
+    "question": "语法选择题：The girl ______ is standing under the tree is my best friend Lily.\nA. who\nB. which\nC. what\nD. whom"
+  ,
+    "answer": "答案：A\n解析：本题考查定语从句关系代词的用法。先行词是the girl（人），关系代词在从句中作主语，因此用who。which用于先行词是物的情况；what不能引导定语从句；whom在从句中作宾语。故选A。"
+  },
+  {
+    "id": "g3_english_025_ex02",
+    "knowledge_id": "g3_english_025",
+    "question": "语法选择题：This is the book ______ my father bought for me last week.\nA. who\nB. whom\nC. which\nD. whose"
+  ,
+    "answer": "答案：C\n解析：本题考查定语从句关系代词的用法。先行词是the book（物），关系代词在从句中作bought的宾语，因此用which。who和whom用于先行词是人的情况；whose表示所属关系。故选C。"
+  },
+  {
+    "id": "g3_english_025_ex03",
+    "knowledge_id": "g3_english_025",
+    "question": "语法选择题：The movie ______ we watched last night was very exciting.\nA. who\nB. that\nC. what\nD. whom"
+  ,
+    "answer": "答案：B\n解析：本题考查定语从句关系代词that的用法。先行词是the movie（物），关系代词在从句中作宾语，that既可指人也可指物，符合题意。what不能引导定语从句；who和whom用于指人。故选B。"
+  },
+  {
+    "id": "g3_english_025_ex04",
+    "knowledge_id": "g3_english_025",
+    "question": "填空题：用适当的关系代词填空。\nThe man ______ is talking to our teacher is Tom's father.\n（提示：先行词是人，在从句中作主语）"
+  ,
+    "answer": "答案：who/that\n解析：先行词the man指人，关系代词在定语从句中作主语，可用who或that。who专指人，that既可指人也可指物，两者都可以在从句中作主语。"
+  },
+  {
+    "id": "g3_english_025_ex05",
+    "knowledge_id": "g3_english_025",
+    "question": "填空题：用适当的关系代词填空。\nThe letter ______ I received yesterday was from my pen pal.\n（提示：先行词是物，在从句中作宾语）"
+  ,
+    "answer": "答案：which/that\n解析：先行词the letter指物，关系代词在定语从句中作received的宾语，可用which或that，也可以省略。which专指物，that既可指人也可指物。"
+  },
+  {
+    "id": "g3_english_025_ex06",
+    "knowledge_id": "g3_english_025",
+    "question": "句型转换题：将两个句子合并为含有定语从句的复合句。\nThe girl is from America. She can speak Chinese very well.\n（提示：先行词the girl，关系代词用who或that）"
+  ,
+    "answer": "答案：The girl who/that can speak Chinese very well is from America.\n解析：本题考查定语从句的合并。先行词是the girl（人），关系代词用who或that，在从句中作主语。合并后句意为：中文说得很好的那个女孩来自美国。"
+  },
+  {
+    "id": "g3_english_025_ex07",
+    "knowledge_id": "g3_english_025",
+    "question": "句型转换题：将两个句子合并为含有定语从句的复合句。\nI have a cat. The cat is white and black.\n（提示：先行词a cat，关系代词用which或that）"
+  ,
+    "answer": "答案：I have a cat which/that is white and black.\n解析：本题考查定语从句的合并。先行词是a cat（物），关系代词用which或that，在从句中作主语。合并后句意为：我有一只黑白相间的猫。"
+  },
+  {
+    "id": "g3_english_025_ex08",
+    "knowledge_id": "g3_english_025",
+    "question": "翻译题：翻译句子。\n正在弹钢琴的那个女孩是我的表妹。\n（提示：先行词the girl，弹钢琴play the piano，用现在进行时）"
+  ,
+    "answer": "答案：The girl who/that is playing the piano is my cousin.\n解析：本题考查定语从句的翻译。先行词the girl指人，用who或that引导定语从句，从句用现在进行时is playing the piano表示正在进行的动作。"
+  },
+  {
+    "id": "g3_english_025_ex09",
+    "knowledge_id": "g3_english_025",
+    "question": "翻译题：翻译句子。\n这是我上周买的那本字典。\n（提示：先行词the dictionary，用一般过去时）"
+  ,
+    "answer": "答案：This is the dictionary which/that I bought last week.\n解析：本题考查定语从句的翻译。先行词the dictionary指物，用which或that引导定语从句，也可以省略关系代词。从句用一般过去时bought表示上周发生的动作。"
+  },
+  {
+    "id": "g3_english_025_ex10",
+    "knowledge_id": "g3_english_025",
+    "question": "语法选择题：—Do you know the boy ______ is running on the playground?\n—Yes, he is my classmate.\nA. which\nB. who\nC. whom\nD. whose"
+  ,
+    "answer": "答案：B\n解析：本题考查定语从句关系代词的辨析。先行词是the boy（人），关系代词在从句中作主语，所以用who。which指物；whom在从句中作宾语；whose表示所属关系。故选B。"
+  }
+]

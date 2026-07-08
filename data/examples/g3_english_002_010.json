@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_002_ex01",
+    "knowledge_id": "g3_english_002",
+    "question": "语法选择题：I ______ this book two days ago, and I ______ it twice already.\nA. bought; have read\nB. have bought; read\nC. bought; read\nD. have bought; have read",
+    "answer": "答案：A\n解析：第一空有two days ago（两天前），表示过去某个具体时间发生的动作，用一般过去时bought；第二空有already（已经），表示到现在为止已经完成的动作，强调对现在的影响，用现在完成时have read。"
+  },
+  {
+    "id": "g3_english_002_ex02",
+    "knowledge_id": "g3_english_002",
+    "question": "填空题：用所给动词的适当形式填空\n—______ you ever ______ (visit) the Great Wall?\n—Yes, I ______ (go) there last summer.",
+    "answer": "答案：Have; visited; went\n解析：第一句有ever（曾经），表示到目前为止的经历，用现在完成时Have you ever visited...；第二句有last summer（去年夏天），表示过去具体时间发生的动作，用一般过去时went。"
+  },
+  {
+    "id": "g3_english_002_ex03",
+    "knowledge_id": "g3_english_002",
+    "question": "语法选择题：My uncle ______ in this city since 2010.\nA. lives\nB. lived\nC. has lived\nD. is living",
+    "answer": "答案：C\n解析：since + 过去时间点（自从2010年以来），表示从过去某一时间开始持续到现在的动作或状态，要用现在完成时has lived。"
+  },
+  {
+    "id": "g3_english_002_ex04",
+    "knowledge_id": "g3_english_002",
+    "question": "句型转换题：I have already finished my homework.（改为一般疑问句并作否定回答）\n—______ you ______ your homework ______?\n—No, I ______.",
+    "answer": "答案：Have; finished; yet; haven't\n解析：现在完成时变一般疑问句要把have/has提前，already要变为yet（yet用于疑问句和否定句中）。否定回答用No, I haven't."
+  },
+  {
+    "id": "g3_english_002_ex05",
+    "knowledge_id": "g3_english_002",
+    "question": "翻译题：我已经看过这部电影了，我是上个月看的。",
+    "answer": "答案：I have already watched this movie. I watched it last month.\n解析：第一句\"已经看过\"强调到现在为止的结果，用现在完成时have already watched；第二句有具体的过去时间\"上个月\"，用一般过去时watched。"
+  },
+  {
+    "id": "g3_english_002_ex06",
+    "knowledge_id": "g3_english_002",
+    "question": "语法选择题：—Where is Tom?\n—He ______ to the library. He ______ there ten minutes ago.\nA. has been; went\nB. has gone; went\nC. went; has gone\nD. went; has been",
+    "answer": "答案：B\n解析：第一空表示Tom去了图书馆（还没回来），用has gone to；第二空有ten minutes ago（十分钟前），表示过去具体时间的动作，用一般过去时went。has been to表示\"去过某地（已回来）\"。"
+  },
+  {
+    "id": "g3_english_002_ex07",
+    "knowledge_id": "g3_english_002",
+    "question": "填空题：用for或since填空\n1. She has lived in Beijing ______ ten years.\n2. He has worked here ______ he graduated from college.",
+    "answer": "答案：for; since\n解析：for + 时间段（ten years十年），表示动作持续了多长时间；since + 时间点/从句（he graduated from college他大学毕业），表示动作从什么时候开始。两者都是现在完成时的标志词。"
+  },
+  {
+    "id": "g3_english_002_ex08",
+    "knowledge_id": "g3_english_002",
+    "question": "语法选择题：He ______ his homework yesterday, so he ______ free now.\nA. finished; is\nB. has finished; is\nC. finished; was\nD. has finished; was",
+    "answer": "答案：A\n解析：第一空有yesterday（昨天），用一般过去时finished；第二空有now（现在），表示现在的状态，用一般现在时is。现在完成时不能与yesterday等明确表示过去的时间状语连用。"
+  },
+  {
+    "id": "g3_english_002_ex09",
+    "knowledge_id": "g3_english_002",
+    "question": "句型转换题：She arrived here three days ago.（改为同义句）\nShe ______ ______ here ______ three days.",
+    "answer": "答案：has been; for\n解析：原句用一般过去时表示三天前到达的动作。同义句用现在完成时表示\"她在这里已经三天了\"的状态。arrive是短暂性动词，不能与for+时间段连用，要变为延续性动词be。"
+  },
+  {
+    "id": "g3_english_002_ex10",
+    "knowledge_id": "g3_english_002",
+    "question": "翻译题：你买这台电脑多久了？我买了两年了。",
+    "answer": "答案：—How long have you had this computer?\n—I have had it for two years.\n解析：how long提问多长时间，要用现在完成时。buy（买）是短暂性动词，不能与for+时间段连用，要变为延续性动词have。正确表达是have had，而不是have bought。"
+  }
+]

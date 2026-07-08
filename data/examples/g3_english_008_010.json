@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_008_ex01",
+    "knowledge_id": "g3_english_008",
+    "question": "语法选择题：Can you tell me ______?\nA. where does he live\nB. where he lives\nC. where did he live\nD. where he lived",
+    "answer": "答案：B\n解析：宾语从句必须用陈述语序，即\"引导词 + 主语 + 谓语\"，排除A和C（疑问语序）。主句是一般现在时，从句根据句意用一般现在时，所以选where he lives。"
+  },
+  {
+    "id": "g3_english_008_ex02",
+    "knowledge_id": "g3_english_008",
+    "question": "填空题：我不知道他什么时候回来。\nI don't know ______ he ______ ______ back.",
+    "answer": "答案：when; will come\n解析：when引导宾语从句，作know的宾语。从句要用陈述语序，\"回来\"是come back，根据句意用一般将来时will come back。"
+  },
+  {
+    "id": "g3_english_008_ex03",
+    "knowledge_id": "g3_english_008",
+    "question": "语法选择题：I want to know ______ you will go to the park tomorrow.\nA. what\nB. who\nC. whether\nD. which",
+    "answer": "答案：C\n解析：句意：我想知道你明天是否会去公园。从句不缺少主语或宾语，排除what, who, which。whether意为\"是否\"，引导宾语从句，符合句意。"
+  },
+  {
+    "id": "g3_english_008_ex04",
+    "knowledge_id": "g3_english_008",
+    "question": "句型转换题：What is he doing? I want to know.（合并为一句）\nI want to know ______ he ______ ______.",
+    "answer": "答案：what; is doing\n解析：特殊疑问句变宾语从句，用原来的疑问词what引导，从句要变为陈述语序，即主语he在前，谓语is doing在后。"
+  },
+  {
+    "id": "g3_english_008_ex05",
+    "knowledge_id": "g3_english_008",
+    "question": "翻译题：你能告诉我图书馆在哪里吗？",
+    "answer": "答案：Can you tell me where the library is?\n解析：where引导宾语从句，作tell的直接宾语。从句必须用陈述语序：where + 主语（the library） + 谓语（is），而不是where is the library。"
+  },
+  {
+    "id": "g3_english_008_ex06",
+    "knowledge_id": "g3_english_008",
+    "question": "语法选择题：He asked me ______ I had spent my holiday.\nA. what\nB. who\nC. where\nD. which",
+    "answer": "答案：C\n解析：句意：他问我在哪里度的假。从句I had spent my holiday主谓宾完整，缺少地点状语\"在哪里\"，所以用where引导宾语从句，where在从句中作地点状语。"
+  },
+  {
+    "id": "g3_english_008_ex07",
+    "knowledge_id": "g3_english_008",
+    "question": "填空题：选择正确的引导词填空（what, who, where, how, why）\n1. Can you tell me ______ you got to school this morning? —By bike.\n2. Do you know ______ he didn't come yesterday? —Because he was ill.",
+    "answer": "答案：how; why\n解析：第1题答语By bike（骑自行车）是方式，用how（怎样、如何）提问；第2题答语Because...是原因，用why（为什么）提问。"
+  },
+  {
+    "id": "g3_english_008_ex08",
+    "knowledge_id": "g3_english_008",
+    "question": "语法选择题：Could you tell me ______ the book is?\nA. who\nB. whose\nC. what\nD. how",
+    "answer": "答案：B\n解析：句意：你能告诉我这是谁的书吗？whose意为\"谁的\"，在从句中作定语修饰book，符合句意。"
+  },
+  {
+    "id": "g3_english_008_ex09",
+    "knowledge_id": "g3_english_008",
+    "question": "句型转换题：When did he leave? I didn't know.（合并为一句）\nI didn't know ______ he ______ ______.",
+    "answer": "答案：when; had left\n解析：when引导宾语从句，从句用陈述语序。主句didn't know是一般过去时，从句动作发生在\"不知道\"之前，即\"过去的过去\"，所以用过去完成时had left。"
+  },
+  {
+    "id": "g3_english_008_ex10",
+    "knowledge_id": "g3_english_008",
+    "question": "翻译题：老师问我们是否完成了作业。",
+    "answer": "答案：The teacher asked us if/whether we had finished our homework.\n解析：if/whether引导宾语从句，意为\"是否\"。主句asked是一般过去时，从句动作发生在asked之前，用过去完成时had finished。从句用陈述语序。"
+  }
+]

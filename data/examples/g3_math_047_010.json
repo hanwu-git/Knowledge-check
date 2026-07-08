@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_math_047_ex01",
+    "knowledge_id": "g3_math_047",
+    "question": "选择题：sin 60°的值是\nA. 1/2\nB. √2/2\nC. √3/2\nD. √3/3",
+    "answer": "答案：C\n解析：sin60°=√3/2。特殊角三角函数值必须熟记。"
+  },
+  {
+    "id": "g3_math_047_ex02",
+    "knowledge_id": "g3_math_047",
+    "question": "填空题：30°-60°-90°三角形三边比例为______:______:______。",
+    "answer": "答案：1，√3，2\n解析：30°-60°-90°三角形边长比例：最短边(30°对边):中边(60°对边):斜边=1:√3:2。"
+  },
+  {
+    "id": "g3_math_047_ex03",
+    "knowledge_id": "g3_math_047",
+    "question": "选择题：45°-45°-90°三角形三边比例为\nA. 1:1:1\nB. 1:1:√2\nC. 1:√2:√2\nD. 1:2:√5",
+    "answer": "答案：B\n解析：等腰直角三角形边长比例：直角边:直角边:斜边=1:1:√2。"
+  },
+  {
+    "id": "g3_math_047_ex04",
+    "knowledge_id": "g3_math_047",
+    "question": "解答题：在30°-60°-90°三角形中，最短边为2 cm。求其他两边长。",
+    "answer": "答案：中边=2√3 cm，斜边=4 cm\n解析：30°-60°-90°三角形边长比例1:√3:2。\n最短边(30°对边)=2 cm。\n中边(60°对边)=2×√3=2√3 cm。\n斜边=2×2=4 cm。"
+  },
+  {
+    "id": "g3_math_047_ex05",
+    "knowledge_id": "g3_math_047",
+    "question": "判断题：若∠A+∠B=90°，则sin A=cos B。（  ）",
+    "answer": "答案：正确\n解析：互余角关系：若∠A+∠B=90°，则sin A=cos B，cos A=sin B。这是重要性质。"
+  },
+  {
+    "id": "g3_math_047_ex06",
+    "knowledge_id": "g3_math_047",
+    "question": "填空题：已知sin A = √3/2，则∠A = ______°。",
+    "answer": "答案：60\n解析：sin60°=√3/2，所以∠A=60°。需要记住特殊角的三角函数值及其反查。"
+  },
+  {
+    "id": "g3_math_047_ex07",
+    "knowledge_id": "g3_math_047",
+    "question": "选择题：已知tan A = 1，则∠A =\nA. 30°\nB. 45°\nC. 60°\nD. 90°",
+    "answer": "答案：B\n解析：tan45°=1，所以∠A=45°。"
+  },
+  {
+    "id": "g3_math_047_ex08",
+    "knowledge_id": "g3_math_047",
+    "question": "解答题：已知cos A = 1/2，求sin A和tan A。",
+    "answer": "答案：sin A = √3/2，tan A = √3\n解析：cos A = 1/2 ⇒ ∠A = 60°。\nsin60°=√3/2，tan60°=√3。\n也可用sin²A+cos²A=1：sin²A=1-(1/2)²=3/4，sin A=√3/2。"
+  },
+  {
+    "id": "g3_math_047_ex09",
+    "knowledge_id": "g3_math_047",
+    "question": "选择题：记忆口诀\"正弦一二三\"指的是\nA. sin30°=1/2，sin45°=√2/2，sin60°=√3/2\nB. sin值的分子根号里1,2,3递增\nC. sin值=1,2,3\nD. sin30°=1，sin45°=2，sin60°=3",
+    "answer": "答案：B\n解析：正弦值分子根号里：sin30°=√1/2=1/2，sin45°=√2/2，sin60°=√3/2。根号里1,2,3递增。"
+  },
+  {
+    "id": "g3_math_047_ex10",
+    "knowledge_id": "g3_math_047",
+    "question": "填空题：互余角关系：若∠A+∠B=90°，则sin A = cos ______，cos A = sin ______。",
+    "answer": "答案：B，B\n解析：互余角：sin A = cos B，cos A = sin B。例如sin30°=cos60°=1/2。"
+  }
+]

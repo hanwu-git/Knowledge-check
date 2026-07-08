@@ -1,0 +1,72 @@
+[
+  {
+    "id": "g3_english_029_ex01",
+    "knowledge_id": "g3_english_029",
+    "question": "语法选择题：I think ______ important to learn English well.\nA. that\nB. this\nC. it\nD. its"
+  ,
+    "answer": "答案：C\n解析：本题考查it作形式宾语的用法。在think/find/consider/make等动词后，常用it作形式宾语，真正的宾语是后面的不定式to learn English well。结构为：主语 + 谓语 + it + 形容词 + to do sth.。故选C。"
+  },
+  {
+    "id": "g3_english_029_ex02",
+    "knowledge_id": "g3_english_029",
+    "question": "语法选择题：She found ______ difficult to work out the math problem.\nA. it\nB. that\nC. this\nD. one"
+  ,
+    "answer": "答案：A\n解析：本题考查it作形式宾语的用法。find it + 形容词 + to do sth. 表示\"发现做某事是...的\"，其中it是形式宾语，真正的宾语是后面的不定式to work out the math problem。故选A。"
+  },
+  {
+    "id": "g3_english_029_ex03",
+    "knowledge_id": "g3_english_029",
+    "question": "语法选择题：We think it necessary ______ more books.\nA. read\nB. reading\nC. to read\nD. reads"
+  ,
+    "answer": "答案：C\n解析：本题考查it作形式宾语的用法。think it + 形容词 + to do sth. 表示\"认为做某事是...的\"，其中it是形式宾语，真正的宾语是后面的不定式to read more books。故选C。"
+  },
+  {
+    "id": "g3_english_029_ex04",
+    "knowledge_id": "g3_english_029",
+    "question": "填空题：用适当的词填空。\nI find ______ easy to learn English if you work hard."
+  ,
+    "answer": "答案：it\n解析：本题考查it作形式宾语的用法。find it + 形容词 + to do sth. 是固定结构，it作形式宾语，真正的宾语是后面的不定式to learn English。"
+  },
+  {
+    "id": "g3_english_029_ex05",
+    "knowledge_id": "g3_english_029",
+    "question": "填空题：用所给动词的适当形式填空。\nShe thinks it very interesting ______ (play) basketball with her friends."
+  ,
+    "answer": "答案：to play\n解析：本题考查it作形式宾语的用法。think it + 形容词 + to do sth. 结构中，it是形式宾语，真正的宾语是后面的不定式短语to play basketball with her friends。"
+  },
+  {
+    "id": "g3_english_029_ex06",
+    "knowledge_id": "g3_english_029",
+    "question": "句型转换题：改为简单句（用it作形式宾语）。\nI think that learning English well is important.\n= I think ______ important ______ ______ English well."
+  ,
+    "answer": "答案：it; to learn\n解析：本题考查宾语从句与it作形式宾语的转换。原句是that引导的宾语从句，可以转换为\"主语 + 谓语 + it + 形容词 + to do sth.\"结构，it作形式宾语，真正的宾语是后面的不定式。"
+  },
+  {
+    "id": "g3_english_029_ex07",
+    "knowledge_id": "g3_english_029",
+    "question": "句型转换题：改为复合句（改为宾语从句）。\nWe find it necessary to protect the environment.\n= We find ______ ______ necessary to protect the environment."
+  ,
+    "answer": "答案：that it is\n解析：本题考查it作形式宾语与宾语从句的转换。it作形式宾语的简单句可以转换为that引导的宾语从句，从句中it作形式主语，真正的主语是后面的不定式。"
+  },
+  {
+    "id": "g3_english_029_ex08",
+    "knowledge_id": "g3_english_029",
+    "question": "翻译题：翻译句子。\n我认为每天锻炼很重要。"
+  ,
+    "answer": "答案：I think it important to exercise every day.\n解析：本题考查it作形式宾语的翻译。think it + 形容词 + to do sth. 表示\"认为做某事是...的\"，it作形式宾语，真正的宾语是to exercise every day。锻炼：exercise；每天：every day。"
+  },
+  {
+    "id": "g3_english_029_ex09",
+    "knowledge_id": "g3_english_029",
+    "question": "翻译题：翻译句子。\n我们发现和他交朋友很难。"
+  ,
+    "answer": "答案：We find it difficult to make friends with him.\n解析：本题考查it作形式宾语的翻译。find it + 形容词 + to do sth. 表示\"发现做某事是...的\"，it作形式宾语，真正的宾语是to make friends with him。和某人交朋友：make friends with sb.。"
+  },
+  {
+    "id": "g3_english_029_ex10",
+    "knowledge_id": "g3_english_029",
+    "question": "语法选择题：Which sentence is wrong?\nA. I find it easy to learn English.\nB. She thinks it important to study hard.\nC. We found that difficult to finish the work.\nD. They consider it necessary to help others."
+  ,
+    "answer": "答案：C\n解析：本题考查it作形式宾语的正确用法。A、B、D选项都正确使用了it作形式宾语的结构。C选项错误，应该用it作形式宾语，即We found it difficult to finish the work. 或者改为宾语从句We found that it was difficult to finish the work."
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "g3_english_031_ex01",
+    "knowledge_id": "g3_english_031",
+    "question": "语法选择题：The teacher made the students ______ the homework again.\nA. do\nB. to do\nC. doing\nD. did"
+  ,
+    "answer": "答案：A\n解析：本题考查使役动词make的用法。make sb. do sth. 表示\"使某人做某事\"，make后接不带to的不定式作宾语补足语。在主动语态中，不定式符号to要省略。故选A。"
+  },
+  {
+    "id": "g3_english_031_ex02",
+    "knowledge_id": "g3_english_031",
+    "question": "语法选择题：The boy was made ______ the classroom by his teacher.\nA. clean\nB. to clean\nC. cleaning\nD. cleaned"
+  ,
+    "answer": "答案：B\n解析：本题考查使役动词make的被动语态。make sb. do sth. 的被动形式是sb. be made to do sth.，在被动语态中，省略的不定式符号to要还原。故选B。"
+  },
+  {
+    "id": "g3_english_031_ex03",
+    "knowledge_id": "g3_english_031",
+    "question": "语法选择题：The movie made us ______.\nA. happily\nB. happy\nC. happiness\nD. happierly"
+  ,
+    "answer": "答案：B\n解析：本题考查make的用法。make sb. + 形容词 表示\"使某人处于某种状态\"，形容词作宾语补足语。happily是副词；happiness是名词；happierly形式错误。故选B。"
+  },
+  {
+    "id": "g3_english_031_ex04",
+    "knowledge_id": "g3_english_031",
+    "question": "填空题：用所给动词的适当形式填空。\nThe loud music makes me ______ (want) to leave."
+  ,
+    "answer": "答案：want\n解析：本题考查make sb. do sth. 的用法。make sb. do sth. 表示\"使某人做某事\"，make后接不带to的不定式作宾语补足语，所以填动词原形want。"
+  },
+  {
+    "id": "g3_english_031_ex05",
+    "knowledge_id": "g3_english_031",
+    "question": "填空题：用所给词的适当形式填空。\nThe news made everyone ______ (excite)."
+  ,
+    "answer": "答案：excited\n解析：本题考查make sb. + 形容词的用法。make sb. + 形容词 表示\"使某人处于某种状态\"。excite的形容词形式有excited（感到兴奋的，修饰人）和exciting（令人兴奋的，修饰物）。这里修饰everyone，所以用excited。"
+  },
+  {
+    "id": "g3_english_031_ex06",
+    "knowledge_id": "g3_english_031",
+    "question": "句型转换题：改为被动语态。\nThe boss made the workers work 12 hours a day.\n= The workers ______ ______ ______ work 12 hours a day by the boss."
+  ,
+    "answer": "答案：were made to\n解析：本题考查make的被动语态。make sb. do sth. 的被动形式是sb. be made to do sth.。原句是一般过去时，被动语态也用一般过去时，主语the workers是复数，所以be动词用were，made后接带to的不定式to work。"
+  },
+  {
+    "id": "g3_english_031_ex07",
+    "knowledge_id": "g3_english_031",
+    "question": "句型转换题：同义句转换。\nThe story was so funny that we all laughed.\n= The funny story made ______ ______ ______."
+  ,
+    "answer": "答案：us all laugh\n解析：本题考查so...that...句型与make的转换。so...that...表示\"如此...以至于...\"，可以转换为make sb. do sth. 结构，表示\"使某人做某事\"。make后接不带to的不定式作宾语补足语。"
+  },
+  {
+    "id": "g3_english_031_ex08",
+    "knowledge_id": "g3_english_031",
+    "question": "翻译题：翻译句子。\n这个消息让我们很开心。"
+  ,
+    "answer": "答案：The news made us very happy.\n解析：本题考查make sb. + 形容词的用法。make sb. + 形容词 表示\"使某人处于某种状态\"。消息：news；开心的：happy。根据语境用一般过去时made。"
+  },
+  {
+    "id": "g3_english_031_ex09",
+    "knowledge_id": "g3_english_031",
+    "question": "翻译题：翻译句子。\n他妈妈让他每天练习钢琴。"
+  ,
+    "answer": "答案：His mother makes him practice the piano every day.\n解析：本题考查make sb. do sth. 的用法。make sb. do sth. 表示\"使某人做某事\"，make后接不带to的不定式作宾语补足语。练习钢琴：practice the piano；每天：every day。主语his mother是第三人称单数，所以make用makes。"
+  },
+  {
+    "id": "g3_english_031_ex10",
+    "knowledge_id": "g3_english_031",
+    "question": "语法选择题：Which of the following sentences is correct?\nA. The sad movie made me to cry.\nB. He was made work all day.\nC. The good news made us happy.\nD. Our teacher makes us to study hard."
+  ,
+    "answer": "答案：C\n解析：本题考查make的正确用法。A选项错误，make sb. do sth. 中不定式不带to；B选项错误，被动语态中要还原to，应该是He was made to work all day；D选项错误，make sb. do sth. 中不定式不带to；C选项正确，make sb. + 形容词表示\"使某人...\"。故选C。"
+  }
+]

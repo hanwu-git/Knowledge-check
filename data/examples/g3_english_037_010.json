@@ -1,0 +1,62 @@
+[
+  {
+    "id": "g3_english_037_ex01",
+    "knowledge_id": "g3_english_037",
+    "question": "语法选择：— Where are you going for vacation?\n— I ______ to Beijing with my parents next week.\nA. go\nB. went\nC. am going\nD. have gone",
+    "answer": "答案：C\n解析：本题考查现在进行时表示将来。表示位置移动的动词（如go, come, leave, arrive等）常用现在进行时表示按计划或安排即将发生的动作，常与表示将来的时间状语（如next week, tomorrow等）连用。答句中next week表示将来，故选C。"
+  },
+  {
+    "id": "g3_english_037_ex02",
+    "knowledge_id": "g3_english_037",
+    "question": "填空题：— When ______ you ______（leave）for Shanghai?\n— The day after tomorrow.",
+    "answer": "答案：are; leaving\n解析：本题考查现在进行时表将来的特殊疑问句。leave是表示位置移动的动词，常用现在进行时表示按计划即将发生的动作。主语是you，be动词用are。答语the day after tomorrow（后天）表示将来时间。"
+  },
+  {
+    "id": "g3_english_037_ex03",
+    "knowledge_id": "g3_english_037",
+    "question": "句型转换：The train will arrive soon.（用现在进行时改写，保持句意）\nThe train ______ ______ soon.",
+    "answer": "答案：is arriving\n解析：本题考查一般将来时与现在进行时表将来的转换。arrive是表示位置移动的动词，可以用现在进行时（is arriving）表示即将发生的动作，与will arrive意思相近。主语the train是单数，be动词用is。"
+  },
+  {
+    "id": "g3_english_037_ex04",
+    "knowledge_id": "g3_english_037",
+    "question": "翻译题：用现在进行时表将来的结构，将「我明天要去上海出差」译成英语",
+    "answer": "答案：I'm going to Shanghai on business tomorrow.\n解析：本题考查现在进行时表将来。go是表示位置移动的动词，用现在进行时（am going）表示按计划即将发生的动作。tomorrow是将来时间状语。\"出差\"译为on business。"
+  },
+  {
+    "id": "g3_english_037_ex05",
+    "knowledge_id": "g3_english_037",
+    "question": "语法选择：Look! The bus ______. Let's get on it.\nA. comes\nB. came\nC. is coming\nD. has come",
+    "answer": "答案：C\n解析：本题考查现在进行时表将来。come是表示位置移动的动词，用现在进行时（is coming）表示即将发生的动作，意思是\"公交车来了\"。Look!提示动作即将发生，故选C。"
+  },
+  {
+    "id": "g3_english_037_ex06",
+    "knowledge_id": "g3_english_037",
+    "question": "填空题：My uncle ______（fly）to New York next month.",
+    "answer": "答案：is flying\n解析：本题考查现在进行时表将来。fly表示\"乘飞机、飞行\"，是表示位置移动的动词，可以用现在进行时表示按计划即将发生的动作。主语my uncle是第三人称单数，be动词用is，fly的现在分词是flying。"
+  },
+  {
+    "id": "g3_english_037_ex07",
+    "knowledge_id": "g3_english_037",
+    "question": "语法选择：— What's your plan for the weekend?\n— I ______ my grandparents in the countryside.\nA. visit\nB. visited\nC. am visiting\nD. have visited",
+    "answer": "答案：C\n解析：本题考查现在进行时表将来。visit虽然不是典型的位置移动动词，但表示计划好的、安排好的将来动作时，也可以用现在进行时表示。问句询问周末的计划，是将来的时间，故选C。"
+  },
+  {
+    "id": "g3_english_037_ex08",
+    "knowledge_id": "g3_english_037",
+    "question": "句型转换：We will start a new term next month.（用现在进行时改写）\nWe ______ ______ a new term next month.",
+    "answer": "答案：are starting\n解析：本题考查现在进行时表将来。start表示\"开始\"，是表示开始的动词，可以用现在进行时表示按计划即将发生的动作。主语we是复数，be动词用are，start的现在分词是starting。"
+  },
+  {
+    "id": "g3_english_037_ex09",
+    "knowledge_id": "g3_english_037",
+    "question": "翻译题：快点！电影马上就要开始了。",
+    "answer": "答案：Hurry up! The movie is starting soon.\n解析：本题考查现在进行时表将来。start表示\"开始\"，可以用现在进行时（is starting）表示即将发生的动作。\"快点\"译为hurry up。soon表示\"很快、马上\"。主语the movie是单数，be动词用is。"
+  },
+  {
+    "id": "g3_english_037_ex10",
+    "knowledge_id": "g3_english_037",
+    "question": "语法选择：— How soon ______ you ______ for London?\n— In three days.\nA. do; leave\nB. are; leaving\nC. did; leave\nD. have; left",
+    "answer": "答案：B\n解析：本题考查现在进行时表将来的特殊疑问句。how soon意为\"多久以后\"，询问将来的时间。leave是表示位置移动的动词，用现在进行时表示将来。主语是you，be动词用are，故选B。"
+  }
+]
